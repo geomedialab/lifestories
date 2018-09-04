@@ -1,191 +1,191 @@
-Session #,Clip Time mentioned (h:mm:ss),Cumulative Time Mentioned (h:mm:ss),Location,Scale,Characters,By Interviewer,Year,Analyst comments
-1,0:00:33,0:00:33,Rwanda,country,,,,general reference
-1,0:03:12,0:03:12,Rwanda,country,father,,1947-1959,
-1,0:03:17,0:03:17,Gitarama; Rwanda,city / area,maternal grandmother,,1947-1959,
-1,0:04:18,0:04:18,Nyanza; Rwanda,local,Bellarmin; family,,1959,
-1,0:04:22,0:04:22,Nyanza; Rwanda,local,Bellarmin; family,,1959,
-1,0:04:38,0:04:38,Gikongoro; Rwanda,city / area,tutsi refugees,,1959,
-1,0:05:30,0:05:30,Nyanza; Rwanda,local,Bellarmin; family,,1959,
-1,0:05:44,0:05:44,Gitarama; Rwanda,city / area,family,,1959,
-1,0:06:32,0:06:32,Rwanda,country,family,,1959 - 1960,
-1,0:06:42,0:06:42,Democratic Republic of Congo,country,family,,1960,"says ""Congo"" but can geocode wrong as Republic of Congo; which is not the same. "
-1,0:06:48,0:06:48,Democratic Republic of Congo,country,family,,1960,
-1,0:06:49,0:06:49,Democratic Republic of Congo,country,family,yes,1960,
-1,0:08:51,0:08:51,Butare; Rwanda,city / area,Bellarmin; father,,1960-1962,
-1,0:08:55,0:08:55,Butare; Rwanda,city / area,Bellarmin,yes,1960-1962,
-1,0:08:56,0:08:56,Butare; Rwanda,city / area,Bellarmin,,1960-1962,
-1,0:13:27,0:13:27,Rwanda,country,Bellarmin; family,,1962,
-1,0:13:50,0:13:50,Nyagatare; Rwanda,local,father,,1947-1962,
-1,0:14:01,0:14:01,Rwanda,country,,,,general reference
-1,0:14:10,0:14:10,Rwanda,country,refugees,,1962,
-1,0:14:52,0:14:52,Uganda,country,father,,1962,
-1,0:14:58,0:14:58,Rwanda,country,father; siblings,,1962,
-1,0:15:07,0:15:07,Tumba; Rwanda,local,father,,1962,I think this is the placename
-1,0:15:25,0:15:25,Tumba; Rwanda,local,,,1962,I think this is the placename
-1,0:17:26,0:17:26,Byumba; Rwanda,city / area,,,1962,I am not sure if this is the placename he mentions; but it is the closest I can find to his pronounciation.
-1,0:19:24,0:19:24,Byumba; Rwanda,city / area,Bellarmin,,Apr-62,I am not sure if this is the placename he mentions; but it is the closest I can find to his pronounciation.
-1,0:19:26,0:19:26,Nyanza; Rwanda,local,Bellarmin,,Apr-62,
-1,0:23:20,0:23:20,Butare; Rwanda,city / area,father,,1959-1962,
-1,0:28:03,0:28:03,Rwanda,country,André (sibling),,,
-1,0:28:08,0:28:08,Rwanda,country,sister,,,
-1,0:30:48,0:30:48,Rwanda,country,father,,1947-1962,
-1,0:30:49,0:30:49,Burundi,country,father,,1947-1962,
-1,0:30:51,0:30:51,Rwanda,country,father,,1947-1962,
-1,0:30:52,0:30:52,Burundi,country,father,,1947-1962,
-1,0:34:25,0:34:25,Rwanda,country,refugees,,1947-1962,
-1,0:34:35,0:34:35,Burundi,country,refugees,,1955 - 1967 ,
-1,0:35:52,0:35:52,Rwanda,country,,,,general reference
-1,0:36:21,0:36:21,Nyanza; Rwanda,local,,,1955 - 1967 ,general reference
-1,0:36:43,0:36:43,Nyanza; Rwanda,local,,,1955 - 1967 ,general reference
-1,0:36:53,0:36:53,Nyanza; Rwanda,local,,,1994,during the genocide
-1,0:36:57,0:36:57,Nyanza; Rwanda,local,,,1955 - 1967 ,
-1,0:37:16,0:37:16,Nyanza; Rwanda,local,,,1955 - 1967 ,
-1,0:39:15,0:39:15,Burundi,country,,,,
-1,0:55:40,0:55:40,Burundi,country,tutsi,,1972,
-1,0:56:23,0:56:23,Democratic Republic of Congo,country,brother; sister,,1972,
-1,0:56:57,0:56:57,Democratic Republic of Congo,country,sister,,1972,
-1,0:56:59,0:56:59,Democratic Republic of Congo,country,sister,,1972,
-1,0:57:21,0:57:21,Democratic Republic of Congo,country,family,yes,1972,
-1,0:57:30,0:57:30,Germany,country,oldest brother,,1972,
-1,0:57:34,0:57:34,Belgium,country,second oldest brother,,1972,
-1,0:59:53,0:59:53,Burundi,country,friend,,1970,
-1,1:00:27,1:00:27,Russia,country,,,1970,calls it USSR. Not sure if better to find centroid for this or for Russia.
-1,1:00:30,1:00:30,Burundi,country,,,1970,
-1,1:00:58,1:00:58,Kigali; Rwanda,city / area,Bellarmin,,1970,
-1,1:02:42,1:02:42,Russia,country,Bellarmin,,1970,hypothetical.
-1,1:09:14,1:09:14,Kigali; Rwanda,city / area,Bellarmin,,1970,
-1,1:09:15,1:09:15,Butare; Rwanda,city / area,Bellarmin,,1970,
-1,1:09:23,1:09:23,Kigali; Rwanda,city / area,Bellarmin,yes,1970,
-1,1:09:24,1:09:24,Butare; Rwanda,city / area,Bellarmin,yes,1970,
-1,1:14:14,1:14:14,Germany,country,Bellarmin,,1973,
-1,1:14:17,1:14:17,Germany,country,Bellarmin,yes,1973,
-1,1:14:20,1:14:20,Democratic Republic of Congo,country,Bellarmin,,1973,
-1,1:14:22,1:14:22,Burundi,country,Bellarmin,,1973,
-1,1:14:36,1:14:36,Germany,country,Bellarmin,,,
-2,0:00:13,1:15:30,Montreal; Qc,city / area,Bellarmin,yes,,
-2,0:00:21,1:15:38,Rwanda,country,Bellarmin,yes,1973,
-2,0:00:35,1:15:52,Rwanda,country,Bellarmin,,7/25/1973,
-2,0:01:58,1:17:15,Rwanda,country,friend,,7/25/1973,
-2,0:02:01,1:17:18,Gisenyi; Rwanda,city / area,friend,,,mentions a place name right after; at 2:03; something like la bras du roi.. Maybe the name of a company?
-2,0:02:03,1:17:20,Bralirwa; Gisenyi; Rwanda,very local,friend,,,wikipedia states the new brewery is located in Gisenyi; which works with the story.
-2,0:02:20,1:17:37,Gisenyi; Rwanda,city / area,Bellarmin,,7/25/1973,
-2,0:02:24,1:17:41,Kigali; Rwanda,city / area,friend,,7/25/1973,
-2,0:02:48,1:18:05,Gisenyi; Rwanda,city / area,Bellarmin,,7/25/1973,
-2,0:03:11,1:18:28,Gisenyi; Rwanda,city / area,Bellarmin,,7/25/1973,
-2,0:03:15,1:18:32,Gisenyi; Rwanda,city / area,Bellarmin,,7/25/1973,
-2,0:03:27,1:18:44,Democratic Republic of Congo,country,Bellarmin,,7/25/1973,
-2,0:04:07,1:19:24,Rwanda,country,merchants,,,
-2,0:04:14,1:19:31,Rwanda,country,Bellarmin,,7/25/1973,
-2,0:04:36,1:19:53,Goma; Democratic Republic of Congo,city / area,Bellarmin,,7/25/1973,
-2,0:04:39,1:19:56,Goma; Democratic Republic of Congo,city / area,Bellarmin,,7/25/1973,
-2,0:05:55,1:21:12,Rwanda,country,Bellarmin,,7/25/1973,
-2,0:06:19,1:21:36,Goma; Democratic Republic of Congo,city / area,Bellarmin,,1973,
-2,0:06:30,1:21:47,Democratic Republic of Congo,country,Bellarmin,,1973,
-2,0:06:36,1:21:53,Bujumbura; Burundi,city / area,Bellarmin,,1973,
-2,0:06:39,1:21:56,Burundi,country,,,,
-2,0:06:52,1:22:09,Bukavu; Democratic Republic of Congo,city / area,little sister,,1973,
-2,0:06:59,1:22:16,Bujumbura; Burundi,city / area,Bellarmin; little sister,,1973,
-2,0:07:15,1:22:32,Goma; Democratic Republic of Congo,city / area,Bellarmin ,,1973,
-2,0:07:17,1:22:34,Bukavu; Democratic Republic of Congo,city / area,Bellarmin; little sister,,1973,
-2,0:07:28,1:22:45,Bujumbura; Burundi,city / area,Bellarmin; little sister,,1973,
-2,0:07:37,1:22:54,Burundi,country,Bellarmin; little sister,,1973,
-2,0:08:33,1:23:50,Germany,country,older brother,,1973,
-2,0:08:47,1:24:04,Burundi,country,Bellarmin,,1973,
-2,0:08:53,1:24:10,Germany,country,older brother; Bellarmin; little sister,,1973,
-2,0:08:55,1:24:12,Burundi,country,Bellarmin; little sister,,1973,
-2,0:09:03,1:24:20,Burundi,country,Bellarmin; little sister,,1973,
-2,0:09:29,1:24:46,Bujumbura; Burundi,city / area,Bellarmin; little sister,,1973,
-2,0:09:31,1:24:48,Brussels; Belgium,city / area,Bellarmin; little sister,,1973,
-2,0:09:32,1:24:49,Brussels; Belgium,city / area,Bellarmin; little sister,,1973,
-2,0:09:33,1:24:50,Cologne; Germany,city / area,Bellarmin; little sister,,1973,
-2,0:09:49,1:25:06,Germany,country,Bellarmin,,1973,
-2,0:10:38,1:25:55,Germany,country,Bellarmin,,1973,
-2,0:11:51,1:27:08,Nuremberg; Germany,city / area,Bellarmin,,1974,
-2,0:12:14,1:27:31,Rwanda,country,Bellarmin,,1973,
-2,0:12:15,1:27:32,Germany,country,Bellarmin,,1973,
-2,0:12:21,1:27:38,Rwanda,country,Bellarmin,,1973,
-2,0:12:24,1:27:41,Germany,country,Bellarmin,,1973,
-2,0:13:41,1:28:58,Germany,region,students,,1973,says Eastern Germany but doesn't geocode.
-2,0:14:09,1:29:26,Germany,country,Bellarmin,,1973,
-2,0:14:50,1:30:07,Burundi,country,Bellarmin,,1973,
-2,0:18:23,1:33:40,Rwanda,country,mother,,1973 - ,
-2,0:18:41,1:33:58,Germany,country,brother,,1979,
-2,0:18:48,1:34:05,Belgium,country,brothers,,1979,
-2,0:18:51,1:34:08,Canada,country,sister,,1979,
-2,0:18:53,1:34:10,Germany,country,sister,,1979,
-2,0:19:27,1:34:44,Rwanda,country,brother,,1976-77,
-2,0:19:38,1:34:55,Rwanda,country,brother,,1976-77,
-2,0:20:08,1:35:25,Canada,country,brother,,1976-77,
-2,0:20:12,1:35:29,Rwanda,country,brother; mother,,1976-77,
-2,0:20:18,1:35:35,Democratic Republic of Congo,country,brother; mother,,1976-77,
-2,0:20:27,1:35:44,Germany,country,mother,,1979,
-2,0:21:19,1:36:36,Canada,country,sister,,1979,
-2,0:21:24,1:36:41,Canada,country,mother,,1979,
-2,0:22:27,1:37:44,Canada,country,Bellarmin,,,
-2,0:23:29,1:38:46,Canada,country,Bellarmin,yes,,
-2,0:23:31,1:38:48,Germany,country,Bellarmin,yes,,
-2,0:23:32,1:38:49,Canada,country,Bellarmin,,,
-2,0:23:49,1:39:06,Dorval; Montreal; Qc,local,Bellarmin; mother,,1979,
-2,0:23:57,1:39:14, New York; USA,city / area,Bellarmin; mother,,1979,
-2,0:23:58,1:39:15,Dorval; Montreal; Qc,local,Bellarmin; mother,,1979,
-2,0:24:06,1:39:23,Ste-Anne-de-la-Pérade; Quebec,local,brother,,1979,
-2,0:24:08,1:39:25,Ste-Anne-de-la-Pérade; Quebec,local,brother,,1979,
-2,0:24:11,1:39:28,Trois-Rivières; Quebec,city / area,,,,
-2,0:24:54,1:40:11,Mirabel; Quebec,city / area,Bellarmin; mother,,1979,
-2,0:24:55,1:40:12,Mirabel; Quebec,city / area,Bellarmin; mother,,1979,
-2,0:24:58,1:40:15,Mirabel; Quebec,city / area,Bellarmin; mother,,1979,
-2,0:25:01,1:40:18,Mirabel; Quebec,city / area,Bellarmin; mother,,1979,
-2,0:25:04,1:40:21,Mirabel; Quebec,city / area,Bellarmin; mother,,1979,not actually there: thought they were.
-2,0:25:06,1:40:23,Mirabel; Quebec,city / area,Friend,,1979,
-2,0:25:25,1:40:42,Florida; US,region,young Canadian couple,,1979,
-2,0:25:31,1:40:48,Ste-Anne-de-la-Pérade; Quebec,local,Bellarmin ,,1979,
-2,0:25:40,1:40:57,Trois-Rivières; Quebec,city / area,young Canadian couple,,1979,
-2,0:25:48,1:41:05,Trois-Rivières; Quebec,city / area,Bellarmin; young Canadian couple,,1979,
-2,0:25:50,1:41:07,Trois-Rivières; Quebec,city / area,Bellarmin; young Canadian couple,,1979,
-2,0:25:52,1:41:09,Ste-Anne-de-la-Pérade; Quebec,local,Bellarmin; young Canadian couple,,1979,
-2,0:25:59,1:41:16,Michaël Rossy Ltée; Trois-Rivières; Quebec,very local,Bellarmin; young Canadian couple,,1979,Although precise spatially; don`t know actual location; Rossy stores don't exist anymore..? Google maps search yields two places; not sure if they are Rossy stores. Perhaps should not keep.
-2,0:26:01,1:41:18,Michaël Rossy Ltée; Trois-Rivières; Quebec,very local,brother,,1979,Although precise spatially; don`t know actual location; Rossy stores don't exist anymore..? Google maps search yields two places; not sure if they are Rossy stores. Perhaps should not keep.
-2,0:26:02,1:41:19,Michaël Rossy Ltée; Trois-Rivières; Quebec,very local,brother,,1979,Although precise spatially; don`t know actual location; Rossy stores don't exist anymore..? Google maps search yields two places; not sure if they are Rossy stores. Perhaps should not keep.
-2,0:28:17,1:43:34,Canada,country,Bellarmin,yes,1979,
-2,0:28:59,1:44:16,Germany,country,Bellarmin,yes,1982,
-2,0:29:03,1:44:20,Germany,country,Bellarmin,,1982,
-2,0:30:03,1:45:20,Montreal; Qc,city / area,Bellarmin,yes,1982,
-2,0:30:05,1:45:22,Montreal; Qc,city / area,Bellarmin,,1982,
-2,0:31:34,1:46:51,Outremont; Montreal; Qc,local,Bellarmin; friend,,1983 - 1985,
-2,0:33:04,1:48:21,Germany,country,Bellarmin,,1973 - 1982, 
-2,0:34:00,1:49:17,Africa,continent,Bellarmin,,1985 - 1990,
-2,0:34:05,1:49:22,CECI; Montreal; Qc,very local,Bellarmin,,1988-89,when he got a job in Africa through the CECI
-2,0:34:11,1:49:28,Africa,continent,Bellarmin,,1985 - 1990,
-2,0:35:55,1:51:12,Rwanda,country,,,1976 - 2009,
-2,0:36:11,1:51:28,Rwanda,country,,,1977 - 2009,
-2,0:36:18,1:51:35,Quebec; Canada,region,,,1978 - 2009,
-2,0:36:59,1:52:16,Rwanda,country,Bellarmin,,1979 - 2009,
-2,0:37:04,1:52:21,Rwanda,country,Bellarmin,,1980 - 2009,
-2,0:37:13,1:52:30,Rwanda,country,Bellarmin; friends,,1981 - 2009,
-2,0:37:27,1:52:44,Rwanda,country,Bellarmin,yes,1982 - 2009,
-2,0:37:43,1:53:00,Rwanda,country,Bellarmin,,1973,
-2,0:41:48,1:57:05,Rwanda,country,Bellarmin,,1995,
-2,0:43:08,1:58:25,Rwanda,country,,,,
-2,0:45:20,2:00:37,Rwanda,country,Bellarmin,yes,1947-1973,
-2,0:45:22,2:00:39,Germany,country,Bellarmin,yes,1973-1982,
-2,0:46:18,2:01:35,Montreal; Qc,city / area,Bellarmin; Wife,,1984,
-2,0:47:00,2:02:17,France,country,wife,,1984,
-2,0:47:21,2:02:38,Montreal; Qc,city / area,Bellarmin; Wife,,1984-1990,
-2,0:47:42,2:02:59,Africa,continent,Bellarmin,,1984-1990,
-2,0:48:04,2:03:21,Africa,continent,Bellarmin; wife,,1984-1990,
-2,0:50:00,2:05:17,Montreal; Qc,city / area,wife,,1990,
-2,0:50:17,2:05:34,Africa,continent,Bellarmin,,1990,
-2,0:50:21,2:05:38,Africa,continent,Bellarmin; wife,,1990-1992,
-2,0:50:30,2:05:47,Canada,country,Bellarmin; wife,,1992,
-2,0:50:37,2:05:54,Canada,country,Bellarmin; wife,,1992,
-2,0:53:18,2:08:35,Egypte,country,wife,,,
-2,0:53:22,2:08:39,Rwanda,country,Bellarmin,,,
-2,0:53:37,2:08:54,Rwanda,country,Bellarmin; wife; daughter,,2002-2003,
-2,0:53:38,2:08:55,Rwanda,country,Bellarmin; wife; daughter,,2002-2003,
-2,0:53:41,2:08:58,Rwanda,country,Bellarmin; wife; daughter,,2002-2003,
-2,0:59:52,2:15:09,Montreal; Qc,city / area,Bellarmin,yes,,
-2,1:02:04,2:17:21,Rwanda,country,Bellarmin,,,
-2,1:05:54,2:21:11,Rwanda,country,,yes,1994-2009,
-2,1:08:08,2:23:25,Rwanda,country,,yes,,
-2,1:11:11,2:26:28,Rwanda,country,non-rwandans,,,
-2,1:12:43,2:28:00,Rwanda,country,non-rwandans,,,
+id,Session #,Clip Time mentioned (h:mm:ss),Cumulative Time Mentioned (h:mm:ss),Atlascine-location,Location,Scale
+1,1,0:00:33,0:00:33,Rwanda,Rwanda,country
+2,1,0:03:12,0:03:12,Rwanda,Rwanda,country
+3,1,0:03:17,0:03:17,"Gitarama, Rwanda",Gitarama; Rwanda,city / area
+4,1,0:04:18,0:04:18,"Nyanza, Rwanda",Nyanza; Rwanda,local
+5,1,0:04:22,0:04:22,"Nyanza, Rwanda",Nyanza; Rwanda,local
+6,1,0:04:38,0:04:38,"Gikongoro, Rwanda",Gikongoro; Rwanda,city / area
+7,1,0:05:30,0:05:30,"Nyanza, Rwanda",Nyanza; Rwanda,local
+8,1,0:05:44,0:05:44,"Gitarama, Rwanda",Gitarama; Rwanda,city / area
+9,1,0:06:32,0:06:32,Rwanda,Rwanda,country
+10,1,0:06:42,0:06:42,Democratic Republic of Congo,Democratic Republic of Congo,country
+11,1,0:06:48,0:06:48,Democratic Republic of Congo,Democratic Republic of Congo,country
+12,1,0:06:49,0:06:49,Democratic Republic of Congo,Democratic Republic of Congo,country
+13,1,0:08:51,0:08:51,"Butare, Rwanda",Butare; Rwanda,city / area
+14,1,0:08:55,0:08:55,"Butare, Rwanda",Butare; Rwanda,city / area
+15,1,0:08:56,0:08:56,"Butare, Rwanda",Butare; Rwanda,city / area
+16,1,0:13:27,0:13:27,Rwanda,Rwanda,country
+17,1,0:13:50,0:13:50,"Nyagatare, Rwanda",Nyagatare; Rwanda,local
+18,1,0:14:01,0:14:01,Rwanda,Rwanda,country
+19,1,0:14:10,0:14:10,Rwanda,Rwanda,country
+20,1,0:14:52,0:14:52,Uganda,Uganda,country
+21,1,0:14:58,0:14:58,Rwanda,Rwanda,country
+22,1,0:15:07,0:15:07,"Tumba, Rwanda",Tumba; Rwanda,local
+23,1,0:15:25,0:15:25,"Tumba, Rwanda",Tumba; Rwanda,local
+24,1,0:17:26,0:17:26,"Byumba, Rwanda",Byumba; Rwanda,city / area
+25,1,0:19:24,0:19:24,"Byumba, Rwanda",Byumba; Rwanda,city / area
+26,1,0:19:26,0:19:26,"Nyanza, Rwanda",Nyanza; Rwanda,local
+27,1,0:23:20,0:23:20,"Butare, Rwanda",Butare; Rwanda,city / area
+28,1,0:28:03,0:28:03,Rwanda,Rwanda,country
+29,1,0:28:08,0:28:08,Rwanda,Rwanda,country
+30,1,0:30:48,0:30:48,Rwanda,Rwanda,country
+31,1,0:30:49,0:30:49,Burundi,Burundi,country
+32,1,0:30:51,0:30:51,Rwanda,Rwanda,country
+33,1,0:30:52,0:30:52,Burundi,Burundi,country
+34,1,0:34:25,0:34:25,Rwanda,Rwanda,country
+35,1,0:34:35,0:34:35,Burundi,Burundi,country
+36,1,0:35:52,0:35:52,Rwanda,Rwanda,country
+37,1,0:36:21,0:36:21,"Nyanza, Rwanda",Nyanza; Rwanda,local
+38,1,0:36:43,0:36:43,"Nyanza, Rwanda",Nyanza; Rwanda,local
+39,1,0:36:53,0:36:53,"Nyanza, Rwanda",Nyanza; Rwanda,local
+40,1,0:36:57,0:36:57,"Nyanza, Rwanda",Nyanza; Rwanda,local
+41,1,0:37:16,0:37:16,"Nyanza, Rwanda",Nyanza; Rwanda,local
+42,1,0:39:15,0:39:15,Burundi,Burundi,country
+43,1,0:55:40,0:55:40,Burundi,Burundi,country
+44,1,0:56:23,0:56:23,Democratic Republic of Congo,Democratic Republic of Congo,country
+45,1,0:56:57,0:56:57,Democratic Republic of Congo,Democratic Republic of Congo,country
+46,1,0:56:59,0:56:59,Democratic Republic of Congo,Democratic Republic of Congo,country
+47,1,0:57:21,0:57:21,Democratic Republic of Congo,Democratic Republic of Congo,country
+48,1,0:57:30,0:57:30,Germany,Germany,country
+49,1,0:57:34,0:57:34,Belgium,Belgium,country
+50,1,0:59:53,0:59:53,Burundi,Burundi,country
+51,1,1:00:27,1:00:27,Russia,Russia,country
+52,1,1:00:30,1:00:30,Burundi,Burundi,country
+53,1,1:00:58,1:00:58,"Kigali, Rwanda",Kigali; Rwanda,city / area
+54,1,1:02:42,1:02:42,Russia,Russia,country
+55,1,1:09:14,1:09:14,"Kigali, Rwanda",Kigali; Rwanda,city / area
+56,1,1:09:15,1:09:15,"Butare, Rwanda",Butare; Rwanda,city / area
+57,1,1:09:23,1:09:23,"Kigali, Rwanda",Kigali; Rwanda,city / area
+58,1,1:09:24,1:09:24,"Butare, Rwanda",Butare; Rwanda,city / area
+59,1,1:14:14,1:14:14,Germany,Germany,country
+60,1,1:14:17,1:14:17,Germany,Germany,country
+61,1,1:14:20,1:14:20,Democratic Republic of Congo,Democratic Republic of Congo,country
+62,1,1:14:22,1:14:22,Burundi,Burundi,country
+63,1,1:14:36,1:14:36,Germany,Germany,country
+64,2,0:00:13,1:15:30,"Montreal, Canada",Montreal; Qc,city / area
+65,2,0:00:21,1:15:38,Rwanda,Rwanda,country
+66,2,0:00:35,1:15:52,Rwanda,Rwanda,country
+67,2,0:01:58,1:17:15,Rwanda,Rwanda,country
+68,2,0:02:01,1:17:18,"Gisenyi, Rwanda",Gisenyi; Rwanda,city / area
+69,2,0:02:03,1:17:20,"Bralirwa, Gisenyi, Rwanda",Bralirwa; Gisenyi; Rwanda,very local
+70,2,0:02:20,1:17:37,"Gisenyi, Rwanda",Gisenyi; Rwanda,city / area
+71,2,0:02:24,1:17:41,"Kigali, Rwanda",Kigali; Rwanda,city / area
+72,2,0:02:48,1:18:05,"Gisenyi, Rwanda",Gisenyi; Rwanda,city / area
+73,2,0:03:11,1:18:28,"Gisenyi, Rwanda",Gisenyi; Rwanda,city / area
+74,2,0:03:15,1:18:32,"Gisenyi, Rwanda",Gisenyi; Rwanda,city / area
+75,2,0:03:27,1:18:44,Democratic Republic of Congo,Democratic Republic of Congo,country
+76,2,0:04:07,1:19:24,Rwanda,Rwanda,country
+77,2,0:04:14,1:19:31,Rwanda,Rwanda,country
+78,2,0:04:36,1:19:53,"Goma, Democratic Republic of Congo",Goma; Democratic Republic of Congo,city / area
+79,2,0:04:39,1:19:56,"Goma, Democratic Republic of Congo",Goma; Democratic Republic of Congo,city / area
+80,2,0:05:55,1:21:12,Rwanda,Rwanda,country
+81,2,0:06:19,1:21:36,"Goma, Democratic Republic of Congo",Goma; Democratic Republic of Congo,city / area
+82,2,0:06:30,1:21:47,Democratic Republic of Congo,Democratic Republic of Congo,country
+83,2,0:06:36,1:21:53,"Bujumbura, Burundi",Bujumbura; Burundi,city / area
+84,2,0:06:39,1:21:56,Burundi,Burundi,country
+85,2,0:06:52,1:22:09,"Bukavu, Democratic Republic of Congo",Bukavu; Democratic Republic of Congo,city / area
+86,2,0:06:59,1:22:16,"Bujumbura, Burundi",Bujumbura; Burundi,city / area
+87,2,0:07:15,1:22:32,"Goma, Democratic Republic of Congo",Goma; Democratic Republic of Congo,city / area
+88,2,0:07:17,1:22:34,"Bukavu, Democratic Republic of Congo",Bukavu; Democratic Republic of Congo,city / area
+89,2,0:07:28,1:22:45,"Bujumbura, Burundi",Bujumbura; Burundi,city / area
+90,2,0:07:37,1:22:54,Burundi,Burundi,country
+91,2,0:08:33,1:23:50,Germany,Germany,country
+92,2,0:08:47,1:24:04,Burundi,Burundi,country
+93,2,0:08:53,1:24:10,Germany,Germany,country
+94,2,0:08:55,1:24:12,Burundi,Burundi,country
+95,2,0:09:03,1:24:20,Burundi,Burundi,country
+96,2,0:09:29,1:24:46,"Bujumbura, Burundi",Bujumbura; Burundi,city / area
+97,2,0:09:31,1:24:48,"Brussels, Belgium",Brussels; Belgium,city / area
+98,2,0:09:32,1:24:49,"Brussels, Belgium",Brussels; Belgium,city / area
+99,2,0:09:33,1:24:50,"Cologne, Germany",Cologne; Germany,city / area
+100,2,0:09:49,1:25:06,Germany,Germany,country
+101,2,0:10:38,1:25:55,Germany,Germany,country
+102,2,0:11:51,1:27:08,"Nuremberg, Germany",Nuremberg; Germany,city / area
+103,2,0:12:14,1:27:31,Rwanda,Rwanda,country
+104,2,0:12:15,1:27:32,Germany,Germany,country
+105,2,0:12:21,1:27:38,Rwanda,Rwanda,country
+106,2,0:12:24,1:27:41,Germany,Germany,country
+107,2,0:13:41,1:28:58,Germany,Germany,country
+108,2,0:14:09,1:29:26,Germany,Germany,country
+109,2,0:14:50,1:30:07,Burundi,Burundi,country
+110,2,0:18:23,1:33:40,Rwanda,Rwanda,country
+111,2,0:18:41,1:33:58,Germany,Germany,country
+112,2,0:18:48,1:34:05,Belgium,Belgium,country
+113,2,0:18:51,1:34:08,Canada,Canada,country
+114,2,0:18:53,1:34:10,Germany,Germany,country
+115,2,0:19:27,1:34:44,Rwanda,Rwanda,country
+116,2,0:19:38,1:34:55,Rwanda,Rwanda,country
+117,2,0:20:08,1:35:25,Canada,Canada,country
+118,2,0:20:12,1:35:29,Rwanda,Rwanda,country
+119,2,0:20:18,1:35:35,Democratic Republic of Congo,Democratic Republic of Congo,country
+120,2,0:20:27,1:35:44,Germany,Germany,country
+121,2,0:21:19,1:36:36,Canada,Canada,country
+122,2,0:21:24,1:36:41,Canada,Canada,country
+123,2,0:22:27,1:37:44,Canada,Canada,country
+124,2,0:23:29,1:38:46,Canada,Canada,country
+125,2,0:23:31,1:38:48,Germany,Germany,country
+126,2,0:23:32,1:38:49,Canada,Canada,country
+127,2,0:23:49,1:39:06,"Dorval, Montreal, Canada",Dorval; Montreal; Qc,local
+128,2,0:23:57,1:39:14,"New York, USA", New York; USA,city / area
+129,2,0:23:58,1:39:15,"Dorval, Montreal, Canada",Dorval; Montreal; Qc,local
+130,2,0:24:06,1:39:23,"Ste-Anne-de-la-Pérade, Canada",Ste-Anne-de-la-Pérade; Quebec,local
+131,2,0:24:08,1:39:25,"Ste-Anne-de-la-Pérade, Canada",Ste-Anne-de-la-Pérade; Quebec,local
+132,2,0:24:11,1:39:28,"Trois-Rivières, Canada",Trois-Rivières; Quebec,city / area
+133,2,0:24:54,1:40:11,"Mirabel, Canada",Mirabel; Quebec,city / area
+134,2,0:24:55,1:40:12,"Mirabel, Canada",Mirabel; Quebec,city / area
+135,2,0:24:58,1:40:15,"Mirabel, Canada",Mirabel; Quebec,city / area
+136,2,0:25:01,1:40:18,"Mirabel, Canada",Mirabel; Quebec,city / area
+137,2,0:25:04,1:40:21,"Mirabel, Canada",Mirabel; Quebec,city / area
+138,2,0:25:06,1:40:23,"Mirabel, Canada",Mirabel; Quebec,city / area
+139,2,0:25:25,1:40:42,"Florida, USA",Florida; US,region
+140,2,0:25:31,1:40:48,"Ste-Anne-de-la-Pérade, Canada",Ste-Anne-de-la-Pérade; Quebec,local
+141,2,0:25:40,1:40:57,"Trois-Rivières, Canada",Trois-Rivières; Quebec,city / area
+142,2,0:25:48,1:41:05,"Trois-Rivières, Canada",Trois-Rivières; Quebec,city / area
+143,2,0:25:50,1:41:07,"Trois-Rivières, Canada",Trois-Rivières; Quebec,city / area
+144,2,0:25:52,1:41:09,"Ste-Anne-de-la-Pérade, Canada",Ste-Anne-de-la-Pérade; Quebec,local
+145,2,0:25:59,1:41:16,"Michaël Rossy Ltée, Trois-Rivières, Canada",Michaël Rossy Ltée; Trois-Rivières; Quebec,very local
+146,2,0:26:01,1:41:18,"Michaël Rossy Ltée, Trois-Rivières, Canada",Michaël Rossy Ltée; Trois-Rivières; Quebec,very local
+147,2,0:26:02,1:41:19,"Michaël Rossy Ltée, Trois-Rivières, Canada",Michaël Rossy Ltée; Trois-Rivières; Quebec,very local
+148,2,0:28:17,1:43:34,Canada,Canada,country
+149,2,0:28:59,1:44:16,Germany,Germany,country
+150,2,0:29:03,1:44:20,Germany,Germany,country
+151,2,0:30:03,1:45:20,"Montreal, Canada",Montreal; Qc,city / area
+152,2,0:30:05,1:45:22,"Montreal, Canada",Montreal; Qc,city / area
+153,2,0:31:34,1:46:51,"Outremont, Montreal, Canada",Outremont; Montreal; Qc,local
+154,2,0:33:04,1:48:21,Germany,Germany,country
+155,2,0:34:00,1:49:17,Africa,Africa,continent
+156,2,0:34:05,1:49:22,"CECI, Montreal, Canada",CECI; Montreal; Qc,very local
+157,2,0:34:11,1:49:28,Africa,Africa,continent
+158,2,0:35:55,1:51:12,Rwanda,Rwanda,country
+159,2,0:36:11,1:51:28,Rwanda,Rwanda,country
+160,2,0:36:18,1:51:35,"Quebec, Canada",Quebec; Canada,region
+161,2,0:36:59,1:52:16,Rwanda,Rwanda,country
+162,2,0:37:04,1:52:21,Rwanda,Rwanda,country
+163,2,0:37:13,1:52:30,Rwanda,Rwanda,country
+164,2,0:37:27,1:52:44,Rwanda,Rwanda,country
+165,2,0:37:43,1:53:00,Rwanda,Rwanda,country
+166,2,0:41:48,1:57:05,Rwanda,Rwanda,country
+167,2,0:43:08,1:58:25,Rwanda,Rwanda,country
+168,2,0:45:20,2:00:37,Rwanda,Rwanda,country
+169,2,0:45:22,2:00:39,Germany,Germany,country
+170,2,0:46:18,2:01:35,"Montreal, Canada",Montreal; Qc,city / area
+171,2,0:47:00,2:02:17,France,France,country
+172,2,0:47:21,2:02:38,"Montreal, Canada",Montreal; Qc,city / area
+173,2,0:47:42,2:02:59,Africa,Africa,continent
+174,2,0:48:04,2:03:21,Africa,Africa,continent
+175,2,0:50:00,2:05:17,"Montreal, Canada",Montreal; Qc,city / area
+176,2,0:50:17,2:05:34,Africa,Africa,continent
+177,2,0:50:21,2:05:38,Africa,Africa,continent
+178,2,0:50:30,2:05:47,Canada,Canada,country
+179,2,0:50:37,2:05:54,Canada,Canada,country
+180,2,0:53:18,2:08:35,Egypt,Egypte,country
+181,2,0:53:22,2:08:39,Rwanda,Rwanda,country
+182,2,0:53:37,2:08:54,Rwanda,Rwanda,country
+183,2,0:53:38,2:08:55,Rwanda,Rwanda,country
+184,2,0:53:41,2:08:58,Rwanda,Rwanda,country
+185,2,0:59:52,2:15:09,"Montreal, Canada",Montreal; Qc,city / area
+186,2,1:02:04,2:17:21,Rwanda,Rwanda,country
+187,2,1:05:54,2:21:11,Rwanda,Rwanda,country
+188,2,1:08:08,2:23:25,Rwanda,Rwanda,country
+189,2,1:11:11,2:26:28,Rwanda,Rwanda,country
+190,2,1:12:43,2:28:00,Rwanda,Rwanda,country

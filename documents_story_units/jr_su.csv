@@ -1,116 +1,117 @@
-Session #,Story Unit,Clip Time start (h:mm:ss),Clip Time end (h:mm:ss),Cumulative Time start (h:mm:ss),Cumulative Time end (h:mm:ss),Location,Characters,Characterization of the story unit,Scale,Journey,"Method of transportation (bus, car, plane, walk...)","Positive (""+"") or negative (""-"") association",Imposed movement,Violence,Chronology,Characterization of the chronology,Analyst comments,story unit length,aspatial unit length,interviewer unit length
-1,1,0:00:00,0:00:54,0:00:00,0:00:54,none,Jacques,Jacques introduces himself.,,0,0,,,,,0,0,0:00:54,0:00:54,0:00:04
-1,2,0:00:54,0:00:58,0:00:54,0:00:58,none,interviewer,Asks about his family.,,,,,,,,,,0:00:04,0:00:04,0:00:07
-1,3,0:00:58,0:02:40,0:00:58,0:02:40,"Montreal, Canada","Jacques, siblings, parents","Jacques talks about his siblings and parents, where they are, who is married and have kids.",city / area,,,,,,2010,,chose Montreal as main location because most of his family is with him in Montreal. EMORY: Chrono based on current,0:01:42,0:00:07,0:00:09
-1,4,0:02:40,0:02:47,0:02:40,0:02:47,none,interviewer,Asks about his grandparents.,,,,,,,,,,0:00:07,0:00:18,0:00:14
-1,5,0:02:47,0:03:05,0:02:47,0:03:05,none,"Jacques, grandparents",had the chance to know his grandparents. They have all died unfortunately,,,,,,,,,,0:00:18,0:00:09,0:00:08
-1,6,0:03:05,0:04:16,0:03:05,0:04:16,Burundi,"Jacques, grandfather, family","Jacques describes when he found out about his grandfather's death, which happened while he was away in boarding school.",country,,,-,,,1980,"during high school, beginning 1980s","Negative because he was very close to his grandfather. Burundi because we find out he moved to Burundi in 1973, (0:5:28), and he was born around 1967 because at 0:13:15 we find out he was around 23 in 1990.",0:01:11,0:00:14,0:00:03
-1,7,0:04:16,0:04:27,0:04:16,0:04:27,Rwanda,"Jacques, grandmother",Jacques tells of his paternal grandmother's death during genocide,country,,,,,yes,1994,,violence because his grandmother died during the genocide.,0:00:11,0:00:08,0:00:11
-1,8,0:04:27,0:04:40,0:04:27,0:04:40,unknown,maternal grandfather,grandfather died in 1992,,,,,,,1992,,,0:00:13,0:02:00,0:00:15
-1,9,0:04:40,0:04:46,0:04:40,0:04:46,"Ottawa, Canada",maternal grandmother,grandmother still alive and well in ottawa,city / area,,,,,,2010,,,0:00:06,0:00:03,0:00:12
-1,10,0:04:46,0:04:55,0:04:46,0:04:55,none,interviewer,"Asks about his grandparents' everyday occupations, daily life",,,,,,,,,,0:00:09,0:04:34,0:00:05
-1,11,0:04:55,0:05:37,0:04:55,0:05:37,Burundi,"Jacques, family, paternal grandparents",Jacques was neighbours with his paternal grandparents.,country,,,,,,1973 - 1994,while he was in Burundi,,0:00:42,0:02:41,0:00:10
-1,12,0:05:37,0:08:47,0:05:37,0:08:47,"Ruhengeri, Rwanda; Bugesera, Rwanda; Burundi","paternal grandfather, Tutsis","Jacques describes how his grandfather was exiled from Ruhengeri region to Bugesera region in Rwanda. Talks about how inhospitable Bugesera was, and then how he was exiled from Rwanda to Burundi after the first attack of the inyenzi.",country,,,,yes,yes,1960 - 1963,,Imposed movement because his grandfather was forced out of Ruhengeri region to Bugesera. *** describes the landscape of Bugesera,0:03:10,0:00:11,0:00:10
-1,13,0:08:47,0:09:30,0:08:47,0:09:30,Burundi,"Jacques, paternal grandfather","Jacques further describes his relationship with his paternal grandfather, living together in Burundi. How his grandfather would grow bananas, coffee and gave him a row of trees",country,,,"""+""",,,1973 - 1994,"because he moved with his family to join his grandparents in 1973, until the time he left.",Positive associations because he describes his grandmother's amazing cooking.,0:00:43,0:00:15,0:00:12
-1,14,0:09:30,0:11:00,0:09:30,0:11:00,Burundi,"Jacques, paternal grandmother","Describes going to his grandmother's house, the food she made",country,,,,,,1973 - 1994,,,0:01:30,0:11:03,0:00:20
-1,15,0:11:00,0:14:10,0:11:00,0:14:10,Uganda,"Jacques, maternal grandparents",Jacques describes when he first saw his maternal grandparents.,country,,,,,,1990,,,0:03:10,0:00:12,0:00:20
-1,16,0:14:10,0:14:30,0:14:10,0:14:30,Rwanda; Burundi,"Jacques, family, maternal grandmother",leaves rwanda with maternal grandmother & family,country,,,,,,1994,,,0:00:20,0:00:05,0:00:20
-1,17,0:14:30,0:14:44,0:14:30,0:14:44,none,interviewer,Asks about values his paternal grandfather passed on to him.,,,,,,,,,,0:00:14,0:05:10,0:00:10
-1,18,0:14:44,0:15:55,0:14:44,0:15:55,Burundi,"Jacques, paternal grandparents","Jacques describes values his paternal grandfather passed on to him, especially his interest for people.",,,,,,,,,,0:01:11,0:00:10,0:00:05
-1,19,0:15:55,0:16:03,0:15:55,0:16:03,none,interviewer,asks about paternal grandmother,,,,,,,,,,0:00:08,0:00:10,0:00:10
-1,20,0:16:03,0:18:03,0:16:03,0:18:03,none,,"great rwandan food, deep love.",,,,,,,,,,0:02:00,0:03:09,0:00:20
-1,21,0:18:03,0:18:06,0:18:03,0:18:06,none,interviewer,Asks about his paternal grandparents' children.,,,,,,,,,,0:00:03,0:00:12,0:00:10
-1,22,0:18:06,0:22:40,0:18:06,0:22:40,none,"Jacques, grandparents, aunts and uncles","Jacques talks about his aunts and uncles, his parents.",,,,,,,,,,0:04:34,0:01:20,0:00:20
-1,23,0:22:40,0:24:16,0:22:40,0:24:16,"Cibitoke, Burundi","Jacques, Alexandre (uncle)","Jacques describes the influence of his uncle Alexandre, especially on his success at school.",city / area,,,"""+""",,,1979 - 1980,"while he was in primary school. EMORY: ""je finissais mon ecole primaire""","I could have lumped this in with the following story unit but this one is specific in time, the following section isn't as much. EMORY: last years in primary school estimated",0:01:36,0:00:20,0:00:15
-1,24,0:24:16,0:26:14,0:24:16,0:26:14,Burundi,"Jacques, uncle",Jacques talks about another uncle that influenced him.,country,,,"""+""",,,1973 - 1980,while he was growing up.,"EMORY: chrono based on ""childhood"" estimated age 6-13. Location must remain Burundi, he says ""jai habite avec lui"", could be outside of Cibitoke",0:01:58,0:05:45,0:00:15
-1,25,0:26:14,0:28:55,0:26:14,0:28:55,none,"Jacques, aunts and uncles",Jacques continues to talk about his aunts and uncles.,,,,,,,,,,0:02:41,0:00:20,0:00:17
-1,26,0:28:55,0:29:06,0:28:55,0:29:06,none,interviewer,Asks whether his grandparents told him stories about his father.,,,,,,,,,,0:00:11,0:00:20,0:00:17
-1,27,0:29:06,0:35:00,0:29:06,0:35:00,Rwanda,"Jacques, father, paternal grandparents","Jacques talks about his father, and his father's childhood.",country,,,,,,,prior to 1967 (father's childhood),"I am assuming his father grew up in Rwanda. EMORY: there are two distinct anecdotes about father's childhood here. If we knew the father's age upon death, or some clue, we could, assuming he was raised in rwanda, locate these as units prior to 1967",0:05:54,0:00:10,0:00:02
-1,28,0:35:00,0:35:15,0:35:00,0:35:15,none,interviewer,Asks about his relationship with his parents.,,,,,,,,,,0:00:15,0:00:05,0:00:10
-1,29,0:35:15,0:46:18,0:35:15,0:46:18,none,"Jacques, parents",Jacques talks about his parents. Many anecdotes,,,,,,,,,,0:11:03,0:00:20,0:00:04
-1,30,0:46:18,0:46:30,0:46:18,0:46:30,none,interviewer,Asks who took care of his education.,,,,,,,,,,0:00:12,0:00:10,0:00:10
-1,31,0:46:30,0:47:10,0:46:30,0:47:10,Burundi,"Jacques, parents",Jacques describes how both his parents were present for his education.,country,,,,,,1973 - 1994,,Burundi because since he did most of his schooling in Burundi. EMORY: chrono based on years spent in school,0:00:40,0:01:05,0:00:16
-1,32,0:47:10,0:47:15,0:47:10,0:47:15,none,interviewer,Asks if there was a difference in education for girls and boys.,,,,,,,,,,0:00:05,0:00:20,0:00:07
-1,33,0:47:15,0:52:25,0:47:15,0:52:25,none,"Jacques, parents","Jacques talks about how his parents valued more respect, especially of people older than you.",,,,,,,,,,0:05:10,0:00:15,0:00:05
-1,34,0:52:25,0:52:35,0:52:25,0:52:35,none,interviewer,"Asks about whether there were gender difference in home life, like for chores.",,,,,,,,,,0:00:10,0:00:07,0:00:10
-1,35,0:52:35,0:53:45,0:52:35,0:53:45,"Cibitoke, Burundi","Jacques, family","Jacques describes how chores were equal among everyone, without gender distinction. But games were different according to gender.",city / area,,,,,,1973 - 1980,,"EMORY: this could be timestamped (during childhood, adolescence) as a 10+ year range. It could also be geotagged with Cibitoke, Burundi, the place he grew up in",0:01:10,0:00:05,0:00:10
-1,36,0:53:45,0:53:55,0:53:45,0:53:55,none,interviewer,Asks how his parents were perceived by their community.,,,,,,,,,,0:00:10,0:00:10,0:00:12
-1,37,0:53:55,0:57:04,0:53:55,0:57:04,none,"Jacques, parents, Rwandan community",Jacques describes how he found his parents were respected.,,,,,,,,,,0:03:09,0:00:50,0:00:27
-1,38,0:57:04,0:58:15,0:57:04,0:58:15,Burundi,"Jacques, family","Jacques describes violence against his family as it got closer to the genocide, and how others helped them.",country,,,,,yes,1993,"""... quand ça commencait à chauffer.""(0:57:05)",Made a separate story unit because time became specific.,0:01:11,0:12:10,0:00:11
-1,39,0:58:15,0:58:27,0:58:15,0:58:27,none,interviewer,Asks about parents' trajectory.,country,,,,,,,,,0:00:12,0:00:10,0:00:05
-1,40,0:58:27,0:58:50,0:58:27,0:58:50,"Butare, Rwanda",parents,"Jacques describes when his parents were in Rwanda. Married in 1966, worked and lived in Butare",city / area,,,,,,1966 - 1973,before 1973,,0:00:23,0:00:12,0:00:10
-1,41,0:58:50,0:59:50,0:58:50,0:59:50,Burundi,parents,Jacques describes the political context for why his parents moved to Burundi.,country,,,,yes,,1973,,Not sure if this should be part of the previous story unit. I split it because he talks about movement from one to the other.,0:01:00,0:00:28,0:00:20
-1,42,0:59:50,1:00:10,0:59:50,1:00:10,Rwanda,interviewer,Asks if he thinks his education would have been different in Rwanda.,country,,,,,,,,,0:00:20,0:01:59,0:00:28
-1,43,1:00:10,1:01:30,1:00:10,1:01:30,none,"Jacques, parents","Jacques describes how he finds he learned universal values from his parents, not so much based in Rwandan culture.",,,,,,,,,,0:01:20,,
-1,44,1:01:30,1:01:50,1:01:30,1:01:50,none,interviewer,Asks about how his siblings might have marked him.,,,,,,,,,,0:00:20,,
-1,45,1:01:50,1:07:35,1:01:50,1:07:35,none,"Jacques, siblings",Jacques describes the respect between his siblings.,,,,"""+""",,,,,Positive because he describes positive relationships between him and his siblings,0:05:45,,
-1,46,1:07:35,1:08:00,1:07:35,1:08:00,Rwanda,"Jacques, brother",Jacques describes seeing one of his brothers after 19 years.,country,,,,,,2009,the year before the interview,"The interview took place April 2010, I assume this event happened in 2009 sometime. I also assume that this is the brother who still lives in Rwanda, since they hadn't seen eachother in such a long time.",0:00:25,,
-1,47,1:08:00,1:08:20,1:08:00,1:08:20,none,interviewer,Asks if he misses anything from where he grew up.,,,,,,,,,,0:00:20,,
-1,48,1:08:20,1:08:40,1:08:20,1:08:40,none,Jacques,Jacques describes that he is more interested in people than in places.,,,,,,,,,"THIS IS IMPORTANT FOR US. I think it is clear in his descriptions, as well, not very spatial.",0:00:20,,
-1,49,1:08:40,1:08:50,1:08:40,1:08:50,none,interviewer,Asks about the childrens' social dynamics in the area he grew up in,,,,,,,,,,0:00:10,,
-1,50,1:08:50,1:11:42,1:08:50,1:11:42,Burundi,"Jacques, family",Jacques describes growing up.,country,,,"""+""",,,1973 - 1981,childhood.,Since he did most of his schooling in Burundi I put this story unit in Burundi. Positive because he describes having good memories of his childhood. EMORY: Chrono based on estimated time as child,0:02:52,,
-1,51,1:11:42,1:12:55,1:11:42,1:12:55,Burundi,"Jacques, friends, family","Jacques describes how his friends would be well received at his parents' place, like when he was a kid.",country,,,,,,1990 - 1994,during university,,0:01:13,,
-1,52,1:12:55,1:13:00,1:12:55,1:13:00,none,interviewer,Asks about his schooling.,,,,,,,,,,0:00:05,,
-1,53,1:13:00,1:14:05,1:13:00,1:14:05,Burundi,Jacques,Jacques talks about his education in Burundi.,country,,,,yes,,1973 - 1994,the time period he was in Burundi,Imposed movement because he describes having to flee.,0:01:05,,
-1,54,1:14:05,1:16:50,1:14:05,1:16:50,"Montreal, Canada",Jacques,"Jacques describes trying to continue school in Quebec, but it was difficult. He also talks about the difficulty of finding work at that time.",city / area,,,-,,,1994,years following 1994,Negative because he describes his integration in Canada as being difficult.,0:02:45,,
-1,55,1:16:50,1:17:00,1:16:50,1:17:00,Burundi,interviewer,Asks about which program he was in the middle of doing when he had to flee.,country,,,,,,1994,during his bachelors.,"It sounds like the interviewer mentions University of Rwanda, but I am pretty sure he was in Brundi for his bachelors.",0:00:10,,
-1,56,1:17:00,1:19:00,1:17:00,1:19:00,"Bujumbura, Burundi",Jacques,He describes the difficulties of his program at l'institut de contrôle de gestion.,city / area,,,,,,1990 - 1994,during his bachelors.,"He mentions l'institut de contrôle de gestion, but I cannot find this institution after a brief internet search. I am assuming based on his description previously of traveling from Bujumbura during university to visit his family, that he was in university in Bujumbura. I figure since he described leaving when he was nearly done his bachelors that he was doing it for about 4 years. EMORY: True, ISCG is in Bujumbera, and can be found online, but is not locatable on gmaps, osm, or wikimapia",0:02:00,,
-1,57,1:19:00,1:19:20,1:19:00,1:19:20,none,interviewer,Asks about his relationship to his teachers during his schooling.,,,,,,,,,,0:00:20,,
-1,58,1:19:20,1:23:10,1:19:20,1:23:10,Burundi,"Jacques, high school teacher","Jacques describes an anecdote about a high school teacher, and reflects on it.",country,,,,,,1984,"teenager, end of 3rd year of high school.",Chronology based on info that he started high school in 1981. EMORY: add precision to location once location of highschool/boarding school is discovered,0:03:50,,
-1,59,1:23:10,1:24:51,1:23:10,1:24:51,Burundi,"Jacques, high school math teacher","Jacques describes an anecdote about another high school teacher, how he marked this person by his abilities in school.",country,,,,,,,"high school, second to last year",Cannot put year because not sure how many years of high school he did.,0:01:41,,
-1,60,1:24:51,1:26:30,1:24:51,1:26:30,"Montreal, Canada","Jacques, high school math teacher","Jacques was contacted by this math teacher from high school, who still remembered a moment that Jacques impressed him as a student.",city / area,,,,,,2007,"3-4 years before the interview, in 2010",,0:01:39,,
-1,61,1:26:30,1:26:40,1:26:30,1:26:40,none,interviewer,"Asks which subjects interest him, in school.",,,,,,,,,,0:00:10,,
-1,62,1:26:40,1:27:45,1:26:40,1:27:45,none,Jacques,"Jacques describes the school subjects that he likes and doesn't like, and why.",,,,,,,,,"Interesting that he says earlier he cares more about people than places, but being interested in human geography perhaps is more about people And places.",0:01:05,,
-1,63,1:27:45,1:28:05,1:27:45,1:28:05,none,interviewer,Asks about social and professional life.,,,,,,,,,,0:00:20,,
-1,64,1:28:05,1:28:28,1:28:05,1:28:28,unknown,Jacques,"Talks about his first job on his dad's plantation, which was for a brief time because it was hard, and he was young.",,,,,,,1973 - 1980,says he was a kid.,EMORY: chrono based on estimated time in primary school (kid),0:00:23,,
-1,65,1:28:28,1:33:00,1:28:28,1:33:00,Burundi,Jacques,Jacques describes his accounting work experiences.,country,,,"""+""",,,,prior to 1994 when he had to leave a good accounting job,positive because he describes a good work experience.,0:04:32,,
-1,66,1:33:00,1:33:50,1:33:00,1:33:50,Canada,Jacques,"Although he wanted to be in accounting, he didn't find work in Canada because his schooling was not recognized, and felt disillusioned.",country,,,,,,1994,after he arrives in Canada,,0:00:50,,
-1,67,1:33:50,1:34:05,1:33:50,1:34:05,Canada,interviewer,Asks if he came to Canada with his family.,country,,,,,,1994,,,0:00:15,,
-1,68,1:34:05,1:34:45,1:34:05,1:34:45,Canada,"Jacques, parents, siblings, grandmother",Jacques arrives in Canada with his family.,country,,,"""+""",,,1994,,positive because he describes this as a lucky experience.,0:00:40,,
-1,69,1:34:45,1:35:00,1:34:45,1:35:00,none,interviewer,Asks about when he left his family to live alone.,,,,,,,,,,0:00:15,,
-1,70,1:35:00,1:35:13,1:35:00,1:35:13,Burundi,Jacques,"Jacques describes when he moved out of his family home, how he ended up living alone since 13 years old.",country,,,,,,1981 - 2010,since he was 13 years old.,EMORY: location here would be boarding school if we knew where that was,0:00:13,,
-1,71,1:35:13,1:35:30,1:35:13,1:35:30,Canada,interviewer,Asks about his integration into the rwandan community in Canada.,country,,,,,,,,,0:00:17,,
-1,72,1:35:30,1:39:50,1:35:30,1:39:50,"Montreal, Canada",Jacques,Jacques felt his integration in the rwandan community went well. He comments on immigration into Quebec.,city / area,,,,,,1994 - 2010,since he moved to Canada.,,0:04:20,,
-1,73,1:39:50,1:41:49,1:39:50,1:41:49,Canada,"brother, Jacques, family",Jacques describes an experience that his brother lived in Canada with academic advisors that dampened his dreams for his academic career because they assumed he was poor.,country,,,,,,,since his brother was in secondary school.,,0:01:59,,
-1,74,1:41:49,1:42:06,1:41:49,1:42:06,Canada,interviewer,Asks what his first shock was arriving in Canada,country,,,,,,1994,when he arrived,"I assume that by first shock this describes when he arrived, so 1994.",0:00:17,,
-1,75,1:42:06,1:42:44,1:42:06,1:42:44,"Montreal, Canada","Jacques, family","Jacques describes what shocked him when he arrived, through several anecdotes: the use of ""bienvenue"" after every exchange at the immigration office",city / area,,,,,,1994,when he arrived,,0:00:38,,
-1,76,1:42:44,1:46:30,1:42:44,1:46:30,"Notre-Dame-de-Grâce, Montreal, Canada","Jacques, family",discusses his confusion regarding language after an event buying chocolate in a depanneur in his neighbourhood (NDG at the time),local,,,,,,1994,"on a Sunday, likely the beginning of his stay in Mtl",,0:03:46,,
-1,77,1:46:30,1:46:32,1:46:30,1:46:32,Canada,interviewer,asks about what he thought of the seasons here in canada,country,,,,,,1994,when he arrived,,0:00:02,,
-1,78,1:46:32,1:47:45,1:46:32,1:47:45,"Montreal, Canada",Jacques,"describes the different, repulsive, smells (in the metro)",city / area,,,,,,1994,when he arrived,,0:01:13,,
-1,79,1:47:45,1:52:56,1:47:45,1:52:56,"Gay Village, Montreal, Canada","Jacques, Brother",anecdote about his third day in mtl and a day trip he took to the village,local,,,,,,7/2/1994,third day after arriving in mtl,,0:05:11,,
-1,80,1:52:56,1:53:55,1:52:56,1:53:55,"Montreal, Canada","Jacques, work friend","discusses homosexuality and his acceptance of it, goes to the village once and a while with a friend of his",city / area,,,,,,1994 - 2009,,,0:00:59,,
-1,81,1:53:55,1:54:05,1:53:55,1:54:05,Canada,interviewer,Asks him to describe the challenge of conciliating work and school.,country,,,,,,,,"I choose to locate this topic in Canada, because there is nothing more specific being referenced.",0:00:10,,
-1,82,1:54:05,1:54:15,1:54:05,1:54:15,Canada,Jacques,"Describes how it was not easy, but arriving young he could adapt. Talks about how there is more emphasis on choice here than Africa.",country,,,,,,1994 - 2010,,"I choose to locate this topic in Canada, because there is nothing more specific being referenced.",0:00:10,,
-1,83,1:54:15,1:54:19,1:54:15,1:54:19,Canada,interviewer,asks how old he was when he arrived in canada,country,,,,,,,,,0:00:04,,
-1,84,1:54:19,1:55:30,1:54:19,1:55:30,Canada,Jacques,was 27 yrs old,,,,,,,1994,,,0:01:11,,
-1,85,1:55:30,1:55:40,1:55:30,1:55:40,"Montreal, Canada",interviewer,Asks whether he implicated himself in the community,city / area,,,,,,1994,when he arrived.,"I choose to locate this topic in Canada, because there is nothing more specific being referenced.",0:00:10,,
-1,86,1:55:40,1:59:04,1:55:40,1:59:04,"Montreal, Canada","Jacques, rwandan community","Jacques describes how he integrated very much in the rwandan community in Montreal: board member for immigrant integration initiative, sports events organizer, genocide commemoration.",city / area,,,,,,1994 - 2010,since he arrived to Montreal.,,0:03:24,,
-1,87,1:59:04,1:59:20,1:59:04,1:59:20,Rwanda,interviewer,"Asks what he thinks about the films made on the genocide, by outside people.",,,,,,,,,,0:00:16,,
-1,88,1:59:20,0:01:50,1:59:20,2:02:00,Rwanda,Jacques,"Talks about his impression of Hotel Rwanda, the trouble of mixing up a romanticized film and a documentary. Talks about his impression of J'ai serré la main du diable.",,,,,,yes,,,Yes to violence because he talks about the genocide.,0:02:40,,
-1,89,0:01:50,0:01:57,2:02:00,2:02:07,none,interviewer,Asks if he thinks others from the community think as he does.,,,,,,,,,,0:00:07,,
-1,90,0:01:57,0:04:17,2:02:07,2:04:27,Rwanda,"Jacques, rwandan community","Jacques describes his perspective on the Rwandan genocide, and the different situations of survivors.",,,,,,yes,,,Yes to violence because he refers to the genocide.,0:02:20,,
-1,91,0:04:17,0:04:22,2:04:27,2:04:32,none,interviewer,Asks what the word survivor means to him.,,,,,,,,,,0:00:05,,
-1,92,0:04:22,0:06:50,2:04:32,2:07:00,Rwanda,"family, rwandans, genocide survivors","Jacques thinks of his family members who were in Rwanda. he also talks about how the genocide of `94 was a peak, that there were already genocides previously in Rwanda. (1963, 1973, 1992)",country,,,,,yes,"1963, 1973, 1992, 1994",from the first tutsi massacre in 1963 to the genocide,Yes to violence because he talks about the genocide. Chronology periodic because he refers to several discrete events.,0:02:28,,
-1,93,0:06:50,0:07:00,2:07:00,2:07:10,none,interviewer,Asks what survivors can do to prevent these kinds of things from happening again.,,,,,,,,,,0:00:10,,
-1,94,0:07:00,0:22:10,2:07:10,2:08:00,none,Jacques,one must not envy another,,,,,,,,,,0:00:50,,
-1,95,0:07:50,0:10:00,2:08:00,2:10:10,"Bujumbura, Burundi",Jacques,uses an anecdote from university as an example of inferiority complex,city / area,,,,,,1990,,"Research online points to there being only 1 university in Bujumbura, and it is known",0:02:10,,
-1,96,0:10:00,0:22:10,2:10:10,2:22:20,none,"Jacques, genocide survivors, hutus, tutsis, hutu politicians","Talks about respect for others, and not envying others, love for both others and self. Finds hutus have an inferiority complex, which participated in the violence against tutsis, and was enhanced by the hutu media and politicians.",,,,,,yes,,,,0:12:10,,
-1,97,0:22:10,0:22:20,2:22:20,2:22:30,none,interviewer,Asks about what he might want others to know about his people's history.,,,,,,,,,,0:00:10,,
-1,98,0:22:20,0:26:58,2:22:30,2:27:08,Rwanda,"rwandans, non-rwandans","He urges people not to fall in an killer / victim duality about Rwanda, it is a country and has many beautiful things about it too.",country,,,,,,,EMORY: cannot be located in time,"semantic story unit, but I find is very much about Rwanda, even though he is not talking about time he spent in Rwanda. Portraying this but excluding Jacques as a character.",0:04:38,,
-1,99,0:26:58,0:27:10,2:27:08,2:27:20,none,interviewer,Asks how the rwandan community can represent its history.,,,,,,,,,,0:00:12,,
-1,100,0:27:10,0:31:13,2:27:20,2:31:23,Rwanda,rwandan community,Jacques argues that some people need to forget in order to survive the experience. Thinks that Rwandan culture is more oral than material. Finds that rwandan cultural artefacts have been defiled as barbaric and backwards in the West,country,,,,,,,EMORY: cannot be located in time,"semantic story unit, but I find is very much about Rwanda, even though he is not talking about time he physically spent in Rwanda. Portraying this but excluding Jacques as a character.",0:04:03,,
-1,101,0:31:13,0:31:40,2:31:23,2:31:50,Rwanda,interviewer,Asks about returning to Rwanda.,country,,,,,,,,,0:00:27,,
-1,102,0:31:40,0:32:25,2:31:50,2:32:35,"Montreal, Canada; Rwanda",Jacques,"Didn't have the cash to go to Rwanda for a while, and then thought if he went he wouldn't return, so he hasn't gone back.",city / area,,,,,,1994 - 2010,"""going back to Rwanda"", so after his departure from there in 1994","Not sure I understand his answer. But no character because Jacques is talking about why he was not in Rwanda. EMORY: I would place this in MTL, he is stating that he hasn't gone back because of money he lacked ""once upon a time"", and that he reasoned he might stay there if he went back (seemingly not a good thing for him). he is stating a reality and state-of-mind he had in a past timeframe. therefore the story is located in mtl. this differs from the cases in units 107-112 where he is generally talking about rwanda in the present",0:00:45,,
-1,103,0:32:25,0:32:36,2:32:35,2:32:46,Rwanda,interviewer,Asks if he would live in Rwanda.,country,,,,,,,,,0:00:11,,
-1,104,0:32:36,0:35:25,2:32:46,2:35:35,Rwanda,none,Rwanda has developed a lot over the past years.,country,,,,,,,,,0:02:49,,
-1,105,0:35:25,0:00:56,2:35:35,2:40:58,"Remera, Kigali, Rwanda","Jacques, brother, cousins","Jacques shares an anecdote illustrating the increased safety in Rwanda, as something very positive for the development of Rwanda.",local,,,"""+""",,,2009,the last time he was in rwanda,"Positive because he says this was one of the most beautiful things he saw when he was there. Rwanda and not Remera because the anecdote about an event in Remera is to illustrate something about Rwanda. This story unit also supports that he visited his brother in Rwanda, since that might not be clear otherwise. EMORY: describes the noise in this part of remera, using mtl examples",0:05:23,,
-1,106,0:00:56,0:01:28,2:40:58,2:41:30,Rwanda,Rwandan youth,Believes youth carry the future for Rwanda,country,,,,,,,,,0:00:32,,
-1,107,0:01:28,0:01:33,2:41:30,2:41:35,Rwanda,interviewer,do you see yourself returning there?',country,,,,,,,,,0:00:05,,
-1,108,0:01:33,0:02:30,2:41:35,2:42:32,Rwanda,Jacques,Would live there if he could make his own work.,country,,,,,,,in the future >2010,"EMORY: the reasoning applied here differs from the reasoning behind unit 102, where the location was set as Rwanda with no character (changed by me). In this case it is again hypothetical, but he is talking about himself",0:00:57,,
-1,109,0:02:30,0:02:40,2:42:32,2:42:42,Rwanda,interviewer,Asks what he can say to others who fear returning to Rwanda.,country,,,,,,,,,0:00:10,,
-1,110,0:02:40,0:02:50,2:42:42,2:42:52,Rwanda,Jacques,Says you have to see the progress to believe it.,country,,,,,,,,,0:00:10,,
-1,111,0:02:50,0:03:10,2:42:52,2:43:12,Rwanda,interviewer,"Asks if he found a difference between members of the diaspora and Rwandans, when he was in Rwanda.",country,,,,,,,,,0:00:20,,
-1,112,0:03:10,0:06:12,2:43:12,2:46:14,Rwanda,Jacques,"Talks about his impressions of members of the diaspora in Rwanda and Rwandans who never left, based on when he visited Rwanda.",country,,,,,,2009,the last time he was in Rwanda.,,0:03:02,,
-1,113,0:06:12,0:06:40,2:46:14,2:46:42,none,interviewer,Thanks Jacques,,,,,,,,,,0:00:28,,
-1,114,0:06:40,0:08:39,2:46:42,2:48:41,none,Jacques,Jacques expresses support for the Montreal Life Stories Project.,,,,,,,,,,0:01:59,,
-,,,,,,,,,,,,,,,,,,2:48:41,0:58:30,0:08:26
+id,Session #,Story Unit,Clip Time start (h:mm:ss),Clip Time end (h:mm:ss),Cumulative Time start (h:mm:ss),Cumulative Time end (h:mm:ss),Atlascine-location,Location,Scale,Journey
+1,1,1,0:00:00,0:00:54,0:00:00,0:00:54,_end,none,,0
+2,1,2,0:00:54,0:00:58,0:00:54,0:00:58,_end,none,,
+3,1,3,0:00:58,0:02:40,0:00:58,0:02:40,"Montreal, Canada","Montreal, Canada",city / area,
+4,1,4,0:02:40,0:02:47,0:02:40,0:02:47,_end,none,,
+5,1,5,0:02:47,0:03:05,0:02:47,0:03:05,_end,none,,
+6,1,6,0:03:05,0:04:16,0:03:05,0:04:16,Burundi,Burundi,country,
+7,1,7,0:04:16,0:04:27,0:04:16,0:04:27,Rwanda,Rwanda,country,
+8,1,8,0:04:27,0:04:40,0:04:27,0:04:40,_end,unknown,,
+9,1,9,0:04:40,0:04:46,0:04:40,0:04:46,"Ottawa, Canada","Ottawa, Canada",city / area,
+10,1,10,0:04:46,0:04:55,0:04:46,0:04:55,_end,none,,
+11,1,11,0:04:55,0:05:37,0:04:55,0:05:37,Burundi,Burundi,country,
+12,1,12,0:05:37,0:08:47,0:05:37,0:08:47,"Ruhengeri, Rwanda","Ruhengeri, Rwanda; Bugesera, Rwanda; Burundi",country,
+13,,,,,0:05:37,0:08:47,"Bugesera, Rwanda",,region,
+14,,,,,0:05:37,0:08:47,Burundi,,country,
+15,1,13,0:08:47,0:09:30,0:08:47,0:09:30,Burundi,Burundi,country,
+16,1,14,0:09:30,0:11:00,0:09:30,0:11:00,Burundi,Burundi,country,
+17,1,15,0:11:00,0:14:10,0:11:00,0:14:10,Uganda,Uganda,country,
+18,1,16,0:14:10,0:14:30,0:14:10,0:14:30,Burundi,Rwanda; Burundi,country,
+19,1,17,0:14:30,0:14:44,0:14:30,0:14:44,_end,none,,
+20,1,18,0:14:44,0:15:55,0:14:44,0:15:55,Burundi,Burundi,country,
+21,1,19,0:15:55,0:16:03,0:15:55,0:16:03,_end,none,,
+22,1,20,0:16:03,0:18:03,0:16:03,0:18:03,_end,none,,
+23,1,21,0:18:03,0:18:06,0:18:03,0:18:06,_end,none,,
+24,1,22,0:18:06,0:22:40,0:18:06,0:22:40,_end,none,,
+25,1,23,0:22:40,0:24:16,0:22:40,0:24:16,"Cibitoke, Burundi","Cibitoke, Burundi",city / area,
+26,1,24,0:24:16,0:26:14,0:24:16,0:26:14,Burundi,Burundi,country,
+27,1,25,0:26:14,0:28:55,0:26:14,0:28:55,_end,none,,
+28,1,26,0:28:55,0:29:06,0:28:55,0:29:06,_end,none,,
+29,1,27,0:29:06,0:35:00,0:29:06,0:35:00,Rwanda,Rwanda,country,
+30,1,28,0:35:00,0:35:15,0:35:00,0:35:15,_end,none,,
+31,1,29,0:35:15,0:46:18,0:35:15,0:46:18,_end,none,,
+32,1,30,0:46:18,0:46:30,0:46:18,0:46:30,_end,none,,
+33,1,31,0:46:30,0:47:10,0:46:30,0:47:10,Burundi,Burundi,country,
+34,1,32,0:47:10,0:47:15,0:47:10,0:47:15,_end,none,,
+35,1,33,0:47:15,0:52:25,0:47:15,0:52:25,_end,none,,
+36,1,34,0:52:25,0:52:35,0:52:25,0:52:35,_end,none,,
+37,1,35,0:52:35,0:53:45,0:52:35,0:53:45,"Cibitoke, Burundi","Cibitoke, Burundi",city / area,
+38,1,36,0:53:45,0:53:55,0:53:45,0:53:55,_end,none,,
+39,1,37,0:53:55,0:57:04,0:53:55,0:57:04,_end,none,,
+40,1,38,0:57:04,0:58:15,0:57:04,0:58:15,Burundi,Burundi,country,
+41,1,39,0:58:15,0:58:27,0:58:15,0:58:27,_end,none,country,
+42,1,40,0:58:27,0:58:50,0:58:27,0:58:50,"Butare, Rwanda","Butare, Rwanda",city / area,
+43,1,41,0:58:50,0:59:50,0:58:50,0:59:50,Burundi,Burundi,country,
+44,1,42,0:59:50,1:00:10,0:59:50,1:00:10,Rwanda,Rwanda,country,
+45,1,43,1:00:10,1:01:30,1:00:10,1:01:30,_end,none,,
+46,1,44,1:01:30,1:01:50,1:01:30,1:01:50,_end,none,,
+47,1,45,1:01:50,1:07:35,1:01:50,1:07:35,_end,none,,
+48,1,46,1:07:35,1:08:00,1:07:35,1:08:00,Rwanda,Rwanda,country,
+49,1,47,1:08:00,1:08:20,1:08:00,1:08:20,_end,none,,
+50,1,48,1:08:20,1:08:40,1:08:20,1:08:40,_end,none,,
+51,1,49,1:08:40,1:08:50,1:08:40,1:08:50,_end,none,,
+52,1,50,1:08:50,1:11:42,1:08:50,1:11:42,Burundi,Burundi,country,
+53,1,51,1:11:42,1:12:55,1:11:42,1:12:55,Burundi,Burundi,country,
+54,1,52,1:12:55,1:13:00,1:12:55,1:13:00,_end,none,,
+55,1,53,1:13:00,1:14:05,1:13:00,1:14:05,Burundi,Burundi,country,
+56,1,54,1:14:05,1:16:50,1:14:05,1:16:50,"Montreal, Canada","Montreal, Canada",city / area,
+57,1,55,1:16:50,1:17:00,1:16:50,1:17:00,Burundi,Burundi,country,
+58,1,56,1:17:00,1:19:00,1:17:00,1:19:00,"Bujumbura, Burundi","Bujumbura, Burundi",city / area,
+59,1,57,1:19:00,1:19:20,1:19:00,1:19:20,_end,none,,
+60,1,58,1:19:20,1:23:10,1:19:20,1:23:10,Burundi,Burundi,country,
+61,1,59,1:23:10,1:24:51,1:23:10,1:24:51,Burundi,Burundi,country,
+62,1,60,1:24:51,1:26:30,1:24:51,1:26:30,"Montreal, Canada","Montreal, Canada",city / area,
+63,1,61,1:26:30,1:26:40,1:26:30,1:26:40,_end,none,,
+64,1,62,1:26:40,1:27:45,1:26:40,1:27:45,_end,none,,
+65,1,63,1:27:45,1:28:05,1:27:45,1:28:05,_end,none,,
+66,1,64,1:28:05,1:28:28,1:28:05,1:28:28,_end,unknown,,
+67,1,65,1:28:28,1:33:00,1:28:28,1:33:00,Burundi,Burundi,country,
+68,1,66,1:33:00,1:33:50,1:33:00,1:33:50,Canada,Canada,country,
+69,1,67,1:33:50,1:34:05,1:33:50,1:34:05,Canada,Canada,country,
+70,1,68,1:34:05,1:34:45,1:34:05,1:34:45,Canada,Canada,country,
+71,1,69,1:34:45,1:35:00,1:34:45,1:35:00,_end,none,,
+72,1,70,1:35:00,1:35:13,1:35:00,1:35:13,Burundi,Burundi,country,
+73,1,71,1:35:13,1:35:30,1:35:13,1:35:30,Canada,Canada,country,
+74,1,72,1:35:30,1:39:50,1:35:30,1:39:50,"Montreal, Canada","Montreal, Canada",city / area,
+75,1,73,1:39:50,1:41:49,1:39:50,1:41:49,Canada,Canada,country,
+76,1,74,1:41:49,1:42:06,1:41:49,1:42:06,Canada,Canada,country,
+77,1,75,1:42:06,1:42:44,1:42:06,1:42:44,"Montreal, Canada","Montreal, Canada",city / area,
+78,1,76,1:42:44,1:46:30,1:42:44,1:46:30,"Notre-Dame-de-Grâce, Montreal, Canada","Notre-Dame-de-Grâce, Montreal, Canada",local,
+79,1,77,1:46:30,1:46:32,1:46:30,1:46:32,Canada,Canada,country,
+80,1,78,1:46:32,1:47:45,1:46:32,1:47:45,"Montreal, Canada","Montreal, Canada",city / area,
+81,1,79,1:47:45,1:52:56,1:47:45,1:52:56,"Gay Village, Montreal, Canada","Gay Village, Montreal, Canada",local,
+82,1,80,1:52:56,1:53:55,1:52:56,1:53:55,"Montreal, Canada","Montreal, Canada",city / area,
+83,1,81,1:53:55,1:54:05,1:53:55,1:54:05,Canada,Canada,country,
+84,1,82,1:54:05,1:54:15,1:54:05,1:54:15,Canada,Canada,country,
+85,1,83,1:54:15,1:54:19,1:54:15,1:54:19,Canada,Canada,country,
+86,1,84,1:54:19,1:55:30,1:54:19,1:55:30,Canada,Canada,country,
+87,1,85,1:55:30,1:55:40,1:55:30,1:55:40,"Montreal, Canada","Montreal, Canada",city / area,
+88,1,86,1:55:40,1:59:04,1:55:40,1:59:04,"Montreal, Canada","Montreal, Canada",city / area,
+89,1,87,1:59:04,1:59:20,1:59:04,1:59:20,Rwanda,Rwanda,country,
+90,1,88,1:59:20,0:01:50,1:59:20,2:02:00,Rwanda,Rwanda,country,
+91,1,89,0:01:50,0:01:57,2:02:00,2:02:07,_end,none,,
+92,1,90,0:01:57,0:04:17,2:02:07,2:04:27,Rwanda,Rwanda,country,
+93,1,91,0:04:17,0:04:22,2:04:27,2:04:32,_end,none,,
+94,1,92,0:04:22,0:06:50,2:04:32,2:07:00,Rwanda,Rwanda,country,
+95,1,93,0:06:50,0:07:00,2:07:00,2:07:10,_end,none,,
+96,1,94,0:07:00,0:22:10,2:07:10,2:08:00,_end,none,,
+97,1,95,0:07:50,0:10:00,2:08:00,2:10:10,"Bujumbura, Burundi","Bujumbura, Burundi",city / area,
+98,1,96,0:10:00,0:22:10,2:10:10,2:22:20,_end,none,,
+99,1,97,0:22:10,0:22:20,2:22:20,2:22:30,_end,none,,
+100,1,98,0:22:20,0:26:58,2:22:30,2:27:08,Rwanda,Rwanda,country,
+101,1,99,0:26:58,0:27:10,2:27:08,2:27:20,_end,none,,
+102,1,100,0:27:10,0:31:13,2:27:20,2:31:23,Rwanda,Rwanda,country,
+103,1,101,0:31:13,0:31:40,2:31:23,2:31:50,Rwanda,Rwanda,country,
+104,1,102,0:31:40,0:32:25,2:31:50,2:32:35,"Montreal, Canada","Montreal, Canada; Rwanda",city / area,
+105,1,103,0:32:25,0:32:36,2:32:35,2:32:46,Rwanda,Rwanda,country,
+106,1,104,0:32:36,0:35:25,2:32:46,2:35:35,Rwanda,Rwanda,country,
+107,1,105,0:35:25,0:00:56,2:35:35,2:40:58,"Remera, Kigali, Rwanda","Remera, Kigali, Rwanda",local,
+108,1,106,0:00:56,0:01:28,2:40:58,2:41:30,Rwanda,Rwanda,country,
+109,1,107,0:01:28,0:01:33,2:41:30,2:41:35,Rwanda,Rwanda,country,
+110,1,108,0:01:33,0:02:30,2:41:35,2:42:32,Rwanda,Rwanda,country,
+111,1,109,0:02:30,0:02:40,2:42:32,2:42:42,Rwanda,Rwanda,country,
+112,1,110,0:02:40,0:02:50,2:42:42,2:42:52,Rwanda,Rwanda,country,
+113,1,111,0:02:50,0:03:10,2:42:52,2:43:12,Rwanda,Rwanda,country,
+114,1,112,0:03:10,0:06:12,2:43:12,2:46:14,Rwanda,Rwanda,country,
+115,1,113,0:06:12,0:06:40,2:46:14,2:46:42,_end,none,,
+116,1,114,0:06:40,0:08:39,2:46:42,2:48:41,_end,none,,

@@ -1,256 +1,277 @@
-Session #,Story unit #,Clip Time start (h:mm:ss),Clip Time end (h:mm:ss),Cumulative Time Start (h:mm:ss),Cumulative Time End (h:mm:ss),Location,Characters,Characterization of story unit,Scale,Journey,Method of transportation (bus; car; plane; walk...),"Positive (""+"") or negative (""-"") association",Imposed movement ,Violence,Chronology ,Characterization of the chronology,Analyst comments,story unit length,aspatial unit length,interviewer unit length
-1,1,0:00:00,0:00:20,0:00:00,0:00:20,none,interviewer,Asks her to introduce herself.,,,,,,,,,,0:00:20,0:00:20,0:00:20
-1,2,0:00:20,0:00:35,0:00:20,0:00:35,Cuba,Elizabeth,where she once lived. Her name is Elizabeth but close friends call her Bella; due to the fact that she lived in Cuba.,country,,,,,,1973 - 1979,during those years in cuba,,0:00:15,0:00:15,0:00:15
-1,3,0:00:35,0:01:25,0:00:35,0:01:25,Pétionville; Haiti,Elizabeth,Where she was born and grew up. 27 march 1948 birthdate; born in this suburb of Port-au-Prince (not far from Bristou neighbourhood). Typical stay-home haitian mom and labourer father (silversmith). Family participated in father's work.,local,,,,,,1948 - 1958,,chrono based on estimated time as child.   Elizabeth becomes clearly emotional and speechless upon mentioning her father and cannot continue speaking. This strong emotional tie with the memory of her father is noticeable for the rest of interview,0:00:50,0:00:06,0:00:06
-1,4,0:01:25,0:01:40,0:01:25,0:01:40,none,Frantz (interviewer),Prompts her to continue,,,,,,,,,,0:00:15,0:00:20,0:00:12
-1,5,0:01:40,0:02:00,0:01:40,0:02:00,Pétionville; Haiti,Elizabeth,"where she went to primary school: ""L'école des soeurs la sagesse de Pétionville""",local,,,,,,1954 - 1960,as a primary school student. Presumed age-range ,unable to google match primary school.  is what she says; though it does not exist,0:00:20,0:00:12,0:00:07
-1,6,0:02:03,0:02:06,0:02:03,0:02:06,Institut George Marc; Port-au-Prince; Haiti,Elizabeth,Where she went to High school,very local,,,,,,1960 - 1966,as a secondary school student. Presumed age-range ,,0:00:03,0:00:14,0:00:12
-1,7,0:02:06,0:02:30,0:02:06,0:02:30,College Fernand Prosper; Port-au-Prince; Haiti,Elizabeth,Where she went to college. had to drop out of college due to the death of her father; she was the oldest of 6 children in the family,very local,,,-,,,1966 - 1967,as a college student. Presumed age-range ,"negative because she describes her father's death as ""un grand malheur.""",0:00:24,0:00:09,0:00:14
-1,8,0:02:32,0:02:38,0:02:32,0:02:38,none,Frantz (interviewer),Asks about her siblings,,,,,,,,,,0:00:06,0:00:02,0:00:20
-1,9,0:02:39,0:02:59,0:02:39,0:02:59,none,Elizabeth; family,6 children. comments about the family,,,,,,,,,,0:00:20,0:00:14,0:00:09
-1,10,0:03:00,0:04:27,0:03:00,0:04:27,Pétionville; Haiti,Elizabeth; Mother; Roger Devilmé,was at home; taking care of her grieving mother. While being out of college and taking care of her family; was in touch with good friend in the unions who greatly influenced her interest in politics. He also had contacts in political parties (PUDA). ,local,,,,,,1967,eventful year during which she quit school and grew an interest in politics,,0:01:27,0:00:30,0:00:02
-1,11,0:04:27,0:04:39,0:04:27,0:04:39,none,Frantz (interviewer),Asks for clarification on the PPLN - the Partie Populaire de Libération National,,,,,,,,, ,0:00:12,0:00:20,0:00:14
-1,12,0:04:39,0:07:30,0:04:39,0:07:30,Pétionville; Haiti,Elizabeth; Arnold Devilmé; Yannick Guigot; Duvalier; etc.,Her father was member of the PPLN. She was a member of PUDA. beginning political years. 1967 was a very political year of demos and upheaval. 1968; PUDA is dissolved/decapited by Duvalier. Yannick enlightened her on women's struggles.,local,,,,,Yes,1967 - 1969,her immersion into politics,Violence against the students in 1968,0:02:51,0:00:06,0:00:02
-1,13,0:07:30,0:09:23,0:07:30,0:09:23,Bristou; Pétionville; Haiti,Elizabeth; Yannick Guigot; PEP militants,not far from where she lived; political upheaval; mass-arrestation of PEP militants,local,,,,,,18-Jan-69,,nested story within her telling of the beginning of her political involvement. ,0:01:53,0:01:46,0:00:20
-1,14,0:09:23,0:11:00,0:09:23,0:11:00,Casale; Haiti,Guerillas,massacre in casale. Vers le 14 avril assault chez Gerald Buisson et sa femme Jacqueline Vounelle,city / area,,,,,yes,28/03/1969 - 29/03/1969,an important event; events in casale,nested story within her telling of the beginning of her political involvement. Violence because mention of massacre.,0:01:37,0:04:30,0:00:13
-1,15,0:11:00,0:13:40,0:11:00,0:13:40,Fontamara; Port-au-Prince; Haiti,Elizabeth; Yannick; Arnold; Laurisme (?); Gerald Buisson (?); political comrades,house in which Elizabeth lived; that was also a social hub for her political party. on de Carrefour street; they welcomed many political comrades. A house that was important to the central committee of the party. Duvalier's regime kept close watch with a spy. ,Local,,,,,,1969,after the events of april,Stef: story unit good quote for description of this important place in her life.,0:02:40,0:00:32,0:00:07
-1,16,0:13:40,0:16:30,0:13:40,0:16:30,Fontamara; Port-au-Prince; Haiti,Elizabeth; Yannick; Arnold;  political comrades   ,There is an attack on the house and Elizabeth is wounded at the shoulder; captured alone; leaving her  comrades; still hiding; behind; and brought to questioning,local,,,,,yes,2-May-69,,Mention the student strike in 1961-1962,0:02:50,0:00:54,0:00:09
-1,17,0:16:30,0:20:00,0:16:30,0:20:00,Port-au-Prince; Haiti,Elizabeth; Claude Breton,after being captured at her house on May 2nd in Fontamara; Elizabeth is driven to a place where she is questioned; whipped; beaten. ,city / area,,,-,yes,yes,2-May-69,,UNCLEAR whether the location of interrogation was also in caserne. Location not mentioned but deduced from the story. She was tortured.,0:03:30,0:00:10,0:00:05
-1,18,0:20:00,0:20:57,0:20:00,0:20:57,Caserne Dessalines; Port-au-Prince; Haiti,Elizabeth; Claude Breton; ,Elizabeth is hospitalized/incarcerated. She is well taken care of. Others like her are being brought in to be treated. ,very local,,,,yes,,Summer 1969,after her capture and interrogation,,0:00:57,0:00:06,0:00:06
-1,19,0:20:57,0:21:07,0:20:57,0:21:07,Ruelle Nazon; Port-au-Prince; Haiti,militants,Elizabeth speaks of how arrests are made here; and that they were also brought to casernes,local,,,,,,2-Jun-69,,is not mappable on google maps; but a real location and can be found on wikimapia/osm,0:00:10,0:00:04,0:04:30
-1,20,0:21:07,0:21:35,0:21:07,0:21:35,Cap-Haitien; Haiti,Adrienne Gilbert; Raymond Jean-Francois; raymond's brother,Elizabeth speaks of how there were Arrests are made here; and that they were also brought to casernes,city / area,,,,,,Jul-69,sometime in june/july,,0:00:28,0:00:03,0:00:32
-1,21,0:21:35,0:23:18,0:21:35,0:23:18,Caserne Dessalines; Port-au-Prince; Haiti,Elizabeth; Joichen,Notices a man laying next to her.He had witnessed an attack and had been arrested; was gravely wounded.  now hospitalized for 3 days until death next to Elizabeth in the casernes. Elizabeth recognizes the man and is shocked. ,very local,,,-,,yes,Jul-69,sometime in june/july,"Emory: verify ""Elizabeth later recounts how Daniel Bernard; her 2nd romantic partner; was also incarcerated following the events here."" Stef: violence because she describes a man she knew having been beaten. Negative because she witnessed someone she knew die.",0:01:43,0:01:49,0:00:54
-1,22,0:23:18,0:25:35,0:23:18,0:25:35,Caserne Dessalines; Port-au-Prince; Haiti,Elizabeth; Claude Breton; Militant comrade,Helped in this hospital / prison. Claude Breton relocates her because she was deemed a threat by interacting with outside people.,very local,,,,,,Jul-69,sometime in june/july,,0:02:17,0:00:07,0:00:40
-1,23,0:25:35,0:26:53,0:25:35,0:26:53,Pénitentier National; Port-au-Prince; Haiti,Elizabeth; Glady Jean-Francois; Mme Casimir (?); 3rd unnamed woman; Adrienne Gilbert,Elizabeth is incarcerated; moved away from the Casernes and into a cell (no.5) with 3 other female inmates,very local,,,"""-""",yes,,Summer 1969,suggested prior to September 2nd events at cap haitien,,0:01:18,0:00:16,0:00:10
-1,24,0:26:53,0:27:00,0:26:53,0:27:00,Pénitentier National; Port-au-Prince; Haiti,Frantz (interviewer),Asks for clarification about the person who visited her in prison. She refuses to answer.,very local,,,,,,1969,during incarceration at the penitentiary,,0:00:07,0:00:12,0:00:01
-1,25,0:27:00,0:29:05,0:27:00,0:29:05,Pénitentier National; Port-au-Prince; Haiti,Elizabeth; Glady Jean-Francois; Mme Casimir (?); 3rd unnamed woman; Adrienne Gilbert,Many prisoners; including Glady and 3rd unnamed woman (cell mates) are taken away and likely executed at Fort Dimanche,very local,,,"""-""",,yes,18-Jul-69,during incarceration at the penitentiary,Emory: chronology unclear; but better understood once she talks about the birth of her baby. This implies that all these stories prior happened in a very fine temporal scale. LOCATION here may be changed to fort-dimanche. Stef: I would keep the location as-is. Violence because describes that women were executed.,0:02:05,0:00:04,0:00:25
-1,26,0:29:05,0:31:30,0:29:05,0:31:30,Fatima Maternity Hospital; Port-au-Prince; Haiti,Elizabeth,She gave birth in a very difficult situation in the maternity hospital in chancerelle; port-au-prince,very local,,,"""-""",yes,yes,13-Aug-69,gave birth after the execution of cell mates,This is the only hospital found in chancerelles. If this is too much of a stretch; maybe it should just be the centroid for the chancerelles district instead,0:02:25,0:00:14,0:00:06
-1,27,0:31:30,0:37:40,0:31:30,0:37:40,Pénitentier National; Port-au-Prince; Haiti,Elizabeth; cellmates; Dr Verli;  Caillard; Duvalieristes; Cap. William Havel,due to her lack of treatment; she became infected in prison. She is mistreated and doesn't receive proper healthcare. Yet is taken care of in various ways undercover. ,very local,,,"""-""",yes,yes,15-Aug-69,returned to prison after 3 days in hospital; presumed date,Story about her life in prison mixed with an historical event of the attack of Caillard against the national pallace and with other stories (personal and political),0:06:10,0:00:03,0:00:15
-1,28,0:37:40,0:39:17,0:37:40,0:39:17,Pénitentier National; Port-au-Prince; Haiti,Elizabeth; Her daughter; her mother; Cap. William Havel,In 1971 during a grace period under Duvalier II; prisoners are freed; including Elizabeths daughter.,very local,,,,,,1971,She is still in prison,,0:01:37,0:00:09,0:00:07
-1,29,0:39:17,0:43:40,0:39:17,0:43:40,Pénitentier National; Port-au-Prince; Haiti,Elizabeth; her daughter; Duvallier,Propaganda anti-communist from the Duvallier Government and consequernces in her life in prison,very local,,,"""-""",yes,yes,1971,She is still in prison,Decret pris le 29 avril 1969 contre les communists,0:04:23,0:00:11,0:00:04
-1,30,0:43:40,0:43:52,0:43:40,0:43:52,Pénitentier National; Port-au-Prince; Haiti,Frantz (interviewer),Asks about the women who got out; and those who died.,very local,,,,,,,,several interview prompts come in next minute,0:00:12,0:03:00,0:00:03
-1,31,0:43:52,0:49:15,0:43:52,0:49:15,Pénitentier National; Port-au-Prince; Haiti,Elizabeth; Duvalier; Claude Breton; cellmates,Describes the religious ceremonies in prison; the fear associated with creaking doors; a long discussion on life in prison; the release of some cellmates in 1971.,very local,,,"""-""",yes,yes,1969 - 1973,during incarceration,Quote about the fear they felt associated to the creaking doors in the prison.,0:05:23,0:00:15,0:00:04
-1,32,0:49:15,0:50:50,0:49:15,0:50:50,Pénitentier National; Port-au-Prince; Haiti,Elizabeth; cellmates,describes her release from the prison; at 4am. they are directed out of prison and onto a truck.,very local,journey 1 (begin),truck,,yes,,1973,one morning; 4am,,0:01:35,0:03:02,0:00:04
-1,33,0:50:50,0:52:00,0:50:50,0:52:00,Caserne Dessalines; Port-au-Prince; Haiti,Elizabeth; cellmates; Claude Breton,ligned up at casernes; thumprinted; photographed; instructed; prisoners are confused as to what is really going on,very local,journey 1 ,"""voiture""",,yes, ,1973,day of release from prison,,0:01:10,0:00:05,0:00:05
-1,34,0:52:00,0:52:50,0:52:00,0:52:50,Toussaint Louverture International Airport; Haiti,Elizabeth; cellmates; Claude Breton,Elizabeth notices that they are headed for the airport. Expecting to simply be interviewed by the media on her mock release. Boards a plane; and then realizes that she is being freed.,very local,journey 1 ,airplane,,yes,,1973,day of release from prison,the identification of this airport is assumed to be this one; given that PauP only has one international airport. It is also assumed that she boarded at an international airport rather than; say ; a military one,0:00:50,0:00:15,0:00:02
-1,35,0:52:50,0:54:59,0:52:50,0:54:59,Mexico city; Mexico  ,Elizabeth; fellow released prisoners,Elizabeth is on a plane with 2 men and 1 woman; she is fed. She hears that they are headed for Mexico. as she exits the plane she is overwhelmed by photographers and the press. She is transported to a prison; but not for long since Mexico doesn't want to keep them.,very local,journey 1 (end) ,,,yes,,1973,,Emory: unaware of the background story that her and interviewer mutually refer to here. She later says she doesn't want to talk about why and how she was released; apparently it was in the press at the time. Airport is unnamed; but could be inferred as Mexico city's only international airport. Stef: I suggest grouping the units before and after; beacuse time and place are the same; and events are relatively similar in topic for our purposes.,0:02:09,0:00:10,0:00:07
-1,36,0:54:59,0:55:46,0:54:59,0:55:46,Chile,Elizabeth; other haitian refugees,Elizabeth is sent to Chile and feels freedom and happiness. ,country,,,"""+""",yes,,1973,a month later,,0:00:47,0:00:06,0:00:10
-1,37,0:55:46,0:56:00,0:55:46,0:56:00,none,Frantz (interviewer),interviewer interjects; suggesting that she didn't stay there a long time,,,,,,,,,,0:00:14,0:00:04,0:00:16
-1,38,0:56:00,0:56:34,0:56:00,0:56:34,Chile,Elizabeth; other haitian refugees,there were problems in Chilli; still; some wanted to go to Cuba; others to Europe. Elizabeth wanted to go to Cuba. Those who stayed to await a trip to Europe witnessed the chilean coup d'etat.,country,,,,,,1973,,,0:00:34,0:00:37,0:00:12
-1,39,0:56:34,0:56:54,0:56:34,0:56:54,Chile,Frantz (interviewer),interviewer interjects; prompting clarification about who stayed in Chile and who left; as well as when this all happened,country,,,,,,1973,,Emory: the interviewer himself was involved in a similar trajectory. Stef: question is spatial.,0:00:20,0:00:04,0:00:04
-1,40,0:56:54,0:58:10,0:56:54,0:58:10,Cuba,Elizabeth; 11 haitian refugees; interviewer,Elizabeth recounts who came with her to Cuba; more short interjections by interviewer,country,,,,,,1973,,,0:01:16,0:00:09,0:00:04
-1,41,0:58:10,1:00:00,0:58:10,1:00:00,Cuba,Elizabeth;  Yannick (2nd daughter); Daniel Bernard (2nd partner),Elizabeth became a citizen and had her second daughter. Worked hard; received red stars (form of symbolic gratification). Second partner Daniel Bernard died in 1978. Elizabeth mused between going to France or Canada; but was easier to go to CA; and so did it.,country,,,,,,1973 - 1979,,,0:01:50,0:00:16,0:00:31
-1,42,1:00:00,1:00:24,1:00:00,1:00:24,Canada,Elizabeth;  daughters; Daniel Bernard,that December 1979; she sent for her eldest daughter who was still in Haiti. ,country,,,,,,29-Sep-79,,date indicates arrival in Canada,0:00:24,0:00:16,0:00:14
-1,43,1:00:24,1:00:33,1:00:24,1:00:33,none,Frantz (interviewer),interviewer prompts Elizabeth to clarify on the story of her 2nd romantic partner; Daniel Bernard,,,,,,,,,,0:00:09,0:00:44,0:00:03
-1,44,1:00:33,1:01:20,1:00:33,1:01:20,Pénitentier National; Port-au-Prince; Haiti; Mexico City;  Chile; Cuba,Elizabeth; Daniel Bernard,Elizabeth talks about how she and her second husband Daniel witnessed the same incarceration in Haiti and journey to Cuba afterwards. And how he came to be at the penitentiary following the events at Cap-haitien.,country,,,,,,1969 - 1978, ,locations about the trajectory of her migration; where she met her second partner.,0:00:47,0:00:02,0:00:05
-1,45,1:01:20,1:01:30,1:01:20,1:01:30,Cuba,Elizabeth; Daniel Bernard,After the death of her husband she began strongly considering leaving Cuba,country,,,,,,1978 - 1979,,Stef: good quote describing why she left Cuba,0:00:10,0:02:19,0:00:10
-1,46,1:01:30,1:01:32,1:01:30,1:01:32,none,Frantz (interviewer),interviewer asks who the father of her first daughter was,,,,,,,,,,0:00:02,0:00:02,0:00:03
-1,47,1:01:32,1:01:46,1:01:32,1:01:46,Fontamara; Port-au-Prince; Haiti,Elizabeth; Arnold Devilme,Arnold was killed in the shooting and arrest in her home on 2 May 1969. Elizabeth tells us that he is the father of her first child,local,,,,,,2-May-69,,,0:00:14,0:00:06,0:00:03
-1,48,1:01:46,1:02:00,1:01:46,1:02:00,none,Frantz (interviewer),asks about whether the names of those killed were released officially.,,,,,,,,,Emory: very difficult to understand Voltaire's phrases here. Stef: I put my interpretation of his question.,0:00:14,0:00:05,0:00:09
-1,49,1:02:00,1:02:30,1:02:00,1:02:30,none,Elizabeth,Confirms that the names of those killed in her home were released officially.,,,,,,,,,,0:00:30,0:00:01,0:00:11
-1,50,1:02:30,1:02:32,1:02:30,1:02:32,Canada,Frantz (interviewer),prompts her to speak of life in Canada,country,,,,,,,,,0:00:02,0:00:02,0:00:03
-1,51,1:02:32,1:03:24,1:02:32,1:03:24,Montreal; Canada,Elizabeth; children; Montreal haitian community,worked; raised kids; lived youthfully again; studied; regained her strength in Canada. Encountered long-lost comrades from Port-au-prince; found a community and a pleasant; more stable life.,country,,,,,,1979 - 2009,life after moving to Canada,Emory: never mentions Montreal in this story unit; though it is later found out that she settled in Mtl; so whenever she refers to life in Canada (working; studying; raising kids) it is assumably in Montreal. Might need to change location. Stef: agreed.,0:00:52,0:00:05,0:00:02
-1,52,1:03:24,1:03:44,1:03:24,1:03:44,none,Frantz (interviewer),asks her to return to the women she knew in prison and their struggles,,,,,,,,,,0:00:20,0:00:03,0:00:03
-1,53,1:03:44,1:06:15,1:03:44,1:06:15,Fontamara; Port-au-Prince; Haiti,Elizabeth; Yannick Guigot; Yannick (2nd daughter) ,Good friend Yannick Guigot was killed during the assault on Elizabeth's home in Fontamara. A much-admired friend; taught her a lot about politics. Talks about Yannick's life. Names her daughter after her.,local,,,,,,2-May-69,the day of the assault on her home,,0:02:31,0:00:09,0:00:05
-1,54,1:06:15,1:06:28,1:06:15,1:06:28,Montreal; Canada,Jonathan (interviewer),asks her how she became integrated and settled in Mtl,city / area,,,,,,,,,0:00:13,0:00:07,0:03:02
-1,55,1:06:28,1:07:53,1:06:28,1:07:53,Montreal; Canada,Elizabeth; 2 daughters; haitian mtl comrades,Elizabeth was taken in by friends; Haitian comrades in Montreal since 1965-66; made integration in qc/mtl society easier ,city / area,,,,,,1979 - 2009,years following 1979,,0:01:25,0:00:06,0:00:05
-1,56,1:07:53,1:08:00,1:07:53,1:08:00,Quebec; Canada,Jonathan (interviewer),Asks why she likes Quebec.,region,,,,,,,,,0:00:07,0:00:03,0:00:15
-1,57,1:08:00,1:10:22,1:08:00,1:10:22,Quebec; Canada,Quebeckers; Elizabeth,Elizabeth describes her impressions of Quebec; and how she relates to the Quebecker's desire for cultural preservation. Coming to Quebec was a natural migration for her.,region,,,,,,,,Quote as a good description of why she relates to Quebec - nationalism; cultural laboratory and preservation; learned about democracy.,0:02:22,0:00:26,0:00:10
-1,58,1:10:22,1:10:31,1:10:22,1:10:31,Montreal; Canada,Frantz (interviewer),Asks about whether the haitian community in mtl was also a factor in her moving,city / area,,,,,,,,,0:00:09,0:00:02,0:00:06
-1,59,1:10:31,1:11:37,1:10:31,1:11:37,Montreal; Canada,Elizabeth,Elizabeth agrees. She describes that the events of her displacement caused her to lose her youth; she found it and her community again in Montreal. Also important for her kids to be close to Haitians not to lose their culture.,city / area,,,,,,1979 - 1989,,roughly defined chrono based on first decade of life in mtl when children were younger,0:01:06,0:00:04,0:00:04
-1,60,1:11:37,1:11:42,1:11:37,1:11:42,Montreal; Canada,Jonathan (interviewer),Prompts for more about how she integrated her children into haitian culture in Montreal.,country,,,,,,,,,0:00:05,0:00:11,0:00:04
-1,61,1:11:42,1:12:30,1:11:42,1:12:30,Maison D'Haïti; Montreal; Canada,Elizabeth; daughters; grandchildren,her children and grandchildren would go to the Maison d'haiti for community activities and learning; maintaining familiarity with haitian culture,very local,,,,,,1979 - 1989,as a mother in Montreal,roughly defined chrono based on first decade of life in mtl when children were younger,0:00:48,0:00:00,0:00:09
-1,62,1:12:30,1:12:36,1:12:30,1:12:36,none,Frantz (interviewer),Frantz states that he and Elizabeth are the same age,,,,,,,,,,0:00:06,0:02:10,0:00:10
-1,63,1:12:36,1:13:00,1:12:36,1:13:00,Cuba,Elizabeth; haitian community,she also found a haitian community in Cuba. Therefore transition to life in Canada was no problem,country,,,,,,1973 - 1979,,,0:00:24,,0:00:14
-1,64,1:13:00,1:14:00,1:13:00,1:14:00,Montreal; Canada,Elizabeth,Her children were always there to keep her grounded; making the transition to Canada easier; especially in contrast to the difficulties she had earlier in life,city / area,,,,,,,,,0:01:00,,0:00:16
-1,65,1:14:00,1:15:20,1:14:00,1:15:20,Haiti; Montreal,Elizabeth; Frantz (interviewer),The elizabeth of 1969 is not that of 2009; the spirit of the times dictated her decisions. Reflecting on the advancement of human rights in haiti since 1969. the discussion on human rights now is a result of ppl like her who fought in the 60s says Voltaire,,,,,,,1969; 2009,,Emory: Haiti or Canada; reflecting on the times and spaces there and here. Stef: this is an example of a story unit with multiple locations; and multiple temporal references; ie changes of time and space. Might want to separate Frantz' comment into another unit; but it's on the same topic so I kept it together.,0:01:20,,0:00:16
-1,66,1:15:20,1:17:06,1:15:20,1:17:06,none,Elizabeth; haitian peasant farmers,Elizabeth explains how communists aren't necessarily intellectuals; and that it was an honest movement; pushed largely by peasant farmers,,,,,,,1967 - 1969,,location of her examples are in Haiti (cape of the cul de sac for example); but story still a reflection overall about a phenomenon. Chrono is during involvement in politics in haiti before incarceration,0:01:46,,0:00:02
-1,67,1:17:06,1:21:36,1:17:06,1:21:36,none,Frantz (interviewer),Frantz explains what this interview project is all about; what they'll be doing with the footage and photos that she sends them.,,,,,,,,,,0:04:30,,0:00:26
-1,68,1:21:36,1:22:08,1:21:36,1:22:08,none,Jonathan (interviewer),Jonathan explains that he's doing his master's degree on the hybrid identities of Haitians in Mtl,,,,,,,,,,0:00:32,,0:00:02
-1,69,1:22:08,1:23:02,1:22:08,1:23:02,none,Frantz (interviewer),Frantz clarifies what Jonathan said; and on about how he just wants to learn about the resistance and life during that era,,,,,,,,,,0:00:54,,0:00:06
-2,70,0:00:00,0:00:40,1:23:02,1:23:42,Haiti,Jonathan (interviewer),Asks about her memories of food from Haiti.,,,,,,,,,,0:00:40,,0:00:05
-2,71,0:00:40,0:02:19,1:23:42,1:25:21,Montreal; Canada,Elizabeth,Describes her search for haitian food; spices; and her change in taste of food over the years living in Montreal.,city / area,,,,,,1979 - 2009,,,0:01:39,,0:00:08
-2,72,0:02:19,0:03:20,1:25:21,1:26:22,Cuba; Haiti,Elizabeth,Describes difficulty in adapting to cuban food; comparing their spices to Haitian spices.,country,,,,,,1973 - 1979,,,0:01:01,,0:00:01
-2,73,0:03:20,0:03:55,1:26:22,1:26:57,Moscow; Russia,Elizabeth,traveled other countries; including when she once visited Moscow for a conference on female prisoners. Reflects on more on differences in food.,city / area,,,,,,1979 - 2009,sometime during her life in mtl; for a month,,0:00:35,,0:00:02
-2,74,0:03:55,0:04:05,1:26:57,1:27:07,none,Jonathan (interviewer),Reflects on how taste also changes with age.,,,,,,,,,,0:00:10,,0:00:05
-2,75,0:04:05,0:06:15,1:27:07,1:29:17,Montreal; Canada,Elizabeth,Elizabeth describes her impression of paté chinois; not understanding it; and how she made a haitian version with haitian spices. She describes it as a question of time; of transhumance; of changing countries. ,city / area,,,,,,1979 - 2009,,,0:02:10,,0:00:11
-2,76,0:06:15,0:07:26,1:29:17,1:30:28,Haiti; Montreal,Elizabeth,"she speaks of the way of life in Haiti: ""Il y a une façon de vivre en Haiti. Tu sais; la question de survie en Haiti [...] Les gens sont habitué desfois à mentir pour survivre parce qu'il faut se battre pour avoir si...""  opposed to mtl where everything is structured; time; etc. After being in mtl for so long; she cannot behave the same way in haiti. People with this way of life tick off haitian locals; not the same rhythm. and this all related to flavour in food too",country,,,,,,,,more of a reflection; so no chronology. Great quote comparing Haiti and Montreal ways of life - see description in characterization column.,0:01:11,,0:00:03
-2,77,0:07:26,0:07:27,1:30:28,1:30:29,Montreal; Canada,Jonathan (interviewer),Prompts to elaborate on arrival to Montreal.,city / area,,,,,,,,Stef: Question is spatial.,0:00:01,,0:00:09
-2,78,0:07:27,0:08:15,1:30:29,1:31:17,Montreal; Canada,Elizabeth,She speaks of bringing so much cutural baggage with her to mtl. Also from Cuba.  Sometimes she makes cuban food.,city / area,,,,,,1979 - 2009,,,0:00:48,,0:00:03
-2,79,0:08:15,0:08:43,1:31:17,1:31:45,Haiti; Cuba; Montreal,Elizabeth,in Haiti; one didn’t use black beans. Whereas in Cuba it's the national dish; so she learned to eat that afterwards; and even eats them more in Montreal.,country,,,,,,1973 - 1979,,,0:00:28,,0:00:05
-2,80,0:08:43,0:09:00,1:31:45,1:32:02,Cuba,Elizabeth,given the rations; and the way cubans were; they always made themselves deserts. ,country,,,,,,1973 - 1979,,,0:00:17,,0:00:04
-2,81,0:09:00,0:09:17,1:32:02,1:32:19,Montreal; Canada,Elizabeth,she transported this routine to mtl; and does it with her children,city / area,,,,,,1979 - 2009,,,0:00:17,,0:00:06
-2,82,0:09:17,0:11:00,1:32:19,1:34:02,Montreal; Canada,Elizabeth; haitian community in Montreal,"Describes how she was supported by the haitian community in her transition to Quebec. She describes her love for Montreal: ""J'adore Montréal; je me sens bien; [...] malgré certaines difficultés; ok. Mais; vraiment; l'adaptation; l'acceptation d'être ici; c'est quelque chose que j'ai bien soigné [...]. Elle est devenue ma city."" (0:10:35) ",city / area,,,+,,,1979 - 2009,,Positive because she says adores Montreal. See quote in characterization.,0:01:43,,0:00:06
-2,83,0:11:00,0:11:25,1:34:02,1:34:27,Pierre Elliott Trudeau International Airport; Montreal; Canada,Jonathan (interviewer),Asks about first impressions at the airport.,very local,,,,,,,,Stef: Question is spatial.,0:00:25,,0:00:06
-2,84,0:11:25,0:12:00,1:34:27,1:35:02,Montreal; Canada,Elizabeth,She had a need to travel; a need to change. So upon arrival it went quite smoothly. She had been preparing the trip for a while already. People would tell her the snow was an issue; etc. but didn't turn out to be.,city / area,,,,,,1979,,,0:00:35,,0:00:03
-2,85,0:12:00,0:12:06,1:35:02,1:35:08,none,Jonathan (interviewer),Prompts for more details on her experience at the airport.,,,,,,,,,,0:00:06,,0:00:03
-2,86,0:12:06,0:13:19,1:35:08,1:36:21,Pierre Elliott Trudeau International Airport; Montreal; Canada,Elizabeth; Yannick (2nd daughter); Mme Chancy,No trouble at customs. Her daughter; however; caused some confusion; having a cuban passport whilst Elizabeth had a haitian one. When she got though customs; Mme Chancy picked her up at the airport.,very local,,,,,,29-Sep-79,,"placing this story unit at dorval airport; even though they only mention ""the airport"" and ""dorval"" once. This could be added to chronology. Elizabeth smiles a lot when she talks about having gotten through customs.….",0:01:13,,0:00:01
-2,87,0:13:19,0:13:34,1:36:21,1:36:36,Montreal; Canada,Jonathan (interviewer),Asks how she prepared for her arrival in Montreal.,city / area,,,,,,,,Stef: Question is spatial.,0:00:15,,0:00:02
-2,88,0:13:34,0:14:40,1:36:36,1:37:42,Cuba,Elizabeth,Describes how she prepared herself to move both mentally and with the paperwork.,country,,,,,,1979,,,0:01:06,,0:00:02
-2,89,0:14:40,0:14:47,1:37:42,1:37:49,Montreal; Canada,Interviewer 2,Asks if she knew if she was going to stay for a long time.,city / area,,,,,,,,Stef: Question is spatial.,0:00:07,,0:00:04
-2,90,0:14:47,0:16:43,1:37:49,1:39:45,Montreal; Canada,Elizabeth; Yannick; lawyer,Describes how she spent three years having to renew her visa every three months. Her daughter had a work permit somehow. She then finally asked for permanent residency in 1982; had a good lawyer.,city / area,,,,,,1979 - 1982,for 3 years (0:15:35),This is how I understand this chronology; but it appears there is an inconsistency with a subsequent story unit.,0:01:56,,0:00:17
-2,91,0:16:43,0:16:47,1:39:45,1:39:49,none,Jonathan (interviewer),Asks if she ever tried to get political asylum.,,,,,,,,,,0:00:04,,0:00:00
-2,92,0:16:47,0:18:46,1:39:49,1:41:48,Montreal; Canada,Elizabeth; lawyer; 1st daughter,Describes factors in her favour for obtaining her residency: support from her community; circumstances in the government at the time facilitating immigration. Describes her daughter's residency situation.,city / area,,,,,,1979 - 1982,,,0:01:59,,0:00:19
-2,93,0:18:46,0:18:49,1:41:48,1:41:51,none,Jonathan (interviewer),Prompts for more information on her daughter's arrival.,,,,,,,,,,0:00:03,,0:00:06
-2,94,0:18:49,0:19:56,1:41:51,1:42:58,Pierre Elliott Trudeau International Airport; Montreal; Canada,Elizabeth,Elizabeth describes her arrival; how long they were apart (8 years); the moment they saw eachother at the airport. It was a moving event. ,city / area,,,+,,,Dec-79,,gets blubbery here; very emotional (emory) - put positive association because of this (stef),0:01:07,,
-2,95,0:19:56,0:20:00,1:42:58,1:43:02,Pierre Elliott Trudeau International Airport; Montreal; Canada,Jonathan (interviewer),Asks if she remembers the day she was reunited with her daughter; when she returns to the airport.,very local,,,,,,,,Interesting that the interviewer asks a question very relevant to our project; about emotion associated to a spatio-tempral event; when she returns to that place; and she answers no.,0:00:04,,
-2,96,0:20:00,0:21:49,1:43:02,1:44:51,none,Elizabeth,Describes how haitians are very used to airports. She goes on to describe how she copes with trauma or difficult memories. ,city / area,,,,,,,,Stef: no chrono or location because I interpret as a reflection,0:01:49,,
-2,97,0:21:49,0:23:06,1:44:51,1:46:08,Haiti,Elizabeth,She describes that she might have a strong personality because she was born in spring; on the eve of Easter. ,country,,,,,,1948,,Putting time for when she was born; but could also be more of a reflection. Not sure.,0:01:17,,
-2,98,0:23:06,0:23:10,1:46:08,1:46:12,Montreal; Canada,Jonathan (interviewer),Asks if she found work when she arrived.,city / area,,,,,,,,Stef: Question is spatial.,0:00:04,,
-2,99,0:23:10,0:23:45,1:46:12,1:46:47,Montreal; Canada,Elizabeth,She visited the maison d'haiti for help. She then left the maison to work at the latin american association of human rights; she also worked in a centre for women who were victims of violence; and then she found work at the commission for human rights.,city / area,,,,,,1979 - 1989,,,0:00:35,,
-2,100,0:23:45,0:23:50,1:46:47,1:46:52,Commission des droits de la personne et des droits de la jeunesse; Montreal; Canada,Jonathan (interviewer),Asks if she is still working at the Commission for human rights.,very local,,,,,,,,,0:00:05,,
-2,101,0:23:50,0:23:57,1:46:52,1:46:59,Commission des droits de la personne et des droits de la jeunesse; Montreal; Canada,Elizabeth,She got in on the current contract in 1989.,very local,,,,,,1989,,,0:00:07,,
-2,102,0:23:57,0:23:59,1:46:59,1:47:01,Commission des droits de la personne et des droits de la jeunesse; Montreal; Canada,Jonathan (interviewer),Asks about her work there.,,,,,,,,,,0:00:02,,
-2,103,0:23:59,0:24:33,1:47:01,1:47:35,Commission des droits de la personne et des droits de la jeunesse; Montreal; Canada,Elizabeth,She got in as a receptionist. Her contracts got renewed many many times. One day she finally got her permanent residency. She then replaced someone as information technician. ,very local,,,,,,1989 - 2009,,Something is strange: at minute 15:30; she says she had to renew her visa every 3 months for 3 years; and it seems implied that this stopped once she got her residency; which she calculated to be in 1982. Then it appears here she got her residency much later.. ,0:00:34,,
-2,104,0:24:33,0:24:40,1:47:35,1:47:42,none,Jonathan (interviewer),Comments that she always seems to work in the social sector.,,,,,,,,,,0:00:07,,
-2,105,0:24:40,0:25:39,1:47:42,1:48:41,Montreal; Canada,Elizabeth,Affirms that  all her jobs since maison d'haiti were defending the rights of vulnerable people.,city / area,,,,,,1979 - 2009,,,0:00:59,,
-2,106,0:25:39,0:25:49,1:48:41,1:48:51,Montreal; Canada,Jonathan (interviewer),Asks her to elaborate on a previous statement; about arriving in September with the changing colours.,city / area,,,,,,,,,0:00:10,,
-2,107,0:25:49,0:27:45,1:48:51,1:50:47,Quebec; Canada,Elizabeth,Describes her arrival in Montreal; her impressions on autumn and the seasons.,region,,,,,,9/29/1979 - 10/15/1979,From arrival until several weeks after she arrived.,,0:01:56,,
-,108,0:27:45,0:29:03,1:50:47,1:52:05,Quebec; Canada,Elizabeth,Elaborates more generally on impressions of changing seasons; especially how she finds October depressing.,,,,,,,,,Stef: No chronology: reflections; impressions. Split story unit; because I find it more broad; no temporality; more of a reflection.,0:01:18,,
-2,109,0:29:03,0:29:19,1:52:05,1:52:21,none,Interviewer 2,Asks if autumn brings back sad memories.,,,,,,,,,,0:00:16,,
-2,110,0:29:19,0:31:04,1:52:21,1:54:06,Montreal; Canada,Elizabeth,Believes most people find the autumn somber and melancholy.,city / area,,,,,,1979 - 2009,life in mtl,,0:01:45,,
-2,111,0:31:04,0:31:16,1:54:06,1:54:18,none,Jonathan (interviewer),Asks her to describe her impression of Quebeckers.,,,,,,,,,,0:00:12,,
-2,112,0:31:16,0:34:35,1:54:18,1:57:37,Quebec; Canada,Elizabeth,Describes her impression of Quebeckers: passive; not readily available for friendships; more available once trust has been built; self-affirming in their quebecois identity.,region,,,,,,,,Stef: Although she has accumulated this impression by living in Montreal; she is talking about Quebecers; not Montrealers; so I suggest putting story units as Quebec-based. ,0:03:19,,
-2,113,0:34:35,0:34:39,1:57:37,1:57:41,none,Interviewer 2,Asks if she has any strong friendships with Quebeckers.,,,,,,,,,,0:00:04,,
-2,114,0:34:39,0:35:35,1:57:41,1:58:37,Quebec; Canada,Elizabeth,No strong; fixed friendship ties. She has friends; girlfriends. they disappear; they return. It works in waves. Above all; they always affirm that they are quebeckers; singling her out implicitly as an outsider. ,region,,,,,,1979 - 2009,life in mtl,,0:00:56,,
-2,115,0:35:35,0:35:39,1:58:37,1:58:41,Quebec; Canada,Jonathan (interviewer),Asks about her impressions of Quebec nationalism.,region,,,,,,,,,0:00:04,,
-2,116,0:35:39,0:39:15,1:58:41,2:02:17,Quebec; Haiti,Elizabeth,Describes how it is similar to her experiences in Haiti; and why she gravitated toward it; but also how it is different. Talks about current Quebec politics.,region,,,,,,1979 - 2009,life in mtl,,0:03:36,,
-2,117,0:39:15,0:39:46,2:02:17,2:02:48,Quebec; Canada,Jonathan (interviewer),Asks whether she finds there is a contradiction between Quebec nationalism and their acceptance of immigrants.,region,,,,,,,,Stef: Question is spatial.,0:00:31,,
-2,118,0:39:46,0:41:02,2:02:48,2:04:04,Quebec; Canada,Elizabeth,Refrains from saying much; too hypothetical; too unpredictable; how the political situation has changed a lot recently.,region,,,,,,2009,,Chronology: talks about Quebec during the time of the interview.,0:01:16,,
-2,119,0:41:02,0:41:16,2:04:04,2:04:18,none,Interviewer 2,Asks whether she feels herself included in Quebec solidarity.,,,,,,,,,,0:00:14,,
-2,120,0:41:16,0:42:50,2:04:18,2:05:52,Montreal; Canada,Elizabeth,She lived it with the haitians in mtl. At least as a haitian she recieves some sort of solidarity; she doesn't know if it's the same for other immigrants. ,city / area,,,,,,2009,,,0:01:34,,
-2,121,0:42:50,0:42:53,2:05:52,2:05:55,none,Jonathan (interviewer),Asks if she thinks she is a Quebecker.,,,,,,,,,,0:00:03,,
-2,122,0:42:53,0:43:30,2:05:55,2:06:32,Quebec; Canada,Elizabeth,She is a haitian; and she adopts Quebec as her country of welcome. Her taste for food; and much else; remains haitian; even after having spent so much time outside of Haiti.,region,,,,,,2009,,,0:00:37,,
-,123,0:43:30,0:44:15,2:06:32,2:07:17,Haiti,Elizabeth,"Affirms she is still Haitian: even if she spent more time away; she was born there: ""C'est la base; il ne faut pas retirer et écraser […]; pietiner le socle."" (session 2; 0:44:03).",,,,,,,,,I separated this story unit from the previous one; because it is interesting that she maintains that her identity is haitian by qualifying its importance based on being born there; regardless of having spent more years away from Haiti. Great quote about how she retains her haitian identity because she was born there.,0:00:45,,
-2,124,0:44:15,0:44:20,2:07:17,2:07:22,Haiti,Jonathan (interviewer),Asks for her impressions of Haiti currently.,country,,,,,,2009,,Stef: Question is spatial.,0:00:05,,
-2,125,0:44:20,0:46:30,2:07:22,2:09:32,Haiti,Elizabeth,"""À chaque fois je vais passer quelques jours [en Haiti] […] je me sense tellement bien! Même en aterissant je regarde le désastre [...] écologique; [...] mais je sais que je viens chez moi. Haiti a completement changé. Ce n'est plus cette même et belle perle des Antilles; cet Haiti que j'ai vécu avant."" (session 2; 0:44:25) Relations between haitians themselves have changed. She hopes it changes for the better",country,,,,,,2009,,See quote in characterization.,0:02:10,,
-2,126,0:46:30,0:46:40,2:09:32,2:09:42,Haiti,Interviewer 2,Asks how she gets news from Haiti.,country,,,,,,,,Stef: Question is spatial.,0:00:10,,
-2,127,0:46:40,0:48:01,2:09:42,2:11:03,Montreal; Canada,Elizabeth,They have radio stations; newspapers; word-of-mouth gets a lot of news around; as long as you`re in the community. ,city / area,,,,,,2009,,,0:01:21,,
-2,128,0:48:01,0:48:04,2:11:03,2:11:06,Haiti,Jonathan (interviewer),Asks whether she has siblings in Haiti.,country,,,,,,,,Stef: Question is spatial.,0:00:03,,
-2,129,0:48:04,0:48:17,2:11:06,2:11:19,Haiti,Elizabeth; Lasmalla family; her sisters,Yes she does. She lost a sister there quite recently. ,country,,,,,,2009,,,0:00:13,,
-2,130,0:48:17,0:48:20,2:11:19,2:11:22,Paris; France,Jonathan (interviewer),Asks about her sister in Paris.,city / area,,,,,,,,Stef: Question is spatial.,0:00:03,,
-2,131,0:48:20,0:48:23,2:11:22,2:11:25,Paris; France,Elizabeth's sisters,Clarifies she has two sisters in Paris.,city / area,,,,,,2009,,,0:00:03,,
-2,132,0:48:23,0:48:32,2:11:25,2:11:34,none,Jonathan (interviewer),Asks about cousins; and telephone calls.,,,,,,,,,,0:00:09,,
-2,133,0:48:32,0:49:03,2:11:34,2:12:05,Montreal; Canada,Elizabeth,So many cousins. The technique is to call one family member and ask them to pass on the salute to everyone in their circle. She handles it well. There are so many family members. ,city / area,,,,,,2009,,,0:00:31,,
-2,134,0:49:03,0:49:14,2:12:05,2:12:16,none,Interviewer 2,Asks if she considers herself the last generation of Haitians.,,,,,,,,,,0:00:11,,
-2,135,0:49:14,0:52:14,2:12:16,2:15:16,none,Elizabeth; daughters; grandchildren,Elizabethe describes how she feels her children are haitian; but no longer her grandchildren; with some anecdotes to illustrate this.,,,,,,,2009,,Stef: I would say this is location-less; like the next story unit. Previous story unit is similar; arguably; as well; but more description of events; so perhaps more location-based. Not sure.,0:03:00,,
-2,136,0:52:14,1:01:04,2:15:16,2:24:06,Montreal; Canada,Elizabeth,Elizabeth and the interviewers do a tour of the various artworks that she has collected; and has decorated her home with. Elizabeth tells stories of the artists; sometimes their provenance; and what the artworks mean to her.,local,,,,,,unknown,,,0:08:50,,
-2,137,1:01:04,1:01:07,2:24:06,2:24:09,Montreal; Canada,Jonathan (interviewer),Asks what she thinks of her neighborhood.,city / area,,,,,,,,Stef: spatial question.,0:00:03,,
-2,138,1:01:07,1:02:04,2:24:09,2:25:06,Montreal; Canada,Elizabeth,Describes her impressions of the residents in her neighborhood; their ethnicities; age; etc..,,,,,,,2009,,Emory: they speak of her neighbourhood; but it has not been identified yet (probably St Michel somehwere) to be determined. would be interesting to find out which neighbourhood she currently lives in (2009; during interview). Mark MTL if forever unkown. Stef: marked as MTL.,0:00:57,,
-2,139,1:02:04,1:02:06,2:25:06,2:25:08,Montreal; Canada,Jonathan (interviewer),Asks how long she has been living there.,city / area,,,,,,,,,0:00:02,,
-2,140,1:02:06,1:02:12,2:25:08,2:25:14,Côte-des-Neiges; Montreal; Canada,Elizabeth,3-4 years. Before; she spent 20 years in cote-des-neiges,city / area,,,,,,1982 - 2005,,Emory: could be broken into 2 story units. first mentions 20 yrs in CDN; then 25 (1:03:54). will take 23 as average. Marked story unit as Cote des Neiges. ,0:00:06,,
-2,141,1:02:12,1:02:15,2:25:14,2:25:17,Côte-des-Neiges; Montreal; Canada,Interviewer 2,Asks why she moved away from CDN,city / area,,,,,,,,,0:00:03,,
-2,142,1:02:15,1:03:18,2:25:17,2:26:20,Côte-des-Neiges; Montreal; Canada,Elizabeth,She moved because her landlord wanted to sell the house to build a condo. She describes some impressions of her current home.  ,local,,,,yes,,2005,,chronology based on her saying that she`s been living 'here' for 3-4 years after leaving CDN. Imposed movement because she did not choose to leave CDN.,0:01:03,,
-2,143,1:03:18,1:03:23,2:26:20,2:26:25,Côte-des-Neiges; Montreal; Canada,Jonathan (interviewer),"Asks whether she found CDN was ""her neighborhood""",local,,,,,,,,,0:00:05,,
-2,144,1:03:23,1:05:42,2:26:25,2:28:44,Côte-des-Neiges; Montreal; Canada; Renaud Bray,Elizabeth,"""Côte-des-Neiges; c'était la belle vie."" Further talks about her experiences and different places she visited in CDN.",local,,,+,,,1982 - 2005,,first mentions 20 yrs in CDN; then 25. will take 23 as average.,0:02:19,,
-2,145,1:05:42,1:06:31,2:28:44,2:29:33,Montreal; Canada,Elizabeth,She describes that she stays in more in her new neighborhood.,city / area,,,,,,2009,,Emory: would be interesting to find out which neighbourhood she currently lives in (2009; during interview). Mark MTL if forever unkown Stef: marking MTL because we don't end up finding out.,0:00:49,,
-2,146,1:06:31,1:06:46,2:29:33,2:29:48,none,Elizabeth,she tells Jonathan (interviewer) that she will prepare him some haitian-style rice,,,,,,,,,,0:00:15,,
-2,147,1:06:46,1:09:48,2:29:48,2:32:50,none,Jonathan (interviewer),Jonathan describes his thesis in more detail. Explains that he is interested in learning about her personal life.,,,,,,,,,,0:03:02,,
-2,148,1:09:48,1:12:34,2:32:50,2:35:36,Port-au-Prince; Haiti,Elizabeth; parents; siblings,Describes her family life; parents; siblings. Religious; humble; well-educated family. Explains having to leave her studies when her father died; to help her mother take care of her siblings.,city / area,,,,,,1948 - 1969,,this story unit spans several geocodable schools; as well as the neighbourhood of Petionville; and PauP more generally (likely central PauP where the secondary schools are). Doesn`t say whether she moved out to attend these schools. She says that she `returns' to take care of her mom after leaving school in PauP; hinting that she may have been in boarding school there,0:02:46,,
-2,149,1:12:34,1:12:39,2:35:36,2:35:41,none,Jonathan (interviewer),Asks if philosophy interested her in school.,,,,,,,,,,0:00:05,,
-2,150,1:12:39,1:13:24,2:35:41,2:36:26,Port-au-Prince; Haiti,Elizabeth; parents ,One had to do that in order to get into professional schools. She couldn't do that. She had to return to family. She did other work to bring in money; so didn't finish studies. ,city / area,,,,,,1968,,,0:00:45,,
-2,151,1:13:24,1:13:39,2:36:26,2:36:41,none,Jonathan (interviewer),Asks about images or events from her childhood.,,,,,,,,,,0:00:15,,
-2,152,1:13:39,1:15:47,2:36:41,2:38:49,Haiti,Elizabeth; family; neighborhood community; daughters,Describes how strong family values kept even poor haitians well. She keeps these values until the present day. She is proud of this.,country,,,+,,,1948 - 1967; 2009,,"Emory: She talks about haiti generally here; but her impressions are surely nested in the reality of Petionville or PauP; though due to her exposure her father's family in petite riviere du nord; I will mark haiti. Stef: quote about how even though they were poor; their strong value of family in Haiti made them well: ""on était vraiment bien"". Also: she ends this section saying that these memories stay with her until the present day; so I put 2009; ie the time of the interview.",0:02:08,,
-2,153,1:15:47,1:15:57,2:38:49,2:38:59,none,Jonathan (interviewer),Asks if she has any photos or objects from her childhood.,,,,,,,,,,0:00:10,,
-2,154,1:15:57,1:18:25,2:38:59,2:41:27,Port-au-Prince; Haiti,Elizabeth; father,Shows a photo of her and her father when she was 17. Describes her father as a man who worked hard and loved his children. She kept this photo as a serum to give her encouragement in life. Describes the circumstances of the photo.,city / area,,,-,,,,,Emory: Chrono based on presumed time photo was taken. Stef: I put this as a timeless story unit; because she talks about how this photo affected her in her life.,0:02:28,,
-2,155,1:18:25,1:18:49,2:41:27,2:41:51,Port-au-Prince; Haiti,Elizabeth; father,Her father died very young; aged 51. it was a big hit. ,city / area,,,-,,,1967,year of father`s death,Stef: negative because she describes her father's death as a big hit.,0:00:24,,
-2,156,1:18:49,1:18:55,2:41:51,2:41:57,none,Jonathan (interviewer),Suggests that religion seemed important in her family.,,,,,,,,,,0:00:06,,
-2,157,1:18:55,1:19:33,2:41:57,2:42:35,Port-au-Prince; Haiti,Elizabeth,Her father was very much a believer; the values of the church. They would pray 3 times a day.,city / area,,,,,,1948 - 1967,,Emory: chrono is prior to father's death and before political involvement. Stef: Added a quote.,0:00:38,,
-2,158,1:19:33,1:19:37,2:42:35,2:42:39,none,Jonathan (interviewer),Asks whether this affected her life.,,,,,,,,,,0:00:04,,
-2,159,1:19:37,1:20:14,2:42:39,2:43:16,none,Elizabeth,Yes. The ritual of going to church; going to mass. Those are habits/values/things that are hard to stop.,,,,,,,,,Stef: Removed place and time; no specificity indicated. General reflections.,0:00:37,,
-2,160,1:20:14,1:20:18,2:43:16,2:43:20,none,Jonathan (interviewer),Asks if she is still a practicing catholic.,,,,,,,,,,0:00:04,,
-2,161,1:20:18,1:21:59,2:43:20,2:45:01,Port-au-Prince; Haiti,Elizabeth,She was very much a believer. As of 18-19 yrs old she dropped it. Describes the questioning she experienced as she learned about the atrocities in the world growing up; feeling sheltered. Describes how the political situation in Haiti also made her feel insecure.,city / area,,,,,,1966 - 1967,late adolescence; political involvement,,0:01:41,,
-2,162,1:21:59,1:22:08,2:45:01,2:45:10,none,Jonathan (interviewer),Asks if she felt national politics affected her life; when she was young.,,,,,,,,,,0:00:09,,
-2,163,1:22:08,1:24:12,2:45:10,2:47:14,Port-au-Prince; Haiti,Elizabeth,Describes the presence of politics in her upbringing. Her father was a fioliste; meetings were held at her house. Describes political events of the period Duvalier was starting to gain power.,city / area,,,,,,1948 - 1957,,chrono is during fignole's years of influence that took place during elizabeth's life; but prior to duvalier's rise to power,0:02:04,,
-2,164,1:24:12,1:24:57,2:47:14,2:47:59,Fort-Dimanche; Port-au-Prince; Haiti,Joseph Philibert; Ferle Leonard,Describes when her father went to Fort-Dimanche for the first time; luckily for just 3 days. He was incarcerated due to his prominent fioliste allegiance. He was a friend of Ferle Leonard; a prominent intellectual and communist. ,very local,,,,yes,,1957 - 1967,,chrono beginnning date based on papa duvalier's reign beginning; end date based on her father's death date,0:00:45,,
-2,165,1:24:57,1:25:53,2:47:59,2:48:55,Pétionville; Haiti,Elizabeth; Joseph Philibert,Describes how after his release; her family told him to shut up about Fiole. But it was his passion; the household bathed in it. Her political tendencies were formed by this surrounding. Duvalier's influence was also strongly felt where she was; so resistance to it was acute.,local,,,,,,1957 - 1967,,chrono beginnning date based on papa duvalier's reign beginning; end date based on her father's death date,0:00:56,,
-2,166,1:25:53,1:26:03,2:48:55,2:49:05,Pétionville; Haiti,Jonathan (interviewer),Asks about political goings-on in Petionville.,local,,,,,,,,,0:00:10,,
-2,167,1:26:03,1:26:42,2:49:05,2:49:44,Institut George Marc; Port-au-Prince; Haiti,Elizabeth mulado haitiens,Talks about arrests of people at her school; especially mulados. She describes having to escape during a shooting.,very local,journey 3 (start),run,,,yes,1966,,chrono is estimation based on when she was attending george marc. No violence directed at her explicitly in this situation. Imposed movement is implicit; says she had to leave the school. Violence because of description of shootings.,0:00:39,,
-2,168,1:26:42,1:26:55,2:49:44,2:49:57,Chemin des Dalles; Port-au-Prince; Haiti,Elizabeth,She ran along chemin des dalles,local,journey 3,run,,yes,,1966,,,0:00:13,,
-2,169,1:26:55,1:27:00,2:49:57,2:50:02,Rue Lalue; Port-au-Prince; Haiti,Elizabeth,She then turned onto Lalue; and got onto a small truck in direction of her neighbourhood,local,journey 3,truck,,yes,,1966,,,0:00:05,,
-2,170,1:27:00,1:27:16,2:50:02,2:50:18,Pétionville; Haiti,Elizabeth,Describes the danger of being shot. She was relieved upon arrival in petionville.,local,journey 3 (end),,,yes,yes,1966,,Violence because she describes shootings.,0:00:16,,
-2,171,1:27:16,1:29:39,2:50:18,2:52:41,Pétionville; Haiti; Port-au-Prince,Elizabeth; mulado haitiens,Compares Petionville with Port-au-Prince: there was more political unrest and military presence in P au P; so when these things happened in Petionville it was a big deal since people were not used to it.,local,,,,,,1967 - 1969,,,0:02:23,,
-2,172,1:29:39,1:30:00,2:52:41,2:53:02,Pétionville; Haiti,Elizabeth; mother; Joseph Philibert,Describes further when her father was arrested; and how her mother helped get him out quickly.,local,,,,,,1957 - 1967,,chrono here isn't clear; but prior to death in 1967. chrono beginnning date based on papa duvalier's reign beginning; end date based on her father's death date,0:00:21,,
-2,173,1:30:00,1:30:14,2:53:02,2:53:16,Haiti,Jonathan (interviewer),Prompts to further talk about the differentiation of mulados.,,,,,,,,,,0:00:14,,
-2,174,1:30:14,1:31:28,2:53:16,2:54:30,Haiti,Elizabeth; mulado haitiens; Duvalier,Duvalier targetted mulados with his racial politics. However there were as many blacks as there were mulados; given what she saw in prison. She doesn't want to return to that discussion of intense racial demagogy.,country,,,,,,1967 - 1969,during political involvement,,0:01:14,,
-2,175,1:31:28,1:31:44,2:54:30,2:54:46,none,Jonathan (interviewer),Suggests that her father's experiences got her into political militancy.,,,,,,,,,,0:00:16,,
-2,176,1:31:44,1:32:44,2:54:46,2:55:46,Pétionville; Haiti,Elizabeth; Arnold Devilme; neighbour,She says she got especially interested in international politics.  A neighbour got her into communism and the circle in which she met her husband.,local,,,,,,1967 - 1969,,during ado/mature life and involvement in politics,0:01:00,,
-2,177,1:32:44,1:33:00,2:55:46,2:56:02,none,Jonathan (interviewer),Asks for more details on her first husband.,,,,,,,,,,0:00:16,,
-2,178,1:33:00,1:33:44,2:56:02,2:56:46,none,Elizabeth; Arnold Devilme; oldest daughter,it's hard to go back on; it's sad. She always tries to survive after hardship; move on. Reflecting on these events dismantles that. It is with this man that she had her first daughter who now lives in Paris,city / area,,,-,,,,,Emory: chrono is during mature life in haiti with companion prior to his killing. Stef: negative because that time was very sad for her; losing her companion. Also: I would consider this as a reflection; so no particular space and time.,0:00:44,,
-2,179,1:33:44,1:34:52,2:56:46,2:57:54,Paris; France,Elizabeth's oldest daughter,Elizabeth talks about her oldest daughter; who lives in France.,city / area,,,,,,,,,0:01:08,,
-2,180,1:34:52,1:34:54,2:57:54,2:57:56,none,Jonathan (interviewer),Asks about her grandchildren.,,,,,,,,,,0:00:02,,
-2,181,1:34:54,1:37:13,2:57:56,3:00:15,none,Elizabeth's oldest daughter; grandchildren,Talks about and shows pictures of her grandchildren.,city / area,,,,,,2009,,,0:02:19,,
-2,182,1:37:13,1:37:39,3:00:15,3:00:41,Haiti,Jonathan (interviewer),Prompts for more descriptions of her childhood: odours; etc..,country,,,,,,,,Stef: Spatial question.,0:00:26,,
-2,183,1:37:39,1:39:20,3:00:41,3:02:22,Haiti,Elizabeth,Talks about the importance of Haitian food to her. Also describes that she is inspired by the music; flowers; sun; colours of her childhood.,country,,,,,,,,Emory: chrono based on mature life in haiti but prior to incarceration. Stef: I would put this as timeless.,0:01:41,,
-2,184,1:39:20,1:40:37,3:02:22,3:03:39,Haiti,Elizabeth; Pierrot Philibert; 2nd brother,Talks about music in her life; including how her brothers had different musical tastes; adding colour to family conversations.,country,,,,,,,,Chronology timeless because mostly reflections.,0:01:17,,
-2,185,1:40:37,1:41:47,3:03:39,3:04:49,Port-au-Prince; Haiti,Elizabeth; Joseph Philibert,Describes the significance of music in her father's life.,city / area,,,,,,1948 - 1967,childhood; ado,chrono based on life in family before political involvement,0:01:10,,
-2,186,1:41:47,1:43:02,3:04:49,3:06:04,Port-au-Prince; Haiti,Elizabeth,Talks about different haitian musical groups.   ,city / area,,,,,,1963 - 1967,during adolescence,chrono here is based on described adolescence before death of father and involvement in politics,0:01:15,,
-2,187,1:43:02,1:43:04,3:06:04,3:06:06,none,Jonathan (interviewer),Asks if she danced.,,,,,,,,,,0:00:02,,
-2,188,1:43:04,1:44:17,3:06:06,3:07:19,Port-au-Prince; Haiti,Elizabeth,Explains that you had to go out with a male partner. The baptism of a doll; for example; on a Sunday; was quite an event. ,city / area,,,,,,1963 - 1967,during adolescence,chrono here is based on described adolescence before death of father and involvement in politics,0:01:13,,
-2,189,1:44:17,1:44:51,3:07:19,3:07:53,Montreal; Canada,Elizabeth,It's important to remember these things. She points to the pictures; paintings; sculptures that create an ambiance around her reminding her of her beloved home country,city / area,,,,,,,,,0:00:34,,
-2,190,1:44:51,1:44:57,3:07:53,3:07:59,none,Jonathan (interviewer),Asks whether her art collection stems from a fear of forgetting.,,,,,,,,,,0:00:06,,
-2,191,1:44:57,1:45:55,3:07:59,3:08:57,Haiti,Elizabeth,"""J'aimerais pas l'oublier; et je me demande comment l'oublier aussi; parce que c'est tellement ancré dans moi."" The accent; everything still reminds her of haiti. Reiterates that the prison time spent in haiti was a bad experience that disrupted everything in her life. Refers to a tree in the prison.",country,,,-,,,,,Stef: I would say these are reflections; so no chronology; but that this is indeed a story unit about Haiti. Also: this whole story unit can be a great quote about Haiti; and how her experience in jail participates in this tension of wanting to both remember and forget Haiti. Negative though beause of prison experience.,0:00:58,,
-2,192,1:45:55,1:46:00,3:08:57,3:09:02,none,Jonathan (interviewer),Comments that the tree in the prison seems important.,,,,,,,,,,0:00:05,,
-2,193,1:46:00,1:46:47,3:09:02,3:09:49,Pénitentier National; Port-au-Prince; Haiti,Elizabeth,Describes that the tree in the prison broke of the monotony of the prison landscape. The almond tree also apparently talked to the prisoners and helped them live. ,very local,,,+,,,1969 - 1973,,this whole story unit is a great quote for a positive experience of prison.,0:00:47,,
-2,194,1:46:47,1:49:17,3:09:49,3:12:19,Haiti; Montreal,Elizabeth,Says that its better for her to hold onto the memories of good haitian food; music; etc. adapting to a new country without forgetting core values.  Talks about losing part of her youth in prison; leaving her home country and travelling; and coping with those difficult memories. ,city / area,,,,,,,,Stef: no chronology because reflection. Also; I think this whole unit is a good quote about adapting and changing countries.,0:02:30,,
-2,195,1:49:17,1:49:25,3:12:19,3:12:27,Haiti,Jonathan (interviewer),Asks whether she considers herself from an urban or rural place.,country,,,,,,,,,0:00:08,,
-2,196,1:49:25,1:50:13,3:12:27,3:13:15,Haiti,Elizabeth; her family,Despite her coming from the city; her family had worked the earth; they were peasants.,country,,,,,,1928 - 1948,,chrono here is assumed average of 20 years of life of parents prior to birth of elizabeth,0:00:48,,
-2,197,1:50:13,1:50:14,3:13:15,3:13:16,none,Jonathan (interviewer),Asks where her father is from.,,,,,,,,,,0:00:01,,
-2,198,1:50:14,1:50:36,3:13:16,3:13:38,Haiti,Elizabeth's parents,Her father is from Grande Riviere du Nord; her mother from Jacmel. ,country,,,,,,,,chronology unknown.,0:00:22,,
-2,199,1:50:36,1:50:38,3:13:38,3:13:40,none,Jonathan (interviewer),Asks if she would visit her grandparents.,,,,,,,,,,0:00:02,,
-2,200,1:50:38,1:51:51,3:13:40,3:14:53,Grande Riviere du Nord; Haiti,Elizabeth; Joseph Philibert; grandmother,During vacation; she would go spend a month and a half at her father's mother's place. They would live off the land. She also saw rural trade first-hand. ,city / area,,,,,,1948 - 1968,presumed at various times during childhood; adolescence,,0:01:13,,
-2,201,1:51:51,1:51:56,3:14:53,3:14:58,none,Jonathan (interviewer),Comments that the summer for her was the countryside.,,,,,,,,,,0:00:05,,
-2,202,1:51:56,1:52:21,3:14:58,3:15:23,Grande Riviere du Nord; Haiti,Elizabeth,Yes; and all the nature that resides there. It made her strong.,city / area,,,+,,,1948 - 1968,presumed at various times during childhood; adolescence,Stef: only thing kind of different is topic; but I would lump this with previous section; since same place and time; and pretty much same topic for our purposes. Quoted story unit because she describes that her experience in this place at this time made her strong.,0:00:25,,
-2,203,1:52:21,1:52:32,3:15:23,3:15:34,Haiti,Jonathan (interviewer),Asks if she when she thinks of Haiti she thinks of the city or the countryside.,country,,,,,,,,,0:00:11,,
-2,204,1:52:32,1:52:55,3:15:34,3:15:57,Haiti,Elizabeth,"When reminiscing; ""you think of it all. They are inseparable. """,city / area,,,,,,2009,,reminiscing; this is looking back. Stef: Story unit about Haiti because she talks about reminiscing of Haiti.,0:00:23,,
-2,205,1:52:55,1:53:35,3:15:57,3:16:37,Mexico City; Chile; Cuba,Elizabeth,She goes over the years of migration and upset that followed that stage of tranquillity in her life in Haiti. Communist party involvement; prison; forced emigration; her stay in mexico city; chile; and then eventual move to Cuba.,,,,,yes,,1969,1969 until her settling down in mtl,Stef: story unit about her migration. I would treat as journey; but not sure how to mark it in the table; for the purposes of mapping; what is the most effective. Maybe more effective in mentioned column.. ,0:00:40,,
-2,206,1:53:35,1:53:38,3:16:37,3:16:40,none,Jonathan (interviewer),Refers to her presence in a Haitian political journal. Asks if she can elaborate on her exchange with an american ambassador during that time.,,,,,,,,,,0:00:03,,
-2,207,1:53:38,1:55:17,3:16:40,3:18:19,Pénitentier National; Port-au-Prince; Haiti,Elizabeth, She doesn't want to talk about it. She leaves that end of the story to the person in question. But all that was important about the story to her was getting out of prison. And getting back to her life. ,very local,,,,,,1973,beginning of 1973 presumed release,location of story here is questionable. Could be just Haiti; since the story takes place btwn prison and airport presumably. The date of her release is only said to be in 1973; but based on months mentioned spent in chile; it could be noted as the very beginning of 1973 in january,0:01:39,,
-2,208,1:55:17,1:55:26,3:18:19,3:18:28,none,Jonathan (interviewer),Asks if she speaks spanish.,,,,,,,,,,0:00:09,,
-2,209,1:55:26,1:55:33,3:18:28,3:18:35,none,Elizabeth,A bit; but she forgets most of her spanish,city / area,,,,,,2009,,,0:00:07,,
-2,210,1:55:33,#REF!,3:18:35,3:18:38,Mexico City; Mexico,Jonathan (interviewer),Asks about her arrival in Mexico.,country,,,,,,,,,0:00:03,,
-2,211,1:55:36,1:56:33,3:18:38,3:19:35,Mexico City; Mexico,Elizabeth,"She describes her impressions of Mexico. thought it was freedom; but was not. Very restrained in where they could go; describes it as a ""golden prison"". Eventually they went to Chile.",city / area,,,"""-""",yes,,Jan-73,,January is inferred since she states she was in Chile by February-march 1973; and was in Mexico for the two months prior. However she was released in 1973. so it must be the very beginning of 1973. Stef: whole unit a good quote describing how she felt in Mexico.,0:00:57,,
-2,212,1:56:33,1:59:56,3:19:35,3:22:58,Chile,Elizabeth,Describes her more positive experience of Chile; including stipends from Allende; how she felt free because she could buy things. Also because she could circulate freely. Describes that there was still persecution against anti-Allende; and that haitian refugees were targeted because they looked different. Went to Cuba after this.,country,,,"""+""",yes,,February 1973 - March 1973,,Stef: great quote about how she felt in Chile. ,0:03:23,,
-2,213,1:59:22,1:59:27,3:22:24,3:22:29,Chile,Jonathan (interviewer),Asks if she left Chile because of the political pressure or for personal reasons.,,,,,,,,,,0:00:05,,
-2,214,1:59:27,1:59:56,3:22:29,3:22:58,Chile,Elizabeth,One should also note that there was turbulence in the allende gov. They felt it coming. All this happened in Feb-March 1973; the same year as the coup. So the group split.,country,,,,,,February 1973 - March 1973,,the dates she stayed in chile mentioned here will be added to all other story units in chile,0:00:29,,
-2,215,1:59:56,2:00:00,3:22:58,3:23:02,Cuba,Jonathan (interviewer),Asks why she wanted to go to Cuba.,country,,,,,,,,Stef: Spatial question.,0:00:04,,
-2,216,2:00:00,2:00:30,3:23:02,3:23:32,Cuba,Elizabeth; haitian refugees.,It was for the other refugees. They really wanted to go to Cuba. For Elizabeth; it was important for her at the time to witness a socialist country.,country,,,,,,Mar-73,when she went to Cuba,Stef: Story unit about why she wanted to go to Cuba; although this sentiment happened while she was in Chile. I find it more useful for us to consider this a story unit about Cuba then about Chile.,0:00:30,,
-2,217,2:00:30,2:00:36,3:23:32,3:23:38,Cuba,Jonathan (interviewer),Asks about the transition to Cuba.,country,,,,,,,,Stef: Spatial question.,0:00:06,,
-2,218,2:00:36,2:01:04,3:23:38,3:24:06,Cuba; Chile,Elizabeth,Doesn't have much to say about this; doesn't know much about how it happened; as it was more an exchange between governments.,country,,,,,,February 1973 - March 1973,,,0:00:28,,
-2,219,2:01:04,2:01:10,3:24:06,3:24:12,Cuba,Jonathan (interviewer),Asks about her first impressions of Cuba; on the first day(s).,country,,,,,,,,Stef: Spatial question.,0:00:06,,
-2,220,2:01:10,2:02:50,3:24:12,3:25:52,Cuba,Elizabeth,Cubans were like aliens upon first impression. Elizabeth and co. were very well received. Before letting them circulate and be free; they gave them serious medical attention. Which was important given the fact they'd been in prison for so long. ,country,,,,,,Apr-73,after feb-march in chile,Stef: quote because good description of her experience being received in Cuba.,0:01:40,,
-2,221,2:02:50,2:02:56,3:25:52,3:25:58,none,Jonathan (interviewer),Asks who welcomed / hosted her.,,,,,,,,,,0:00:06,,
-2,222,2:02:56,2:04:36,3:25:58,3:27:38,Cuba,Elizabeth; second daughter,They got the same welcome as in Chile. There was an organisation that welcomed and coordinated their integration. They were shown how the country worked; given a booklet to guide purchases. Because of the embargo; things were limited. Its also where she had her second daughter.,country,,,,,,1973,,,0:01:40,,
-2,223,2:04:36,2:05:11,3:27:38,3:28:13,Cuba,Elizabeth; Daniel Josieux Bernard; Yannick (daughter),She had a great life with her second partner. It is with him that she had her second daughter; Danielle Yannick Bernard. ,country,,,,,,1973 - 1978,in cuba with partner,,0:00:35,,
-2,224,2:05:11,2:05:14,3:28:13,3:28:16,Mexico,Jonathan (interviewer),"""So you met eachother in Mexico?""",country,,,,,,,,,0:00:03,,
-2,225,2:05:14,2:06:28,3:28:16,3:29:30,Pénitentier National; Port-au-Prince; Haiti,Elizabeth; Daniel Josieux Bernard,Describes how men and women were separated in prison.,very local,,,,,,1969 - 1973,during stay in prison,,0:01:14,,
-2,226,2:06:28,2:06:33,3:29:30,3:29:35,Mexico City; Mexico,Elizabeth; Daniel Josieux Bernard,gets to finally meet Daniel Bernard on the plane to Mexico city. ,city / area,Journey 1 ,plane,,,,Jan-73,before her stay in mexico; after her release from penitentiary,January is inferred since she states she was in Chile by February-march 1973; and was in Mexico for the two months prior. However she was released in 1973. so it must be the very beginning of 1973. Referring back to Journey 1.,0:00:05,,
-2,227,2:06:33,2:07:21,3:29:35,3:30:23,Chile; Cuba,Elizabeth; Daniel Josieux Bernard,They end up doing Chile and Cuba together. It was a way for her to prove her existence. Having a child too was a way of affirming her presence on earth.,,,,,,,1973 - 1979,,,0:00:48,,
-2,228,2:07:21,2:07:24,3:30:23,3:30:26,none,Jonathan (interviewer),Comments that this was a political romance.,,,,,,,,,,0:00:03,,
-2,229,2:07:24,2:07:50,3:30:26,3:30:52,none,Elizabeth,She saw so many couples form and break over the years. There are sincere political romances she's experienced that came and went. ,,,,,,,,,Stef: no chrono because general observations.,0:00:26,,
-2,230,2:07:50,2:07:51,3:30:52,3:30:53,Cuba,Jonathan (interviewer),Asks where they settled in Cuba.,country,,,,,,,,,0:00:01,,
-2,231,2:07:51,2:08:08,3:30:53,3:31:10,Havana; Cuba,Elizabeth; Daniel Josieux Bernard,We integrated right into cuban life. Lived in Havana in a hotel,city / area,,,,,,1973 - 1978,during life in cuba and before Daniel's death,,0:00:17,,
-2,232,2:08:08,2:08:22,3:31:10,3:31:24,Havana; Cuba,Elizabeth; Daniel Josieux Bernard,"then were given a house in a neighborhood just outside Havana: ""La Mar""",city / area,,,,,,1973 - 1979,presumed a year or two after settling in in 1973,Emory: La Mar is unclear. She's either just referring to the sea in spanish; because that's what she knew it as; or it's an unfindable area online. If it is the former; than it should just remain havana for the story units and no mention in mentions. Stef: I would keep this as Havana.,0:00:14,,
-2,233,2:08:22,2:08:24,3:31:24,3:31:26,Havana; Cuba,Jonathan (interviewer),Asks about life at La Mar.,,,,,,,,,,0:00:02,,
-2,234,2:08:24,2:08:51,3:31:26,3:31:53,Santa Maria Del Mar; Cuba,Elizabeth,Positive experiences. She worked at the hotel santa Maria del Mar. Daniel worked at a Cuban newspaper,very local,,,+,,,1973 - 1978,during life in cuba and before Daniel's death,Emory: the beginning and end time of her work here is rounded down and up to her arrival and departure from cuba since this information is unknown. Stef: location is not geolocatable with google or geonames. ,0:00:27,,
-2,235,2:08:51,2:08:53,3:31:53,3:31:55,none,Jonathan (interviewer),Prompts about his writing.,,,,,,,,,,0:00:02,,
-2,236,2:08:53,2:11:51,3:31:55,3:34:53,Cuba,Elizabeth; Daniel Josieux Bernard,Talks about her husband; and life in Cuba.,country,,,,,,1973 - 1978,,,0:02:58,,
-2,237,2:11:51,2:12:00,3:34:53,3:35:02,Cuba,Elizabeth,She was involved in the fédération des femmes cubaines. ,country,,,,,,1973 - 1979,,,0:00:09,,
-2,238,2:12:00,2:12:04,3:35:02,3:35:06,none,Jonathan (interviewer),Comments that she seems to have remained a militant.,,,,,,,,,,0:00:04,,
-2,239,2:12:04,2:12:57,3:35:06,3:35:59,Cuba,Elizabeth,Describes that she began to understand women's issues in Cuba. ,country,,,,,,1973 - 1979,,,0:00:53,,
-2,240,2:12:57,2:14:15,3:35:59,3:37:17,Cuba,Elizabeth; Daniel Josieux Bernard,Describes the death of her husband.,country,,,,,,1978,during her husband's downfall,,0:01:18,,
-2,241,2:14:15,2:14:40,3:37:17,3:37:42,Cuba,Elizabeth,She spent a year in Cuba following Daniel's death. She chose to go to Canada based on its proximity to friends and family who couldn't visit her in Cuba and it's proximity to Haiti. ,country,,,,,,1979,,,0:00:25,,
-2,242,2:14:40,2:14:57,3:37:42,3:37:59,Montreal; Canada,Jonathan (interviewer),"Suggests she was closer to Haiti in Montreal than in Havana.""",city / area,,,,,,,,,0:00:17,,
-2,243,2:14:57,2:15:08,3:37:59,3:38:10,none,Elizabeth,At the time; yes; but now Haiti has good relations with Cuba.,,,,,,,2009,the time of the interview,"refers to ""current times""",0:00:11,,
-2,244,2:15:08,2:16:05,3:38:10,3:39:07,Montreal; Canada,Elizabeth; Max Chancy; Yannick (daughter),She intended to try out Canada with her daughter Yannick. Max Chancy; a friend very close to her and her first mate (Devilme); and many other friends allowed her to adapt to Montreal life.,city / area,,,,,,1979,1979 and the years that followed,,0:00:57,,
-2,245,2:16:05,2:16:05,3:39:07,3:39:07,none,Jonathan (interviewer),Asks if Max Chancy is a haitian from Montreal,,,,,,,,,,0:00:00,,
-2,246,2:16:05,2:16:40,3:39:07,3:39:42,Montreal; Canada,Elizabeth; Max Chancy,Describes Max Chancy - a man who was very involved with the first wave of immigration of Haitians to Montreal; before he died.,,,,,,,2009,,,0:00:35,,
-2,247,2:16:40,2:16:58,3:39:42,3:40:00,Montreal; Canada,Elizabeth,So it was with all these people that she was able to integrate in Montreal. ,city / area,,,,,,1979,1979 and the years that followed,,0:00:18,,
-2,248,2:16:58,2:17:17,3:40:00,3:40:19,Haiti; Cuba; Montreal,Jonathan (interviewer),Asks about her impressions about the Haiti / Cuba / Montreal triangle.,,,,,,,,,,0:00:19,,
-2,249,2:17:17,2:20:50,3:40:19,3:43:52,Haiti; Cuba; Montreal,Elizabeth,There isn't much comparison to be made. Aside from Cuba's economic system; there are a lot of similarities; food; etc. Culturally; it’s the same.  There are so many haitians in Cuba; so she was still in a haitian environment. So this triangle is equilateral. Cuba to Canada was a smooth transition and a natural one. Being in Quebec is like being in Haiti's backyard. She discusses her life in the Montreal-haitian community ,,,,,,,,,Stef: I would quote this entire story unit as a great synthesis of her impressions of being in these 3 places; and comparing them.,0:03:33,,
-2,250,2:20:50,2:22:13,3:43:52,3:45:15,Montreal; Cuba,Elizabeth,Compares Mtl-Cuba. The similarities in the healthcare system. Education too; it's free. University costs a bit more. ,city / area,,,,,,,, ,0:01:23,,
-2,251,2:22:13,2:22:19,3:45:15,3:45:21,Montreal; Cuba,Jonathan (interviewer),Asks which political system she prefers.,,,,,,,,,,0:00:06,,
-2,252,2:22:19,2:24:29,3:45:21,3:47:31,none,Elizabeth,There is no grand theory that can overrule everything. There needs to be a balance; and counterforce; as she's seen in Canada. She cannot comment any further.,city / area,,,,,,,,Emory: reflection done in the present time and space. Stef: method changed; keeping chrono blank for reflections. Also: general reflection on political systems; so no location in particular.,0:02:10,,
-2,253,2:24:29,2:28:06,3:47:31,3:51:08,Montreal; Canada; Cuba,Elizabeth; Yannick (second daughter),She is on another planet in Montreal. She had to readapt to a different political system; away from a socialist one. Describes how her second daughter had more difficulty at 5 yrs old adapting; giving examples.,city / area,,,,,,1979,1979 and the years that followed,Stef: good quote about when she arrived in MTL; after having been in Cuba. Another example of 1 unit about multiple locations.,0:03:37,,
-2,254,2:28:06,2:29:02,3:51:08,3:52:04,Montreal; Canada,Elizabeth,So she did the transfer without being shocked; in tranquillity. And especially thanks to her friends; people she already knew from haiti. ,city / area,,,,,,1979,1979 and the years that followed,Stef: I would include this in the previous section. Yes; could be discrete because of subject but for our purposes can be all in 1 unit; because the same story theme with respect to time and space. This story unit is a great quote also to describe her transition between cuba and Montreal; and why it was positive.,0:00:56,,
-,,,,,,,,,,,,,,,,,,3:52:31,0:29:04,0:21:28
+id,Session #,Story unit #,Clip Time start (h:mm:ss),Clip Time end (h:mm:ss),Cumulative Time Start (h:mm:ss),Cumulative Time End (h:mm:ss),Atlascine-location,Location,Scale,Journey
+1,1,1,0:00:00,0:00:20,0:00:00,0:00:20,_end,none,,
+2,1,2,0:00:20,0:00:35,0:00:20,0:00:35,Cuba,Cuba,country,
+3,1,3,0:00:35,0:01:25,0:00:35,0:01:25,"Pétionville, Haiti",Pétionville; Haiti,local,
+4,1,4,0:01:25,0:01:40,0:01:25,0:01:40,_end,none,,
+5,1,5,0:01:40,0:02:00,0:01:40,0:02:00,"Pétionville, Haiti",Pétionville; Haiti,local,
+6,1,6,0:02:03,0:02:06,0:02:03,0:02:06,"Institut George Marc, Port-au-Prince, Haiti",Institut George Marc; Port-au-Prince; Haiti,very local,
+7,1,7,0:02:06,0:02:30,0:02:06,0:02:30,"College Fernand Prosper, Port-au-Prince, Haiti",College Fernand Prosper; Port-au-Prince; Haiti,very local,
+8,1,8,0:02:32,0:02:38,0:02:32,0:02:38,_end,none,,
+9,1,9,0:02:39,0:02:59,0:02:39,0:02:59,_end,none,,
+10,1,10,0:03:00,0:04:27,0:03:00,0:04:27,"Pétionville, Haiti",Pétionville; Haiti,local,
+11,1,11,0:04:27,0:04:39,0:04:27,0:04:39,_end,none,,
+12,1,12,0:04:39,0:07:30,0:04:39,0:07:30,"Pétionville, Haiti",Pétionville; Haiti,local,
+13,1,13,0:07:30,0:09:23,0:07:30,0:09:23,"Bristou, Pétionville, Haiti",Bristou; Pétionville; Haiti,local,
+14,1,14,0:09:23,0:11:00,0:09:23,0:11:00,"Casale, Haiti",Casale; Haiti,city / area,
+15,1,15,0:11:00,0:13:40,0:11:00,0:13:40,"Fontamara, Port-au-Prince, Haiti",Fontamara; Port-au-Prince; Haiti,Local,
+16,1,16,0:13:40,0:16:30,0:13:40,0:16:30,"Fontamara, Port-au-Prince, Haiti",Fontamara; Port-au-Prince; Haiti,local,
+17,1,17,0:16:30,0:20:00,0:16:30,0:20:00,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,
+18,1,18,0:20:00,0:20:57,0:20:00,0:20:57,"Casernes Dessalines, Port-au-Prince, Haiti",Caserne Dessalines; Port-au-Prince; Haiti,very local,
+19,1,19,0:20:57,0:21:07,0:20:57,0:21:07,"Rue Nazon, Port-au-Prince, Haiti",Ruelle Nazon; Port-au-Prince; Haiti,local,
+20,1,20,0:21:07,0:21:35,0:21:07,0:21:35,"Cap-Haitien, Haiti",Cap-Haitien; Haiti,city / area,
+21,1,21,0:21:35,0:23:18,0:21:35,0:23:18,"Casernes Dessalines, Port-au-Prince, Haiti",Caserne Dessalines; Port-au-Prince; Haiti,very local,
+22,1,22,0:23:18,0:25:35,0:23:18,0:25:35,"Casernes Dessalines, Port-au-Prince, Haiti",Caserne Dessalines; Port-au-Prince; Haiti,very local,
+23,1,23,0:25:35,0:26:53,0:25:35,0:26:53,"Pénitentier National, Port-au-Prince, Haiti",Pénitentier National; Port-au-Prince; Haiti,very local,
+24,1,24,0:26:53,0:27:00,0:26:53,0:27:00,"Pénitentier National, Port-au-Prince, Haiti",Pénitentier National; Port-au-Prince; Haiti,very local,
+25,1,25,0:27:00,0:29:05,0:27:00,0:29:05,"Pénitentier National, Port-au-Prince, Haiti",Pénitentier National; Port-au-Prince; Haiti,very local,
+26,1,26,0:29:05,0:31:30,0:29:05,0:31:30,"Fatima Maternity Hospital, Port-au-Prince, Haiti",Fatima Maternity Hospital; Port-au-Prince; Haiti,very local,
+27,1,27,0:31:30,0:37:40,0:31:30,0:37:40,"Pénitentier National, Port-au-Prince, Haiti",Pénitentier National; Port-au-Prince; Haiti,very local,
+28,1,28,0:37:40,0:39:17,0:37:40,0:39:17,"Pénitentier National, Port-au-Prince, Haiti",Pénitentier National; Port-au-Prince; Haiti,very local,
+29,1,29,0:39:17,0:43:40,0:39:17,0:43:40,"Pénitentier National, Port-au-Prince, Haiti",Pénitentier National; Port-au-Prince; Haiti,very local,
+30,1,30,0:43:40,0:43:52,0:43:40,0:43:52,"Pénitentier National, Port-au-Prince, Haiti",Pénitentier National; Port-au-Prince; Haiti,very local,
+31,1,31,0:43:52,0:49:15,0:43:52,0:49:15,"Pénitentier National, Port-au-Prince, Haiti",Pénitentier National; Port-au-Prince; Haiti,very local,
+32,1,32,0:49:15,0:50:50,0:49:15,0:54:59,"Pénitentier National, Port-au-Prince, Haiti; Caserne Dessalines, Port-au-Prince, Haiti; Toussaint Louverture International Airport, Haiti; Mexico city, Mexico",Pénitentier National; Port-au-Prince; Haiti,very local,journey 1 (begin)
+33,1,33,0:50:50,0:52:00,,,,Caserne Dessalines; Port-au-Prince; Haiti,very local,journey 1 
+34,1,34,0:52:00,0:52:50,,,,Toussaint Louverture International Airport; Haiti,very local,journey 1 
+35,1,35,0:52:50,0:54:59,,,,Mexico city; Mexico  ,very local,journey 1 (end) 
+36,1,36,0:54:59,0:55:46,0:54:59,0:55:46,Chile,Chile,country,
+37,1,37,0:55:46,0:56:00,0:55:46,0:56:00,_end,none,,
+38,1,38,0:56:00,0:56:34,0:56:00,0:56:34,Chile,Chile,country,
+39,1,39,0:56:34,0:56:54,0:56:34,0:56:54,Chile,Chile,country,
+40,1,40,0:56:54,0:58:10,0:56:54,0:58:10,Cuba,Cuba,country,
+41,1,41,0:58:10,1:00:00,0:58:10,1:00:00,Cuba,Cuba,country,
+42,1,42,1:00:00,1:00:24,1:00:00,1:00:24,Canada,Canada,country,
+43,1,43,1:00:24,1:00:33,1:00:24,1:00:33,_end,none,,
+44,1,44,1:00:33,1:01:20,1:00:33,1:01:20,"Pénitentier National, Port-au-Prince, Haiti",Pénitentier National; Port-au-Prince; Haiti; Mexico City;  Chile; Cuba,country,
+45,,,,,1:00:33,1:01:20,"Mexico City, Mexico",,city / area,
+46,,,,,1:00:33,1:01:20,Chile,,country,
+47,,,,,1:00:33,1:01:20,Cuba,,country,
+48,1,45,1:01:20,1:01:30,1:01:20,1:01:30,Cuba,Cuba,country,
+49,1,46,1:01:30,1:01:32,1:01:30,1:01:32,_end,none,,
+50,1,47,1:01:32,1:01:46,1:01:32,1:01:46,"Fontamara, Port-au-Prince, Haiti",Fontamara; Port-au-Prince; Haiti,local,
+51,1,48,1:01:46,1:02:00,1:01:46,1:02:00,_end,none,,
+52,1,49,1:02:00,1:02:30,1:02:00,1:02:30,_end,none,,
+53,1,50,1:02:30,1:02:32,1:02:30,1:02:32,Canada,Canada,country,
+54,1,51,1:02:32,1:03:24,1:02:32,1:03:24,"Montreal, Canada",Montreal; Canada,country,
+55,1,52,1:03:24,1:03:44,1:03:24,1:03:44,_end,none,,
+56,1,53,1:03:44,1:06:15,1:03:44,1:06:15,"Fontamara, Port-au-Prince, Haiti",Fontamara; Port-au-Prince; Haiti,local,
+57,1,54,1:06:15,1:06:28,1:06:15,1:06:28,"Montreal, Canada",Montreal; Canada,city / area,
+58,1,55,1:06:28,1:07:53,1:06:28,1:07:53,"Montreal, Canada",Montreal; Canada,city / area,
+59,1,56,1:07:53,1:08:00,1:07:53,1:08:00,"Quebec, Canada",Quebec; Canada,region,
+60,1,57,1:08:00,1:10:22,1:08:00,1:10:22,"Quebec, Canada",Quebec; Canada,region,
+61,1,58,1:10:22,1:10:31,1:10:22,1:10:31,"Montreal, Canada",Montreal; Canada,city / area,
+62,1,59,1:10:31,1:11:37,1:10:31,1:11:37,"Montreal, Canada",Montreal; Canada,city / area,
+63,1,60,1:11:37,1:11:42,1:11:37,1:11:42,"Montreal, Canada",Montreal; Canada,country,
+64,1,61,1:11:42,1:12:30,1:11:42,1:12:30,"Maison D'Haïti, Montreal, Canada",Maison D'Haïti; Montreal; Canada,very local,
+65,1,62,1:12:30,1:12:36,1:12:30,1:12:36,_end,none,,
+66,1,63,1:12:36,1:13:00,1:12:36,1:13:00,Cuba,Cuba,country,
+67,1,64,1:13:00,1:14:00,1:13:00,1:14:00,"Montreal, Canada",Montreal; Canada,city / area,
+68,1,65,1:14:00,1:15:20,1:14:00,1:15:20,Haiti,Haiti; Montreal,country,
+69,,,,,1:14:00,1:15:20,"Montreal, Canada",,city / area,
+70,1,66,1:15:20,1:17:06,1:15:20,1:17:06,_end,none,,
+71,1,67,1:17:06,1:21:36,1:17:06,1:21:36,_end,none,,
+72,1,68,1:21:36,1:22:08,1:21:36,1:22:08,_end,none,,
+73,1,69,1:22:08,1:23:02,1:22:08,1:23:02,_end,none,,
+74,2,70,0:00:00,0:00:40,1:23:02,1:23:42,Haiti,Haiti,country,
+75,2,71,0:00:40,0:02:19,1:23:42,1:25:21,"Montreal, Canada",Montreal; Canada,city / area,
+76,2,72,0:02:19,0:03:20,1:25:21,1:26:22,Cuba,Cuba; Haiti,country,
+77,,,,,1:25:21,1:26:22,Haiti,,country,
+78,2,73,0:03:20,0:03:55,1:26:22,1:26:57,"Moscow, Russia",Moscow; Russia,city / area,
+79,2,74,0:03:55,0:04:05,1:26:57,1:27:07,_end,none,,
+80,2,75,0:04:05,0:06:15,1:27:07,1:29:17,"Montreal, Canada",Montreal; Canada,city / area,
+81,2,76,0:06:15,0:07:26,1:29:17,1:30:28,Haiti,Haiti; Montreal,country,
+82,,,,,1:29:17,1:30:28,"Montreal, Canada",,city / area,
+83,2,77,0:07:26,0:07:27,1:30:28,1:30:29,"Montreal, Canada",Montreal; Canada,city / area,
+84,2,78,0:07:27,0:08:15,1:30:29,1:31:17,"Montreal, Canada",Montreal; Canada,city / area,
+85,2,79,0:08:15,0:08:43,1:31:17,1:31:45,Haiti,Haiti; Cuba; Montreal,country,
+86,2,80,0:08:43,0:09:00,1:31:45,1:32:02,Cuba,Cuba,country,
+87,2,81,0:09:00,0:09:17,1:32:02,1:32:19,"Montreal, Canada",Montreal; Canada,city / area,
+88,2,82,0:09:17,0:11:00,1:32:19,1:34:02,"Montreal, Canada",Montreal; Canada,city / area,
+89,2,83,0:11:00,0:11:25,1:34:02,1:34:27,"Pierre Elliott Trudeau International Airport, Montreal, Canada",Pierre Elliott Trudeau International Airport; Montreal; Canada,very local,
+90,2,84,0:11:25,0:12:00,1:34:27,1:35:02,"Montreal, Canada",Montreal; Canada,city / area,
+91,2,85,0:12:00,0:12:06,1:35:02,1:35:08,_end,none,,
+92,2,86,0:12:06,0:13:19,1:35:08,1:36:21,"Pierre Elliott Trudeau International Airport, Montreal, Canada",Pierre Elliott Trudeau International Airport; Montreal; Canada,very local,
+93,2,87,0:13:19,0:13:34,1:36:21,1:36:36,"Montreal, Canada",Montreal; Canada,city / area,
+94,2,88,0:13:34,0:14:40,1:36:36,1:37:42,Cuba,Cuba,country,
+95,2,89,0:14:40,0:14:47,1:37:42,1:37:49,"Montreal, Canada",Montreal; Canada,city / area,
+96,2,90,0:14:47,0:16:43,1:37:49,1:39:45,"Montreal, Canada",Montreal; Canada,city / area,
+97,2,91,0:16:43,0:16:47,1:39:45,1:39:49,_end,none,,
+98,2,92,0:16:47,0:18:46,1:39:49,1:41:48,"Montreal, Canada",Montreal; Canada,city / area,
+99,2,93,0:18:46,0:18:49,1:41:48,1:41:51,_end,none,,
+100,2,94,0:18:49,0:19:56,1:41:51,1:42:58,"Pierre Elliott Trudeau International Airport, Montreal, Canada",Pierre Elliott Trudeau International Airport; Montreal; Canada,city / area,
+101,2,95,0:19:56,0:20:00,1:42:58,1:43:02,"Pierre Elliott Trudeau International Airport, Montreal, Canada",Pierre Elliott Trudeau International Airport; Montreal; Canada,very local,
+102,2,96,0:20:00,0:21:49,1:43:02,1:44:51,_end,none,,
+103,2,97,0:21:49,0:23:06,1:44:51,1:46:08,Haiti,Haiti,country,
+104,2,98,0:23:06,0:23:10,1:46:08,1:46:12,"Montreal, Canada",Montreal; Canada,city / area,
+105,2,99,0:23:10,0:23:45,1:46:12,1:46:47,"Montreal, Canada",Montreal; Canada,city / area,
+106,2,100,0:23:45,0:23:50,1:46:47,1:46:52,"Commission des droits de la personne et des droits de la jeunesse, Montreal, Canada",Commission des droits de la personne et des droits de la jeunesse; Montreal; Canada,very local,
+107,2,101,0:23:50,0:23:57,1:46:52,1:46:59,"Commission des droits de la personne et des droits de la jeunesse, Montreal, Canada",Commission des droits de la personne et des droits de la jeunesse; Montreal; Canada,very local,
+108,2,102,0:23:57,0:23:59,1:46:59,1:47:01,"Commission des droits de la personne et des droits de la jeunesse, Montreal, Canada",Commission des droits de la personne et des droits de la jeunesse; Montreal; Canada,very local,
+109,2,103,0:23:59,0:24:33,1:47:01,1:47:35,"Commission des droits de la personne et des droits de la jeunesse, Montreal, Canada",Commission des droits de la personne et des droits de la jeunesse; Montreal; Canada,very local,
+110,2,104,0:24:33,0:24:40,1:47:35,1:47:42,_end,none,,
+111,2,105,0:24:40,0:25:39,1:47:42,1:48:41,"Montreal, Canada",Montreal; Canada,city / area,
+112,2,106,0:25:39,0:25:49,1:48:41,1:48:51,"Montreal, Canada",Montreal; Canada,city / area,
+113,2,107,0:25:49,0:27:45,1:48:51,1:50:47,"Quebec, Canada",Quebec; Canada,region,
+114,,108,0:27:45,0:29:03,1:50:47,1:52:05,"Quebec, Canada",Quebec; Canada,region,
+115,2,109,0:29:03,0:29:19,1:52:05,1:52:21,_end,none,,
+116,2,110,0:29:19,0:31:04,1:52:21,1:54:06,"Montreal, Canada",Montreal; Canada,city / area,
+117,2,111,0:31:04,0:31:16,1:54:06,1:54:18,_end,none,,
+118,2,112,0:31:16,0:34:35,1:54:18,1:57:37,"Quebec, Canada",Quebec; Canada,region,
+119,2,113,0:34:35,0:34:39,1:57:37,1:57:41,_end,none,,
+120,2,114,0:34:39,0:35:35,1:57:41,1:58:37,"Quebec, Canada",Quebec; Canada,region,
+121,2,115,0:35:35,0:35:39,1:58:37,1:58:41,"Quebec, Canada",Quebec; Canada,region,
+122,2,116,0:35:39,0:39:15,1:58:41,2:02:17,"Quebec, Canada",Quebec; Haiti,region,
+123,,,,,1:58:41,2:02:17,Haiti,,country,
+124,2,117,0:39:15,0:39:46,2:02:17,2:02:48,"Quebec, Canada",Quebec; Canada,region,
+125,2,118,0:39:46,0:41:02,2:02:48,2:04:04,"Quebec, Canada",Quebec; Canada,region,
+126,2,119,0:41:02,0:41:16,2:04:04,2:04:18,_end,none,,
+127,2,120,0:41:16,0:42:50,2:04:18,2:05:52,"Montreal, Canada",Montreal; Canada,city / area,
+128,2,121,0:42:50,0:42:53,2:05:52,2:05:55,_end,none,,
+129,2,122,0:42:53,0:43:30,2:05:55,2:06:32,"Quebec, Canada",Quebec; Canada,region,
+130,,123,0:43:30,0:44:15,2:06:32,2:07:17,Haiti,Haiti,country,
+131,2,124,0:44:15,0:44:20,2:07:17,2:07:22,Haiti,Haiti,country,
+132,2,125,0:44:20,0:46:30,2:07:22,2:09:32,Haiti,Haiti,country,
+133,2,126,0:46:30,0:46:40,2:09:32,2:09:42,Haiti,Haiti,country,
+134,2,127,0:46:40,0:48:01,2:09:42,2:11:03,"Montreal, Canada",Montreal; Canada,city / area,
+135,2,128,0:48:01,0:48:04,2:11:03,2:11:06,Haiti,Haiti,country,
+136,2,129,0:48:04,0:48:17,2:11:06,2:11:19,Haiti,Haiti,country,
+137,2,130,0:48:17,0:48:20,2:11:19,2:11:22,"Paris, France",Paris; France,city / area,
+138,2,131,0:48:20,0:48:23,2:11:22,2:11:25,"Paris, France",Paris; France,city / area,
+139,2,132,0:48:23,0:48:32,2:11:25,2:11:34,_end,none,,
+140,2,133,0:48:32,0:49:03,2:11:34,2:12:05,"Montreal, Canada",Montreal; Canada,city / area,
+141,2,134,0:49:03,0:49:14,2:12:05,2:12:16,_end,none,,
+142,2,135,0:49:14,0:52:14,2:12:16,2:15:16,_end,none,,
+143,2,136,0:52:14,1:01:04,2:15:16,2:24:06,"Montreal, Canada",Montreal; Canada,local,
+144,2,137,1:01:04,1:01:07,2:24:06,2:24:09,"Montreal, Canada",Montreal; Canada,city / area,
+145,2,138,1:01:07,1:02:04,2:24:09,2:25:06,"Montreal, Canada",Montreal; Canada,city / area,
+146,2,139,1:02:04,1:02:06,2:25:06,2:25:08,"Montreal, Canada",Montreal; Canada,city / area,
+147,2,140,1:02:06,1:02:12,2:25:08,2:25:14,"Côte-des-Neiges, Montreal, Canada",Côte-des-Neiges; Montreal; Canada,city / area,
+148,2,141,1:02:12,1:02:15,2:25:14,2:25:17,"Côte-des-Neiges, Montreal, Canada",Côte-des-Neiges; Montreal; Canada,city / area,
+149,2,142,1:02:15,1:03:18,2:25:17,2:26:20,"Côte-des-Neiges, Montreal, Canada",Côte-des-Neiges; Montreal; Canada,local,
+150,2,143,1:03:18,1:03:23,2:26:20,2:26:25,"Côte-des-Neiges, Montreal, Canada",Côte-des-Neiges; Montreal; Canada,local,
+151,2,144,1:03:23,1:05:42,2:26:25,2:28:44,"Côte-des-Neiges, Montreal, Canada",Côte-des-Neiges; Montreal; Canada; Renaud Bray,local,
+152,,,,,2:26:25,2:28:44,"Renaud Bray Côte-des-Neiges, Montreal, Canada",,very local,
+153,2,145,1:05:42,1:06:31,2:28:44,2:29:33,"Montreal, Canada",Montreal; Canada,city / area,
+154,2,146,1:06:31,1:06:46,2:29:33,2:29:48,_end,none,,
+155,2,147,1:06:46,1:09:48,2:29:48,2:32:50,_end,none,,
+156,2,148,1:09:48,1:12:34,2:32:50,2:35:36,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,
+157,2,149,1:12:34,1:12:39,2:35:36,2:35:41,_end,none,,
+158,2,150,1:12:39,1:13:24,2:35:41,2:36:26,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,
+159,2,151,1:13:24,1:13:39,2:36:26,2:36:41,_end,none,,
+160,2,152,1:13:39,1:15:47,2:36:41,2:38:49,Haiti,Haiti,country,
+161,2,153,1:15:47,1:15:57,2:38:49,2:38:59,_end,none,,
+162,2,154,1:15:57,1:18:25,2:38:59,2:41:27,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,
+163,2,155,1:18:25,1:18:49,2:41:27,2:41:51,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,
+164,2,156,1:18:49,1:18:55,2:41:51,2:41:57,_end,none,,
+165,2,157,1:18:55,1:19:33,2:41:57,2:42:35,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,
+166,2,158,1:19:33,1:19:37,2:42:35,2:42:39,_end,none,,
+167,2,159,1:19:37,1:20:14,2:42:39,2:43:16,_end,none,,
+168,2,160,1:20:14,1:20:18,2:43:16,2:43:20,_end,none,,
+169,2,161,1:20:18,1:21:59,2:43:20,2:45:01,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,
+170,2,162,1:21:59,1:22:08,2:45:01,2:45:10,_end,none,,
+171,2,163,1:22:08,1:24:12,2:45:10,2:47:14,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,
+172,2,164,1:24:12,1:24:57,2:47:14,2:47:59,"Fort-Dimanche, Port-au-Prince, Haiti",Fort-Dimanche; Port-au-Prince; Haiti,very local,
+173,2,165,1:24:57,1:25:53,2:47:59,2:48:55,"Pétionville, Haiti",Pétionville; Haiti,local,
+174,2,166,1:25:53,1:26:03,2:48:55,2:49:05,"Pétionville, Haiti",Pétionville; Haiti,local,
+175,2,167,1:26:03,1:26:42,2:49:05,2:50:18,"Institut George Marc, Port-au-Prince, Haiti; Route des Dalles, Port-au-Prince, Haiti; Rue Lalue, Port-au-Prince, Haiti; Pétionville, Haiti",Institut George Marc; Port-au-Prince; Haiti,very local,journey 3 (start)
+176,2,168,1:26:42,1:26:55,,,"Route des Dalles, Port-au-Prince, Haiti",Chemin des Dalles; Port-au-Prince; Haiti,local,journey 3
+177,2,169,1:26:55,1:27:00,,,"Rue Lalue, Port-au-Prince, Haiti",Rue Lalue; Port-au-Prince; Haiti,local,journey 3
+178,2,170,1:27:00,1:27:16,,,"Pétionville, Haiti",Pétionville; Haiti,local,journey 3 (end)
+179,2,171,1:27:16,1:29:39,2:50:18,2:52:41,"Pétionville, Haiti",Pétionville; Haiti; Port-au-Prince,local,
+180,,,,,2:50:18,2:52:41,"Port-au-Prince, Haiti",,city / area,
+181,2,172,1:29:39,1:30:00,2:52:41,2:53:02,"Pétionville, Haiti",Pétionville; Haiti,local,
+182,2,173,1:30:00,1:30:14,2:53:02,2:53:16,Haiti,Haiti,country,
+183,2,174,1:30:14,1:31:28,2:53:16,2:54:30,Haiti,Haiti,country,
+184,2,175,1:31:28,1:31:44,2:54:30,2:54:46,_end,none,,
+185,2,176,1:31:44,1:32:44,2:54:46,2:55:46,"Pétionville, Haiti",Pétionville; Haiti,local,
+186,2,177,1:32:44,1:33:00,2:55:46,2:56:02,_end,none,,
+187,2,178,1:33:00,1:33:44,2:56:02,2:56:46,_end,none,,
+188,2,179,1:33:44,1:34:52,2:56:46,2:57:54,"Paris, France",Paris; France,city / area,
+189,2,180,1:34:52,1:34:54,2:57:54,2:57:56,_end,none,,
+190,2,181,1:34:54,1:37:13,2:57:56,3:00:15,_end,none,,
+191,2,182,1:37:13,1:37:39,3:00:15,3:00:41,Haiti,Haiti,country,
+192,2,183,1:37:39,1:39:20,3:00:41,3:02:22,Haiti,Haiti,country,
+193,2,184,1:39:20,1:40:37,3:02:22,3:03:39,Haiti,Haiti,country,
+194,2,185,1:40:37,1:41:47,3:03:39,3:04:49,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,
+195,2,186,1:41:47,1:43:02,3:04:49,3:06:04,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,
+196,2,187,1:43:02,1:43:04,3:06:04,3:06:06,_end,none,,
+197,2,188,1:43:04,1:44:17,3:06:06,3:07:19,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,
+198,2,189,1:44:17,1:44:51,3:07:19,3:07:53,"Montreal, Canada",Montreal; Canada,city / area,
+199,2,190,1:44:51,1:44:57,3:07:53,3:07:59,_end,none,,
+200,2,191,1:44:57,1:45:55,3:07:59,3:08:57,Haiti,Haiti,country,
+201,2,192,1:45:55,1:46:00,3:08:57,3:09:02,_end,none,,
+202,2,193,1:46:00,1:46:47,3:09:02,3:09:49,"Pénitentier National, Port-au-Prince, Haiti",Pénitentier National; Port-au-Prince; Haiti,very local,
+203,2,194,1:46:47,1:49:17,3:09:49,3:12:19,Haiti,Haiti; Montreal,city / area,
+204,,,,,3:09:49,3:12:19,"Montreal, Canada",,city / area,
+205,2,195,1:49:17,1:49:25,3:12:19,3:12:27,Haiti,Haiti,country,
+206,2,196,1:49:25,1:50:13,3:12:27,3:13:15,Haiti,Haiti,country,
+207,2,197,1:50:13,1:50:14,3:13:15,3:13:16,_end,none,,
+208,2,198,1:50:14,1:50:36,3:13:16,3:13:38,Haiti,Haiti,country,
+209,2,199,1:50:36,1:50:38,3:13:38,3:13:40,_end,none,,
+210,2,200,1:50:38,1:51:51,3:13:40,3:14:53,"Grande Riviere du Nord, Haiti",Grande Riviere du Nord; Haiti,city / area,
+211,2,201,1:51:51,1:51:56,3:14:53,3:14:58,_end,none,,
+212,2,202,1:51:56,1:52:21,3:14:58,3:15:23,"Grande Riviere du Nord, Haiti",Grande Riviere du Nord; Haiti,city / area,
+213,2,203,1:52:21,1:52:32,3:15:23,3:15:34,Haiti,Haiti,country,
+214,2,204,1:52:32,1:52:55,3:15:34,3:15:57,Haiti,Haiti,city / area,
+215,2,205,1:52:55,1:53:35,3:15:57,3:16:37,Haiti,Mexico City; Chile; Cuba,country,
+216,,,,,3:15:57,3:16:37,"Mexico City, Mexico",,city / area,
+217,,,,,3:15:57,3:16:37,Chile,,country,
+218,,,,,3:15:57,3:16:37,Cuba,,country,
+219,2,206,1:53:35,1:53:38,3:16:37,3:16:40,_end,none,,
+220,2,207,1:53:38,1:55:17,3:16:40,3:18:19,"Pénitentier National, Port-au-Prince, Haiti",Pénitentier National; Port-au-Prince; Haiti,very local,
+221,2,208,1:55:17,1:55:26,3:18:19,3:18:28,_end,none,,
+222,2,209,1:55:26,1:55:33,3:18:28,3:18:35,_end,none,,
+223,2,210,1:55:33,#REF!,3:18:35,3:18:38,"Mexico City, Mexico",Mexico City; Mexico,country,
+224,2,211,1:55:36,1:56:33,3:18:38,3:19:35,"Mexico City, Mexico",Mexico City; Mexico,city / area,
+225,2,212,1:56:33,1:59:56,3:19:35,3:22:58,Chile,Chile,country,
+226,2,213,1:59:22,1:59:27,3:22:24,3:22:29,Chile,Chile,country,
+227,2,214,1:59:27,1:59:56,3:22:29,3:22:58,Chile,Chile,country,
+228,2,215,1:59:56,2:00:00,3:22:58,3:23:02,Cuba,Cuba,country,
+229,2,216,2:00:00,2:00:30,3:23:02,3:23:32,Cuba,Cuba,country,
+230,2,217,2:00:30,2:00:36,3:23:32,3:23:38,Cuba,Cuba,country,
+231,2,218,2:00:36,2:01:04,3:23:38,3:24:06,Chile,Cuba; Chile,country,
+232,,,,,3:23:38,3:24:06,Cuba,,country,
+233,2,219,2:01:04,2:01:10,3:24:06,3:24:12,Cuba,Cuba,country,
+234,2,220,2:01:10,2:02:50,3:24:12,3:25:52,Cuba,Cuba,country,
+235,2,221,2:02:50,2:02:56,3:25:52,3:25:58,_end,none,,
+236,2,222,2:02:56,2:04:36,3:25:58,3:27:38,Cuba,Cuba,country,
+237,2,223,2:04:36,2:05:11,3:27:38,3:28:13,Cuba,Cuba,country,
+238,2,224,2:05:11,2:05:14,3:28:13,3:28:16,Mexico,Mexico,country,
+239,2,225,2:05:14,2:06:28,3:28:16,3:29:30,"Pénitentier National, Port-au-Prince, Haiti",Pénitentier National; Port-au-Prince; Haiti,very local,
+240,2,226,2:06:28,2:06:33,3:29:30,3:29:35,"Toussaint Louverture International Airport, Haiti; Mexico city, Mexico",Mexico City; Mexico,city / area,Journey 1 
+241,2,227,2:06:33,2:07:21,3:29:35,3:30:23,Chile,Chile; Cuba,country,
+242,,,,,3:29:35,3:30:23,Cuba,,country,
+243,2,228,2:07:21,2:07:24,3:30:23,3:30:26,_end,none,,
+244,2,229,2:07:24,2:07:50,3:30:26,3:30:52,_end,none,,
+245,2,230,2:07:50,2:07:51,3:30:52,3:30:53,Cuba,Cuba,country,
+246,2,231,2:07:51,2:08:08,3:30:53,3:31:10,"Havana, Cuba",Havana; Cuba,city / area,
+247,2,232,2:08:08,2:08:22,3:31:10,3:31:24,"Havana, Cuba",Havana; Cuba,city / area,
+248,2,233,2:08:22,2:08:24,3:31:24,3:31:26,"Havana, Cuba",Havana; Cuba,city / area,
+249,2,234,2:08:24,2:08:51,3:31:26,3:31:53,"Havana, Cuba",Santa Maria Del Mar; Cuba,very local,
+250,2,235,2:08:51,2:08:53,3:31:53,3:31:55,_end,none,,
+251,2,236,2:08:53,2:11:51,3:31:55,3:34:53,Cuba,Cuba,country,
+252,2,237,2:11:51,2:12:00,3:34:53,3:35:02,Cuba,Cuba,country,
+253,2,238,2:12:00,2:12:04,3:35:02,3:35:06,_end,none,,
+254,2,239,2:12:04,2:12:57,3:35:06,3:35:59,Cuba,Cuba,country,
+255,2,240,2:12:57,2:14:15,3:35:59,3:37:17,Cuba,Cuba,country,
+256,2,241,2:14:15,2:14:40,3:37:17,3:37:42,Cuba,Cuba,country,
+257,2,242,2:14:40,2:14:57,3:37:42,3:37:59,"Montreal, Canada",Montreal; Canada,city / area,
+258,2,243,2:14:57,2:15:08,3:37:59,3:38:10,_end,none,,
+259,2,244,2:15:08,2:16:05,3:38:10,3:39:07,"Montreal, Canada",Montreal; Canada,city / area,
+260,2,245,2:16:05,2:16:05,3:39:07,3:39:07,_end,none,,
+261,2,246,2:16:05,2:16:40,3:39:07,3:39:42,"Montreal, Canada",Montreal; Canada,city / area,
+262,2,247,2:16:40,2:16:58,3:39:42,3:40:00,"Montreal, Canada",Montreal; Canada,city / area,
+263,2,248,2:16:58,2:17:17,3:40:00,3:40:19,Haiti,Haiti; Cuba; Montreal,country,
+264,,,,,3:40:00,3:40:19,Cuba,,country,
+265,,,,,3:40:00,3:40:19,"Montreal, Canada",,city / area,
+266,2,249,2:17:17,2:20:50,3:40:19,3:43:52,Haiti,Haiti; Cuba; Montreal,country,
+267,,,,,3:40:19,3:43:52,Cuba,,country,
+268,,,,,3:40:19,3:43:52,"Montreal, Canada",,city / area,
+269,2,250,2:20:50,2:22:13,3:43:52,3:45:15,"Montreal, Canada",Montreal; Cuba,city / area,
+270,,,,,3:43:52,3:45:15,Cuba,,country,
+271,2,251,2:22:13,2:22:19,3:45:15,3:45:21,"Montreal, Canada",Montreal; Cuba,city / area,
+272,,,,,3:45:15,3:45:21,Cuba,,country,
+273,2,252,2:22:19,2:24:29,3:45:21,3:47:31,_end,none,,
+274,2,253,2:24:29,2:28:06,3:47:31,3:51:08,"Montreal, Canada",Montreal; Canada; Cuba,city / area,
+275,,,,,3:47:31,3:51:08,Cuba,,country,
+276,2,254,2:28:06,2:29:02,3:51:08,3:52:04,"Montreal, Canada",Montreal; Canada,city / area,

@@ -1,333 +1,333 @@
-Session #,Clip Time mentioned (h:mm:ss),Cumulative Time mentioned (h:mm:ss),Location,Scale,Characters,By Interviewer,Year,Analyst comments
-1,0:01:25,0:01:25,Haiti,country,,,,
-1,0:02:50,0:02:50,Haiti,country,family,,<1946,
-1,0:02:57,0:02:57,France,country,family,,<1946,
-1,0:03:30,0:03:30,Haiti,country,family,,<1946,
-1,0:04:25,0:04:25,Haiti,country,,,2011,
-1,0:04:31,0:04:31,Haiti,country,,,2011,
-1,0:04:35,0:04:35,Haiti,country,,,2011,
-1,0:04:57,0:04:57,France,country,,,2011,
-1,0:04:58,0:04:58,France,country,,,2011,
-1,0:05:25,0:05:25,Latin America,continent,,,1804,haitian independence
-1,0:05:29,0:05:29,Venezuela,country,,,1811,Year of the Venezuelan revolution according to Wikipedia
-1,0:05:33,0:05:33,Haiti,country,,,1811,
-1,0:05:37,0:05:37,Venezuela,country,,,1811,Mentions half the word.
-1,0:05:45,0:05:45,Latin America,continent,,,1811,
-1,0:05:48,0:05:48,Haiti,country,,,1811,
-1,0:06:03,0:06:03,Haiti,country,,,1811,
-1,0:06:25,0:06:25,Haiti,country,,,1811,
-1,0:06:37,0:06:37,Haiti,country,,,2011,
-1,0:06:57,0:06:57,Haiti,country,,,1804 - 2011,
-1,0:07:46,0:07:46,Haiti,country,,,1914-1934,
-1,0:07:51,0:07:51,USA,country,,,1914-1934,Dates for US occupancy of Haiti according to Wikipedia
-1,0:08:55,0:08:55,Haiti,country,,,2011,
-1,0:09:20,0:09:20,Haiti,country,,,2011,
-1,0:09:21,0:09:21,Haiti,country,,,2011,
-1,0:14:16,0:14:16,Jérémie; Haiti,city / area,Alex; family,,1946 - 1956,mentions a library in  this town but I cannot find it after a simple google search
-1,0:14:35,0:14:35,Haiti,country,,,1946 - 1956,during childhood
-1,0:15:03,0:15:03,Haiti,country,,,1946 - 1956,
-1,0:17:15,0:17:15,Port-au-Prince. Haiti,city / area,mother,,1946 - 1956,"""la capitale"" - I assume this is PauP"
-1,0:17:41,0:17:41,Haiti,country,,,1946 - 1956,
-1,0:18:03,0:18:03,Haiti,country,,,1946 - 1956,
-1,0:18:23,0:18:23,Haiti,country,parents,,1946 - 1956,
-1,0:19:12,0:19:12,Haiti,country,Haitian president,,1946-1954,
-1,0:20:57,0:20:57,Haiti,country,mother; presidents Estimé and Magloire; their wives,,1946-1954,period of Presidents Estimé and Magloire.
-1,0:21:40,0:21:40,Jérémie; Haiti,city / area,mother's friend,,1907 - 1956,
-1,0:21:43,0:21:43,France,country,mother's friend,,1907 - 1956,places such as this could be chrono-tagged; she is referring to the europe in colonial times… so id estimate parents' birth era - end of childhood
-1,0:21:55,0:21:55,England,country,mother's best friend,,1907 - 1956,places such as this could be chrono-tagged; she is referring to the europe in colonial times… so id estimate parents' birth era - end of childhood
-1,0:22:01,0:22:01,Couvent des oiseaux; Paris; France,very local,wife of mother's friend,,<1946,"She says ""couvent des petits oiseaux en France;"" I am assuming she means this place."
-1,0:22:02,0:22:02,France,country,wife of mother's friend,,1907 - 1956,places such as this could be chrono-tagged; she is referring to the europe in colonial times… so id estimate parents' birth era - end of childhood
-1,0:32:40,0:32:40,USA,country,,,1956,
-1,0:38:18,0:38:18,Haiti,country,,,,"le ""drame d'Haiti"""
-1,0:38:19,0:38:19,Haiti,country,,, ,"le ""drame d'Haiti"""
-1,0:38:25,0:38:25,Haiti,country,,,,"le ""drame d'Haiti"""
-1,0:39:14,0:39:14,Haiti,country,,,,"le ""drame d'Haiti"""
-1,0:39:20,0:39:20,Haiti,country,,,,
-1,0:39:24,0:39:24,Haiti,country,,,2011,
-1,0:39:25,0:39:25,Haiti,country,,,1947 - 1956,during childhood in Haiti
-1,0:41:40,0:41:40,Europe,continent,mother's friends,,1907 - 1956,places such as this could be chrono-tagged; she is referring to the europe in colonial times… so id estimate parents' birth era - end of childhood
-1,0:41:45,0:41:45,Europe,continent,mother's friends,,1907 - 1956,places such as this could be chrono-tagged; she is referring to the europe in colonial times… so id estimate parents' birth era - end of childhood
-1,0:42:24,0:42:24,Haiti,country,,,1947 - 1956,
-1,0:42:24,0:42:24,Latin America,country,musicians,,1947 - 1956,during childhood in Haiti
-1,0:42:27,0:42:27,Cuba,country,musicians,,1947 - 1956,during childhood in Haiti
-1,0:42:29,0:42:29,Haiti,country,musicians,,1947 - 1956,during childhood in Haiti
-1,0:42:37,0:42:37,Haiti,country,,,1947 - 1956,
-1,0:44:00,0:44:00,Haiti,country,,,,christmas in haiti
-1,0:45:10,0:45:10,Cuba,country,,,1947 - 1956,
-1,0:45:11,0:45:11,Cuba,country,,,1947 - 2011,
-1,0:45:16,0:45:16,Cuba,country,,,1947 - 1956,during childhood in Haiti
-1,0:45:31,0:45:31,Cuba,country,,,1947 - 1956,during childhood in Haiti
-1,0:47:09,0:47:09,Haiti,country,,,,
-1,0:47:57,0:47:57,Haiti,country,,,1947 - 1956,during childhood in Haiti
-1,0:48:32,0:48:32,Haiti,country,,,1947 - 1956,
-1,0:49:01,0:49:01,Haiti,country,middle class,,,during childhood in Haiti
-1,0:49:03,0:49:03,Haiti,country,middle class,,,
-1,0:50:10,0:50:10,Haiti,country,,,,
-1,0:50:56,0:50:56,Quebec,region,women from daycare,,1951,
-1,0:50:57,0:50:57,Canada,country,women from daycare,,1951,
-1,0:51:22,0:51:22,Haiti,country,,,1951,
-1,0:51:24,0:51:24,Haiti,country,,,1951,
-1,0:51:28,0:51:28,Canada,country,,,1951,Oh Canada
-1,0:51:35,0:51:35,Canada,country,,,1951,Oh Canada
-1,0:51:42,0:51:42,Canada,country,women from daycare,,1951,
-1,0:51:46,0:51:46,Haiti,country,women from daycare,,1951,
-1,0:53:12,0:53:12,Quebec,region,women from daycare,,<1951,
-1,0:56:17,0:56:17,Haiti,country,mother,,1955,
-1,0:56:38,0:56:38,Haiti,country,mother,,1955,
-1,0:56:47,0:56:47,Haiti,country,mother,,1955,
-1,0:57:04,0:57:04,Haiti,country,mother,,1955,
-1,0:57:05,0:57:05,Haiti,country,mother,,1955,
-1,0:57:35,0:57:35,USA,country,mother's cousin,,1955,
-1,0:57:37,0:57:37,USA,country,mother's cousin,,1939 - 1945,period of WWII
-1,0:57:57,0:57:57,Haiti,country,father; sister,,1955,
-1,0:59:46,0:59:46,Haiti,country,Alex,,1952 - 1956,during primary school
-1,1:09:10,1:09:10,Haiti,country,Alex,,1956,
-1,1:09:16,1:09:16,Haiti,country,,,1956,
-1,1:09:29,1:09:29,USA,country,Alex,,1956,
-1,1:09:43,1:09:43,Bronx; NYC; USA,local,,,1956,
-1,1:10:57,1:10:57,New Hampshire; USA,region,Alex,,1956 - 1959,Based on date of 1956 departure; and 1 year later.
-1,1:11:08,1:11:08,NYC; USA,city / area,,,1956 - 1959,
-1,1:11:10,1:11:10,Dominican Republic,country,primary school friends,,1956 - 1959,
-1,1:11:18,1:11:18,Bronx; NYC; USA,local,Alex; primary school friends,,1956 - 1959,
-1,1:11:34,1:11:34,Haiti,country,Alex,,,
-1,1:12:20,1:12:20,Dominican Republic,country,primary school friends,,1956 - 1958,
-1,1:12:34,1:12:34,Bronx; NY; USA,local,Alex; primary school friends,,1956 - 1958,
-1,1:12:51,1:12:51,Bronx; NY; USA,local,Alex; primary school friends,,1956 - 1958,
-1,1:13:09,1:13:09,New York; NY,city / area,Alex; mother,,1956 - 1958,
-1,1:13:16,1:13:16,The Catskills; USA,region,,,1956 - 1958,
-1,1:13:55,1:13:55,Haiti,country,Alex,yes,,
-1,1:13:58,1:13:58,Haiti,country,,,1956,
-1,1:14:17,1:14:17,Haiti,country,,,< 1956,
-1,1:14:58,1:14:58,Haiti,country,,,1956<,
-1,1:15:44,1:15:44,School of Pedagogy of the State University of Haiti; Port-au-Prince; Haiti ,very local,sister,,1957,"This is what she says; but it codes for ""The School of Pedagogy of the State University of Haiti"" in google maps. Not sure if this is correct. Ecole Normale Superieure"
-1,1:15:48,1:15:48,Haiti,country,sister,,1957,
-1,1:16:17,1:16:17,Haiti,country,,,1957,
-1,1:16:23,1:16:23,Haiti,country,father; sister,,1957 - 58,
-1,1:16:35,1:16:35,Haiti,country,Duvalier,,1957,
-1,1:16:46,1:16:46,New York; NY,city / area,Alex,,1956,Not sure if she is saying New York the city or NY the state.
-1,1:17:47,1:17:47,USA,country,,,1956,around the time she moved to the US
-1,1:18:06,1:18:06,Little Rock; Arkansas,city / area,,,,
-1,1:18:29,1:18:29,USA,country,,,1956,
-1,1:18:40,1:18:40,Haiti,country,,,1946 - 1956,
-1,1:18:46,1:18:46,Haiti,country,,,1946 - 1956,
-1,1:18:59,1:18:59,Haiti,country,,,1946 - 1956,
-1,1:19:11,1:19:11,USA,country,,,1956 - 1968,
-1,1:19:30,1:19:30,Haiti,country,,,,
-1,1:19:34,1:19:34,USA,country,,,1956 - 1968,
-1,1:19:48,1:19:48,South Africa,continent,,,,
-1,1:20:27,1:20:27,New England,region,Alex,,1956 - 1959,
-1,1:20:31,1:20:31,New York; NY,city / area,Alex,,1959,
-1,1:20:33,1:20:33,New York; NY,city / area,Alex,,1959,
-1,1:20:35,1:20:35,New York; NY,city / area,Alex,,1959,
-1,1:20:43,1:20:43,USA,country,,,1959,
-1,1:21:05,1:21:05,Haiti,country,mother,,<1956,
-1,1:21:15,1:21:15,Haiti,country,mother; refugee friends,,1956 - 1968,
-1,1:21:33,1:21:33,USA,country,,,1956 - 1968,
-1,1:22:01,1:22:01,USA,country,,,1956 - 1968,
-1,1:22:18,1:22:18,Algeria,country,,,1954 - 1962,during algerian war of independence
-1,1:22:23,1:22:23,Algeria,country,parents,,1954 - 1962,during algerian war of independence
-1,1:22:28,1:22:28,Latin America,continent,,,1954 - 1962,
-1,1:22:31,1:22:31,Algeria,country,,,1954 - 1962,during algerian war of independence
-1,1:23:34,1:23:34,New York; NY,city / area,communist journalist,,1956 - 1962,
-1,1:23:35,1:23:35,Mexico,country,communist journalist,,1956 - 1962,
-1,1:26:26,1:26:26,Haiti,country,,,1959 - 1964,
-1,1:27:28,1:27:28,Mexico,country,members of Jeune Haiti,,<1962,
-1,1:27:50,1:27:50,USA,country,,,1959 - 1964,
-1,1:28:59,1:28:59,Haiti,country,members of Jeune Haiti,,1959 - 1964,
-1,1:29:00,1:29:00,Haiti,country,members of Jeune Haiti,,1959 - 1964,
-1,1:29:07,1:29:07,Haiti,country,families of members of Jeune Haiti,,1959 - 1964,
-1,1:30:14,1:30:14,Haiti ,country,members of Jeune Haiti,,1959 - 1964,
-1,1:30:43,1:30:43,Latin America,continent,,,1959 - 1964,
-1,1:30:49,1:30:49,USA,country,Alex,,1959 - 1964,
-1,1:30:58,1:30:58,USA,country,Alex,,1959 - 1964,
-1,1:31:05,1:31:05,Canada,country,,,1959 - 1964,
-1,1:31:08,1:31:08,Canada,country,,,1964 - 1968,
-1,1:31:15,1:31:15,Quebec; Canada,region,Alex; mother,,1958,put age because dates are not as certain. COULD be 1956 based on previous estimations
-1,1:31:20,1:31:20,Montreal; Qc,city / area,Alex,,1958,put age because dates are not as certain. COULD be 1956 based on previous estimations
-1,1:31:24,1:31:24,USA,country,Alex,,1958 - 1968,
-1,1:31:32,1:31:32,Haiti,country,Alex,,1958 - 1968,
-1,1:31:50,1:31:50,USA,country,,,1958 - 1968,
-1,1:32:17,1:32:17,USA,country,,,1958 - 1968,
-1,1:33:02,1:33:02,USA,country,Alex,,1964 - 1968,
-1,1:33:23,1:33:23,Haiti,country,mother; Helen Burney (sp?),,1917 - 1964,
-1,1:33:26,1:33:26,Haiti,country,Helen Burney (sp?),,1917 - 1964,
-1,1:33:29,1:33:29,France,country,Helen Burney (sp?),,1917 - 1964,
-1,1:33:30,1:33:30,Germany,country,Helen Burney (sp?),,1917 - 1964,
-1,1:33:40,1:33:40,Germany,country,Helen Burney (sp?),,1917 - 1964,
-1,1:33:44,1:33:44,France,country,Helen Burney (sp?),,1917 - 1964,
-1,1:35:13,1:35:13,France,country,,,1917 - 1964,
-1,1:36:33,1:36:33,Ottawa; Canada,city / area,John Liemen (sp?),,1964,
-1,1:37:25,1:37:25,Haiti,country,,,,
-1,1:38:06,1:38:06,USA,country,Alex,,1964 - 1968,
-1,1:39:21,1:39:21,Haiti,country,members of Jeune Haiti,,1964,
-1,1:39:37,1:39:37,Haiti,country,members of Jeune Haiti,,1964,
-1,1:39:38,1:39:38,Haiti,country,members of Jeune Haiti,,1964,
-1,1:39:40,1:39:40,Haiti,country,members of Jeune Haiti,,1964,
-1,1:40:00,1:40:00,New York; NY,city / area,members of Jeune Haiti,,1964,"from the mention of ""the new york times"""
-1,1:40:47,1:40:47,Haiti,country,members of Jeune Haiti,,1964,
-1,1:40:54,3:35:09,Jérémie; Haiti,city / area,,,1964,
-1,1:50:00,3:44:15,Haiti,country,Alex; mother,,1959 - 1964,
-1,1:51:00,3:45:15,Haiti,country,,,,
-1,1:51:04,3:45:19,USA,country,,,,
-1,1:52:26,3:46:41,Algeria,country,parents,,1954 - 1962,
-,0:00:10,1:54:25,USA,country,Alex,yes,1968,
-2,0:04:57,1:59:12,Haiti,country,mother,,< 1955,
-2,0:05:01,1:59:16,USA,country,mother,,> 1955,
-2,0:05:04,1:59:19,Haiti,country,mother,,< 1955,
-2,0:05:22,1:59:37,USA,country,mother,,> 1955,
-2,0:05:24,1:59:39,Haiti,country,mother,,< 1955,
-2,0:09:00,2:03:15,Greenwich Village; NY; NY,local,Alex; friends,,1964 - 1968,End-date estimated; reasoning in chronology tab.
-2,0:09:20,2:03:35,New York; NY,city / area,Alex; parents,,1964 - 1968,
-2,0:09:25,2:03:40,YWCA; New York; NY,very local,Alex,,1964 - 1968,There are many listed when I search google's gazetteer; not sure if worth listing.
-2,0:11:35,2:05:50,Lycée Français de New York; NYC; USA,very local,Alex ,,1964 - 1968,after she had completed her secretary course; which took one year
-2,0:11:36,2:05:51,Lycée Français de New York; NYC; USA,very local,Alex ,,1964 - 1968,after she had completed her secretary course; which took one year
-2,0:11:54,2:06:09,New York; NY,city / area,Alex,,1968,
-2,0:11:55,2:06:10,New York; NY,city / area,Alex,,1968,
-2,0:12:01,2:06:16,Montreal; Qc,city / area,Alex,,1968,
-2,0:12:05,2:06:20,Montreal; Qc,city / area,Alex,,1968,
-2,0:14:18,2:08:33,Concordia University; Montreal; Qc,very local,Alex,,1969,
-2,0:14:22,2:08:37,Concordia University; Montreal; Qc,very local,Alex,,1969,
-2,0:16:48,2:11:03,Europe,continent,Alex,,1971,
-2,0:21:28,2:15:43,NYC; USA,city / area,Alex,,1956,
-2,0:21:29,2:15:44,NYC; USA,city / area,Alex,,1956,
-2,0:21:31,2:15:46,New Hampshire; USA,region,Alex,,1956 - 1958,
-2,0:21:37,2:15:52,New Hampshire; USA,region,Alex,,1956 - 1958,
-2,0:23:05,2:17:20,Haiti,country,Alex; parents,,1946 - 1956,
-2,0:24:57,2:19:12,Concordia University; Montreal; Qc,very local,Alex,,1971,
-2,0:26:53,2:21:08,France,country,friend,,1971,
-2,0:27:03,2:21:18,Montreal; Qc,city / area,lawyer friend,,1971,
-2,0:27:25,2:21:40,France,country,Alex; Juanita Westmoreland,,1971,Date estimated - reasoning for date in chrono tab
-2,0:27:37,2:21:52,Paris; France,city / area,Alex; Juanita Westmoreland,,1971,
-2,0:27:39,2:21:54,l'université Paris-Sorbonne; Paris; France,very local,Juanita Westmoreland,,1971,"says ""la sorbonne"""
-2,0:28:17,2:22:32,Montreal; Qc,city / area,Alex,,1971,la chambre de commerce de Montreal
-2,0:28:46,2:23:01,France,country,Alex,yes,1971,
-2,0:28:47,2:23:02,France,country,Alex,,1971,Date estimated - reasoning for date in chrono tab
-2,0:28:49,2:23:04,France,country,Alex,,1971,Date estimated - reasoning for date in chrono tab
-2,0:28:52,2:23:07,France,country,Alex,,1971,Date estimated - reasoning for date in chrono tab
-2,0:28:54,2:23:09,Germany,country,Alex,,1971,Date estimated - reasoning for date in chrono tab
-2,0:28:56,2:23:11,Germany,country,Alex,,1971,Date estimated - reasoning for date in chrono tab
-2,0:28:58,2:23:13,France,country,Alex,,1971,Date estimated - reasoning for date in chrono tab
-2,0:28:59,2:23:14,Italy,country,Alex,,1971,Date estimated - reasoning for date in chrono tab
-2,0:29:02,2:23:17,Lichtenstein; Germany,country,Alex,,1971,Date estimated - reasoning for date in chrono tab
-2,0:29:05,2:23:20,Germany,country,Alex,,1971,Date estimated - reasoning for date in chrono tab
-2,0:29:09,2:23:24,France,country,Alex,,1971,Date estimated - reasoning for date in chrono tab
-2,0:29:13,2:23:28,France,country,Alex,,1971,Date estimated - reasoning for date in chrono tab
-2,0:29:16,2:23:31,France,country,Alex,,1971,Date estimated - reasoning for date in chrono tab
-2,0:29:33,2:23:48,France,country,Alex,,1971,Date estimated - reasoning for date in chrono tab
-2,0:29:40,2:23:55,Concordia University; Montreal; Qc,very local,friend's husband,,1971,
-2,0:30:50,2:25:05,Haiti,country,friend's husband,,1971<,
-2,0:32:19,2:26:34,France,country,Alex; Juanita Westmoreland,,1971,
-2,0:32:29,2:26:44,France,country,friends,,1971,
-2,0:32:38,2:26:53,France,country,Alex,,1971,
-2,0:32:42,2:26:57,France,country,Juanita Westmoreland,,1971,
-2,0:32:47,2:27:02,France,country,Alex,,1971,Date estimated - reasoning for date in chrono tab
-2,0:33:08,2:27:23,France,country,Alex; Juanita Westmoreland,,1971,Date estimated - reasoning for date in chrono tab
-2,0:33:21,2:27:36,Germany,country,Alex,,1971,Date estimated - reasoning for date in chrono tab
-2,0:33:25,2:27:40,Heidelberg; Germany,city / area,Alex,,1971,"Seems to pronouce something more like ""Alderberg;"" but the closest I found to this is Aldeburgh; England. I am interpreting Heidelberg because it sounds similar and is known as a university city; but I am unsure. Date estimated - reasoning for date in chrono tab"
-2,0:33:42,2:27:57,Heidelberg; Germany,city / area,Alex,,1971,"Seems to pronouce something more like ""Alderberg;"" but the closest I found to this is Aldeburgh; England. I am interpreting Heidelberg because it sounds similar and is known as a university city; but I am unsure. Date estimated - reasoning for date in chrono tab"
-2,0:34:30,2:28:45,Italy,country,Alex,,1971,Date estimated - reasoning for date in chrono tab
-2,0:34:48,2:29:03,Brazil,country,dictator,,1971,
-2,0:35:14,2:29:29,Europe,continent,Alex,,1971,Date estimated - reasoning for date in chrono tab
-2,0:35:17,2:29:32,American consulate; Montreal; Qc,very local,Alex,,1971,"I assume Montreal because she says ""here;"" where the interview is taking place."
-2,0:35:21,2:29:36,Europe,continent,Alex,,1971,Date estimated - reasoning for date in chrono tab
-2,0:32:50,2:27:05,USA,country,Alex,,1968,Date estimated; reasoning in Chrono tab.
-2,0:36:52,2:31:07,USA,country,passport,,,
-2,0:38:54,2:33:09,Russia,country,russians,,1971,
-2,0:39:01,2:33:16,Cuba,country,cubans,,1971,
-2,0:39:58,2:34:13,USA,country,,,1971,
-2,0:40:19,2:34:34,USA,country,,,,
-2,0:42:22,2:36:37,Vietnam,country,,,1955 - 1975,The Vietnam war
-2,0:42:38,2:36:53,Vietnam,country,Alex,,early 70's,
-2,0:45:08,2:39:23,Haiti,country,father,,1968 - 1970,
-2,0:45:21,2:39:36,Chile,country,Allende,,1973,She says 1971; but I am going with Wikipedia date.
-2,0:45:52,2:40:07,Quebec,region,ex-husband,,70's probably,The government of Quebec
-2,0:46:43,2:40:58,Quebec City; Qc,city / area,ex-husband,,1975,around the time of allendes death
-2,0:47:12,2:41:27,Outremont; Montreal; Qc,local,ex-husband's family,,1975,around the time of allendes death
-2,0:47:17,2:41:32,Outremont; Montreal; Qc,local,ex-husband's family,,1975,around the time of allendes death
-2,0:51:14,2:45:29,Quebec City; Qc,city / area,ex-husband; Alex,,1982,
-2,0:51:30,2:45:45,Quebec City; Qc,city / area,ex-husband; Alex,,1982 - 1988,
-2,0:52:24,2:46:39,UQAM; Montreal; Qc,very local,ex-husband; first haitian prof at UQAM,,1975 - 1982,
-2,0:52:50,2:47:05,Quebec,region,Alex,,1982 - 1988,
-2,0:53:06,2:47:21,Quebec City; Qc,city / area,,,,
-2,0:54:10,2:48:25,McGill; Montreal; Qc,very local,scholar,,1982 - 1988,time in qc; assuming
-2,0:54:40,2:48:55,Haiti,country,Alex,,,
-2,0:54:45,2:49:00,Canada,country,Alex,,1982 - 1988,French Canada
-2,0:57:04,2:51:19,Canada,country,ex-husband,,1982 - 1988,
-2,0:57:07,2:51:22,Canada,country,ex-husband,,1982 - 1988,
-2,0:57:46,2:52:01,Quebec City; Qc,city / area,mother,,1982,
-2,0:58:40,2:52:55,Haiti,country,mother,,,
-2,0:59:18,2:53:33,Haiti,country,,,,
-2,0:59:20,2:53:35,Haiti,country,,,,
-2,0:59:28,2:53:43,Haiti,country,mother; step-daughter,,,
-2,0:59:47,2:54:02,Quebec City; Qc,city / area,Alex ,,1982,Date estimated - reasoning for date in chrono tab
-2,0:59:55,2:54:10,Laval University; Quebec City; Qc,very local,Alex ,,1982,Date estimated - reasoning for date in chrono tab
-2,1:01:00,2:55:15,City Hall; 2 Des Jardins Quebec City; Qc,very local,Alex; ex-husband,,1982 - 1988,Geolocation very strange for this place. I include the address based on the contact of the Ville de Qc site https://www.ville.quebec.qc.ca/EN/nous_joindre/index.aspx; but google says this is a caisse desjardins. When I type city hall qc it gives me some  sort of mortgage company in Montreal.
-2,1:01:01,2:55:16,Quebec City; Qc,city / area,Alex; ex-husband,,1982 - 1988,
-2,1:02:06,2:56:21,City Hall; 2 Des Jardins Quebec City; Qc,very local,Alex; ex-husband,,1982 - 1988,Geolocation very strange for this place. I include the address based on the contact of the Ville de Qc site https://www.ville.quebec.qc.ca/EN/nous_joindre/index.aspx; but google says this is a caisse desjardins. When I type city hall qc it gives me some  sort of mortgage company in Montreal.
-2,1:02:58,2:57:13,Montreal; Qc,city / area,mother ,,1982 - 1988,
-2,1:05:24,2:59:39,Laval University; Quebec City; Qc,very local,ex-husband,,1983 - 1988,
-2,1:05:34,2:59:49,Laval University; Quebec City; Qc,very local,ex-husband,,1984 - 1988,"Says ""laval"" but I assume from context this is reference to the university."
-2,1:06:07,3:00:22,Quebec,region,ex-husband,,1985 - 1988,The government of Quebec
-2,1:06:11,3:00:26,Quebec City; Qc,city / area,ex-husband,,1986 - 1988,
-2,1:07:48,3:02:03,Laval University; Quebec City; Qc,very local,Alex,,1987 - 1988,"says ""l'université"" but because previously says she went to Laval university I interpret this. Is it explicit enough to list?"
-2,1:07:53,3:02:08,Laval University; Quebec City; Qc,very local,Alex,,1988 - 1988,"says ""l'université"" but because previously says she went to Laval university I interpret this. Is it explicit enough to list?"
-2,1:09:13,3:03:28,Laval University; Quebec City; Qc,very local,ex-husband,,1989 - 1988,
-3,0:00:12,3:05:14,Quebec City; Qc,city / area,Alex,,1986 - 1988,
-3,0:00:17,3:05:19,Laval University; Quebec City; Qc,very local,Alex,,1988,
-3,0:00:24,3:05:26,Quebec City; Qc,city / area,Alex,,1988,
-3,0:00:27,3:05:29,Quebec City; Qc,city / area,Alex,,1988,
-3,0:00:41,3:05:43,New York; NY,city / area,Alex,,1956 - 1968,
-3,0:00:43,3:05:45,Montreal; Qc,city / area,Alex,,1968 - 1982,
-3,0:00:46,3:05:48,Montreal; Qc,city / area,Alex,,1982 - 1988,
-3,0:00:51,3:05:53,Quebec City; Qc,city / area,Alex,,1982 - 2011,
-3,0:01:04,3:06:06,Montreal; Qc,city / area,Alex,,1988,
-3,0:01:14,3:06:16,Quebec City; Qc,city / area,Alex,,2011,
-3,0:01:25,3:06:27,New York; NY,city / area,,,,
-3,0:01:26,3:06:28,Montreal; Qc,city / area,Alex,,,
-3,0:01:30,3:06:32,Montreal; Qc,city / area,Alex,,1958 - 2011,
-3,0:01:44,3:06:46,Quebec City; Qc,city / area,Alex,,1982 - 1988,
-3,0:03:50,3:08:52,Laval University; Quebec City; Qc,very local,Alex,,1988 - 2011,
-3,0:04:47,3:09:49,Canada,country,Alex,,,Condition féminine Canada
-3,0:13:14,3:18:16,Haiti,country,Alex; mother,,1946 - 1956,refers to her youth in Haiti
-3,0:18:07,3:23:09,Jamaica,country,feminists; macho men,,2011,
-3,0:20:35,3:25:37,Haiti,country,women,,1988 - 2011,
-3,0:21:46,3:26:48,Quebec,region,Alex,,,Fédération des femmes du Quebec
-3,0:21:48,3:26:50,Quebec,region,Alex,,,
-3,0:24:26,3:29:28,Quebec,region,black women,,,
-3,0:24:38,3:29:40,Montreal; Qc,city / area,Alex,,2011,
-3,0:26:56,3:31:58,Quebec,region,president,,,Fédération des femmes du Quebec
-3,0:27:49,3:32:51,USA,country,Alex,,1956 - ?,
-3,0:27:54,3:32:56,Quebec,region,,,1988 - 2011,
-3,0:27:55,3:32:57,USA,country,,,1988 - 2011,
-3,0:28:02,3:33:04,USA,country,,,2011,
-3,0:28:20,3:33:22,Montreal; Qc,city / area,mixed race couples,,2011,
-3,0:28:26,3:33:28,USA,country,,,2011,
-3,0:31:48,3:36:50,Haiti,country,Alex,,1988 - 2011,
-3,0:32:22,3:37:24,Haiti,country,Alex,,,
-3,0:32:27,3:37:29,Haiti,country,Alex,,,
-3,0:33:10,3:38:12,Haiti,country,Alex,,1988 - 2011,
-3,0:34:35,3:39:37,USA,country,Alex,,1988 - 2011,
-3,0:37:56,3:42:58,Haiti,country,Quebecois,,2011,
-3,0:40:01,3:45:03,Haiti,country,,,2011,2011 and onward
-3,0:40:12,3:45:14,Haiti,country,,,2011,
-3,0:40:29,3:45:31,Haiti,country,Alex,,2011,2011 and onward
-3,0:40:35,3:45:37,Haiti,country,Alex,,2011,
-3,0:40:36,3:45:38,Haiti,country,Alex,,2011,
-3,0:40:40,3:45:42,Haiti,country,,,2011,
-3,0:41:58,3:47:00,Port-au-Prince; Haiti,city / area,,,,
-3,0:42:22,3:47:24,Haiti,country,Alex,,1956,when she left
-3,0:44:12,3:49:14,Haiti,country,,,,
-3,0:45:11,3:50:13,Haiti,country,,,,
-3,0:46:36,3:51:38,Haiti,country,,,,
-3,0:46:42,3:51:44,Haiti,country,,,,
-3,0:47:07,3:52:09,France,country,haitians,,,
-3,0:47:21,3:52:23,Haiti,country,Alex,,,
-3,0:47:41,3:52:43,USA,country,haitians,,,
-3,0:47:44,3:52:46,Quebec,region,haitians,,,
-3,0:48:00,3:53:02,Quebec,region,haitians,,,
-3,0:48:03,3:53:05,USA,country,haitians,,,
-3,0:48:04,3:53:06,France,country,haitians,,,
-3,0:48:06,3:53:08,Switzerland,country,,,2011,
-3,0:48:39,3:53:41,Haiti,country,,,,
-3,0:48:53,3:53:55,Haiti,country,,,2011,
-3,0:49:01,3:54:03,Haiti,country,haitians,,,
+id,Session #,Clip Time mentioned (h:mm:ss),Cumulative Time mentioned (h:mm:ss),Atlascine-location,Location,Scale
+1,1,0:01:25,0:01:25,Haiti,Haiti,country
+2,1,0:02:50,0:02:50,Haiti,Haiti,country
+3,1,0:02:57,0:02:57,France,France,country
+4,1,0:03:30,0:03:30,Haiti,Haiti,country
+5,1,0:04:25,0:04:25,Haiti,Haiti,country
+6,1,0:04:31,0:04:31,Haiti,Haiti,country
+7,1,0:04:35,0:04:35,Haiti,Haiti,country
+8,1,0:04:57,0:04:57,France,France,country
+9,1,0:04:58,0:04:58,France,France,country
+10,1,0:05:25,0:05:25,Latin America,Latin America,continent
+11,1,0:05:29,0:05:29,Venezuela,Venezuela,country
+12,1,0:05:33,0:05:33,Haiti,Haiti,country
+13,1,0:05:37,0:05:37,Venezuela,Venezuela,country
+14,1,0:05:45,0:05:45,Latin America,Latin America,continent
+15,1,0:05:48,0:05:48,Haiti,Haiti,country
+16,1,0:06:03,0:06:03,Haiti,Haiti,country
+17,1,0:06:25,0:06:25,Haiti,Haiti,country
+18,1,0:06:37,0:06:37,Haiti,Haiti,country
+19,1,0:06:57,0:06:57,Haiti,Haiti,country
+20,1,0:07:46,0:07:46,Haiti,Haiti,country
+21,1,0:07:51,0:07:51,USA,USA,country
+22,1,0:08:55,0:08:55,Haiti,Haiti,country
+23,1,0:09:20,0:09:20,Haiti,Haiti,country
+24,1,0:09:21,0:09:21,Haiti,Haiti,country
+25,1,0:14:16,0:14:16,"Jérémie, Haiti",Jérémie; Haiti,city / area
+26,1,0:14:35,0:14:35,Haiti,Haiti,country
+27,1,0:15:03,0:15:03,Haiti,Haiti,country
+28,1,0:17:15,0:17:15,"Port-au-Prince, Haiti","Port-au-Prince, Haiti",city / area
+29,1,0:17:41,0:17:41,Haiti,Haiti,country
+30,1,0:18:03,0:18:03,Haiti,Haiti,country
+31,1,0:18:23,0:18:23,Haiti,Haiti,country
+32,1,0:19:12,0:19:12,Haiti,Haiti,country
+33,1,0:20:57,0:20:57,Haiti,Haiti,country
+34,1,0:21:40,0:21:40,"Jérémie, Haiti",Jérémie; Haiti,city / area
+35,1,0:21:43,0:21:43,France,France,country
+36,1,0:21:55,0:21:55,England,England,country
+37,1,0:22:01,0:22:01,"Couvent des oiseaux, Paris, France",Couvent des oiseaux; Paris; France,very local
+38,1,0:22:02,0:22:02,France,France,country
+39,1,0:32:40,0:32:40,USA,USA,country
+40,1,0:38:18,0:38:18,Haiti,Haiti,country
+41,1,0:38:19,0:38:19,Haiti,Haiti,country
+42,1,0:38:25,0:38:25,Haiti,Haiti,country
+43,1,0:39:14,0:39:14,Haiti,Haiti,country
+44,1,0:39:20,0:39:20,Haiti,Haiti,country
+45,1,0:39:24,0:39:24,Haiti,Haiti,country
+46,1,0:39:25,0:39:25,Haiti,Haiti,country
+47,1,0:41:40,0:41:40,Europe,Europe,continent
+48,1,0:41:45,0:41:45,Europe,Europe,continent
+49,1,0:42:24,0:42:24,Haiti,Haiti,country
+50,1,0:42:24,0:42:24,Haiti,Latin America,country
+51,1,0:42:27,0:42:27,Cuba,Cuba,country
+52,1,0:42:29,0:42:29,Haiti,Haiti,country
+53,1,0:42:37,0:42:37,Haiti,Haiti,country
+54,1,0:44:00,0:44:00,Haiti,Haiti,country
+55,1,0:45:10,0:45:10,Cuba,Cuba,country
+56,1,0:45:11,0:45:11,Cuba,Cuba,country
+57,1,0:45:16,0:45:16,Cuba,Cuba,country
+58,1,0:45:31,0:45:31,Cuba,Cuba,country
+59,1,0:47:09,0:47:09,Haiti,Haiti,country
+60,1,0:47:57,0:47:57,Haiti,Haiti,country
+61,1,0:48:32,0:48:32,Haiti,Haiti,country
+62,1,0:49:01,0:49:01,Haiti,Haiti,country
+63,1,0:49:03,0:49:03,Haiti,Haiti,country
+64,1,0:50:10,0:50:10,Haiti,Haiti,country
+65,1,0:50:56,0:50:56,"Quebec, Canada",Quebec,region
+66,1,0:50:57,0:50:57,Canada,Canada,country
+67,1,0:51:22,0:51:22,Haiti,Haiti,country
+68,1,0:51:24,0:51:24,Haiti,Haiti,country
+69,1,0:51:28,0:51:28,Canada,Canada,country
+70,1,0:51:35,0:51:35,Canada,Canada,country
+71,1,0:51:42,0:51:42,Canada,Canada,country
+72,1,0:51:46,0:51:46,Haiti,Haiti,country
+73,1,0:53:12,0:53:12,"Quebec, Canada",Quebec,region
+74,1,0:56:17,0:56:17,Haiti,Haiti,country
+75,1,0:56:38,0:56:38,Haiti,Haiti,country
+76,1,0:56:47,0:56:47,Haiti,Haiti,country
+77,1,0:57:04,0:57:04,Haiti,Haiti,country
+78,1,0:57:05,0:57:05,Haiti,Haiti,country
+79,1,0:57:35,0:57:35,USA,USA,country
+80,1,0:57:37,0:57:37,USA,USA,country
+81,1,0:57:57,0:57:57,Haiti,Haiti,country
+82,1,0:59:46,0:59:46,Haiti,Haiti,country
+83,1,1:09:10,1:09:10,Haiti,Haiti,country
+84,1,1:09:16,1:09:16,Haiti,Haiti,country
+85,1,1:09:29,1:09:29,USA,USA,country
+86,1,1:09:43,1:09:43,"Bronx, NYC, USA",Bronx; NYC; USA,local
+87,1,1:10:57,1:10:57,"New Hampshire, USA",New Hampshire; USA,region
+88,1,1:11:08,1:11:08,"NYC, USA",NYC; USA,city / area
+89,1,1:11:10,1:11:10,Dominican Republic,Dominican Republic,country
+90,1,1:11:18,1:11:18,"Bronx, NYC, USA",Bronx; NYC; USA,local
+91,1,1:11:34,1:11:34,Haiti,Haiti,country
+92,1,1:12:20,1:12:20,Dominican Republic,Dominican Republic,country
+93,1,1:12:34,1:12:34,"Bronx, NYC, USA",Bronx; NY; USA,local
+94,1,1:12:51,1:12:51,"Bronx, NYC, USA",Bronx; NY; USA,local
+95,1,1:13:09,1:13:09,"NYC, USA",New York; NY,city / area
+96,1,1:13:16,1:13:16,"Catskill Mountains, USA",The Catskills; USA,region
+97,1,1:13:55,1:13:55,Haiti,Haiti,country
+98,1,1:13:58,1:13:58,Haiti,Haiti,country
+99,1,1:14:17,1:14:17,Haiti,Haiti,country
+100,1,1:14:58,1:14:58,Haiti,Haiti,country
+101,1,1:15:44,1:15:44,"School of Pedagogy of the State University of Haiti, Port-au-Prince, Haiti ",School of Pedagogy of the State University of Haiti; Port-au-Prince; Haiti ,very local
+102,1,1:15:48,1:15:48,Haiti,Haiti,country
+103,1,1:16:17,1:16:17,Haiti,Haiti,country
+104,1,1:16:23,1:16:23,Haiti,Haiti,country
+105,1,1:16:35,1:16:35,Haiti,Haiti,country
+106,1,1:16:46,1:16:46,"NYC, USA",New York; NY,city / area
+107,1,1:17:47,1:17:47,USA,USA,country
+108,1,1:18:06,1:18:06,"Little Rock, Arkansas, USA",Little Rock; Arkansas,city / area
+109,1,1:18:29,1:18:29,USA,USA,country
+110,1,1:18:40,1:18:40,Haiti,Haiti,country
+111,1,1:18:46,1:18:46,Haiti,Haiti,country
+112,1,1:18:59,1:18:59,Haiti,Haiti,country
+113,1,1:19:11,1:19:11,USA,USA,country
+114,1,1:19:30,1:19:30,Haiti,Haiti,country
+115,1,1:19:34,1:19:34,USA,USA,country
+116,1,1:19:48,1:19:48,South Africa,South Africa,continent
+117,1,1:20:27,1:20:27,New England,New England,region
+118,1,1:20:31,1:20:31,"NYC, USA",New York; NY,city / area
+119,1,1:20:33,1:20:33,"NYC, USA",New York; NY,city / area
+120,1,1:20:35,1:20:35,"NYC, USA",New York; NY,city / area
+121,1,1:20:43,1:20:43,USA,USA,country
+122,1,1:21:05,1:21:05,Haiti,Haiti,country
+123,1,1:21:15,1:21:15,Haiti,Haiti,country
+124,1,1:21:33,1:21:33,USA,USA,country
+125,1,1:22:01,1:22:01,USA,USA,country
+126,1,1:22:18,1:22:18,Algeria,Algeria,country
+127,1,1:22:23,1:22:23,Algeria,Algeria,country
+128,1,1:22:28,1:22:28,Latin America,Latin America,continent
+129,1,1:22:31,1:22:31,Algeria,Algeria,country
+130,1,1:23:34,1:23:34,"NYC, USA",New York; NY,city / area
+131,1,1:23:35,1:23:35,Mexico,Mexico,country
+132,1,1:26:26,1:26:26,Haiti,Haiti,country
+133,1,1:27:28,1:27:28,Mexico,Mexico,country
+134,1,1:27:50,1:27:50,USA,USA,country
+135,1,1:28:59,1:28:59,Haiti,Haiti,country
+136,1,1:29:00,1:29:00,Haiti,Haiti,country
+137,1,1:29:07,1:29:07,Haiti,Haiti,country
+138,1,1:30:14,1:30:14,Haiti,Haiti ,country
+139,1,1:30:43,1:30:43,Latin America,Latin America,continent
+140,1,1:30:49,1:30:49,USA,USA,country
+141,1,1:30:58,1:30:58,USA,USA,country
+142,1,1:31:05,1:31:05,Canada,Canada,country
+143,1,1:31:08,1:31:08,Canada,Canada,country
+144,1,1:31:15,1:31:15,"Quebec, Canada",Quebec; Canada,region
+145,1,1:31:20,1:31:20,"Montreal, Canada",Montreal; Qc,city / area
+146,1,1:31:24,1:31:24,USA,USA,country
+147,1,1:31:32,1:31:32,Haiti,Haiti,country
+148,1,1:31:50,1:31:50,USA,USA,country
+149,1,1:32:17,1:32:17,USA,USA,country
+150,1,1:33:02,1:33:02,USA,USA,country
+151,1,1:33:23,1:33:23,Haiti,Haiti,country
+152,1,1:33:26,1:33:26,Haiti,Haiti,country
+153,1,1:33:29,1:33:29,France,France,country
+154,1,1:33:30,1:33:30,Germany,Germany,country
+155,1,1:33:40,1:33:40,Germany,Germany,country
+156,1,1:33:44,1:33:44,France,France,country
+157,1,1:35:13,1:35:13,France,France,country
+158,1,1:36:33,1:36:33,"Ottawa, Canada",Ottawa; Canada,city / area
+159,1,1:37:25,1:37:25,Haiti,Haiti,country
+160,1,1:38:06,1:38:06,USA,USA,country
+161,1,1:39:21,1:39:21,Haiti,Haiti,country
+162,1,1:39:37,1:39:37,Haiti,Haiti,country
+163,1,1:39:38,1:39:38,Haiti,Haiti,country
+164,1,1:39:40,1:39:40,Haiti,Haiti,country
+165,1,1:40:00,1:40:00,"NYC, USA",New York; NY,city / area
+166,1,1:40:47,1:40:47,Haiti,Haiti,country
+167,1,1:40:54,3:35:09,"Jérémie, Haiti",Jérémie; Haiti,city / area
+168,1,1:50:00,3:44:15,Haiti,Haiti,country
+169,1,1:51:00,3:45:15,Haiti,Haiti,country
+170,1,1:51:04,3:45:19,USA,USA,country
+171,1,1:52:26,3:46:41,Algeria,Algeria,country
+172,,0:00:10,1:54:25,USA,USA,country
+173,2,0:04:57,1:59:12,Haiti,Haiti,country
+174,2,0:05:01,1:59:16,USA,USA,country
+175,2,0:05:04,1:59:19,Haiti,Haiti,country
+176,2,0:05:22,1:59:37,USA,USA,country
+177,2,0:05:24,1:59:39,Haiti,Haiti,country
+178,2,0:09:00,2:03:15,"Greenwich Village, NYC, USA",Greenwich Village; NY; NY,local
+179,2,0:09:20,2:03:35,"NYC, USA",New York; NY,city / area
+180,2,0:09:25,2:03:40,"YWCA, NYC, USA",YWCA; New York; NY,very local
+181,2,0:11:35,2:05:50,"Lycée Français de New York, NYC, USA",Lycée Français de New York; NYC; USA,very local
+182,2,0:11:36,2:05:51,"Lycée Français de New York, NYC, USA",Lycée Français de New York; NYC; USA,very local
+183,2,0:11:54,2:06:09,"NYC, USA",New York; NY,city / area
+184,2,0:11:55,2:06:10,"NYC, USA",New York; NY,city / area
+185,2,0:12:01,2:06:16,"Montreal, Canada",Montreal; Qc,city / area
+186,2,0:12:05,2:06:20,"Montreal, Canada",Montreal; Qc,city / area
+187,2,0:14:18,2:08:33,"Concordia University, Montreal, Canada",Concordia University; Montreal; Qc,very local
+188,2,0:14:22,2:08:37,"Concordia University, Montreal, Canada",Concordia University; Montreal; Qc,very local
+189,2,0:16:48,2:11:03,Europe,Europe,continent
+190,2,0:21:28,2:15:43,"NYC, USA",NYC; USA,city / area
+191,2,0:21:29,2:15:44,"NYC, USA",NYC; USA,city / area
+192,2,0:21:31,2:15:46,"New Hampshire, USA",New Hampshire; USA,region
+193,2,0:21:37,2:15:52,"New Hampshire, USA",New Hampshire; USA,region
+194,2,0:23:05,2:17:20,Haiti,Haiti,country
+195,2,0:24:57,2:19:12,"Concordia University, Montreal, Canada",Concordia University; Montreal; Qc,very local
+196,2,0:26:53,2:21:08,France,France,country
+197,2,0:27:03,2:21:18,"Montreal, Canada",Montreal; Qc,city / area
+198,2,0:27:25,2:21:40,France,France,country
+199,2,0:27:37,2:21:52,"Paris, France",Paris; France,city / area
+200,2,0:27:39,2:21:54,"l'université Paris-Sorbonne, Paris, France",l'université Paris-Sorbonne; Paris; France,very local
+201,2,0:28:17,2:22:32,"Montreal, Canada",Montreal; Qc,city / area
+202,2,0:28:46,2:23:01,France,France,country
+203,2,0:28:47,2:23:02,France,France,country
+204,2,0:28:49,2:23:04,France,France,country
+205,2,0:28:52,2:23:07,France,France,country
+206,2,0:28:54,2:23:09,Germany,Germany,country
+207,2,0:28:56,2:23:11,Germany,Germany,country
+208,2,0:28:58,2:23:13,France,France,country
+209,2,0:28:59,2:23:14,Italy,Italy,country
+210,2,0:29:02,2:23:17,Lichtenstein,Lichtenstein; Germany,country
+211,2,0:29:05,2:23:20,Germany,Germany,country
+212,2,0:29:09,2:23:24,France,France,country
+213,2,0:29:13,2:23:28,France,France,country
+214,2,0:29:16,2:23:31,France,France,country
+215,2,0:29:33,2:23:48,France,France,country
+216,2,0:29:40,2:23:55,"Concordia University, Montreal, Canada",Concordia University; Montreal; Qc,very local
+217,2,0:30:50,2:25:05,Haiti,Haiti,country
+218,2,0:32:19,2:26:34,France,France,country
+219,2,0:32:29,2:26:44,France,France,country
+220,2,0:32:38,2:26:53,France,France,country
+221,2,0:32:42,2:26:57,France,France,country
+222,2,0:32:47,2:27:02,France,France,country
+223,2,0:33:08,2:27:23,France,France,country
+224,2,0:33:21,2:27:36,Germany,Germany,country
+225,2,0:33:25,2:27:40,"Heidelberg, Germany",Heidelberg; Germany,city / area
+226,2,0:33:42,2:27:57,"Heidelberg, Germany",Heidelberg; Germany,city / area
+227,2,0:34:30,2:28:45,Italy,Italy,country
+228,2,0:34:48,2:29:03,Brazil,Brazil,country
+229,2,0:35:14,2:29:29,Europe,Europe,continent
+230,2,0:35:17,2:29:32,"American consulate, Montreal, Canada",American consulate; Montreal; Qc,very local
+231,2,0:35:21,2:29:36,Europe,Europe,continent
+232,2,0:32:50,2:27:05,USA,USA,country
+233,2,0:36:52,2:31:07,USA,USA,country
+234,2,0:38:54,2:33:09,Russia,Russia,country
+235,2,0:39:01,2:33:16,Cuba,Cuba,country
+236,2,0:39:58,2:34:13,USA,USA,country
+237,2,0:40:19,2:34:34,USA,USA,country
+238,2,0:42:22,2:36:37,Vietnam,Vietnam,country
+239,2,0:42:38,2:36:53,Vietnam,Vietnam,country
+240,2,0:45:08,2:39:23,Haiti,Haiti,country
+241,2,0:45:21,2:39:36,Chile,Chile,country
+242,2,0:45:52,2:40:07,"Quebec, Canada",Quebec,region
+243,2,0:46:43,2:40:58,"Quebec City, Canada",Quebec City; Qc,city / area
+244,2,0:47:12,2:41:27,"Outremont, Montreal, Canada",Outremont; Montreal; Qc,local
+245,2,0:47:17,2:41:32,"Outremont, Montreal, Canada",Outremont; Montreal; Qc,local
+246,2,0:51:14,2:45:29,"Quebec City, Canada",Quebec City; Qc,city / area
+247,2,0:51:30,2:45:45,"Quebec City, Canada",Quebec City; Qc,city / area
+248,2,0:52:24,2:46:39,"UQAM, Montreal, Canada",UQAM; Montreal; Qc,very local
+249,2,0:52:50,2:47:05,"Quebec, Canada",Quebec,region
+250,2,0:53:06,2:47:21,"Quebec City, Canada",Quebec City; Qc,city / area
+251,2,0:54:10,2:48:25,"McGill, Montreal, Canada",McGill; Montreal; Qc,very local
+252,2,0:54:40,2:48:55,Haiti,Haiti,country
+253,2,0:54:45,2:49:00,Canada,Canada,country
+254,2,0:57:04,2:51:19,Canada,Canada,country
+255,2,0:57:07,2:51:22,Canada,Canada,country
+256,2,0:57:46,2:52:01,"Quebec City, Canada",Quebec City; Qc,city / area
+257,2,0:58:40,2:52:55,Haiti,Haiti,country
+258,2,0:59:18,2:53:33,Haiti,Haiti,country
+259,2,0:59:20,2:53:35,Haiti,Haiti,country
+260,2,0:59:28,2:53:43,Haiti,Haiti,country
+261,2,0:59:47,2:54:02,"Quebec City, Canada",Quebec City; Qc,city / area
+262,2,0:59:55,2:54:10,"Laval University, Quebec City, Canada",Laval University; Quebec City; Qc,very local
+263,2,1:01:00,2:55:15,"City Hall, 2 Des Jardins Quebec City, Canada",City Hall; 2 Des Jardins Quebec City; Qc,very local
+264,2,1:01:01,2:55:16,"Quebec City, Canada",Quebec City; Qc,city / area
+265,2,1:02:06,2:56:21,"City Hall, 2 Des Jardins Quebec City, Canada",City Hall; 2 Des Jardins Quebec City; Qc,very local
+266,2,1:02:58,2:57:13,"Montreal, Canada",Montreal; Qc,city / area
+267,2,1:05:24,2:59:39,"Laval University, Quebec City, Canada",Laval University; Quebec City; Qc,very local
+268,2,1:05:34,2:59:49,"Laval University, Quebec City, Canada",Laval University; Quebec City; Qc,very local
+269,2,1:06:07,3:00:22,"Quebec, Canada",Quebec,region
+270,2,1:06:11,3:00:26,"Quebec City, Canada",Quebec City; Qc,city / area
+271,2,1:07:48,3:02:03,"Laval University, Quebec City, Canada",Laval University; Quebec City; Qc,very local
+272,2,1:07:53,3:02:08,"Laval University, Quebec City, Canada",Laval University; Quebec City; Qc,very local
+273,2,1:09:13,3:03:28,"Laval University, Quebec City, Canada",Laval University; Quebec City; Qc,very local
+274,3,0:00:12,3:05:14,"Quebec City, Canada",Quebec City; Qc,city / area
+275,3,0:00:17,3:05:19,"Laval University, Quebec City, Canada",Laval University; Quebec City; Qc,very local
+276,3,0:00:24,3:05:26,"Quebec City, Canada",Quebec City; Qc,city / area
+277,3,0:00:27,3:05:29,"Quebec City, Canada",Quebec City; Qc,city / area
+278,3,0:00:41,3:05:43,"NYC, USA",New York; NY,city / area
+279,3,0:00:43,3:05:45,"Montreal, Canada",Montreal; Qc,city / area
+280,3,0:00:46,3:05:48,"Montreal, Canada",Montreal; Qc,city / area
+281,3,0:00:51,3:05:53,"Quebec City, Canada",Quebec City; Qc,city / area
+282,3,0:01:04,3:06:06,"Montreal, Canada",Montreal; Qc,city / area
+283,3,0:01:14,3:06:16,"Quebec City, Canada",Quebec City; Qc,city / area
+284,3,0:01:25,3:06:27,"NYC, USA",New York; NY,city / area
+285,3,0:01:26,3:06:28,"Montreal, Canada",Montreal; Qc,city / area
+286,3,0:01:30,3:06:32,"Montreal, Canada",Montreal; Qc,city / area
+287,3,0:01:44,3:06:46,"Quebec City, Canada",Quebec City; Qc,city / area
+288,3,0:03:50,3:08:52,"Laval University, Quebec City, Canada",Laval University; Quebec City; Qc,very local
+289,3,0:04:47,3:09:49,Canada,Canada,country
+290,3,0:13:14,3:18:16,Haiti,Haiti,country
+291,3,0:18:07,3:23:09,Jamaica,Jamaica,country
+292,3,0:20:35,3:25:37,Haiti,Haiti,country
+293,3,0:21:46,3:26:48,"Quebec, Canada",Quebec,region
+294,3,0:21:48,3:26:50,"Quebec, Canada",Quebec,region
+295,3,0:24:26,3:29:28,"Quebec, Canada",Quebec,region
+296,3,0:24:38,3:29:40,"Montreal, Canada",Montreal; Qc,city / area
+297,3,0:26:56,3:31:58,"Quebec, Canada",Quebec,region
+298,3,0:27:49,3:32:51,USA,USA,country
+299,3,0:27:54,3:32:56,"Quebec, Canada",Quebec,region
+300,3,0:27:55,3:32:57,USA,USA,country
+301,3,0:28:02,3:33:04,USA,USA,country
+302,3,0:28:20,3:33:22,"Montreal, Canada",Montreal; Qc,city / area
+303,3,0:28:26,3:33:28,USA,USA,country
+304,3,0:31:48,3:36:50,Haiti,Haiti,country
+305,3,0:32:22,3:37:24,Haiti,Haiti,country
+306,3,0:32:27,3:37:29,Haiti,Haiti,country
+307,3,0:33:10,3:38:12,Haiti,Haiti,country
+308,3,0:34:35,3:39:37,USA,USA,country
+309,3,0:37:56,3:42:58,Haiti,Haiti,country
+310,3,0:40:01,3:45:03,Haiti,Haiti,country
+311,3,0:40:12,3:45:14,Haiti,Haiti,country
+312,3,0:40:29,3:45:31,Haiti,Haiti,country
+313,3,0:40:35,3:45:37,Haiti,Haiti,country
+314,3,0:40:36,3:45:38,Haiti,Haiti,country
+315,3,0:40:40,3:45:42,Haiti,Haiti,country
+316,3,0:41:58,3:47:00,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area
+317,3,0:42:22,3:47:24,Haiti,Haiti,country
+318,3,0:44:12,3:49:14,Haiti,Haiti,country
+319,3,0:45:11,3:50:13,Haiti,Haiti,country
+320,3,0:46:36,3:51:38,Haiti,Haiti,country
+321,3,0:46:42,3:51:44,Haiti,Haiti,country
+322,3,0:47:07,3:52:09,France,France,country
+323,3,0:47:21,3:52:23,Haiti,Haiti,country
+324,3,0:47:41,3:52:43,USA,USA,country
+325,3,0:47:44,3:52:46,"Quebec, Canada",Quebec,region
+326,3,0:48:00,3:53:02,"Quebec, Canada",Quebec,region
+327,3,0:48:03,3:53:05,USA,USA,country
+328,3,0:48:04,3:53:06,France,France,country
+329,3,0:48:06,3:53:08,Switzerland,Switzerland,country
+330,3,0:48:39,3:53:41,Haiti,Haiti,country
+331,3,0:48:53,3:53:55,Haiti,Haiti,country
+332,3,0:49:01,3:54:03,Haiti,Haiti,country

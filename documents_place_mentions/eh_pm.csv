@@ -1,216 +1,216 @@
-Session #,time_clip,Time mentioned (h:mm:ss),Location,Scale,Characters,By Interviewer,Year,Analyst comments
-1,0,0:00:30,Trois-Rivières; Quebec,city / area,Emmanuel,,0,
-1,,0:00:30,Université du Quebec à Trois-Rivières; Canada,very local,Emmanuel,,,
-1,,0:00:30,Québec City; Quebec; Canada,city / area,Emmanuel,,,
-1,,0:00:50,Rwanda,country,Emmanuel,,,
-1,,0:01:00,Belgium,country,Emmanuel,yes,,
-1,,0:01:10,Rwanda,country,Emmanuel,,,
-1,,0:01:30,Rwanda,country,Emmanuel,yes,,
-1,,0:01:40,Rwanda,country,Emmanuel,,,
-1,,0:02:10,Rwanda,country,Emmanuel,yes,,
-1,,0:05:15,Rwanda,country,Emmanuel,yes,,
-1,,0:05:25,Gikongoro; Rwanda,region,Emmanuel,,during childhood,I believe this is the historical reference because he moved away before the divisions changed in 2006. Centroid for historical division found on geonames.org: http://www.geonames.org/search.html?q=gikongoro%2C+rwanda&country=. S 2° 30' 0'' E 29° 30' 0''.
-1,,0:05:28,Karama; Rwanda,local,Emmanuel,,during childhood,According to G. Law (http://www.statoids.com/yrw.html); karama as a commune is a historical term name. Not including Colline Kiraro mentioned just after this; the only geolocation I can find is not in the place indicated (ie says it's in in Ruhengeri historical district; not Gikongoro).
-1,,0:05:40,Rukondo; Rwanda,local,Emmanuel,,,"Couldn't geolocate the colline ""kabilizé"" (spelling?)"
-1,,0:16:00,Groupe scholaire de Butare; Rwanda,very local,Emmanuel,,,
-1,,0:19:00,Louvain; Belgium,city / area,Emmanuel,,,
-1,,0:19:10,l'université Nationale du Rwanda; Butare; Rwanda,very local,teacher,,,
-1,,0:20:20,Louvain; Belgium,city / area,Emmanuel,,,
-1,,0:20:00,Louvain; Belgium,city / area,Emmanuel,,,
-1,,0:21:50,Belgium,country,Emmanuel,,,
-1,,0:22:10,Gitarama; Rwanda,region,Emmanuel,,,
-1,,0:22:30,Gikongoro; Rwanda,region,Emmanuel,,,I believe this is the historical reference because he moved away before the divisions changed in 2006. Centroid for historical division found on geonames.org: http://www.geonames.org/search.html?q=gikongoro%2C+rwanda&country=. S 2° 30' 0'' E 29° 30' 0''.
-1,,0:22:31,Belgium,country,Emmanuel,,,
-1,,0:24:10,Ouganda,country,Father,,,
-1,,0:25:10,Ouganda,country,Father,,,
-1,,0:25:20,West Africa,continent,Father,,,
-1,,0:25:30,Zanzibar; Tanzanie,region,Father,,,
-1,,0:29:50,Ouganda,country,Emmanuel; Father,,,
-1,,0:30:00,Ouganda,country,father; mother,,,
-1,,0:32:00,Belgium,country,Emmanuel,yes,,
-1,,0:32:50,Burundi,country,tusis,,,
-1,,0:33:10,Belgium,country,government,,,
-1,,0:33:12,Democratic Republic of Congo,country,government,,,
-1,,0:33:33,Groupe scholaire de Butare; Rwanda,very local,Emmanuel,,,"says ""groupe scholaire"""
-1,,0:33:40,Gikongoro; Rwanda,region,Emmanuel,,,I believe this is the historical reference because he moved away before the divisions changed in 2006. Centroid for historical division found on geonames.org: http://www.geonames.org/search.html?q=gikongoro%2C+rwanda&country=. S 2° 30' 0'' E 29° 30' 0''.
-1,,0:33:41,Gikongoro; Rwanda,region,Emmanuel,,,I believe this is the historical reference because he moved away before the divisions changed in 2006. Centroid for historical division found on geonames.org: http://www.geonames.org/search.html?q=gikongoro%2C+rwanda&country=. S 2° 30' 0'' E 29° 30' 0''.
-1,,0:33:42,Gikongoro; Rwanda,region,Emmanuel,,,I believe this is the historical reference because he moved away before the divisions changed in 2006. Centroid for historical division found on geonames.org: http://www.geonames.org/search.html?q=gikongoro%2C+rwanda&country=. S 2° 30' 0'' E 29° 30' 0''.
-1,,0:33:45,Paroisse de Cyanika; Rwanda,local,Emmanuel,,,Didn't find a location for the Cyanika parish although it is known to exist (see article: http://www.la-croix.com/Actualite/Monde/Dans-la-paroisse-rwandaise-de-Cyanika-rescapes-et-tueurs-ont-noue-un-dialogue-2014-04-14-1136058) but chose the point listed under geonames closes to karama; where he grew up: -2.43969; 29.60181. Article listed above also says cyanika is near gikongoro; which is consistent with the location of this centroid.
-1,,0:34:00,Gikongoro; Rwanda,region,Emmanuel,,,I believe this is the historical reference because he moved away before the divisions changed in 2006. Centroid for historical division found on geonames.org: http://www.geonames.org/search.html?q=gikongoro%2C+rwanda&country=. S 2° 30' 0'' E 29° 30' 0''.
-1,,0:36:00,Gikongoro; Rwanda,region,Emmanuel,yes,,I believe this is the historical reference because he moved away before the divisions changed in 2006. Centroid for historical division found on geonames.org: http://www.geonames.org/search.html?q=gikongoro%2C+rwanda&country=. S 2° 30' 0'' E 29° 30' 0''.
-1,,0:37:00,Gikongoro; Rwanda,region,Emmanuel,,,I believe this is the historical reference because he moved away before the divisions changed in 2006. Centroid for historical division found on geonames.org: http://www.geonames.org/search.html?q=gikongoro%2C+rwanda&country=. S 2° 30' 0'' E 29° 30' 0''.
-1,,0:37:50,Gikongoro; Rwanda,region,Emmanuel,,,I believe this is the historical reference because he moved away before the divisions changed in 2006. Centroid for historical division found on geonames.org: http://www.geonames.org/search.html?q=gikongoro%2C+rwanda&country=. S 2° 30' 0'' E 29° 30' 0''.
-1,,0:38:00,Belgium,country,Emmanuel,yes,,
-1,,0:38:10,Belgium,country,Emmanuel,,,
-1,,0:38:10,Belgium,country,Emmanuel,,,
-1,,0:38:00,Belgium,country,Emmanuel,,,
-1,,0:39:00,Belgium,country,Emmanuel,,,
-1,,0:40:10,Rwanda,country,Emmanuel,yes,,
-1,,0:40:10,Belgium,country,Emmanuel,yes,,
-1,,0:40:40,Belgium,country,Emmanuel,yes,,
-1,,0:40:50,Belgium,country,Emmanuel; rwandans in Belgium,,,
-1,,0:42:00,Belgium,country,Emmanuel; ex-wife,,,
-1,,0:44:00,Rwanda,country,Emmanuel,,,
-1,,0:47:15,Belgium,country,,yes,,
-1,,0:47:20,Rwanda,country,parents,yes,,
-1,,0:47:50,Rwanda,country,Emmanuel; parents; siblings,,,
-1,,0:51:00,Rwanda,country,Emmanuel,yes,,
-1,,0:51:20,Belgium,country,Emmanuel,yes,,
-1,,0:51:25,Belgium,country,,,,
-1,,0:51:30,Rwanda,country,Emmanuel,,,
-1,,0:51:45,l'université Nationale du Rwanda; Butare; Rwanda,very local,Emmanuel,,,
-1,,0:52:05,Canada,country,Emmanuel,,,
-1,,0:53:20,Rwanda,country,Emmanuel,yes,,
-1,,0:53:21,Canada,country,Emmanuel,,,
-1,,0:53:25,Canada,country,Emmanuel,yes,,
-1,,0:53:30,Canada,country,Emmanuel,,,
-1,,0:53:35,Canada,country,Emmanuel,yes,,
-1,,0:56:00,Afrique,continent,Emmanuel; students,,,
-1,,0:57:20,l'université Nationale du Rwanda; Butare; Rwanda,very local,Emmanuel,yes,,
-1,,0:58:30,Belgium,country,Emmanuel,,,
-1,,1:00:00,Canada,country,Emmanuel,,,
-1,,1:00:45,l'hotel ibis; Butare; Rwanda,very local,none,,,
-1,,1:00:46,l'hotel faucon; Butare; Rwanda,very local,none,,,
-1,,1:02:00,Kinshasa; Democratic Republic of Congo,city / area,Emmanuel; family; grandparents,,,
-1,,1:02:05,Canada,country,none,,,
-1,,1:03:00,Canada,country,none,,,
-1,,1:03:02,Kinshasa; Democratic Republic of Congo,city / area,Emmanuel; family; grandparents,,,
-1,,1:03:20,l'ambassade du Canada; Kinshasa; Democratic Republic of Congo,very local,Emmanuel,,,
-1,,1:04:00,Bureau de l'immigration; Kigali; Rwanda,very local,Emmanuel,,,
-1,,1:04:50,Kinshasa; Democratic Republic of Congo,city / area,Emmanuel,yes,,
-1,,1:06:10,Kinshasa; Democratic Republic of Congo,city / area,Emmanuel,,,
-1,,1:06:30,Canada,country,Emmanuel,yes,,
-1,,1:06:40,Belgium,country,Emmanuel,,,
-1,,1:07:00,UQAM; Montréal; Quebec,very local,Emmanuel,,,
-1,,1:07:00,UQAM; Montréal; Quebec,very local,Emmanuel,,,
-1,,1:08:20,Belgium,country,Emmanuel,,,
-1,,1:08:00,Rwanda,country,Emmanuel,,,
-1,,1:09:00,Université de Montréal; Montréal; Quebec,very local,Emmanuel; friend,,,
-1,,1:10:00,Université de Montréal; Montréal; Quebec,very local,Emmanuel,,,
-1,,1:10:10,l'ACDI; Ottawa; Canada,very local,Emmanuel,,,
-1,,1:10:30,Afrique,continent,none,,,
-1,,1:10:35,Rwanda,country,Emmanuel,,,
-1,,1:10:40,Rwanda,country,Emmanuel,,,
-1,,1:10:45,l'ACDI; Ottawa; Canada,very local,Emmanuel,,,
-1,,1:11:00,l'ACDI; Ottawa; Canada,very local,Emmanuel,,,
-1,,1:11:40,l'ACDI; Ottawa; Canada,very local,Emmanuel,,,
-1,,1:12:05,l'ACDI; Ottawa; Canada,very local,Emmanuel,,,
-1,,1:12:55,Ottawa; Canada,city / area,Emmanuel,,,
-1,,1:13:05,Ottawa; Canada,city / area,Emmanuel,,,
-1,,1:13:25,Rwanda,country,,,,
-1,,1:18:00,l'université de Montréal; Montréal; Quebec,very local,Emmanuel,,,
-1,,1:18:01,l'université du Québec à Montréal; Montréal; Quebec,very local,Emmanuel,,,
-1,,1:19:25,Rwanda,country,Emmanuel,,,
-1,,1:19:40,Canada,country,Emmanuel,yes,,
-1,,1:20:05,l'ACDI; Ottawa; Canada,very local,Emmanuel,,,
-1,,1:20:35,Canada,country,Emmanuel,,,
-1,,1:20:36,New York; NY; US,city / area,Emmanuel,,,
-1,,1:20:40,Montréal; Quebec,city / area,Emmanuel,,,
-1,,1:20:42,Montréal; Quebec,city / area,Emmanuel,,,
-1,,1:21:05,l'université national du Rwanda; Butare; Rwanda,very local,Emmanuel; old friend,,,
-1,,1:21:20,Citizenship and Immigration Canada; Montreal; Canada,very local,Emmanuel,,,
-1,,1:21:30,Consulat général du Canada à New York; NY; US,very local,Emmanuel,,,
-1,,1:22:00,New York; NY; US,city / area,Emmanuel,,,
-1,,1:22:30,l'ACDI; Ottawa; Canada,very local,Emmanuel,,,
-1,,1:23:30,l'université du Québec à Trois-Rivières; Quebec,very local,Emmanuel,,,
-1,,1:23:45,Trois-Rivières; Quebec,city / area,Emmanuel,,,
-1,,1:24:10,Trois-Rivières; Quebec,city / area,Emmanuel,,,
-1,,1:24:15,Trois-Rivières; Quebec,city / area,Emmanuel,,,
-1,,1:24:35,l'ACDI; Ottawa; Canada,very local,Emmanuel,,,
-1,,1:25:30,Trois-Rivières; Quebec,city / area,Emmanuel,,,
-1,,1:28:25,Middle East,Continent,,,,
-1,,1:29:30,Québec,region,immigrants,yes,,
-1,,1:29:45,Québec,region,immigrants,yes,,
-1,,1:30:00,Rwanda,region,immigrants,yes,,
-1,,1:31:50,Rwanda,country,Emmanuel; mother; father; children,,,
-1,,1:32:25,Trois-Rivières; Quebec,city / area,Emmanuel; parents,,,
-1,,1:33:00,Montréal; Quebec,city / area,Emmanuel; parents,,,
-1,,1:33:25,États-Unis,country,Emmanuel; mother,,,
-1,,1:33:30,New York; NY; US,city / area,Emmanuel; mother,,,
-1,,1:33:45,Rwanda,country,Emmanuel; family,,,
-1,,1:35:25,Rwanda,country,Emmanuel,,,
-1,,1:36:30,Kigali; Rwanda,city / area,Rwandans,,,
-1,,1:36:32,Butare; Rwanda,city / area,Emmanuel; friends,,,
-1,,1:36:45,Butare; Rwanda,city / area,Emmanuel; friends,,,
-1,,1:37:00,Karama; Rwanda,local,Emmanuel,,,
-1,,1:40:05,La Rivière Rukarara; Rwanda,very local,Emmanuel; tutsis  ,,1960,When he was around 10 years old. Coding for the mouth of the river; coordinates from wikipedia.
-1,,1:42:00,Cyanika; Rwanda,local,Emmanuel; tutsis classmates,,,
-1,,1:42:45,Cyanika; Rwanda,local,Emmanuel; tutsis classmates,,,
-1,,1:43:00,Groupe scholaire de Butare; Rwanda,very local,Emmanuel; tutsis classmates,,,
-1,,1:49:00,Rwanda,country,Emmanuel; son,,,
-1,,1:51:00,Rwanda,country,Emmanuel; aquaintances,,,
-1,,1:51:10,Luanda; Angola,city / area,Emmanuel; aquaintances,,,
-1,,1:51:20,Rwanda,country,Emmanuel,,,
-1,,1:51:50,Belgium,country,Emmanuel; wife; Democratic Republic of Congolese friends,,,
-1,,1:52:20,Belgium,country,Emmanuel; wife; Democratic Republic of Congolese friends,,,
-1,,1:52:25,Angola,country,none,,,
-1,,1:52:30,Sénégal,country,none,,,
-1,,1:54:45,Trois-Rivières; Quebec,city / area,Emmanuel,,,
-1,,1:55:00,Montréal; Quebec,city / area,Emmanuel; rwandan community,,,
-1,,1:55:10,Montréal; Quebec,city / area,Emmanuel,,,
-1,,1:58:00,Montréal; Quebec,city / area,Emmanuel,,,
-1,,2:04:40,Rwanda,country,Tutsis,,,
-1,,2:04:50,Rwanda,country,Rwandans,,,
-1,,2:04:52,Rwanda,country,Emmanuel,,,
-1,,2:05:10,Rwanda,country,Emmanuel,,,
-1,,2:05:25,Rwanda,country,Emmanuel,,,
-1,,2:05:30,Rwanda,country,Emmanuel,,,
-1,,2:05:50,Rwanda,country,Emmanuel,,,
-1,,2:05:55,Rwanda,country,Emmanuel,,,
-1,,2:06:05,Butare; Rwanda,city / area,Emmanuel,,,
-1,,2:06:15,Le mémorial de Kigali; Rwanda,very local,Emmanuel,,,
-1,,2:06:19,Rwanda,country,Emmanuel,,,
-1,,2:07:00,Gikongoro; Rwanda,region,Emmanuel,,1960,I believe this is the historical reference because he moved away before the divisions changed in 2006. Centroid for historical division found on geonames.org: http://www.geonames.org/search.html?q=gikongoro%2C+rwanda&country=. S 2° 30' 0'' E 29° 30' 0''.
-1,,2:07:10,Gikongoro; Rwanda,region,Emmanuel,,,I believe this is the historical reference because he moved away before the divisions changed in 2006. Centroid for historical division found on geonames.org: http://www.geonames.org/search.html?q=gikongoro%2C+rwanda&country=. S 2° 30' 0'' E 29° 30' 0''.
-1,,2:07:15,Rwanda,country,,,,
-1,,2:07:10,Gikongoro; Rwanda,region,,,,
-1,,2:07:20,Murambi; Rwanda,very local,Emmanuel,,,coordinates located with geonames; can be found with that exact spelling
-1,,2:07:30,Murambi Genocide Memorial Centre; Rwanda,very local,Emmanuel,,,
-1,,2:07:40,Gikongoro; Rwanda,region,Emmanuel,,,I believe this is the historical reference because he moved away before the divisions changed in 2006. Centroid for historical division found on geonames.org: http://www.geonames.org/search.html?q=gikongoro%2C+rwanda&country=. S 2° 30' 0'' E 29° 30' 0''.
-1,,2:07:55,Gikongoro; Rwanda,region,Emmanuel,,,I believe this is the historical reference because he moved away before the divisions changed in 2006. Centroid for historical division found on geonames.org: http://www.geonames.org/search.html?q=gikongoro%2C+rwanda&country=. S 2° 30' 0'' E 29° 30' 0''.
-1,,2:08:25,Kibeho; Rwanda,city / area,Emmanuel; Callixte,,,
-1,,2:08:50,Kibeho; Rwanda,city / area,Emmanuel; Callixte,,,
-1,,2:10:30,Belgium,country,Emmanuel; daughter,,,
-1,,2:10:40,Rwanda,country,daughter,,,
-1,,2:10:50,Butare; Rwanda,city / area,Emmanuel; daughter,,,
-1,,2:19:00,Rwanda,country,none,yes,,
-1,,2:20:10,Democratic Republic of Congo,country,Emmanuel; Marguerite,,,
-1,,2:20:30,Gikongoro; Rwanda,region,Emmanuel; parents,,,I believe this is the historical reference because he moved away before the divisions changed in 2006. Centroid for historical division found on geonames.org: http://www.geonames.org/search.html?q=gikongoro%2C+rwanda&country=. S 2° 30' 0'' E 29° 30' 0''.
-1,,2:20:35,Nyanza; Rwanda,city / area,Emmanuel; parents,,,
-1,,2:21:05,Democratic Republic of Congo,country,Marguerite; sisters,,,
-1,,2:22:25,Rwanda,country,none,yes,,
-1,,2:22:45,Rwanda,country,none,yes,,
-1,,2:23:05,Afrique du Sud,country,Emmanuel,,,
-1,,2:23:10,Sénégal,country,Emmanuel,,,
-1,,2:23:12,Mali,country,Emmanuel,,,
-1,,2:23:20,Burkina Faso,country,Emmanuel,,,
-1,,2:23:25,Rwanda,country,Emmanuel,,,
-1,,2:23:45,Rwanda,country,Emmanuel,,,
-1,,2:24:05,Rwanda,country,Emmanuel,,,
-1,,2:24:25,Kigali; Rwanda,city / area,Emmanuel,,,
-1,,2:24:35,Kigali; Rwanda,city / area,Emmanuel,,,
-1,,2:24:40,Butare; Rwanda,city / area,Emmanuel,,,
-1,,2:24:50,Kigali; Rwanda,city / area,Emmanuel,,,
-1,,2:24:52,Butare; Rwanda,city / area,Emmanuel,,,
-1,,2:24:55,Butare; Rwanda,city / area,Emmanuel,,,
-1,,2:25:00,Butare; Rwanda,city / area,Emmanuel,,,
-1,,2:25:20,l'université national du Rwanda; Butare; Rwanda,very local,Emmanuel,,,
-1,,2:25:50,Rwanda,country,Emmanuel,,,
-1,,2:26:00,Afrique,Continent,Emmanuel,,,
-1,,2:25:55,Rwanda,country,Emmanuel,,,
-1,,2:27:00,Rwanda,country,Rwandans,,,
-1,,2:29:00,Rwanda,country,Emmanuel,,,
-1,,2:29:20,Kigali; Rwanda,city / area,Rwandan psychologists,,,
-1,,2:29:30,Kigali; Rwanda,city / area,Rwandan psychologists,,,
-1,,2:30:30,Montréal; Quebec,city / area,Rwandan psychologists,,,
-1,,2:35:50,Rwanda,country,Emmanuel,,,
-1,,2:36:30,Rwanda,country,none,,,
-1,,2:36:45,Rwanda,country,none,,,
-1,,2:39:45,Rwanda,country,hutus,,,
-1,,2:43:00,Rwanda,country,Emmanuel,,,
-1,,2:43:40,Rwanda,country,Emmanuel,,,
-1,,2:44:55,Rwanda,country,Emmanuel,,,
-1,,2:45:25,Rwanda,country,Emmanuel,,,
-1,,2:47:30,Rwanda,country,none,,,
-1,,2:49:10,Montréal; Quebec,city / area,Tutsis,,,
-1,,2:49:20,Montréal; Quebec,city / area,Tutsis,,,
+id,Session #,time_clip,Time mentioned (h:mm:ss),Atlascine-location,Location,Scale
+1,1,0,0:00:30,"Trois-Rivières, Canada",Trois-Rivières; Quebec,city / area
+2,1,,0:00:30,"Trois-Rivières, Canada",Université du Quebec à Trois-Rivières; Canada,very local
+3,1,,0:00:30,"Trois-Rivières, Canada",Québec City; Quebec; Canada,city / area
+4,1,,0:00:50,Rwanda,Rwanda,country
+5,1,,0:01:00,Belgium,Belgium,country
+6,1,,0:01:10,Rwanda,Rwanda,country
+7,1,,0:01:30,Rwanda,Rwanda,country
+8,1,,0:01:40,Rwanda,Rwanda,country
+9,1,,0:02:10,Rwanda,Rwanda,country
+10,1,,0:05:15,Rwanda,Rwanda,country
+11,1,,0:05:25,"Gikongoro, Rwanda",Gikongoro; Rwanda,region
+12,1,,0:05:28,"Karama, Rwanda",Karama; Rwanda,local
+13,1,,0:05:40,"Rukondo, Rwanda",Rukondo; Rwanda,local
+14,1,,0:16:00,"Groupe scholaire de Butare, Rwanda",Groupe scholaire de Butare; Rwanda,very local
+15,1,,0:19:00,"Louvain, Belgium",Louvain; Belgium,city / area
+16,1,,0:19:10,"l'université Nationale du Rwanda, Butare, Rwanda",l'université Nationale du Rwanda; Butare; Rwanda,very local
+17,1,,0:20:20,"Louvain, Belgium",Louvain; Belgium,city / area
+18,1,,0:20:00,"Louvain, Belgium",Louvain; Belgium,city / area
+19,1,,0:21:50,Belgium,Belgium,country
+20,1,,0:22:10,"Gitarama, Rwanda",Gitarama; Rwanda,region
+21,1,,0:22:30,"Gikongoro, Rwanda",Gikongoro; Rwanda,region
+22,1,,0:22:31,Belgium,Belgium,country
+23,1,,0:24:10,Uganda,Ouganda,country
+24,1,,0:25:10,Uganda,Ouganda,country
+25,1,,0:25:20,West Africa,West Africa,continent
+26,1,,0:25:30,"Zanzibar, Tanzania",Zanzibar; Tanzanie,region
+27,1,,0:29:50,Uganda,Ouganda,country
+28,1,,0:30:00,Uganda,Ouganda,country
+29,1,,0:32:00,Belgium,Belgium,country
+30,1,,0:32:50,Burundi,Burundi,country
+31,1,,0:33:10,Belgium,Belgium,country
+32,1,,0:33:12,Democratic Republic of Congo,Democratic Republic of Congo,country
+33,1,,0:33:33,"Groupe scholaire de Butare, Rwanda",Groupe scholaire de Butare; Rwanda,very local
+34,1,,0:33:40,"Gikongoro, Rwanda",Gikongoro; Rwanda,region
+35,1,,0:33:41,"Gikongoro, Rwanda",Gikongoro; Rwanda,region
+36,1,,0:33:42,"Gikongoro, Rwanda",Gikongoro; Rwanda,region
+37,1,,0:33:45,"Paroisse de Cyanika, Rwanda",Paroisse de Cyanika; Rwanda,local
+38,1,,0:34:00,"Gikongoro, Rwanda",Gikongoro; Rwanda,region
+39,1,,0:36:00,"Gikongoro, Rwanda",Gikongoro; Rwanda,region
+40,1,,0:37:00,"Gikongoro, Rwanda",Gikongoro; Rwanda,region
+41,1,,0:37:50,"Gikongoro, Rwanda",Gikongoro; Rwanda,region
+42,1,,0:38:00,Belgium,Belgium,country
+43,1,,0:38:10,Belgium,Belgium,country
+44,1,,0:38:10,Belgium,Belgium,country
+45,1,,0:38:00,Belgium,Belgium,country
+46,1,,0:39:00,Belgium,Belgium,country
+47,1,,0:40:10,Rwanda,Rwanda,country
+48,1,,0:40:10,Belgium,Belgium,country
+49,1,,0:40:40,Belgium,Belgium,country
+50,1,,0:40:50,Belgium,Belgium,country
+51,1,,0:42:00,Belgium,Belgium,country
+52,1,,0:44:00,Rwanda,Rwanda,country
+53,1,,0:47:15,Belgium,Belgium,country
+54,1,,0:47:20,Rwanda,Rwanda,country
+55,1,,0:47:50,Rwanda,Rwanda,country
+56,1,,0:51:00,Rwanda,Rwanda,country
+57,1,,0:51:20,Belgium,Belgium,country
+58,1,,0:51:25,Belgium,Belgium,country
+59,1,,0:51:30,Rwanda,Rwanda,country
+60,1,,0:51:45,"l'université Nationale du Rwanda, Butare, Rwanda",l'université Nationale du Rwanda; Butare; Rwanda,very local
+61,1,,0:52:05,Canada,Canada,country
+62,1,,0:53:20,Rwanda,Rwanda,country
+63,1,,0:53:21,Canada,Canada,country
+64,1,,0:53:25,Canada,Canada,country
+65,1,,0:53:30,Canada,Canada,country
+66,1,,0:53:35,Canada,Canada,country
+67,1,,0:56:00,Africa,Afrique,continent
+68,1,,0:57:20,"l'université Nationale du Rwanda, Butare, Rwanda",l'université Nationale du Rwanda; Butare; Rwanda,very local
+69,1,,0:58:30,Belgium,Belgium,country
+70,1,,1:00:00,Canada,Canada,country
+71,1,,1:00:45,"l'hotel ibis, Butare, Rwanda",l'hotel ibis; Butare; Rwanda,very local
+72,1,,1:00:46,"l'hotel faucon, Butare, Rwanda",l'hotel faucon; Butare; Rwanda,very local
+73,1,,1:02:00,"Kinshasa, Democratic Republic of Congo",Kinshasa; Democratic Republic of Congo,city / area
+74,1,,1:02:05,Canada,Canada,country
+75,1,,1:03:00,Canada,Canada,country
+76,1,,1:03:02,"Kinshasa, Democratic Republic of Congo",Kinshasa; Democratic Republic of Congo,city / area
+77,1,,1:03:20,"l'ambassade du Canada, Kinshasa, Democratic Republic of Congo",l'ambassade du Canada; Kinshasa; Democratic Republic of Congo,very local
+78,1,,1:04:00,"Bureau de l'immigration, Kigali, Rwanda",Bureau de l'immigration; Kigali; Rwanda,very local
+79,1,,1:04:50,"Kinshasa, Democratic Republic of Congo",Kinshasa; Democratic Republic of Congo,city / area
+80,1,,1:06:10,"Kinshasa, Democratic Republic of Congo",Kinshasa; Democratic Republic of Congo,city / area
+81,1,,1:06:30,Canada,Canada,country
+82,1,,1:06:40,Belgium,Belgium,country
+83,1,,1:07:00,"UQAM, Montréal, Canada",UQAM; Montréal; Quebec,very local
+84,1,,1:07:00,"UQAM, Montréal, Canada",UQAM; Montréal; Quebec,very local
+85,1,,1:08:20,Belgium,Belgium,country
+86,1,,1:08:00,Rwanda,Rwanda,country
+87,1,,1:09:00,"Université de Montréal, Montréal, Canada",Université de Montréal; Montréal; Quebec,very local
+88,1,,1:10:00,"Université de Montréal, Montréal, Canada",Université de Montréal; Montréal; Quebec,very local
+89,1,,1:10:10,"l'ACDI, Ottawa, Canada",l'ACDI; Ottawa; Canada,very local
+90,1,,1:10:30,Africa,Afrique,continent
+91,1,,1:10:35,Rwanda,Rwanda,country
+92,1,,1:10:40,Rwanda,Rwanda,country
+93,1,,1:10:45,"l'ACDI, Ottawa, Canada",l'ACDI; Ottawa; Canada,very local
+94,1,,1:11:00,"l'ACDI, Ottawa, Canada",l'ACDI; Ottawa; Canada,very local
+95,1,,1:11:40,"l'ACDI, Ottawa, Canada",l'ACDI; Ottawa; Canada,very local
+96,1,,1:12:05,"l'ACDI, Ottawa, Canada",l'ACDI; Ottawa; Canada,very local
+97,1,,1:12:55,"Ottawa, Canada",Ottawa; Canada,city / area
+98,1,,1:13:05,"Ottawa, Canada",Ottawa; Canada,city / area
+99,1,,1:13:25,Rwanda,Rwanda,country
+100,1,,1:18:00,"l'université de Montréal, Montréal, Canada",l'université de Montréal; Montréal; Quebec,very local
+101,1,,1:18:01,"UQAM, Montréal, Canada",l'université du Québec à Montréal; Montréal; Quebec,very local
+102,1,,1:19:25,Rwanda,Rwanda,country
+103,1,,1:19:40,Canada,Canada,country
+104,1,,1:20:05,"l'ACDI, Ottawa, Canada",l'ACDI; Ottawa; Canada,very local
+105,1,,1:20:35,Canada,Canada,country
+106,1,,1:20:36,"NYC, USA",New York; NY; US,city / area
+107,1,,1:20:40,"Montréal, Canada",Montréal; Quebec,city / area
+108,1,,1:20:42,"Montréal, Canada",Montréal; Quebec,city / area
+109,1,,1:21:05,"l'université Nationale du Rwanda, Butare, Rwanda",l'université national du Rwanda; Butare; Rwanda,very local
+110,1,,1:21:20,"Citizenship and Immigration Canada, Montreal, Canada",Citizenship and Immigration Canada; Montreal; Canada,very local
+111,1,,1:21:30,"Consulat général du Canada à New York, NYC, USA",Consulat général du Canada à New York; NY; US,very local
+112,1,,1:22:00,"NYC, USA",New York; NY; US,city / area
+113,1,,1:22:30,"l'ACDI, Ottawa, Canada",l'ACDI; Ottawa; Canada,very local
+114,1,,1:23:30,"l'université du Québec à Trois-Rivières, Trois-Rivières, Canada",l'université du Québec à Trois-Rivières; Quebec,very local
+115,1,,1:23:45,"Trois-Rivières, Canada",Trois-Rivières; Quebec,city / area
+116,1,,1:24:10,"Trois-Rivières, Canada",Trois-Rivières; Quebec,city / area
+117,1,,1:24:15,"Trois-Rivières, Canada",Trois-Rivières; Quebec,city / area
+118,1,,1:24:35,"l'ACDI, Ottawa, Canada",l'ACDI; Ottawa; Canada,very local
+119,1,,1:25:30,"Trois-Rivières, Canada",Trois-Rivières; Quebec,city / area
+120,1,,1:28:25,Middle East,Middle East,Continent
+121,1,,1:29:30,"Quebec, Canada",Québec,region
+122,1,,1:29:45,"Quebec, Canada",Québec,region
+123,1,,1:30:00,Rwanda,Rwanda,country
+124,1,,1:31:50,Rwanda,Rwanda,country
+125,1,,1:32:25,"Trois-Rivières, Canada",Trois-Rivières; Quebec,city / area
+126,1,,1:33:00,"Montréal, Canada",Montréal; Quebec,city / area
+127,1,,1:33:25,USA,États-Unis,country
+128,1,,1:33:30,"NYC, USA",New York; NY; US,city / area
+129,1,,1:33:45,Rwanda,Rwanda,country
+130,1,,1:35:25,Rwanda,Rwanda,country
+131,1,,1:36:30,"Kigali, Rwanda",Kigali; Rwanda,city / area
+132,1,,1:36:32,"Butare, Rwanda",Butare; Rwanda,city / area
+133,1,,1:36:45,"Butare, Rwanda",Butare; Rwanda,city / area
+134,1,,1:37:00,"Karama, Rwanda",Karama; Rwanda,local
+135,1,,1:40:05,"La Rivière Rukarara, Rwanda",La Rivière Rukarara; Rwanda,very local
+136,1,,1:42:00,"Cyanika, Rwanda",Cyanika; Rwanda,local
+137,1,,1:42:45,"Cyanika, Rwanda",Cyanika; Rwanda,local
+138,1,,1:43:00,"Groupe scholaire de Butare, Rwanda",Groupe scholaire de Butare; Rwanda,very local
+139,1,,1:49:00,Rwanda,Rwanda,country
+140,1,,1:51:00,Rwanda,Rwanda,country
+141,1,,1:51:10,"Luanda, Angola",Luanda; Angola,city / area
+142,1,,1:51:20,Rwanda,Rwanda,country
+143,1,,1:51:50,Belgium,Belgium,country
+144,1,,1:52:20,Belgium,Belgium,country
+145,1,,1:52:25,Angola,Angola,country
+146,1,,1:52:30,Senegal,Sénégal,country
+147,1,,1:54:45,"Trois-Rivières, Canada",Trois-Rivières; Quebec,city / area
+148,1,,1:55:00,"Montréal, Canada",Montréal; Quebec,city / area
+149,1,,1:55:10,"Montréal, Canada",Montréal; Quebec,city / area
+150,1,,1:58:00,"Montréal, Canada",Montréal; Quebec,city / area
+151,1,,2:04:40,Rwanda,Rwanda,country
+152,1,,2:04:50,Rwanda,Rwanda,country
+153,1,,2:04:52,Rwanda,Rwanda,country
+154,1,,2:05:10,Rwanda,Rwanda,country
+155,1,,2:05:25,Rwanda,Rwanda,country
+156,1,,2:05:30,Rwanda,Rwanda,country
+157,1,,2:05:50,Rwanda,Rwanda,country
+158,1,,2:05:55,Rwanda,Rwanda,country
+159,1,,2:06:05,"Butare, Rwanda",Butare; Rwanda,city / area
+160,1,,2:06:15,"Kigali Memorial, Rwanda",Le mémorial de Kigali; Rwanda,very local
+161,1,,2:06:19,Rwanda,Rwanda,country
+162,1,,2:07:00,"Gikongoro, Rwanda",Gikongoro; Rwanda,region
+163,1,,2:07:10,"Gikongoro, Rwanda",Gikongoro; Rwanda,region
+164,1,,2:07:15,Rwanda,Rwanda,country
+165,1,,2:07:10,"Gikongoro, Rwanda",Gikongoro; Rwanda,region
+166,1,,2:07:20,"Murambi Genocide Memorial Centre, Rwanda",Murambi; Rwanda,very local
+167,1,,2:07:30,"Murambi Genocide Memorial Centre, Rwanda",Murambi Genocide Memorial Centre; Rwanda,very local
+168,1,,2:07:40,"Gikongoro, Rwanda",Gikongoro; Rwanda,region
+169,1,,2:07:55,"Gikongoro, Rwanda",Gikongoro; Rwanda,region
+170,1,,2:08:25,"Kibeho, Rwanda",Kibeho; Rwanda,city / area
+171,1,,2:08:50,"Kibeho, Rwanda",Kibeho; Rwanda,city / area
+172,1,,2:10:30,Belgium,Belgium,country
+173,1,,2:10:40,Rwanda,Rwanda,country
+174,1,,2:10:50,"Butare, Rwanda",Butare; Rwanda,city / area
+175,1,,2:19:00,Rwanda,Rwanda,country
+176,1,,2:20:10,Democratic Republic of Congo,Democratic Republic of Congo,country
+177,1,,2:20:30,"Gikongoro, Rwanda",Gikongoro; Rwanda,region
+178,1,,2:20:35,"Nyanza, Rwanda",Nyanza; Rwanda,city / area
+179,1,,2:21:05,Democratic Republic of Congo,Democratic Republic of Congo,country
+180,1,,2:22:25,Rwanda,Rwanda,country
+181,1,,2:22:45,Rwanda,Rwanda,country
+182,1,,2:23:05,South Africa,Afrique du Sud,country
+183,1,,2:23:10,Senegal,Sénégal,country
+184,1,,2:23:12,Mali,Mali,country
+185,1,,2:23:20,Burkina Faso,Burkina Faso,country
+186,1,,2:23:25,Rwanda,Rwanda,country
+187,1,,2:23:45,Rwanda,Rwanda,country
+188,1,,2:24:05,Rwanda,Rwanda,country
+189,1,,2:24:25,"Kigali, Rwanda",Kigali; Rwanda,city / area
+190,1,,2:24:35,"Kigali, Rwanda",Kigali; Rwanda,city / area
+191,1,,2:24:40,"Butare, Rwanda",Butare; Rwanda,city / area
+192,1,,2:24:50,"Kigali, Rwanda",Kigali; Rwanda,city / area
+193,1,,2:24:52,"Butare, Rwanda",Butare; Rwanda,city / area
+194,1,,2:24:55,"Butare, Rwanda",Butare; Rwanda,city / area
+195,1,,2:25:00,"Butare, Rwanda",Butare; Rwanda,city / area
+196,1,,2:25:20,"l'université Nationale du Rwanda, Butare, Rwanda",l'université national du Rwanda; Butare; Rwanda,very local
+197,1,,2:25:50,Rwanda,Rwanda,country
+198,1,,2:26:00,Africa,Afrique,Continent
+199,1,,2:25:55,Rwanda,Rwanda,country
+200,1,,2:27:00,Rwanda,Rwanda,country
+201,1,,2:29:00,Rwanda,Rwanda,country
+202,1,,2:29:20,"Kigali, Rwanda",Kigali; Rwanda,city / area
+203,1,,2:29:30,"Kigali, Rwanda",Kigali; Rwanda,city / area
+204,1,,2:30:30,"Montréal, Canada",Montréal; Quebec,city / area
+205,1,,2:35:50,Rwanda,Rwanda,country
+206,1,,2:36:30,Rwanda,Rwanda,country
+207,1,,2:36:45,Rwanda,Rwanda,country
+208,1,,2:39:45,Rwanda,Rwanda,country
+209,1,,2:43:00,Rwanda,Rwanda,country
+210,1,,2:43:40,Rwanda,Rwanda,country
+211,1,,2:44:55,Rwanda,Rwanda,country
+212,1,,2:45:25,Rwanda,Rwanda,country
+213,1,,2:47:30,Rwanda,Rwanda,country
+214,1,,2:49:10,"Montréal, Canada",Montréal; Quebec,city / area
+215,1,,2:49:20,"Montréal, Canada",Montréal; Quebec,city / area

@@ -1,283 +1,283 @@
-Session #,time_clip,Time mentioned (h:mm:ss),Location,Scale,Characters,By Interviewer,Year,Analyst comments
-1,0,0:00:26,Montreal; Qc,city / area,James,,6/7/1974,
-1,,0:00:28,Quebec,region,James,,6/7/1974,
-1,,0:00:46,Montreal; Qc,city / area,James; family,,6/7/1974,
-1,,0:01:26,Quebec,region,James,,,
-1,,0:01:29,Quebec,region,parents,,1969-1970,
-1,,0:02:09,Quebec,region,James and siblings,,,birthdates of him and younger siblings
-1,,0:02:14,Haiti,country,older brother and sister,,,birthdate of brother and sister
-1,,0:02:28,Quebec,region,parents,,1969-1970,
-1,,0:03:39,Cuba,country,father's mother's family,,< 1969 - 1970,
-1,,0:03:44,Cuba,country,father's mother's family,,< 1969 - 1970,
-1,,0:03:45,Haiti,country,father's mother's family,,< 1969 - 1970,
-1,,0:04:04,Haiti,country,father,,< 1969 - 1970,
-1,,0:04:28,Canada,country,father,,< 1969 - 1970,
-1,,0:04:34,Montreal; Qc,city / area,father,,< 1969 - 1970,
-1,,0:04:40,Montreal; Qc,city / area,father,,1969-1970,
-1,,0:04:48,Montreal; Qc,city / area,father,,1969-1970,
-1,,0:04:55,Haiti,country,father,,1969-1970,
-1,,0:05:04,Montreal; Qc,city / area,father,,1969 - 2011,
-1,,0:05:10,Haiti,country,father,yes,< 1969 - 1970,
-1,,0:05:11,Haiti,country,father,,< 1969 - 1970,
-1,,0:05:35,Haiti,country,father,,< 1969 - 1970,
-1,,0:05:54,Cap-Haitien; Haiti,city / area,father,,,
-1,,0:07:26,Haiti,country,father; mother,,< 1969 - 1970,
-1,,0:07:42,Haiti,country,father,,1969-1970,
-1,,0:08:03,Haiti,country,father,,1969 - 2011,
-1,,0:08:53,Haiti,country,father,,< 1969 - 1970,
-1,,0:09:02,Haiti,country,father,,< 1969 - 1970,
-1,,0:09:20,Haiti,country,father,,< 1969 - 1970,
-1,,0:09:28,Canada,country,father,,> 1969 - 1970,
-1,,0:09:31,Quebec,region,father,,1969-1970,
-1,,0:09:58,Haiti,country,father,,< 1969 - 1970,
-1,,0:10:15,Marchand Dessalines; Haiti,local,mother,,,mother's birthdate
-1,,0:10:17,Artibonite; Haiti,region,mother,,,mother's birthdate
-1,,0:10:19,Haiti,country,mother,,,
-1,,0:12:33,Haiti,country,mother,,,
-1,,0:13:36,Canada,country,mother,,< 1969 - 1970,
-1,,0:13:53,Canada,country,,,,
-1,,0:13:56,USA,country,,,,
-1,,0:14:01,Canada,country,mother,,,
-1,,0:14:12,Haiti,country,mother,,1989 - 2011,
-1,,0:14:17,Haiti,country,mother,,,
-1,,0:14:30,Quebec,region,James; parents,,,
-1,,0:14:35,Quebec,region,,,,
-1,,0:15:02,Marchand Dessalines; Haiti,local,mother,,<1969,names two areas of the little town shortly after; can't locate.
-1,,0:15:20,Montreal; Qc,city / area,,,2011,
-1,,0:15:22,Montreal; Qc,city / area,parents,,1969-1970,
-1,,0:16:22,New York; NY,city / area,parents,,1969-1970<,
-1,,0:16:23,Boston; MA,city / area,parents,,1969-1970<,
-1,,0:18:58,Montreal; Qc,city / area,parents,,1969-1970,
-1,,0:20:45,Haiti,country,,,,
-1,,0:21:13,Haiti,country,paternal grandmother; family,,,
-1,,0:21:17,Haiti,country,paternal grandmother; family,,1905,roughly
-1,,0:21:31,Aquin; Haiti,local,paternal grandmother,,2009,
-1,,0:21:33,Haiti,country,paternal grandmother,,,
-1,,0:21:52,Port-au-Prince; Haiti,city / area,paternal grandmother,,1900 - 1969,
-1,,0:22:14,Haiti,country,paternal grandmother,,,
-1,,0:22:39,Port-au-Prince; Haiti,city / area,paternal grandmother,,1957<,he says she worked for Duvalier; so it must be after 1957
-1,,0:23:12,Port-au-Prince; Haiti,city / area,paternal grandmother,,1957<,he says she worked for Duvalier; so it must be after 1957
-1,,0:23:29,France,country,paternal grandmother,,1957<,he says she worked for Duvalier; so it must be after 1957
-1,,0:23:30,Belgium,country,paternal grandmother,,1957<,he says she worked for Duvalier; so it must be after 1957
-1,,0:23:32,Jamaica,country,paternal grandmother,,1957<,he says she worked for Duvalier; so it must be after 1957
-1,,0:24:45,Cuba,country,maternal grandmother,,,
-1,,0:25:21,Haiti,country,paternal grandfather,,,
-1,,0:27:23,Port-au-Prince; Haiti,city / area,paternal grandmother,yes,,
-1,,0:30:57,Port-au-Prince; Haiti,city / area,paternal grandmother,yes,1957<,
-1,,0:32:38,France,country,paternal grandmother,,1957<,
-1,,0:34:00,Marchand Dessalines; Haiti,local,maternal grandmother,,,
-1,,0:34:03,Marchand Dessalines; Haiti,local,maternal grandmother,,,
-1,,0:36:08,Montreal; Qc,city / area,maternal grandmother,,,when maternal grandma came to mtl
-1,,0:36:21,Haiti,country,,,,
-1,,0:36:22,Marchand Dessalines; Haiti,local,,,,
-1,,0:36:26,Marchand Dessalines; Haiti,local,James,,,
-1,,0:36:38,Haiti,country,,,2010 - 2011,
-1,,0:37:09,Quebec,region,maternal grandmother,,,when maternal grandma came to mtl
-1,,0:37:15,Haiti,country,maternal grandmother,,,when maternal grandma came to mtl
-1,,0:41:12,Haiti,country,,,,
-1,,0:41:19,Canada,country,,,,
-1,,0:41:36,Marchand Dessalines; Haiti,local,,,,
-1,,0:42:09,l'Estère; Haiti,local,,,,
-1,,0:42:11,Marchand Dessalines; Haiti,local,,,,
-1,,0:43:08,Quebec,region,James,,1974,
-1,,0:44:52,Haiti,country,James; maternal grandfather,,,
-1,,0:44:57,Haiti,country,James; maternal grandfather,,,
-1,,0:46:14,Marchand Dessalines; Haiti,local,,,<1974,
-1,,0:47:20,Haiti,country,family,,,
-1,,0:47:46,Haiti,country,parents,,,
-1,,0:48:56,Haiti,country,,,,
-1,,0:50:23,Haiti,country,James,,1974 - 2011,
-1,,0:53:21,France,country,maternal grandmother,,>1957,
-1,,0:54:04,France,country,maternal grandmother,,>1957,
-1,,0:54:11,France,country,maternal grandmother,,>1957,
-1,,0:54:16,France,country,maternal grandmother,,>1957,
-1,,0:54:36,France,country,maternal grandmother,,>1957,
-1,,0:55:46,Canada,country,,,,
-1,,0:59:02,Cuba,country,,,<1974,
-1,,0:59:03,Haiti,country,,,<1974,
-1,,1:03:08,Haiti,country,paternal grandfather,,,
-1,,1:03:12,Haiti,country,paternal grandfather,,,
-1,,1:03:33,Boston; MA,city / area,paternal grandfather,,,
-1,,1:03:37,Boston; MA,city / area,father,,,
-1,,1:03:47,Haiti,country,paternal grandfather; father,,,
-1,,1:15:27,Haiti,country,father,,,
-1,,1:16:32,Rivière-des-Prairies; Montreal; Qc,local,James,,,I assume he means the area in MTL; not the town.
-1,,1:17:25,Ethiopia,country,,,1936 - 1941,
-1,,1:17:28,Sicily; Italy,region,,,,
-1,,1:28:02,Montreal-Nord; Montreal; Qc,local,James,,1974 – 1982,
-1,,1:28:05,Montreal-Nord; Montreal; Qc,local,James,,1974 – 1982,
-1,,1:28:08,Montreal-Nord; Montreal; Qc,local,James,,6/7/1974,
-1,,1:28:13,Montreal-Nord; Montreal; Qc,local,James,,1974 – 1982,
-1,,1:28:48,Rolland Blvd; Montreal-Nord; Montreal; Qc,local,James,,1974 – 1982,
-1,,1:28:55,École Adélard-Desrosiers; Montreal; Qc,very local,James,,1974 – 1982,
-1,,1:28:57,École Jules Verne; Montreal; Qc,very local,James,,1974 – 1982,
-1,,1:29:20,Montreal-Nord; Montreal; Qc,local,James,,1974 – 1982,
-1,,1:31:05,Montreal-Nord; Montreal; Qc,local,James,,1974 – 1982,
-1,,1:31:17,Montreal-Nord; Montreal; Qc,local,James,,1974 – 1982,
-1,,1:31:30,Montreal-Nord; Montreal; Qc,local,James,,1974 – 1982,
-1,,1:31:33,Rivière-des-Prairies; Montreal; Qc,local,James,,1983 – 1986,
-1,,1:31:40,Rivière-des-Prairies; Montreal; Qc,local,James,,1983 – 1986,
-1,,1:31:52,Rivière-des-Prairies; Montreal; Qc,local,James,,1983 – 1986,
-1,,1:31:55,École Saint-Marc; Montreal; Qc,very local,James,,1983 – 1986,google doesn't show this school in RDP.
-1,,1:31:56,École Denise-Pelletier; Montreal; Qc,very local,James,,1983 – 1986,
-1,,1:32:04,Rivière-des-Prairies; Montreal; Qc,local,James,,1983 – 1986,
-1,,1:32:09,Rivière-des-Prairies; Montreal; Qc,local,James,,>1983,
-1,,1:32:28,Rivière-des-Prairies; Montreal; Qc,local,James,,>1983,
-1,,1:32:31,Rivière-des-Prairies; Montreal; Qc,local,James,,>1983,
-1,,1:32:34,Rivière-des-Prairies; Montreal; Qc,local,James,,>1983,
-1,,1:32:38,Rivière-des-Prairies; Montreal; Qc,local,James,,1983 – 1986,
-1,,1:33:32,New York; NY,city / area,aunts and uncles,,1983 – 1986,
-1,,1:33:36,Boston; MA,city / area,,,1983 – 1986,
-1,,1:33:38,New York; NY,city / area,James,,1983 – 1986,
-1,,1:33:41,New York; NY,city / area,James,,1983 – 1986,
-1,,1:34:30,New York; NY,city / area,siblings,,1983 – 1986,
-1,,1:35:06,Rivière-des-Prairies; Montreal; Qc,local,James,,1987,
-1,,1:35:28,Montreal-Nord; Montreal; Qc,local,,,1987,
-1,,1:35:30,Rivière-des-Prairies; Montreal; Qc,local,,,1987,
-1,,1:35:33,Montreal-Nord; Montreal; Qc,local,,,1987,
-1,,1:35:34,Pie-IX; Montreal; Qc,local,,,1987,
-1,,1:35:35,Saint-Michel; Montreal; Qc,local,,,1987,
-1,,1:35:44,Saint-Michel; Montreal; Qc,local,,,1987,
-1,,1:35:45,Montreal-Nord; Montreal; Qc,local,,,1987,
-1,,1:35:52,Rivière-des-Prairies; Montreal; Qc,local,,,1987,
-1,,1:35:54,Laval; Qc,city / area,,,2011,
-1,,1:35:55,Terrebonne; Qc,city / area,,,2011,
-1,,1:35:56,South Shore Canal; Canada,city / area,,,2011,an agglomeration of districts according to wikipedia. is it worth finding some sort of centroid for this? EMORY: edited. South shore canal is what i used with frantz. Its close enough
-1,,1:36:01,Rivière-des-Prairies; Montreal; Qc,local,James,,1987,
-1,,1:36:07,Rivière-des-Prairies; Montreal; Qc,local,James; friends,,1987,
-1,,1:36:45,Montreal-Nord; Montreal; Qc,local,James; friends,,1987,
-1,,1:36:47,Saint-Leonard; Montreal; Qc,local,James; friends,,1987,
-1,,1:36:49,Rivière-des-Prairies; Montreal; Qc,local,James; friends,,1987,
-1,,1:37:45,Rivière-des-Prairies; Montreal; Qc,local,James,,1987,
-1,,1:37:55,Montreal-Nord; Montreal; Qc,local,James,,1987,
-1,,1:37:58,Montreal-Nord; Montreal; Qc,local,,,1987,
-1,,1:37:59,Montreal-Nord; Montreal; Qc,local,,,1987,
-1,,1:40:33,Rivière-des-Prairies; Montreal; Qc,local,James,,1987,
-1,,1:40:37,École secondaire Jean-Grou; Montreal; Qc,very local,James,,1987,mentions right before that the school was called RDP before and after; but I am not listing because it is the historical name.. not sure.
-1,,1:40:39,École secondaire Jean-Grou; Montreal; Qc,very local,,,1987,
-1,,1:40:48,Centre Louis-Fréchette; Montreal; Qc,very local,James,,1987,
-1,,1:40:54,Montreal-Nord; Montreal; Qc,local,,,1987,
-1,,1:40:56,Montreal-Nord; Montreal; Qc,local,,,1987,
-1,,1:41:02,École Jules Verne; Montreal; Qc,local,James; friends,,1974 – 1982,
-1,,1:41:03,École Adélard-Desrosiers; Montreal; Qc,very local,James; friends,,1974 – 1982,
-1,,1:41:08,Montreal-Nord; Montreal; Qc,local,James; friends,,1986,
-1,,1:41:10,Montreal-Nord; Montreal; Qc,local,James,,1987,
-1,,1:41:26,Montreal-Nord; Montreal; Qc,local,James  ,,1987<,
-1,,1:41:32,Centre Louis-Fréchette; Montreal; Qc,very local,James  ,,1987<,
-1,,1:41:33,Rivière-des-Prairies; Montreal; Qc,local,James  ,,1987<,
-1,,1:41:35,Rivière-des-Prairies; Montreal; Qc,local,James  ,,1987<,
-1,,1:41:37,Montreal-Nord; Montreal; Qc,local,James  ,,1987<,
-1,,1:41:41,Rivière-des-Prairies; Montreal; Qc,local,,,1987<,
-1,,1:41:43,Montreal-Nord; Montreal; Qc,local,,,1987<,
-1,,1:41:45,Montreal-Nord; Montreal; Qc,local,,,1987<,
-1,,1:42:00,Montreal-Nord; Montreal; Qc,local,James,,1987<,
-1,,1:42:35,Rivière-des-Prairies; Montreal; Qc,local,James; friends,,1987<,“mes amis de rivière”
-1,,1:42:38,Rivière-des-Prairies; Montreal; Qc,local,James; friends,,1987<,“mes amis de rivière”
-1,,1:42:40,Montreal-Nord; Montreal; Qc,local,James; friends,,1987<,
-1,,1:42:42,Montreal-Nord; Montreal; Qc,local,James; friends,,1987<,
-1,,1:42:44,Rivière-des-Prairies; Montreal; Qc,local,James; friends,,1987<,“'à rivière”
-1,,1:42:50,Montreal-Nord; Montreal; Qc,local,James; friends,,1987<,
-1,,1:42:57,Montreal-Nord; Montreal; Qc,local,,,1987<,
-1,,1:42:58,Rivière-des-Prairies; Montreal; Qc,local,,,1987<,
-1,,1:43:27,Montreal-Nord; Montreal; Qc,local,,,1987<,
-1,,1:43:40,Montreal; Qc,city / area,,,1987<,
-1,,1:44:58,Centre jeunesse de laval; Laval; Qc,very local,James,,1988-89,Says “Cartier;” but doesn't show up in search as the juvenile detention centre.
-1,,1:45:03,Centre jeunesse de laval; Laval; Qc,very local,James,,1988-89,Says “Cartier;” but doesn't show up in search as the juvenile detention centre.
-1,,1:45:05,Centre jeunesse de laval; Laval; Qc,very local,James,,1988-89,Says “Cartier;” but doesn't show up in search as the juvenile detention centre.
-1,,1:45:23,Centre jeunesse de laval; Laval; Qc,very local,James,,1988-89,Says “Cartier;” but doesn't show up in search as the juvenile detention centre.
-1,,1:45:31,Centre jeunesse de laval; Laval; Qc,very local,James,,1988-89,Says “Cartier;” but doesn't show up in search as the juvenile detention centre.
-1,,1:47:31,Cité des Prairies; Montreal; Qc,very local,James,,1989-1990,
-1,,1:48:05,Centre jeunesse de laval; Laval; Qc,very local,James,,1988-89,Says “Cartier;” but doesn't show up in search as the juvenile detention centre.
-1,,1:49:03,Cité des Prairies; Montreal; Qc,very local,James,,1989-1990,
-1,,1:50:41,Centre jeunesse de laval; Laval; Qc,very local,James,,1988-89,
-1,,1:50:42,Cité des Prairies; Montreal; Qc,very local,James,,1989-1990,
-1,,1:51:13,Centre Saint-Croix; Montreal; Qc,very local,James   ,,1990 - ?,How long? Also mentions “l'école d'adulte” a few times; by the context could code as this place; but I don't go that far.
-1,,1:51:24,Katimavik; Montreal; Canada,very local,James   ,,1990 - ?,UNCLEAR; but says he finishes high school there; whereas I associate with a youth program. Found an elementary school called École Katimavik-Hébert: http://www3.csmb.qc.ca/ecoles/katimavik-hebert/Accueil/tabid/1763/Default.aspx
-1,,1:51:56,Rivière-des-Prairies; Montreal; Qc,local,James,,1983 - ?,When does he leave RDP?
-1,,1:52:29,Miami; FL,city / area,mother,,1989-90,
-1,,1:52:33,Centre jeunesse de laval; Laval; Qc,very local,James,,1989-90,
-1,,1:53:34,Cité des Prairies; Montreal; Qc,very local,James,,1989-90,
-1,,1:54:04,Hôpital Rivière-des-Prairies; Montreal; Canada,very local,James,,1993 - 1996,
-1,,1:54:10,CEGEP Marie-Victorin; Montreal; Qc,very local,James,,1993 - 1996,
-1,,1:54:29,Rivière-des-Prairies; Montreal; Qc,local,haitians; italians,,1993 - 1996,
-1,,1:56:45,Rivière-des-Prairies; Montreal; Qc,local,,,1993 - 1996,
-1,,1:56:50,Downtown Montreal; Qc,local,,,1996 - 1999,says “centre-ville.” doesn't appear to be in google's gazetteer; but can find coordinates for “downtown mtl” in wikipedia.
-1,,1:56:58,McGill University; Montreal; Qc,very local,James,,1996 - 1999,
-1,,1:57:00,McGill University; Montreal; Qc,very local,James; friends,,1996 - 1999,
-1,,1:57:05,East Montreal; Qc,city / area,,,1996 - 1999,says “l'est de Montréal”
-1,,1:58:38,Montreal-Nord; Montreal; Qc,local,,,1996 - 1999,
-1,,1:58:39,Rivière-des-Prairies; Montreal; Qc,local,,,1996 - 1999,
-1,,1:58:52,Rivière-des-Prairies; Montreal; Qc,local,James,,1996 - 1999,
-1,,1:58:55,Rivière-des-Prairies; Montreal; Qc,local,friends,,1996 - 1999,
-1,,1:59:22,Rivière-des-Prairies; Montreal; Qc,local,James,,,Says “rivière”
-1,,1:59:26,Rivière-des-Prairies; Montreal; Qc,local,James,,,Says “rivière”
-1,,1:59:46,Rivière-des-Prairies; Montreal; Qc,local,James,,,
-1,,1:59:55,Rivière-des-Prairies; Montreal; Qc,local,,,1996 - 1999,
-1,,2:00:03,Saint-Michel; Montreal; Qc,local, grandmother,,1996 - 1999,
-1,,2:00:31,Downtown Montreal; Qc,local,James,,,says “centre-ville.” doesn't appear to be in google's gazetteer; but can find coordinates for “downtown mtl” in wikipedia.
-1,,2:05:13,Downtown Montreal; Qc,local,James,,,says “downtown.” doesn't appear to be in google's gazetteer; but can find coordinates for “downtown mtl” in wikipedia.
-1,,2:05:15,Downtown Montreal; Qc,local,James,,,says “downtown.” doesn't appear to be in google's gazetteer; but can find coordinates for “downtown mtl” in wikipedia.
-1,,2:05:19,Montreal; Qc,city / area,,,,
-1,,2:05:25,Quebec,region,,,,
-1,,2:05:27,Montreal; Qc,city / area,,,,
-1,,2:07:30,École Marie-Rivier; Montreal; Qc,very local,James,,1996 - 1999,
-1,,2:07:50,Rivière-des-Prairies; Montreal; Qc,local,,,1994 - 1997,
-1,,2:12:31,Haiti,country,,,,
-1,,2:12:32,Cuba,country,,,,
-1,,2:12:38,Quebec,region,,,,
-1,,2:16:32,Université de Montreal; Montreal; Qc,very local,James,,1996 - 1999,
-1,,2:16:34,McGill University; Montreal; Qc,very local,James,,1996 - 1999,
-1,,2:16:40,Université de Montreal; Montreal; Qc,very local,James,,1996 - 1999,
-1,,2:16:43,McGill University; Montreal; Qc,very local,,,1996 - 1999,
-,,2:17:02,Université de Montreal; Montreal; Qc,very local, grandmother,,1996 - 1999,
-1,,2:17:23,Montreal-Nord; Montreal; Qc,local,gang members,,1996 - 1999,
-1,,2:17:24,Rivière-des-Prairies; Montreal; Qc,local,gang members,,1996 - 1999,
-1,,2:17:32,Montreal-Nord; Montreal; Qc,local,gang members,,1996 - 1999,
-1,,2:19:18,Miami; FL,city / area,mother,,1990,
-1,,2:19:19,Haiti,country,mother,,1990,
-1,,2:19:24,Montreal; Qc,city / area,,,1990,
-1,,2:20:12,North America,continent,,,,"not sure what I should list for ""en Amérique."""
-1,,2:20:40,Miami; FL,city / area,mother,,1990-2009,
-1,,2:20:41,Haiti,country,mother,,1990-2009,
-1,,2:20:48,Montreal; Qc,city / area,,,1990-2009,
-1,,2:20:57,Haiti,country,mother,yes,1990-2009,
-1,,2:21:12,Haiti,country,,,1990-2009,
-1,,2:21:13,Miami; FL,city / area,,,1990-2009,
-1,,2:21:18,Miami; FL,city / area,,,1990-2009,
-1,,2:21:41,Haiti,country,,,,
-1,,2:22:12,Haiti,country,,yes,,
-1,,2:22:23,Haiti,country,,yes,,
-1,,2:23:05,Haiti,country,father,,,"""l'Haiti Observateur"" I think this is a magazine; or newspaper."
-1,,2:23:40,Haiti,country,,,,
-1,,2:26:03,Haiti,country,,,,
-1,,2:26:35,Haiti,country,,,,
-1,,2:33:04,Haiti,country,James,yes,,
-1,,2:33:11,Haiti,country,James,yes,,
-1,,2:34:01,Haiti,country,James,,,
-1,,2:34:18,Quebec,region,,,,
-1,,2:34:19,Montreal; Qc,city / area,,,,
-1,,2:34:54,Quebec,region,James,,,
-1,,2:35:20,Montreal; Qc,city / area,James,,2011,
-1,,2:35:26,Haiti,country,James,,,
-1,,2:35:30,Haiti,country,,,,
-1,,2:35:41,Marchand Dessalines; Haiti,local,mother,,,"""chez ma mère"""
-1,,2:35:46,La Source (sp?); Marchand Dessalines; Haiti,local,,,,Can't find with basic internet search
-1,,2:35:49,Bohai (sp?); Marchand Dessalines; Haiti,local,,,,Can't find with basic internet search
-1,,2:36:31,Haiti,country,,,,When he first went to haiti
-1,,2:37:42,Haiti,country,James,yes,,
-1,,2:39:04,Quebec,region,James,,,
-1,,2:40:03,Quebec,region,James,,,
-1,,2:40:53,Quebec,region,James,,,
-1,,2:43:09,Haiti,country,,,,
-1,,2:45:29,Haiti,country,haitian people,,,
-1,,2:54:45,Rwanda,country,,,1994,referring to the genocide I believe
-1,,2:54:49,Africa,continent,,,,
-1,,2:55:53,Haiti,country,haitian people,,2011,
-1,,2:56:46,Haiti,country,,,,
-1,,2:58:04,Quebec,region,,,,
-1,,3:02:22,Haiti,country,Duvalier,,2011,
-1,,3:02:33,Haiti,country,Duvalier,,2011,
-1,,3:03:16,Japan,country,,,,
-1,,3:03:20,Hiroshima; Japan,city / area,,,,
-1,,3:03:21,Nagasaki; Japan,city / area,,,,
-1,,3:04:35,Haiti,country,,,2011,
+id,Session #,time_clip,Time mentioned (h:mm:ss),Atlascine-location,Location,Scale
+1,1,0,0:00:26,"Montreal, Canada",Montreal; Qc,city / area
+2,1,,0:00:28,"Quebec, Canada",Quebec,region
+3,1,,0:00:46,"Montreal, Canada",Montreal; Qc,city / area
+4,1,,0:01:26,"Quebec, Canada",Quebec,region
+5,1,,0:01:29,"Quebec, Canada",Quebec,region
+6,1,,0:02:09,"Quebec, Canada",Quebec,region
+7,1,,0:02:14,Haiti,Haiti,country
+8,1,,0:02:28,"Quebec, Canada",Quebec,region
+9,1,,0:03:39,Cuba,Cuba,country
+10,1,,0:03:44,Cuba,Cuba,country
+11,1,,0:03:45,Haiti,Haiti,country
+12,1,,0:04:04,Haiti,Haiti,country
+13,1,,0:04:28,Canada,Canada,country
+14,1,,0:04:34,"Montreal, Canada",Montreal; Qc,city / area
+15,1,,0:04:40,"Montreal, Canada",Montreal; Qc,city / area
+16,1,,0:04:48,"Montreal, Canada",Montreal; Qc,city / area
+17,1,,0:04:55,Haiti,Haiti,country
+18,1,,0:05:04,"Montreal, Canada",Montreal; Qc,city / area
+19,1,,0:05:10,Haiti,Haiti,country
+20,1,,0:05:11,Haiti,Haiti,country
+21,1,,0:05:35,Haiti,Haiti,country
+22,1,,0:05:54,"Cap-Haitien, Haiti",Cap-Haitien; Haiti,city / area
+23,1,,0:07:26,Haiti,Haiti,country
+24,1,,0:07:42,Haiti,Haiti,country
+25,1,,0:08:03,Haiti,Haiti,country
+26,1,,0:08:53,Haiti,Haiti,country
+27,1,,0:09:02,Haiti,Haiti,country
+28,1,,0:09:20,Haiti,Haiti,country
+29,1,,0:09:28,Canada,Canada,country
+30,1,,0:09:31,"Quebec, Canada",Quebec,region
+31,1,,0:09:58,Haiti,Haiti,country
+32,1,,0:10:15,"Marchand Dessalines, Haiti",Marchand Dessalines; Haiti,local
+33,1,,0:10:17,"Artibonite, Haiti",Artibonite; Haiti,region
+34,1,,0:10:19,Haiti,Haiti,country
+35,1,,0:12:33,Haiti,Haiti,country
+36,1,,0:13:36,Canada,Canada,country
+37,1,,0:13:53,Canada,Canada,country
+38,1,,0:13:56,USA,USA,country
+39,1,,0:14:01,Canada,Canada,country
+40,1,,0:14:12,Haiti,Haiti,country
+41,1,,0:14:17,Haiti,Haiti,country
+42,1,,0:14:30,"Quebec, Canada",Quebec,region
+43,1,,0:14:35,"Quebec, Canada",Quebec,region
+44,1,,0:15:02,"Marchand Dessalines, Haiti",Marchand Dessalines; Haiti,local
+45,1,,0:15:20,"Montreal, Canada",Montreal; Qc,city / area
+46,1,,0:15:22,"Montreal, Canada",Montreal; Qc,city / area
+47,1,,0:16:22,"NYC, USA",New York; NY,city / area
+48,1,,0:16:23,"Boston, USA",Boston; MA,city / area
+49,1,,0:18:58,"Montreal, Canada",Montreal; Qc,city / area
+50,1,,0:20:45,Haiti,Haiti,country
+51,1,,0:21:13,Haiti,Haiti,country
+52,1,,0:21:17,Haiti,Haiti,country
+53,1,,0:21:31,"Aquin, Haiti",Aquin; Haiti,local
+54,1,,0:21:33,Haiti,Haiti,country
+55,1,,0:21:52,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area
+56,1,,0:22:14,Haiti,Haiti,country
+57,1,,0:22:39,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area
+58,1,,0:23:12,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area
+59,1,,0:23:29,France,France,country
+60,1,,0:23:30,Belgium,Belgium,country
+61,1,,0:23:32,Jamaica,Jamaica,country
+62,1,,0:24:45,Cuba,Cuba,country
+63,1,,0:25:21,Haiti,Haiti,country
+64,1,,0:27:23,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area
+65,1,,0:30:57,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area
+66,1,,0:32:38,France,France,country
+67,1,,0:34:00,"Marchand Dessalines, Haiti",Marchand Dessalines; Haiti,local
+68,1,,0:34:03,"Marchand Dessalines, Haiti",Marchand Dessalines; Haiti,local
+69,1,,0:36:08,"Montreal, Canada",Montreal; Qc,city / area
+70,1,,0:36:21,Haiti,Haiti,country
+71,1,,0:36:22,"Marchand Dessalines, Haiti",Marchand Dessalines; Haiti,local
+72,1,,0:36:26,"Marchand Dessalines, Haiti",Marchand Dessalines; Haiti,local
+73,1,,0:36:38,Haiti,Haiti,country
+74,1,,0:37:09,"Quebec, Canada",Quebec,region
+75,1,,0:37:15,Haiti,Haiti,country
+76,1,,0:41:12,Haiti,Haiti,country
+77,1,,0:41:19,Canada,Canada,country
+78,1,,0:41:36,"Marchand Dessalines, Haiti",Marchand Dessalines; Haiti,local
+79,1,,0:42:09,"l'Estère, Haiti",l'Estère; Haiti,local
+80,1,,0:42:11,"Marchand Dessalines, Haiti",Marchand Dessalines; Haiti,local
+81,1,,0:43:08,"Quebec, Canada",Quebec,region
+82,1,,0:44:52,Haiti,Haiti,country
+83,1,,0:44:57,Haiti,Haiti,country
+84,1,,0:46:14,"Marchand Dessalines, Haiti",Marchand Dessalines; Haiti,local
+85,1,,0:47:20,Haiti,Haiti,country
+86,1,,0:47:46,Haiti,Haiti,country
+87,1,,0:48:56,Haiti,Haiti,country
+88,1,,0:50:23,Haiti,Haiti,country
+89,1,,0:53:21,France,France,country
+90,1,,0:54:04,France,France,country
+91,1,,0:54:11,France,France,country
+92,1,,0:54:16,France,France,country
+93,1,,0:54:36,France,France,country
+94,1,,0:55:46,Canada,Canada,country
+95,1,,0:59:02,Cuba,Cuba,country
+96,1,,0:59:03,Haiti,Haiti,country
+97,1,,1:03:08,Haiti,Haiti,country
+98,1,,1:03:12,Haiti,Haiti,country
+99,1,,1:03:33,"Boston, USA",Boston; MA,city / area
+100,1,,1:03:37,"Boston, USA",Boston; MA,city / area
+101,1,,1:03:47,Haiti,Haiti,country
+102,1,,1:15:27,Haiti,Haiti,country
+103,1,,1:16:32,"Rivière-des-Prairies, Montreal, Canada",Rivière-des-Prairies; Montreal; Qc,local
+104,1,,1:17:25,Ethiopia,Ethiopia,country
+105,1,,1:17:28,"Sicily, Italy",Sicily; Italy,region
+106,1,,1:28:02,"Montréal-Nord, Montreal, Canada",Montreal-Nord; Montreal; Qc,local
+107,1,,1:28:05,"Montréal-Nord, Montreal, Canada",Montreal-Nord; Montreal; Qc,local
+108,1,,1:28:08,"Montréal-Nord, Montreal, Canada",Montreal-Nord; Montreal; Qc,local
+109,1,,1:28:13,"Montréal-Nord, Montreal, Canada",Montreal-Nord; Montreal; Qc,local
+110,1,,1:28:48,"Rolland Blvd, Montreal-Nord, Montreal, Canada",Rolland Blvd; Montreal-Nord; Montreal; Qc,local
+111,1,,1:28:55,"École Adélard-Desrosiers, Montreal, Canada",École Adélard-Desrosiers; Montreal; Qc,very local
+112,1,,1:28:57,"École Jules Verne, Montreal, Canada",École Jules Verne; Montreal; Qc,very local
+113,1,,1:29:20,"Montréal-Nord, Montreal, Canada",Montreal-Nord; Montreal; Qc,local
+114,1,,1:31:05,"Montréal-Nord, Montreal, Canada",Montreal-Nord; Montreal; Qc,local
+115,1,,1:31:17,"Montréal-Nord, Montreal, Canada",Montreal-Nord; Montreal; Qc,local
+116,1,,1:31:30,"Montréal-Nord, Montreal, Canada",Montreal-Nord; Montreal; Qc,local
+117,1,,1:31:33,"Rivière-des-Prairies, Montreal, Canada",Rivière-des-Prairies; Montreal; Qc,local
+118,1,,1:31:40,"Rivière-des-Prairies, Montreal, Canada",Rivière-des-Prairies; Montreal; Qc,local
+119,1,,1:31:52,"Rivière-des-Prairies, Montreal, Canada",Rivière-des-Prairies; Montreal; Qc,local
+120,1,,1:31:55,"École Saint-Marc, Montreal, Canada",École Saint-Marc; Montreal; Qc,very local
+121,1,,1:31:56,"École Denise-Pelletier, Montreal, Canada",École Denise-Pelletier; Montreal; Qc,very local
+122,1,,1:32:04,"Rivière-des-Prairies, Montreal, Canada",Rivière-des-Prairies; Montreal; Qc,local
+123,1,,1:32:09,"Rivière-des-Prairies, Montreal, Canada",Rivière-des-Prairies; Montreal; Qc,local
+124,1,,1:32:28,"Rivière-des-Prairies, Montreal, Canada",Rivière-des-Prairies; Montreal; Qc,local
+125,1,,1:32:31,"Rivière-des-Prairies, Montreal, Canada",Rivière-des-Prairies; Montreal; Qc,local
+126,1,,1:32:34,"Rivière-des-Prairies, Montreal, Canada",Rivière-des-Prairies; Montreal; Qc,local
+127,1,,1:32:38,"Rivière-des-Prairies, Montreal, Canada",Rivière-des-Prairies; Montreal; Qc,local
+128,1,,1:33:32,"NYC, USA",New York; NY,city / area
+129,1,,1:33:36,"Boston, USA",Boston; MA,city / area
+130,1,,1:33:38,"NYC, USA",New York; NY,city / area
+131,1,,1:33:41,"NYC, USA",New York; NY,city / area
+132,1,,1:34:30,"NYC, USA",New York; NY,city / area
+133,1,,1:35:06,"Rivière-des-Prairies, Montreal, Canada",Rivière-des-Prairies; Montreal; Qc,local
+134,1,,1:35:28,"Montréal-Nord, Montreal, Canada",Montreal-Nord; Montreal; Qc,local
+135,1,,1:35:30,"Rivière-des-Prairies, Montreal, Canada",Rivière-des-Prairies; Montreal; Qc,local
+136,1,,1:35:33,"Montréal-Nord, Montreal, Canada",Montreal-Nord; Montreal; Qc,local
+137,1,,1:35:34,"Pie-IX, Montreal, Canada",Pie-IX; Montreal; Qc,local
+138,1,,1:35:35,"Saint-Michel, Montreal, Canada",Saint-Michel; Montreal; Qc,local
+139,1,,1:35:44,"Saint-Michel, Montreal, Canada",Saint-Michel; Montreal; Qc,local
+140,1,,1:35:45,"Montréal-Nord, Montreal, Canada",Montreal-Nord; Montreal; Qc,local
+141,1,,1:35:52,"Rivière-des-Prairies, Montreal, Canada",Rivière-des-Prairies; Montreal; Qc,local
+142,1,,1:35:54,"Laval, Canada",Laval; Qc,city / area
+143,1,,1:35:55,"Terrebonne, Canada",Terrebonne; Qc,city / area
+144,1,,1:35:56,"South Shore Canal, Canada",South Shore Canal; Canada,city / area
+145,1,,1:36:01,"Rivière-des-Prairies, Montreal, Canada",Rivière-des-Prairies; Montreal; Qc,local
+146,1,,1:36:07,"Rivière-des-Prairies, Montreal, Canada",Rivière-des-Prairies; Montreal; Qc,local
+147,1,,1:36:45,"Montréal-Nord, Montreal, Canada",Montreal-Nord; Montreal; Qc,local
+148,1,,1:36:47,"Saint-Leonard, Montreal, Canada",Saint-Leonard; Montreal; Qc,local
+149,1,,1:36:49,"Rivière-des-Prairies, Montreal, Canada",Rivière-des-Prairies; Montreal; Qc,local
+150,1,,1:37:45,"Rivière-des-Prairies, Montreal, Canada",Rivière-des-Prairies; Montreal; Qc,local
+151,1,,1:37:55,"Montréal-Nord, Montreal, Canada",Montreal-Nord; Montreal; Qc,local
+152,1,,1:37:58,"Montréal-Nord, Montreal, Canada",Montreal-Nord; Montreal; Qc,local
+153,1,,1:37:59,"Montréal-Nord, Montreal, Canada",Montreal-Nord; Montreal; Qc,local
+154,1,,1:40:33,"Rivière-des-Prairies, Montreal, Canada",Rivière-des-Prairies; Montreal; Qc,local
+155,1,,1:40:37,"École secondaire Jean-Grou, Montreal, Canada",École secondaire Jean-Grou; Montreal; Qc,very local
+156,1,,1:40:39,"École secondaire Jean-Grou, Montreal, Canada",École secondaire Jean-Grou; Montreal; Qc,very local
+157,1,,1:40:48,"Centre Louis-Fréchette, Montreal, Canada",Centre Louis-Fréchette; Montreal; Qc,very local
+158,1,,1:40:54,"Montréal-Nord, Montreal, Canada",Montreal-Nord; Montreal; Qc,local
+159,1,,1:40:56,"Montréal-Nord, Montreal, Canada",Montreal-Nord; Montreal; Qc,local
+160,1,,1:41:02,"École Jules Verne, Montreal, Canada",École Jules Verne; Montreal; Qc,local
+161,1,,1:41:03,"École Adélard-Desrosiers, Montreal, Canada",École Adélard-Desrosiers; Montreal; Qc,very local
+162,1,,1:41:08,"Montréal-Nord, Montreal, Canada",Montreal-Nord; Montreal; Qc,local
+163,1,,1:41:10,"Montréal-Nord, Montreal, Canada",Montreal-Nord; Montreal; Qc,local
+164,1,,1:41:26,"Montréal-Nord, Montreal, Canada",Montreal-Nord; Montreal; Qc,local
+165,1,,1:41:32,"Centre Louis-Fréchette, Montreal, Canada",Centre Louis-Fréchette; Montreal; Qc,very local
+166,1,,1:41:33,"Rivière-des-Prairies, Montreal, Canada",Rivière-des-Prairies; Montreal; Qc,local
+167,1,,1:41:35,"Rivière-des-Prairies, Montreal, Canada",Rivière-des-Prairies; Montreal; Qc,local
+168,1,,1:41:37,"Montréal-Nord, Montreal, Canada",Montreal-Nord; Montreal; Qc,local
+169,1,,1:41:41,"Rivière-des-Prairies, Montreal, Canada",Rivière-des-Prairies; Montreal; Qc,local
+170,1,,1:41:43,"Montréal-Nord, Montreal, Canada",Montreal-Nord; Montreal; Qc,local
+171,1,,1:41:45,"Montréal-Nord, Montreal, Canada",Montreal-Nord; Montreal; Qc,local
+172,1,,1:42:00,"Montréal-Nord, Montreal, Canada",Montreal-Nord; Montreal; Qc,local
+173,1,,1:42:35,"Rivière-des-Prairies, Montreal, Canada",Rivière-des-Prairies; Montreal; Qc,local
+174,1,,1:42:38,"Rivière-des-Prairies, Montreal, Canada",Rivière-des-Prairies; Montreal; Qc,local
+175,1,,1:42:40,"Montréal-Nord, Montreal, Canada",Montreal-Nord; Montreal; Qc,local
+176,1,,1:42:42,"Montréal-Nord, Montreal, Canada",Montreal-Nord; Montreal; Qc,local
+177,1,,1:42:44,"Rivière-des-Prairies, Montreal, Canada",Rivière-des-Prairies; Montreal; Qc,local
+178,1,,1:42:50,"Montréal-Nord, Montreal, Canada",Montreal-Nord; Montreal; Qc,local
+179,1,,1:42:57,"Montréal-Nord, Montreal, Canada",Montreal-Nord; Montreal; Qc,local
+180,1,,1:42:58,"Rivière-des-Prairies, Montreal, Canada",Rivière-des-Prairies; Montreal; Qc,local
+181,1,,1:43:27,"Montréal-Nord, Montreal, Canada",Montreal-Nord; Montreal; Qc,local
+182,1,,1:43:40,"Montreal, Canada",Montreal; Qc,city / area
+183,1,,1:44:58,"Centre Jeunesse de Laval: Centre Cartier, Laval, Qc",Centre jeunesse de laval; Laval; Qc,very local
+184,1,,1:45:03,"Centre Jeunesse de Laval: Centre Cartier, Laval, Qc",Centre jeunesse de laval; Laval; Qc,very local
+185,1,,1:45:05,"Centre Jeunesse de Laval: Centre Cartier, Laval, Qc",Centre jeunesse de laval; Laval; Qc,very local
+186,1,,1:45:23,"Centre Jeunesse de Laval: Centre Cartier, Laval, Qc",Centre jeunesse de laval; Laval; Qc,very local
+187,1,,1:45:31,"Centre Jeunesse de Laval: Centre Cartier, Laval, Qc",Centre jeunesse de laval; Laval; Qc,very local
+188,1,,1:47:31,"Cité des Prairies, Montreal, Canada",Cité des Prairies; Montreal; Qc,very local
+189,1,,1:48:05,"Centre Jeunesse de Laval: Centre Cartier, Laval, Qc",Centre jeunesse de laval; Laval; Qc,very local
+190,1,,1:49:03,"Cité des Prairies, Montreal, Canada",Cité des Prairies; Montreal; Qc,very local
+191,1,,1:50:41,"Centre Jeunesse de Laval: Centre Cartier, Laval, Qc",Centre jeunesse de laval; Laval; Qc,very local
+192,1,,1:50:42,"Cité des Prairies, Montreal, Canada",Cité des Prairies; Montreal; Qc,very local
+193,1,,1:51:13,"Centre Saint-Croix, Montreal, Canada",Centre Saint-Croix; Montreal; Qc,very local
+194,1,,1:51:24,"Katimavik, Montreal, Canada",Katimavik; Montreal; Canada,very local
+195,1,,1:51:56,"Rivière-des-Prairies, Montreal, Canada",Rivière-des-Prairies; Montreal; Qc,local
+196,1,,1:52:29,"Miami, USA",Miami; FL,city / area
+197,1,,1:52:33,"Centre Jeunesse de Laval: Centre Cartier, Laval, Qc",Centre jeunesse de laval; Laval; Qc,very local
+198,1,,1:53:34,"Cité des Prairies, Montreal, Canada",Cité des Prairies; Montreal; Qc,very local
+199,1,,1:54:04,"Hôpital Rivière-des-Prairies, Montreal, Canada",Hôpital Rivière-des-Prairies; Montreal; Canada,very local
+200,1,,1:54:10,"CEGEP Marie-Victorin, Montreal, Canada",CEGEP Marie-Victorin; Montreal; Qc,very local
+201,1,,1:54:29,"Rivière-des-Prairies, Montreal, Canada",Rivière-des-Prairies; Montreal; Qc,local
+202,1,,1:56:45,"Rivière-des-Prairies, Montreal, Canada",Rivière-des-Prairies; Montreal; Qc,local
+203,1,,1:56:50,"Downtown Montreal, Canada",Downtown Montreal; Qc,local
+204,1,,1:56:58,"McGill University, Montreal, Canada",McGill University; Montreal; Qc,very local
+205,1,,1:57:00,"McGill University, Montreal, Canada",McGill University; Montreal; Qc,very local
+206,1,,1:57:05,"East Montreal, Canada",East Montreal; Qc,city / area
+207,1,,1:58:38,"Montréal-Nord, Montreal, Canada",Montreal-Nord; Montreal; Qc,local
+208,1,,1:58:39,"Rivière-des-Prairies, Montreal, Canada",Rivière-des-Prairies; Montreal; Qc,local
+209,1,,1:58:52,"Rivière-des-Prairies, Montreal, Canada",Rivière-des-Prairies; Montreal; Qc,local
+210,1,,1:58:55,"Rivière-des-Prairies, Montreal, Canada",Rivière-des-Prairies; Montreal; Qc,local
+211,1,,1:59:22,"Rivière-des-Prairies, Montreal, Canada",Rivière-des-Prairies; Montreal; Qc,local
+212,1,,1:59:26,"Rivière-des-Prairies, Montreal, Canada",Rivière-des-Prairies; Montreal; Qc,local
+213,1,,1:59:46,"Rivière-des-Prairies, Montreal, Canada",Rivière-des-Prairies; Montreal; Qc,local
+214,1,,1:59:55,"Rivière-des-Prairies, Montreal, Canada",Rivière-des-Prairies; Montreal; Qc,local
+215,1,,2:00:03,"Saint-Michel, Montreal, Canada",Saint-Michel; Montreal; Qc,local
+216,1,,2:00:31,"Downtown Montreal, Canada",Downtown Montreal; Qc,local
+217,1,,2:05:13,"Downtown Montreal, Canada",Downtown Montreal; Qc,local
+218,1,,2:05:15,"Downtown Montreal, Canada",Downtown Montreal; Qc,local
+219,1,,2:05:19,"Montreal, Canada",Montreal; Qc,city / area
+220,1,,2:05:25,"Quebec, Canada",Quebec,region
+221,1,,2:05:27,"Montreal, Canada",Montreal; Qc,city / area
+222,1,,2:07:30,"École Marie-Rivier, Montreal, Canada",École Marie-Rivier; Montreal; Qc,very local
+223,1,,2:07:50,"Rivière-des-Prairies, Montreal, Canada",Rivière-des-Prairies; Montreal; Qc,local
+224,1,,2:12:31,Haiti,Haiti,country
+225,1,,2:12:32,Cuba,Cuba,country
+226,1,,2:12:38,"Quebec, Canada",Quebec,region
+227,1,,2:16:32,"Université de Montréal, Montreal, Canada",Université de Montreal; Montreal; Qc,very local
+228,1,,2:16:34,"McGill University, Montreal, Canada",McGill University; Montreal; Qc,very local
+229,1,,2:16:40,"Université de Montréal, Montreal, Canada",Université de Montreal; Montreal; Qc,very local
+230,1,,2:16:43,"McGill University, Montreal, Canada",McGill University; Montreal; Qc,very local
+231,,,2:17:02,"Université de Montréal, Montreal, Canada",Université de Montreal; Montreal; Qc,very local
+232,1,,2:17:23,"Montréal-Nord, Montreal, Canada",Montreal-Nord; Montreal; Qc,local
+233,1,,2:17:24,"Rivière-des-Prairies, Montreal, Canada",Rivière-des-Prairies; Montreal; Qc,local
+234,1,,2:17:32,"Montréal-Nord, Montreal, Canada",Montreal-Nord; Montreal; Qc,local
+235,1,,2:19:18,"Miami, USA",Miami; FL,city / area
+236,1,,2:19:19,Haiti,Haiti,country
+237,1,,2:19:24,"Montreal, Canada",Montreal; Qc,city / area
+238,1,,2:20:12,North America,North America,continent
+239,1,,2:20:40,"Miami, USA",Miami; FL,city / area
+240,1,,2:20:41,Haiti,Haiti,country
+241,1,,2:20:48,"Montreal, Canada",Montreal; Qc,city / area
+242,1,,2:20:57,Haiti,Haiti,country
+243,1,,2:21:12,Haiti,Haiti,country
+244,1,,2:21:13,"Miami, USA",Miami; FL,city / area
+245,1,,2:21:18,"Miami, USA",Miami; FL,city / area
+246,1,,2:21:41,Haiti,Haiti,country
+247,1,,2:22:12,Haiti,Haiti,country
+248,1,,2:22:23,Haiti,Haiti,country
+249,1,,2:23:05,Haiti,Haiti,country
+250,1,,2:23:40,Haiti,Haiti,country
+251,1,,2:26:03,Haiti,Haiti,country
+252,1,,2:26:35,Haiti,Haiti,country
+253,1,,2:33:04,Haiti,Haiti,country
+254,1,,2:33:11,Haiti,Haiti,country
+255,1,,2:34:01,Haiti,Haiti,country
+256,1,,2:34:18,"Quebec, Canada",Quebec,region
+257,1,,2:34:19,"Montreal, Canada",Montreal; Qc,city / area
+258,1,,2:34:54,"Quebec, Canada",Quebec,region
+259,1,,2:35:20,"Montreal, Canada",Montreal; Qc,city / area
+260,1,,2:35:26,Haiti,Haiti,country
+261,1,,2:35:30,Haiti,Haiti,country
+262,1,,2:35:41,"Marchand Dessalines, Haiti",Marchand Dessalines; Haiti,local
+263,1,,2:35:46,"La Source (?), Marchand Dessalines, Haiti",La Source (sp?); Marchand Dessalines; Haiti,local
+264,1,,2:35:49,"Bohai (?), Marchand Dessalines, Haiti",Bohai (sp?); Marchand Dessalines; Haiti,local
+265,1,,2:36:31,Haiti,Haiti,country
+266,1,,2:37:42,Haiti,Haiti,country
+267,1,,2:39:04,"Quebec, Canada",Quebec,region
+268,1,,2:40:03,"Quebec, Canada",Quebec,region
+269,1,,2:40:53,"Quebec, Canada",Quebec,region
+270,1,,2:43:09,Haiti,Haiti,country
+271,1,,2:45:29,Haiti,Haiti,country
+272,1,,2:54:45,Rwanda,Rwanda,country
+273,1,,2:54:49,Africa,Africa,continent
+274,1,,2:55:53,Haiti,Haiti,country
+275,1,,2:56:46,Haiti,Haiti,country
+276,1,,2:58:04,"Quebec, Canada",Quebec,region
+277,1,,3:02:22,Haiti,Haiti,country
+278,1,,3:02:33,Haiti,Haiti,country
+279,1,,3:03:16,Japan,Japan,country
+280,1,,3:03:20,"Hiroshima, Japan",Hiroshima; Japan,city / area
+281,1,,3:03:21,"Nagasaki, Japan",Nagasaki; Japan,city / area
+282,1,,3:04:35,Haiti,Haiti,country

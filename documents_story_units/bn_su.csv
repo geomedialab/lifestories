@@ -1,170 +1,177 @@
-Session #,Story unit #,Clip Time start (h:mm:ss),Clip Time end (h:mm:ss),Cumulative Time Start (h:mm:ss),Cumulative Time End (h:mm:ss),Location,Characters,Characterization of story unit,Scale,Journey,"Method of transportation (bus, car, plane, walk...)",Positive (+) or negative (-) association,Imposed movement ,Violence,Chronology ,Characterization of the chronology,Analyst comments,story unit length,aspatial unit length,interviewer unit length
-1,1,0:00:00,0:00:30,0:00:00,0:00:30,none,interviewer,"Asks to present himself: ethnicity, family…",,,0,,0,,,,,0:00:30,0:00:30,0:00:30
-1,2,0:00:30,0:01:54,0:00:30,0:01:54,none,"Bellarmin, family","Says he is tutsi, and will soon be 62 years old. Describes his religion, family.",,,,,,,2009,,,0:01:24,0:01:24,0:00:13
-1,3,0:01:54,0:02:07,0:01:54,0:02:07,none,interviewer,"Asks about his grandparents, what he remembers.",,,,,,,,,,0:00:13,0:00:13,0:00:04
-1,4,0:02:07,0:03:47,0:02:07,0:03:47,Rwanda,"Bellarmin, maternal grandmother","Didn't know his paternal grandparents, just his maternal grandmother a little bit. They never lived close, and he moved a lot. ",country,,,,,,,childhood,,0:01:40,0:00:07,0:00:05
-1,5,0:03:47,0:04:00,0:03:47,0:04:00,Rwanda,"Bellarmin, maternal grandmother","Remembers his grandmother's relation to his mother because after events in 1959 his grandmother's house was burned down, so she went to live with him and his family.",country,,,,,yes,1959,,Violence because his grandmother's house was burned down.,0:00:13,0:01:12,0:00:07
-1,6,0:04:00,0:04:04,0:04:00,0:04:04,Rwanda,interviewer,Asks if he remembers events in 1959.,country,,,,,,1959,,,0:00:04,0:00:28,0:00:28
-1,7,0:04:04,0:05:20,0:04:04,0:05:20,"Nyanza, Rwanda",Bellarmin,"Remembers it being relatively calm where he was, but he remembers seeing refugees traveling away from Gikongoro, houses burning in the distance. People were saying it was the revolution, the king was killed and tutsis were being chased.",city / area,,,,,yes,1959,,Refers to seeing houses burn in the neighbouring village.,0:01:16,0:00:16,0:00:16
-1,8,0:05:20,0:05:25,0:05:20,0:05:25,"Nyanza, Rwanda",interviewer,Asked how he felt during this time.,city / area,,,,,,1959,,,0:00:05,0:00:05,0:00:05
-1,9,0:05:25,0:08:13,0:05:25,0:08:13,"Nyanza, Rwanda","Bellarmin, family","Talks about how a lot of family moved in with him, remembers a lot of kids around. Much of his family was in the process of moving to Congo at that time, fleeing persecution. He clarifies these memories are during holidays because he was at boarding school during this time.",city / area,,,,,,1959 - 1960,,,0:02:48,0:00:08,0:00:08
-1,10,0:08:13,0:08:20,0:08:13,0:08:20,none,interviewer,Asks about his parents.,,,,,,,,,,0:00:07,0:01:17,0:00:08
-1,11,0:08:20,0:09:25,0:08:20,0:09:25,"Butare, Rwanda","Bellarmin, father","Aside from during vacations, he would see his father when he would visit his boarding school.",city / area,,,,,,1955 - 1962,from when he started boarding school to when his father died.,"He mentions ""l'internat"" many times between minutes 8 - 20, but there appear to be many schools in Butare, not confident to choose one.",0:01:05,0:00:26,0:00:26
-1,12,0:09:25,0:10:37,0:09:25,0:10:37,none,"Bellarmin, parents","Talks about his parents, as disciplinarians, their differences. ",,,,,,,1947-1962,"childhood, until father died",,0:01:12,0:02:52,0:00:15
-1,13,0:10:37,0:11:05,0:10:37,0:11:05,none,interviewer,"Asks about his parents' jobs, and roles in the family.",,,,,,,,,,0:00:28,0:00:56,0:00:11
-1,14,0:11:05,0:11:54,0:11:05,0:11:54,Rwanda,parents,"His father was a medical assistant, and mother took care of the household.",country,,,,,,1947-1962,"childhood, until father died",,0:00:49,0:00:03,0:00:06
-1,15,0:11:54,0:12:10,0:11:54,0:12:10,none,interviewer,Asks how his parents have influenced him.,,,,,,,,,,0:00:16,0:00:09,0:00:13
-1,16,0:12:10,0:12:30,0:12:10,0:12:30,Rwanda,"Bellarmin, father, mother, family",Feels close to his mother because they lived difficult moments together. ,country,,,,,,1947-1962,"childhood, until father died",,0:00:20,0:00:03,0:00:11
-1,17,0:12:30,0:17:40,0:12:30,0:17:40,Rwanda,"Bellarmin, father","His father died in 1962, early in his life. It was a shock, brought much uncertainty. Describes what he understands of his father's assassination. Clarifies that just men were killed during this time.",country,,,-,,yes,3/27/1962,,Violence because his father was assassinated. Negative because he mentions this was a shock in the family.,0:05:10,0:00:13,0:00:37
-1,18,0:17:40,0:18:55,0:17:40,0:18:55,"Butare, Rwanda",Bellarmin,"Describes how he found out about his father's death, while he was at boarding school.",city / area,,,,,,Mar-62,several days after his father was killed.,,0:01:15,0:00:07,0:00:07
-1,19,0:18:55,0:20:08,0:18:55,0:20:08,"Nyanza, Rwanda","Bellarmin, family","Is told his father died while he was on vacation, by one of the cooks at the school, but not given any details.",city / area,,,,,,Apr-62,,,0:01:13,0:00:52,0:00:03
-1,20,0:20:08,0:20:13,0:20:08,0:20:13,none,interviewer,Asks if he discussed the situation with his brothers at the time.,,,,,,,1962,around the time of his father's death,,0:00:05,0:00:39,0:00:04
-1,21,0:20:13,0:20:47,0:20:13,0:20:47,"Nyanza, Rwanda","Bellarmin, mother, siblings","He didn't discuss the death of his father with his brothers, his mother simply said they needed to stay strong and continue.",city / area,,,,,,1962,around the time of his father's death,chose the location as the same as that of when the news was broken to him.,0:00:34,0:02:39,0:00:10
-1,22,0:20:47,0:20:55,0:20:47,0:20:55,"Nyanza, Rwanda",interviewer (Neal),Asks if any uncles or aunts were around.,city / area,,,,,,1962,,,0:00:08,0:00:07,0:00:05
-1,23,0:20:55,0:21:40,0:20:55,0:21:40,"Nyanza, Rwanda",extended family,The rest of his family had left Rwanda by this time.,city / area,,,,,,1962,,,0:00:45,0:00:21,0:00:08
-1,24,0:21:40,0:21:48,0:21:40,0:21:48,none,interviewer,Asks about how his parents were perceived by their entourage.,,,,,,,,,,0:00:08,0:00:07,0:00:02
-1,25,0:21:48,0:23:05,0:21:48,0:23:05,none,father,"Describes his father: direct, fearless, sociable.",,,,,,< 1962,before his father dies,,,0:01:17,0:00:26,0:00:18
-1,26,0:23:05,0:26:42,0:23:05,0:26:42,"Butare, Rwanda",father,"Talks about when his father worked as a government official. Describes that his father refused to pledge allegiance to an interim government, and this was what put him on a black list, and in danger of being killed. Was not afraid.",city / area,,,,,yes,1959 - 1962,,"Says he was sent somewhere at minute 26, cannot make out where. Violence because description of potential causes of his father's assassination.",0:03:37,0:00:23,0:00:06
-1,27,0:26:42,0:27:08,0:26:42,0:27:08,none,interviewer,"Asks about his siblings, their influence on him, their occupations..",,,,,,,,,,0:00:26,0:00:06,0:00:22
-1,28,0:27:08,0:30:00,0:27:08,0:30:00,none,"Bellarmin, siblings, father, oldest brother","He describes briefly his siblings' work. His eldest brother had the most influence on him, especially since his father died when he was young. Became a father figure.",,,,,,,,,,0:02:52,0:00:07,0:00:14
-1,29,0:30:00,0:30:15,0:30:00,0:30:15,"Butare, Rwanda",interviewer,"Asks about childhood, when he left to boarding school.",,,,,,,,,,0:00:15,0:00:08,0:00:08
-1,30,0:30:15,0:31:12,0:30:15,0:31:12,"Butare, Rwanda","Bellarmin, father","Talks about when and why he went to boarding school - his father moved around a lot, so being at the boarding school was more stable.",city / area,,,,,,1955-56,around 4th year of primary school,"He doesn't know how old he was, but dates assuming he started school around 5-6 years old.",0:00:57,0:00:30,0:00:05
-1,31,0:31:12,0:31:23,0:31:12,0:31:23,Rwanda,interviewer,Asks if he remembers whether he was free to play with anyone as a child.,country,,,,,,,,,0:00:11,0:00:56,0:00:27
-1,32,0:31:23,0:32:19,0:31:23,0:32:19,"Butare, Rwanda","Bellarmin, friends",Spent most of his childhood at the boarding school. Played in the village during vacations only.,city / area,,,,,,1955 - 1967 ,while he was in boarding school.,Reasoning for end-date of period in chronology tab.,0:00:56,0:01:19,0:00:02
-1,33,0:32:19,0:32:25,0:32:19,0:32:25,Rwanda,intervviewer,Asks if there was a difference between boys and girls during childhood.,country,,,,,,,childhood,,0:00:06,0:00:28,0:00:05
-1,34,0:32:25,0:33:04,0:32:25,0:33:04,"Butare, Rwanda","Bellarmin, classmates",The boarding schools were separated by gender. He had very little contact with the girls.,city / area,,,,,,1955 - 1967 ,while he was in boarding school.,Reasoning for end-date of period in chronology tab.,0:00:39,0:00:58,0:00:05
-1,35,0:33:04,0:33:17,0:33:04,0:33:17,"Butare, Rwanda",interviewer,Asks about memories of the boarding school.,city / area,,,,,,1955 - 1967 ,while he was in boarding school.,Reasoning for end-date of period in chronology tab.,0:00:13,0:00:06,0:00:04
-1,36,0:33:17,0:35:00,0:33:17,0:35:00,"Butare, Rwanda",Bellarmin,"Describes his experience at the boarding school, being seen as priviledged. When the revolution started some people wouldn't come back after vacations because their parents would move away due to men being killed during this time.",city / area,,,,,yes,1955 - 1967 ,while he was in boarding school.,Reasoning for end-date of period in chronology tab.,0:01:43,0:00:25,0:00:08
-1,37,0:35:00,0:35:11,0:35:00,0:35:11,"Nyanza, Rwanda",interviewer (Neal),"Asks if his mother was worried about her children, if she might have wanted to send them elsewhere.",city / area,,,,,,<1974,before he leaves Rwanda,chronology: this question seems broader but I figure it applies at least to the time before Bellarmin left Rwanda,0:00:11,0:00:23,0:00:07
-1,38,0:35:11,0:37:26,0:35:11,0:37:26,"Nyanza, Rwanda","Bellarmin, mother, siblings","Talks about how his mother wanted to leave, but didn't know where and how. Explains that Nyanza was pretty quiet in terms of turmoil. This was why it was targeted during the genocide",city / area,,,,,yes,unknown,,Violence because refers to the genocide.,0:02:15,,0:00:14
-1,39,0:37:26,0:37:58,0:37:26,0:37:58,"Nyanza, Rwanda",Bellarmin,Describes a memory from a vacation of a hutu walking into his house looking around like he was thinking the place would soon be his.,city / area,,,,,,,,,0:00:32,,0:00:04
-1,40,0:37:58,0:40:18,0:37:58,0:40:18,"Butare, Rwanda",Bellarmin,"Describes the experience at the boarding school as being like in a prison; you couldn't see anything due to huge walls surrounding it. The cooks would bring news of outside. Felt it was safe though, says people wouldn't come in because there was still fear at that time unlike during the genocide.",city / area,,,,,,1955 - 1967 ,while he was in boarding school.," good quote describing how he felt at boarding school: felt like in prison, but felt safe at the same time.",0:02:20,,0:00:34
-1,41,0:40:18,0:40:55,0:40:18,0:40:55,Rwanda,interviewer,"Asks for more details about school, and then the transition from school to work.",country,,,,,,,,,0:00:37,,0:00:14
-1,42,0:40:55,0:43:41,0:40:55,0:43:41,Rwanda,"Bellarmin, hutu classmates, friends","Talks about his experiences in boarding schools. Talks about hutu students getting more politicized as they got older, being influenced by politicians, working for the police, creating tension.  ",country,,,-,,,1962-63,states dates explicitly,"Negative because he describes that time / situation as malsain, pas beau, pénible. Don't know where his high school was.",0:02:46,,0:00:02
-1,43,0:43:41,0:43:48,0:43:41,0:43:48,Rwanda,interviewer,Asks when he left school.,country,,,,,,,,,0:00:07,,0:00:05
-1,44,0:43:48,0:44:10,0:43:48,0:44:10,Rwanda,Bellarmin,Describes trying to avoid identifying with a group and focusing on studies. ,country,,,,,,1960 - 1967,while he was in school,"I put the period as secondary school, I interpret that the subject matter is less something that happens in primary school. Period for secondary school rationalized in chronology tab.",0:00:22,,0:00:03
-1,45,0:44:10,0:45:13,0:44:10,0:45:13,Rwanda,"Bellarmin, friends","Left in 1968, but describes 1966 as a difficult time. Many friends were imprisoned, or left, not sure who would return, and no one talked about what was going on out of fear. ",country,,,-,,,1966,,"Negative because he describes this as a difficult time, so much was unclear, secretive, fearful. Quote about how he felt at this time: ""l'atmosphère n'était pas bonne du tout, mais on étudiait pareille.""",0:01:03,,0:00:37
-1,46,0:45:13,0:45:16,0:45:13,0:45:16,Rwanda,interviewer,Asks what his favourite subject was at school.,country,,,,,,,,,0:00:03,,0:00:03
-1,47,0:45:16,0:46:38,0:45:16,0:46:38,Rwanda,"Bellarmin, le Frère Aurélien","Liked economics. Wanted to be a medical assistant like his father but one of the friars was a hutu supporter, prohibited tutsi from studying this subject.",country,,,,,,1960 - 1967,period of high school and cegep,I think this is what is implied in this story unit.Period for secondary school rationalized in chronology tab.,0:01:22,,0:00:03
-1,48,0:46:38,0:46:42,0:46:38,0:46:42,Rwanda,interviewer (Neal),Asks if most teachers conveyed an atmosphere of favoritism and prejudice against tutsi.,country,,,,,,,,,0:00:04,,0:00:07
-1,49,0:46:42,0:48:45,0:46:42,0:48:45,Rwanda,"Bellarmin, teachers, Julius, father","Affirms that teachers supported a favoritist and prejudiced atmosphere, especially the Belgians, but not all. Speaks of a friar that was supportive: Julius. Friend of his father. His father left a fund for his kids with Julius for their studies. Amazing guy.",country,,,,,,1960 - 1967,period of high school and cegep,Period for secondary school rationalized in chronology tab.,0:02:03,,0:00:20
-1,50,0:48:45,0:48:55,0:48:45,0:48:55,Rwanda,interviewer,Asks what he ended up studying.,country,,,,,,,,,0:00:10,,0:00:04
-1,51,0:48:55, 0:49:52,0:48:55,0:49:52,Rwanda,Bellarmin,Studied economic sciences. Went well. ,country,,,,,,1960 - 1967,period of high school and cegep,"I don`t know when in this period he started specializing, probably not at the beginning of high school, unclear. Period for secondary school rationalized in chronology tab.",0:00:57,,0:00:39
-1,52, 0:49:52,0:49:57,0:49:52,0:49:57,Rwanda,interviewer,Asks if he worked afterward.,country,,,,,,,,,0:00:05,,0:01:00
-1,53,0:49:57,0:52:20,0:49:57,0:52:20,"Kigali, Rwanda",Bellarmin,"Finished school in 1968. Describes difficulties with finding meaningful work, feeling exploited. ",city / area,,,-,,,1968 - 1973,period he worked in Rwanda,"Negative because he describes frustrations when working. Kigali because the ministry for infrastructure, which is what I interpret is ""le ministère de travail public"" is based in kigali.",0:02:23,,0:00:26
-1,54,0:52:20,0:55:05,0:52:20,0:55:05,"Kigali, Rwanda","Bellarmin, tutsi officials","Describes conflict between hutus and tutsi. One day lists of the tutsi working in public offices were posted and refusing them entry. Refers to the coup d'état, that many left Rwanda at this time.",city / area,,,,,,1972,,,0:02:45,,0:00:25
-,55,0:55:05,0:55:47,0:55:05,0:55:47,Rwanda,"rwandan government, tutsi","Refers to the coup d'état, that many left Rwanda at this time.",country,,,,,,1973,,"He is unsure of timing, but the coup d'état occurred in 1973.",0:00:42,,0:00:28
-1,56,0:55:47,0:57:15,0:55:47,0:57:15,Rwanda,"Bellarmin, siblings, mother","All his siblings left, he didn't want to leave his mother alone.",country,,,,,,1972,,,0:01:28,,0:00:07
-1,57,0:57:15,0:57:23,0:57:15,0:57:23,Rwanda; Democratic Republic of Congo,interviewer (Neal),Asks if his mother didn't want to leave to join her sons.,country,,,,,,,,,0:00:08,,0:00:07
-1,58,0:57:23,0:57:55,0:57:23,0:57:55,Rwanda,"mother, siblings, Bellarmin",Talks about why his mother didn't want to leave - no siblings were established anywhere. So they stayed.,country,,,,,,1972,,,0:00:32,,0:00:23
-1,59,0:57:55,0:57:57,0:57:55,0:57:57,"Kigali, Rwanda",interviewer,Asks if he was afraid.,city / area,,,,,,,,,0:00:02,,0:00:06
-1,60,0:57:57,0:59:30,0:57:57,0:59:30,"Kigali, Rwanda","Bellarmin, Samson","Yes he was afraid, but he had a good hutu friend - Samson. Was his thermometer for sensing danger. Wonders what to do. A difficult period. Took 5 months before decides to leave.",city / area,,,-,,,1972,5 months,Negative because describes as a difficult period. Kigali because I gather he was living there at this time.,0:01:33,,0:00:08
-1,61,0:59:30,1:05:42,0:59:30,1:05:42,"Kigali, Rwanda","Bellarmin, friend "," Shares an anecdote about a time he almost left: a friend sends him a message about a bursary for USSR. When he went to leave it was known that he was leaving Rwanda, so he felt unsafe, decided not to leave afterall. Discusses how you had to watch out, figures if he crossed he would have gone to prison.",city / area,,,,,,1970,,,0:06:12,,0:00:22
-1,62,1:05:42,1:06:00,1:05:42,1:06:00,"Kigali, Rwanda",interviewer,"Asks about the community he was a part of, the neighborhood, their activities, if he was part of any groups / networks..",city / area,,,,,,,,,0:00:18,,0:00:56
-1,63,1:06:00,1:08:45,1:06:00,1:08:45,"Kigali, Rwanda","Bellarmin, friends, militants, policemen","Describes time with his friends, going to bars and nightclubs, but not going out much because it was dangerous, there were frustrated people looking for trouble. Militants and police were the most frustrating, having lots of power. Could send you to jail for anything. Difficult time, couldn't express yourself.",city / area,,,-,,,1968 - 1973,while he was in Kigali,"Negative because he says ""j'étais pas bien,"" c'était une période ""pénible."" Quote describing his experience, why he was not comfortable going out - going out and there are people looking for you, or accusing you of being part of the resistance simply because you let your beard grow.",0:02:45,,0:00:28
-1,64,1:08:45,1:10:00,1:08:45,1:10:00,Rwanda,Bellarmin,"Describes that there were roadblocks, you had to have a pass, permission to travel, very restricted mobility.",country,,,,,,1959 - 1972,"dates stated explicitly, but later says the roadblocks continued after the coup d'état in 73.. ",Important story unit from a geographic perspective - restricted movement.,0:01:15,,0:00:06
-1,65,1:10:00,1:10:24,1:10:00,1:10:24,Rwanda,Bellarmin,"Comments on how only upon reflection do you realize how such intense living conditions such as the restricted mobility he experienced were unbelievable, but it's because you had no choice.",country,,,,,,,reflection - no chronology, Great moment where he says only upon reflecting that you say to yourself that this couldn't be possible. Because it's a reflection I separated it into another story unit. Could be used as a quote.,0:00:24,,0:00:23
-1,66,1:10:24,1:10:30,1:10:24,1:10:30,Rwanda,interviewer,Asks about how long the roadblocks lasted.,country,,,,,,,,"Says how long did ""it"" lasted, not exactly sure but I assume she means the roadblocks based on his answer. ",0:00:06,,
-1,67,1:10:30,1:11:45,1:10:30,1:11:45,Rwanda,Bellarmin,Left after the coup d'état in 1973 because things calmed down so it was safer to travel. Roadblocks continued at that point.,country,,,,,,1973,,Interviewer and interviewee unsure of date of coup d'état,0:01:15,,
-1,68,1:11:45,1:12:07,1:11:45,1:12:07,Rwanda,interviewer,Wondering why it was easier to travel at that point compared to the last time he tried to leave in 1970.,country,,,,,,1973,,,0:00:22,,
-1,69,1:12:07,1:12:53,1:12:07,1:12:53,Rwanda,"Bellarmin, Rwandan government",It wasn't the same people in power when he left in 1973 as when he tried in 1970. ,country,,,,,,1970-1973,,,0:00:46,,
-1,70,1:12:53,1:13:07,1:12:53,1:13:07,Rwanda,interviewer,Asks if he married before he left.,country,,,,,,1973,,,0:00:14,,
-1,71,1:13:07,1:13:48,1:13:07,1:13:48,Rwanda,Bellarmin,"Says how can you get married in those circumstances, what conditions would you be bringing your children into, but some would marry.",country,,,,,,1973,around the time of leaving Rwanda,"There is back-and-forth with the interviewer, but along the same topic.",0:00:41,,
-1,72,1:13:48,1:13:56,1:13:48,1:13:56,"Kigali, Rwanda",interviewer,Asks how old he was when he left.,city / area,,,,,,1973,,,0:00:08,,
-1,73,1:13:56,1:14:07,1:13:56,1:14:07,"Kigali, Rwanda",Bellarmin,He was 26 when he left.,city / area,,,,,,1973,,,0:00:11,,
-1,74,1:14:07,1:14:12,1:14:07,1:14:12,unknown,interviewer,Asks when he started to feel safer.,,,,,,,,,"unknown location because storyteller is prompting for info, ie there is no associated location to the content of the question",0:00:05,,
-1,75,1:14:12,1:15:17,1:14:12,1:15:17,Germany,Bellarmin,"Says he felt safer in Germany. Describes briefly his trajectory: Congo, Burundi for 3 months, then Germany.",country,,,,,,1973 - ?,"from when he left, to period he was in Germany","Nice back-and-forth with interviewer. Great quote on how he felt relieved, even though there are other problems, and how he expressed it by growing his hair and beard, something unthinkable in Rwanda. Interview stops pretty abruptly, also commented upon in the transcript, there is a possibility some footage is missing.",0:01:05,,
-2,76,0:00:00,0:00:27,1:15:17,1:15:44,unknown,interviewer,"Asks about how he left Rwanda, his trajectory etc..",,,,,,,,,,0:00:27,,
-2,77,0:00:27,0:05:20,1:15:44,1:20:37,"Kigali, Rwanda; Gisenyi, Rwanda; Goma, Democratic Republic of Congo","Bellarmin, friend","Describes when he left Rwanda. Had to leave incognito. Got help from his friend. Took truck to Gisenyi… from Kigali (bralirwa) Describes crossing the border out of Rwanda into Congo (walk?). Went to an aunt's place. He was a bit afraid, the border patrol officers knew that many rwandans left the country through there. Giving money made the passage easy. ",city / area,journey 1,truck + walk,,yes,,7/25/1973,on a Wednesday,"It is here that I suspect Bellarmin was living in Kigali, so filled in previous story units with this information. Imposed movement away from Rwanda because was fleeing. He said he was scared. Could be interpreted as negative? Notable that the interviewer asks if he was afraid, an interesting discussion on how he felt during this movement.",0:04:53,,
-2,78,0:05:20,0:05:55,1:20:37,1:21:12,"Goma, Democratic Republic of Congo","Bellarmin, friend","Friend sent his things over the next day, since he didn't travel with his belongings, to remain discreet.",city / area,,,,,,7/28/1973,the following Saturday after he left,,0:00:35,,
-2,79,0:05:55,0:06:10,1:21:12,1:21:27,"Kigali, Rwanda",Bellarmin,"Left as though he was just going to work, and just never returned. Made sure none knew of his departure.",city / area,,,,,,7/25/1973,,,0:00:15,,
-2,80,0:06:10,0:07:34,1:21:27,1:22:51,"Goma, Democratic Republic of Congo; Bukavu, Democratic Republic of Congo; Bujumbura, Burundi","Bellarmin, cousin","Arrives in Goma, didn't have any papers, his cousin helped him get some. Had to get to Bujumbura, because easier to get refugee papers in Burundi. Passed through Bukavu to pick up his little sister.",city / area,journey 2,,,,,Aug-73,3 week trip,August because left Rwanda at the end of July.,0:01:24,,
-2,81,0:07:34,0:09:15,1:22:51,1:24:32,Burundi,"Bellarmin, family friends, sister, older brother","Stayed with a family that knew his father, great guy. Felt more secure. Stayed to plan next steps, in contact with older brother in Germany. Stayed until they got their refugee status.",country,,,,,,Aug - Dec 1973,4 months,"Not sure of months, I made the calculation based leaving Rwanda at the end of July.",0:01:41,,
-2,82,0:09:15,0:09:45,1:24:32,1:25:02,"Bujumbura, Burundi; Brussels, Belgium; Cologne, Germany","Bellarmin, sister, brother",Describes trip to Germany - his brother sent them plane tickets.,city / area,Journey 3,plane,,,,Dec-73,end of 1973,,0:00:30,,
-2,83,0:09:45,0:09:47,1:25:02,1:25:04,Germany,interviewer,Asks how it was in Germany,country,,,,,,,,,0:00:02,,
-2,84,0:09:47,0:12:01,1:25:04,1:27:18,Germany,Bellarmin,"Not as easy as he thought. Very hard: arrived broke, living with lots of people. Issue with papers came up, only had right to stay for 3 months at first. Friend suggests seeking asylum.",country,,,,,,1973 - 1974 ,around the time he arrived.,"Good quote describing his experience in Germany, how it was more difficult than he expected and why. Good ambiance, but tight, lived with lots of ppl.",0:02:14,,
-2,85,0:12:01,0:14:37,1:27:18,1:29:54,Germany,Bellarmin,"Describes schooling in Germany, while he waited for the decision about asylum. Got a bursary, and an annual student visa. Worked during holidays.",country,,,,,,1972 - 1982,period he was in Germany,,0:02:36,,
-2,86,0:14:37,0:14:42,1:29:54,1:29:59,Germany,interviewer (Neal),Asks if had refugee or student status.,country,,,,,,,,,0:00:05,,
-2,87,0:14:42,0:15:10,1:29:59,1:30:27,Germany,Bellarmin,"Official status was travelling from Burundi, and with that he got yearly student visas, as long as he was registered as a student.",country,,,,,,1972 - 1982,period he was in Germany,,0:00:28,,
-2,88,0:15:10,0:15:33,1:30:27,1:30:50,Germany,Bellarmin,"Describes that it was tough before he got the bursary, financially - couldn't work.",country,,,-,,,Dec 1973 - ,until he got his first bursary.,Negative because he describes a difficult period.,0:00:23,,
-2,89,0:15:33,0:17:38,1:30:50,1:32:55,Germany,"Bellarmin, older german ladies",Describes the goodwill of some older german ladies who helped him out with really cheap lodging.,country,,,+,,,1974 - 1982,at some point while he was in Germany,"Positive because he describes this as a good experience. This story unit is a good quote of a moving experience for the storyteller, including a nice reaction of surprise from the interviewer about the uniqueness of the circumstances.",0:02:05,,
-2,90,0:17:38,0:18:19,1:32:55,1:33:36,Germany,Bellarmin,Stretched out his studies so he could stay longer.,country,,,,,,Dec 1973 - 1982,,,0:00:41,,
-2,91,0:18:19,0:19:18,1:33:36,1:34:35,Rwanda,"mother, siblings","Siblings were all over the world, no one with their mother, she was alone. Problem. ",country,,,,,,1972 - 1979,period he was in Germany,"I put the period he was in Germany because before he left he was the last to be with his mother, I believe, so this was the period she was alone. EMORY: changed to 1979. somehow this fits more with what he was saying: that they had to get their mother out of rwanda",0:00:59,,
-2,92,0:19:18,0:20:25,1:34:35,1:35:42,Rwanda,"mother, brother","Brother returns to Rwanda after studies, realizes the situation is not good. Eventually brings his mother to Canada.",country,journey 4,plane?,,,,1976-77,,"Deciding to make this and the next two story units a journey, because it's the description of how his mother got to Canada with a stop-off in Germany.",0:01:07,,
-2,93,0:20:25,0:21:16,1:35:42,1:36:33,Germany,mother,Mother ends up in Germany for 3 months. Homesick. Said she only left Rwanda for her kids.,country,journey 4,,,,,1979,3 months,Chronology based on assumption that she was in Germany right before moving to Canada.,0:00:51,,
-2,94,0:21:16,0:23:26,1:36:33,1:38:43,Canada,"mother, sister, Bellarmin.","Sister took the steps to get their mother to Canada. Couldn't travel alone: no english, french. Bellarmin went with her. Liked it, wanted to stay.",country,journey 4,,"""+""",,,1979,october or november,,0:02:10,,
-2,95,0:23:26,0:23:31,1:38:43,1:38:48,Canada; Germany,interviewer (Neal),Asks what Canada had that Germany didn't.,country,,,,,,,,,0:00:05,,
-2,96,0:23:31,0:26:52,1:38:48,1:42:09,"Trudeau airport, Montreal, Qc; Trois-Rivières, Qc; Ste-Anne-de-la-Pérade, Qc","Bellarmin, mother, young Canadian couple, brother","Describes liking Canada because he was impressed by the kindness of Canadians, who helped him and his mother get to Ste-Anne-de-la-Pérade from the airport, where is brother was. Stopped off in Trois-Rivières where the couple lived. ",very local; city / area; local,Journey 5 ,car,+,,,1979,,"story unit could be about Canada or about more precise locations from his anecdote. I chose to locate story unit in anecdote. Interviewer asks if impression stayed with him, chose not to separate, find it is similar enough to previous question in content.",0:03:21,,
-2,97,0:26:52,0:26:56,1:42:09,1:42:13,Canada,interviewer (Neal),Asks if his mother had a similar experience during that moment.,country,,,,,,1979,,,0:00:04,,
-2,98,0:26:56,0:28:15,1:42:13,1:43:32,Canada,"Bellarmin, mother ","Explains how she was in the dark because of the language barrier. Was long ago, not many other Rwandans in Canada yet. Not speaking the language made it hard for her at first. But happy, safe.",country,,,,,,1979,,Choosing scale of Canada because of how Bellarmin talks about Rwandans in Canada and not explicitly Montreal.,0:01:19,,
-2,99,0:28:15,0:28:23,1:43:32,1:43:40,Germany,interviewer,Asks about the return to Germany before moving to Canada.,country,,,,,,1979 - 1982,,,0:00:08,,
-2,100,0:28:23,0:29:58,1:43:40,1:45:15,Germany,Bellarmin,"Took steps to return to Canada, left Germany in 1982: finished studies, allowed to work 1 year in a stage to save up some money, refers to the economic crisis in 1981 - 82. ",country,,,,,,1979 - 1982,,Back and forth with interviewer,0:01:35,,
-2,101,0:29:58,0:30:05,1:45:15,1:45:22,"Montreal, Qc",interviewer,Asks about arrival in Montreal.,city / area,,,,,,1982,,,0:00:07,,
-2,102,0:30:05,0:31:04,1:45:22,1:46:21,"Montreal, Qc",Bellarmin,"Started by looking for work, not easy. Little jobs. ",city / area,,,,,,1982,,,0:00:59,,
-2,103,0:31:04,0:32:25,1:46:21,1:47:42,"Outremont, Montreal, Canada","Bellarmin, friend","Met another Rwandan, started a resto, good but difficult experience.",local,,,,,,1983 - 1985,,,0:01:21,,
-2,104,0:32:25,0:33:50,1:47:42,1:49:07,"Montreal, Qc",Bellarmin,"continues to talk about work. Studies in Germany not totally recognized, had to do more university, was expensive.",city / area,,,,,,1985 - 1988,for 3 years.,,0:01:25,,
-2,105,0:33:50,0:34:41,1:49:07,1:49:58,"CECI, Montreal, Qc",Bellarmin,"Gets a job at the Centre d'études et de coopération internationale (CECI), goes back to Africa occasionally, has this job until today. ",very local ,,,,,,1988 - 89,around this time,,0:00:51,,
-2,106,0:34:41,0:34:55,1:49:58,1:50:12,"Montreal, Qc",interviewer,Asks if there was any Rwandan community when he arrived in Montreal.,city / area,,,,,,1982,when he arrived.,,0:00:14,,
-2,107,0:34:55,0:35:28,1:50:12,1:50:45,"Montreal, Qc","Bellarmin, rwandans in Canada",Not many Rwandans when he arrived.,city / area,,,,,,1982,when he arrived.,,0:00:33,,
-2,108,0:35:28,0:35:32,1:50:45,1:50:49,"Montreal, Qc",interviewer,"Asks if there was separation between Rwandans, how people lived together.",city / area,,,,,,1982,when he arrived.,,0:00:04,,
-2,109,0:35:32,0:36:26,1:50:49,1:51:43,"Montreal, Qc","Bellarmin, rwandans in Canada","Describes how there wasn't separation like in Rwanda, but not much community. Quebec as an ideal place to go, modern. ",city / area,,,,,,1982,when he arrived.,Could be a broader period in the chronology.,0:00:54,,
-2,110,0:36:26,0:37:00,1:51:43,1:52:17,"Montreal, Qc; Rwanda",interviewer,"Asks if he kept any traditions, customs, from Rwandan culture.",city / area; country,,,,,,1982 - 2009,period living in Montreal,Listing both Rwanda and Montreal because I find question is about his link to his home country.,0:00:34,,
-2,111,0:37:00,0:37:22,1:52:17,1:52:39,"Montreal, Qc; Rwanda",Bellarmin,"Stayed attached to Rwanda, always looking for news from his friends still there.",city / area: country,,,,,,1982 - 2009,period living in Montreal,,0:00:22,,
-2,112,0:37:22,0:37:36,1:52:39,1:52:53,Rwanda,interviewer,Asks if feelings about Rwanda changed since moving away.,country,,,,,,1982 - 2009,period living in Montreal,,0:00:14,,
-2,113,0:37:36,0:37:59,1:52:53,1:53:16,Rwanda,Bellarmin,Feelings about Rwanda have changed. When he left he never thought he would return.,country,,,,,,1973,when he left rwanda.,"period chosen because he refers to when he left Rwanda. Could also be 1973 - 2009, question is about how his feelings about Rwanda have changed since he left.",0:00:23,,
-2,114,0:37:59,0:38:01,1:53:16,1:53:18,Rwanda,interviewer,Asks if he has returned since 1973,country,,,,,,1973 - 2009,period outside of Rwanda,,0:00:02,,
-2,115,0:38:01,0:38:23,1:53:18,1:53:40,Rwanda,Bellarmin,"Yes, in 1995 to ""see the horrors,"" and in 2002 - 2003.",country,,,,,,"1995, 2002 - 2003",,,0:00:22,,
-2,116,0:38:23,0:39:59,1:53:40,1:55:16,Rwanda,Bellarmin,Returning to rwanda was a difficult experience. Friend who helped him leave was killed.,country,,,-,,yes,1995,,"Negative because describes as a difficult experience. Quote the story unit as describing why it was hard for him: felt insecure, incredulous, friends died, living ones telling of horrors. Hard. Violence.",0:01:36,,
-2,117,0:39:59,0:40:04,1:55:16,1:55:21,Rwanda,interviewer,"Asks of the horrors, what marked him.",country,,,,,,,,,0:00:05,,
-2,118,0:40:04,0:41:53,1:55:21,1:57:10,Rwanda,"Bellarmin, friends, family","Describes moments and stories that marked him. Thought of his friend, how he died. Violent images. Survivors that felt guilty for having survived. Thought he would never return to Rwanda.",country,,,-,,yes,1995,,Quote about how it was so hard to return that he thought he would never return to Rwanda.,0:01:49,,
-2,119,0:41:53,0:41:56,1:57:10,1:57:13,Rwanda,interviewer,"Returned in 1995, then 2002 as well?",country,,,,,,,,,0:00:03,,
-2,120,0:41:56,0:44:57,1:57:13,2:00:14,Rwanda,Bellarmin,"Describes the differences when he went back in 2002. Felt safe again, around military officers, roadblocks. Compares to conditions in 1972 - constant verbal agressions. Wishes that for no one, wishes for everyone to be able to defend themselves.",country,,,,,,2002; 1972,comparing two periods,,0:03:01,,
-2,121,0:44:57,0:45:34,2:00:14,2:00:51,"Montreal, Qc",interviewer,"Asks about his family, wife, daughter.",city / area,,,,,,,,,0:00:37,,
-2,122,0:45:34,0:47:28,2:00:51,2:02:45,"Montreal, Qc","Bellarmin, wife","Had a kid, then got married. Met his wife in Montreal.  With a clear status having a country, felt good to settle. Lived together one year later. Integrated in his family.",city / area,,,,,,1984-1988,"met wife in 1984, until he moves to Africa in 88",,0:01:54,,
-2,123,0:47:28,0:49:55,2:02:45,2:05:12,Africa,"Bellarmin, wife","When he got the job with the CECI, moved to Africa, wife joins him soon after, is pregnant. ",continent,,,,,,1988-89,,,0:02:27,,
-2,124,0:49:55,0:50:16,2:05:12,2:05:33,"Montreal, Qc","Bellarmin, wife","Wife returns to Montreal to give birth, he visits soon after during vacation.",city / area,,,,,,1990,stays for a few months,,0:00:21,,
-2,125,0:50:16,0:50:29,2:05:33,2:05:46,Africa,"Bellarmin, wife, daughter","Returns to Africa, wife joins him soon after. Stay there for 2 years.",continent,,,+,,,1990 - 1992,,"positive because states ""c'était super, agréable.""",0:00:13,,
-2,126,0:50:29,0:51:06,2:05:46,2:06:23,Canada,"Bellarmin, wife, daughter","Returns to Canada. Got married, for his wife.",country,,,,,,1992,,,0:00:37,,
-2,127,0:51:06,0:52:02,2:06:23,2:07:19,none,Bellarmin,"Talks about only wanting one child, and why. ",,,,,,,1990 - 2009,since his daughter was born,,0:00:56,,
-2,128,0:52:02,0:52:05,2:07:19,2:07:22,none,interviewer,Asks if he finds the course of his life has influenced him.,,,,,,,,,"for location, this is a spatial question to me, asking about if his parcours influenced him, but to me it's the whole thing. Don't know how to treat this, so I put none",0:00:03,,
-2,129,0:52:05,0:52:14,2:07:22,2:07:31,none,Bellarmin,"Yes, finds the course of his life has influenced him.",,,,,,,,general reflection - no chrono,"for location, this is a spatial question to me, asking about if his parcours influenced him, but to me it's the whole thing. Don't know how to treat this, so I put none",0:00:09,,
-2,130,0:52:14,0:52:17,2:07:31,2:07:34,none,interviewer,Asks how old his daughter is,,,,,,,,,"Absorbed his answer about her age into the question, because ",0:00:03,,
-2,131,0:52:17,0:52:30,2:07:34,2:07:47,none,daughter,She is 19.,,,,,,,2009,,,0:00:13,,
-2,132,0:52:30,0:52:37,2:07:47,2:07:54,none,interviewer,Asks if she asks him questions about his life.,,,,,,,,,,0:00:07,,
-2,133,0:52:37,0:53:29,2:07:54,2:08:46,none,"Bellarmin, daughter","Yes, especially as a teen. Did research for a school project.",,,,,,,2003 - 2009,starting when his daughter was a  teen,Estimating teenager starts at 13.,0:00:52,,
-2,134,0:53:29,0:54:06,2:08:46,2:09:23,Rwanda,"Bellarmin, wife, daughter","Him and his wife wanted to bring their daughter to see Rwanda, so they go. Asks lots of questions, explained a lot of things.",country,,,,,,2002-2003,,,0:00:37,,
-2,135,0:54:06,0:54:25,2:09:23,2:09:42,Rwanda,daughter,"Daughter has gone back recently, to understand more.",country,,,,,,2003-2009,,,0:00:19,,
-2,136,0:54:25,0:54:45,2:09:42,2:10:02,Rwanda,interviewer,"Asks if he keeps a link with Rwanda, still, if he wants to return.",country,,,,,,,,,0:00:20,,
-2,137,0:54:45,0:55:06,2:10:02,2:10:23,Canada,Bellarmin,"Doesn't want to return to Rwanda, but stays involved in the community here.",country,,,,,,,no chrono - reflection,,0:00:21,,
-2,138,0:55:06,0:55:10,2:10:23,2:10:27,Rwanda,interviewer (Neal),Asks how he perceives his daughter's interest in Rwanda.,country,,,,,,,,,0:00:04,,
-2,139,0:55:10,0:55:42,2:10:27,2:10:59,Rwanda,"Bellarmin, daughter","Talks about how his daughter is surrounded in people talking about Rwanda, fascinates her. Considers herself Rwandan, and Quebecois, depends.",country,,,,,,1990-2009,,,0:00:32,,
-2,140,0:55:42,0:56:21,2:10:59,2:11:38,none,interviewer (Neal),Asks if there is anything he got from his mother that he tries to transmit to his daughter.,,,,,,,,,,0:00:39,,
-2,141,0:56:21,0:59:00,2:11:38,2:14:17,none,"Bellarmin, daughter, mother","Tries to transmit the importance of patience, doesn't always work. Mother was patient. Also humility.",,,,,,,,no chrono - reflection,,0:02:39,,
-2,142,0:59:00,1:00:00,2:14:17,2:15:17,"Rwanda; Montreal, Qc",interviewer,"Asks if he talks about Rwanda still, in Montreal, and if so to who, when, about what..",country; city / area,,,,,,,,,0:01:00,,
-2,143,1:00:00,1:00:32,2:15:17,2:15:49,"Rwanda; Montreal, Qc",Bellarmin,"Yes, talks about his home country, when people ask. ",country; city / area,,,,,,1983-2009,,,0:00:32,,
-2,144,1:00:32,1:00:58,2:15:49,2:16:15,"Rwanda; Montreal, Qc",interviewer,"Asks if there are people in the community that speak of the past, like guardians of their history.",country; city / area,,,,,,,,,0:00:26,,
-2,145,1:00:58,1:01:10,2:16:15,2:16:27,"Rwanda; Montreal, Qc",Bellarmin,Doesn't know anyone in the Rwandan community in Mtl that has a role of storytellers of Rwandan history.,country; city / area,,,,,,1983-2009,,,0:00:12,,
-2,146,1:01:10,1:01:35,2:16:27,2:16:52,Rwanda,interviewer,"Asks about when stories are told on Rwanda's story, how he finds the stories might relate to his own, and what might be unspoken in these stories.",country,,,,,,,,,0:00:25,,
-2,147,1:01:35,1:03:52,2:16:52,2:19:09,Rwanda,Bellarmin,"Reads stories on the internet, finds some people had such a different experience that he wonders if they are from the same Rwanda. Reflects on this.",country,,,,,,,no chrono - reflection,,0:02:17,,
-2,148,1:03:52,1:04:20,2:19:09,2:19:37,Rwanda,interviewer,"Asks how he formulated his explanation to his daughter about his departure from Rwanda, about the violence.",country,,,,,yes,,,Asks specifically how he talked about the violence.,0:00:28,,
-2,149,1:04:20,1:04:42,2:19:37,2:19:59,Rwanda,"Bellarmin, daughter","Didn't talk explicitly about violence, but told stories in a similar way as in this interview.",country,,,,,,,no chrono - reflection,,0:00:22,,
-2,150,1:04:42,1:04:49,2:19:59,2:20:06,none,interviewer,Asks if he considers himself a survivor.,,,,,,,,,,0:00:07,,
-2,151,1:04:49,1:05:10,2:20:06,2:20:27,none,Bellarmin,"Yes, he considers himself a survivor. If he stayed in Rwanda he is certain he wouldn't be alive.",,,,,,,,no chrono - reflection,,0:00:21,,
-2,152,1:05:10,1:05:17,2:20:27,2:20:34,none,interviewer,Asks if he thinks the portrayal of survivors in the media is accurate.,,,,,,,,,,0:00:07,,
-2,153,1:05:17,1:05:43,2:20:34,2:21:00,none,Bellarmin,"Finds ""media"" is too vague. Depends on which media. Can't say.",,,,,,,,no chrono - reflection,,0:00:26,,
-2,154,1:05:43,1:06:06,2:21:00,2:21:23,none,interviewer (Neal),Asks more specifically how those who don't know much about Rwanda reacted to him being Rwanda after 1994. ,,,,,,,,,,0:00:23,,
-2,155,1:06:06,1:07:06,2:21:23,2:22:23,"Montreal, Qc","Bellarmin, non-Rwandans","After 1994, non-rwandans ask ethnicity. Also are either compassionate about situation, or afraid of Rwandans.",city / area,,,,,,1994 - 2009,after the genocide until interview,,0:01:00,,
-2,156,1:07:06,1:07:12,2:22:23,2:22:29,none,interviewer,Asks if he ever tries to avoid thinking of the past.,,,,,,,,,,0:00:06,,
-2,157,1:07:12,1:07:19,2:22:29,2:22:36,none,Bellarmin,Can't avoid thinking of the past.,,,,,,,,no chrono - reflection,,0:00:07,,
-2,158,1:07:19,1:07:27,2:22:36,2:22:44,none,interviewer,"Asks what he thinks about work being done to check truth of events, such as the gacaca..",,,,,,,,,,0:00:08,,
-2,159,1:07:27,1:07:57,2:22:44,2:23:14,none,Bellarmin,"Doesn't know much about the work being done on truth-checking after the genocide, but thinks it could be a good thing, depending on how it's done.",,,,,,,1994 - 2009,after the genocide until interview,,0:00:30,,
-2,160,1:07:57,1:08:19,2:23:14,2:23:36,Rwanda,interviewer,Asks if he thinks the causes of the violence in Rwanda were explained.,country,,,,,yes,,,,0:00:22,,
-2,161,1:08:19,1:09:18,2:23:36,2:24:35,Rwanda,Bellarmin,"Lots of reasons for the violence in Rwanda, how to explain? There are theories like ""la follie collective,"" socio-economic causes.. Doesn't know. ",country,,,,,yes,,no chrono - reflection,,0:00:59,,
-2,162,1:09:18,1:10:14,2:24:35,2:25:31,none,interviewer,Asks what he would like those outside of the Rwandan community to know about their story.,,,,,,,,,,0:00:56,,
-2,163,1:10:14,1:11:33,2:25:31,2:26:50,none,"Bellarmin, non-rwandans","Finds people have to be interested in the Rwandan story in the first place. Truth, but what is truth? Would like people to understand the baggage that people carry and live currently, more than Rwandan history.",,,,,,,,no chrono - reflection,,0:01:19,,
-2,164,1:11:33,1:12:01,2:26:50,2:27:18,none,interviewer (Neal),"Asks if hearing stories, whether personal or historical, could increase consciousness of issues like after WWII, or is the goal in this something different.",,,,,,,,,Not sure I understand the question.,0:00:28,,
-2,165,1:12:01,1:12:59,2:27:18,2:28:16,none,Bellarmin,"Talks about how when people learn history, you don't know what someone will go away with.  You can't know what it will be.",,,,,,,,no chrono - reflection,,0:00:58,,
-2,166,1:12:59,1:13:05,2:28:16,2:28:22,none,interviewer,Asks if he has anything he would like to say that was not asked.,,,,,,,,,,0:00:06,,
-2,167,1:13:05,1:13:30,2:28:22,2:28:47,none,Bellamin,Thinks the MTL Life Stories project is a good initiative. Will need to see what will be done with the information collected.,,,,,,,,no chrono - reflection,,0:00:25,,
-2,168,1:13:30,1:13:53,2:28:47,2:29:10,none,"interviewer, Bellarmin",Gratitude expressed all around.,,,,,,,,,,0:00:23,,
-,,,,,,,,,,,,,,,,,,2:29:10,0:21:29,0:15:27
+id,Session #,Story unit #,Clip Time start (h:mm:ss),Clip Time end (h:mm:ss),Cumulative Time Start (h:mm:ss),Cumulative Time End (h:mm:ss),Atlascine-location,Location,Scale,Journey
+1,1,1,0:00:00,0:00:30,0:00:00,0:00:30,_end,none,,
+2,1,2,0:00:30,0:01:54,0:00:30,0:01:54,_end,none,,
+3,1,3,0:01:54,0:02:07,0:01:54,0:02:07,_end,none,,
+4,1,4,0:02:07,0:03:47,0:02:07,0:03:47,Rwanda,Rwanda,country,
+5,1,5,0:03:47,0:04:00,0:03:47,0:04:00,Rwanda,Rwanda,country,
+6,1,6,0:04:00,0:04:04,0:04:00,0:04:04,Rwanda,Rwanda,country,
+7,1,7,0:04:04,0:05:20,0:04:04,0:05:20,"Nyanza, Rwanda","Nyanza, Rwanda",local,
+8,1,8,0:05:20,0:05:25,0:05:20,0:05:25,"Nyanza, Rwanda","Nyanza, Rwanda",local,
+9,1,9,0:05:25,0:08:13,0:05:25,0:08:13,"Nyanza, Rwanda","Nyanza, Rwanda",local,
+10,1,10,0:08:13,0:08:20,0:08:13,0:08:20,_end,none,,
+11,1,11,0:08:20,0:09:25,0:08:20,0:09:25,"Butare, Rwanda","Butare, Rwanda",city / area,
+12,1,12,0:09:25,0:10:37,0:09:25,0:10:37,_end,none,,
+13,1,13,0:10:37,0:11:05,0:10:37,0:11:05,_end,none,,
+14,1,14,0:11:05,0:11:54,0:11:05,0:11:54,Rwanda,Rwanda,country,
+15,1,15,0:11:54,0:12:10,0:11:54,0:12:10,_end,none,,
+16,1,16,0:12:10,0:12:30,0:12:10,0:12:30,Rwanda,Rwanda,country,
+17,1,17,0:12:30,0:17:40,0:12:30,0:17:40,Rwanda,Rwanda,country,
+18,1,18,0:17:40,0:18:55,0:17:40,0:18:55,"Butare, Rwanda","Butare, Rwanda",city / area,
+19,1,19,0:18:55,0:20:08,0:18:55,0:20:08,"Nyanza, Rwanda","Nyanza, Rwanda",local,
+20,1,20,0:20:08,0:20:13,0:20:08,0:20:13,_end,none,,
+21,1,21,0:20:13,0:20:47,0:20:13,0:20:47,"Nyanza, Rwanda","Nyanza, Rwanda",local,
+22,1,22,0:20:47,0:20:55,0:20:47,0:20:55,"Nyanza, Rwanda","Nyanza, Rwanda",local,
+23,1,23,0:20:55,0:21:40,0:20:55,0:21:40,"Nyanza, Rwanda","Nyanza, Rwanda",local,
+24,1,24,0:21:40,0:21:48,0:21:40,0:21:48,_end,none,,
+25,1,25,0:21:48,0:23:05,0:21:48,0:23:05,_end,none,,
+26,1,26,0:23:05,0:26:42,0:23:05,0:26:42,"Butare, Rwanda","Butare, Rwanda",city / area,
+27,1,27,0:26:42,0:27:08,0:26:42,0:27:08,_end,none,,
+28,1,28,0:27:08,0:30:00,0:27:08,0:30:00,_end,none,,
+29,1,29,0:30:00,0:30:15,0:30:00,0:30:15,"Butare, Rwanda","Butare, Rwanda",city / area,
+30,1,30,0:30:15,0:31:12,0:30:15,0:31:12,"Butare, Rwanda","Butare, Rwanda",city / area,
+31,1,31,0:31:12,0:31:23,0:31:12,0:31:23,Rwanda,Rwanda,country,
+32,1,32,0:31:23,0:32:19,0:31:23,0:32:19,"Butare, Rwanda","Butare, Rwanda",city / area,
+33,1,33,0:32:19,0:32:25,0:32:19,0:32:25,Rwanda,Rwanda,country,
+34,1,34,0:32:25,0:33:04,0:32:25,0:33:04,"Butare, Rwanda","Butare, Rwanda",city / area,
+35,1,35,0:33:04,0:33:17,0:33:04,0:33:17,"Butare, Rwanda","Butare, Rwanda",city / area,
+36,1,36,0:33:17,0:35:00,0:33:17,0:35:00,"Butare, Rwanda","Butare, Rwanda",city / area,
+37,1,37,0:35:00,0:35:11,0:35:00,0:35:11,"Nyanza, Rwanda","Nyanza, Rwanda",local,
+38,1,38,0:35:11,0:37:26,0:35:11,0:37:26,"Nyanza, Rwanda","Nyanza, Rwanda",local,
+39,1,39,0:37:26,0:37:58,0:37:26,0:37:58,"Nyanza, Rwanda","Nyanza, Rwanda",local,
+40,1,40,0:37:58,0:40:18,0:37:58,0:40:18,"Butare, Rwanda","Butare, Rwanda",city / area,
+41,1,41,0:40:18,0:40:55,0:40:18,0:40:55,Rwanda,Rwanda,country,
+42,1,42,0:40:55,0:43:41,0:40:55,0:43:41,Rwanda,Rwanda,country,
+43,1,43,0:43:41,0:43:48,0:43:41,0:43:48,Rwanda,Rwanda,country,
+44,1,44,0:43:48,0:44:10,0:43:48,0:44:10,Rwanda,Rwanda,country,
+45,1,45,0:44:10,0:45:13,0:44:10,0:45:13,Rwanda,Rwanda,country,
+46,1,46,0:45:13,0:45:16,0:45:13,0:45:16,Rwanda,Rwanda,country,
+47,1,47,0:45:16,0:46:38,0:45:16,0:46:38,Rwanda,Rwanda,country,
+48,1,48,0:46:38,0:46:42,0:46:38,0:46:42,Rwanda,Rwanda,country,
+49,1,49,0:46:42,0:48:45,0:46:42,0:48:45,Rwanda,Rwanda,country,
+50,1,50,0:48:45,0:48:55,0:48:45,0:48:55,Rwanda,Rwanda,country,
+51,1,51,0:48:55, 0:49:52,0:48:55,0:49:52,Rwanda,Rwanda,country,
+52,1,52, 0:49:52,0:49:57,0:49:52,0:49:57,Rwanda,Rwanda,country,
+53,1,53,0:49:57,0:52:20,0:49:57,0:52:20,"Kigali, Rwanda","Kigali, Rwanda",city / area,
+54,1,54,0:52:20,0:55:05,0:52:20,0:55:05,"Kigali, Rwanda","Kigali, Rwanda",city / area,
+55,,55,0:55:05,0:55:47,0:55:05,0:55:47,Rwanda,Rwanda,country,
+56,1,56,0:55:47,0:57:15,0:55:47,0:57:15,Rwanda,Rwanda,country,
+57,1,57,0:57:15,0:57:23,0:57:15,0:57:23,Rwanda ,Rwanda; Democratic Republic of Congo,country,
+58,,,,,0:57:15,0:57:23,Democratic Republic of Congo,,country,
+59,1,58,0:57:23,0:57:55,0:57:23,0:57:55,Rwanda,Rwanda,country,
+60,1,59,0:57:55,0:57:57,0:57:55,0:57:57,"Kigali, Rwanda","Kigali, Rwanda",city / area,
+61,1,60,0:57:57,0:59:30,0:57:57,0:59:30,"Kigali, Rwanda","Kigali, Rwanda",city / area,
+62,1,61,0:59:30,1:05:42,0:59:30,1:05:42,"Kigali, Rwanda","Kigali, Rwanda",city / area,
+63,1,62,1:05:42,1:06:00,1:05:42,1:06:00,"Kigali, Rwanda","Kigali, Rwanda",city / area,
+64,1,63,1:06:00,1:08:45,1:06:00,1:08:45,"Kigali, Rwanda","Kigali, Rwanda",city / area,
+65,1,64,1:08:45,1:10:00,1:08:45,1:10:00,Rwanda,Rwanda,country,
+66,1,65,1:10:00,1:10:24,1:10:00,1:10:24,Rwanda,Rwanda,country,
+67,1,66,1:10:24,1:10:30,1:10:24,1:10:30,Rwanda,Rwanda,country,
+68,1,67,1:10:30,1:11:45,1:10:30,1:11:45,Rwanda,Rwanda,country,
+69,1,68,1:11:45,1:12:07,1:11:45,1:12:07,Rwanda,Rwanda,country,
+70,1,69,1:12:07,1:12:53,1:12:07,1:12:53,Rwanda,Rwanda,country,
+71,1,70,1:12:53,1:13:07,1:12:53,1:13:07,Rwanda,Rwanda,country,
+72,1,71,1:13:07,1:13:48,1:13:07,1:13:48,Rwanda,Rwanda,country,
+73,1,72,1:13:48,1:13:56,1:13:48,1:13:56,"Kigali, Rwanda","Kigali, Rwanda",city / area,
+74,1,73,1:13:56,1:14:07,1:13:56,1:14:07,"Kigali, Rwanda","Kigali, Rwanda",city / area,
+75,1,74,1:14:07,1:14:12,1:14:07,1:14:12,_end,unknown,,
+76,1,75,1:14:12,1:15:17,1:14:12,1:15:17,Germany,Germany,country,
+77,2,76,0:00:00,0:00:27,1:15:17,1:15:44,_end,unknown,,
+78,2,77,0:00:27,0:05:20,1:15:44,1:20:37,"Kigali, Rwanda; Gisenyi, Rwanda; Goma, Democratic Republic of Congo","Kigali, Rwanda; Gisenyi, Rwanda; Goma, Democratic Republic of Congo",city / area,journey 1
+79,2,78,0:05:20,0:05:55,1:20:37,1:21:12,"Goma, Democratic Republic of Congo","Goma, Democratic Republic of Congo",city / area,
+80,2,79,0:05:55,0:06:10,1:21:12,1:21:27,"Kigali, Rwanda","Kigali, Rwanda",city / area,
+81,2,80,0:06:10,0:07:34,1:21:27,1:22:51,"Goma, Democratic Republic of Congo; Bukavu, Democratic Republic of Congo; Bujumbura, Burundi","Goma, Democratic Republic of Congo; Bukavu, Democratic Republic of Congo; Bujumbura, Burundi",city / area,journey 2
+82,2,81,0:07:34,0:09:15,1:22:51,1:24:32,Burundi,Burundi,country,
+83,2,82,0:09:15,0:09:45,1:24:32,1:25:02,"Bujumbura, Burundi; Brussels, Belgium; Cologne, Germany","Bujumbura, Burundi; Brussels, Belgium; Cologne, Germany",city / area,Journey 3
+84,2,83,0:09:45,0:09:47,1:25:02,1:25:04,Germany,Germany,country,
+85,2,84,0:09:47,0:12:01,1:25:04,1:27:18,Germany,Germany,country,
+86,2,85,0:12:01,0:14:37,1:27:18,1:29:54,Germany,Germany,country,
+87,2,86,0:14:37,0:14:42,1:29:54,1:29:59,Germany,Germany,country,
+88,2,87,0:14:42,0:15:10,1:29:59,1:30:27,Germany,Germany,country,
+89,2,88,0:15:10,0:15:33,1:30:27,1:30:50,Germany,Germany,country,
+90,2,89,0:15:33,0:17:38,1:30:50,1:32:55,Germany,Germany,country,
+91,2,90,0:17:38,0:18:19,1:32:55,1:33:36,Germany,Germany,country,
+92,2,91,0:18:19,0:19:18,1:33:36,1:34:35,Rwanda,Rwanda,country,
+93,2,92,0:19:18,0:20:25,1:34:35,1:38:43,Rwanda; Germany; Canada,Rwanda,country,journey 4
+94,2,93,0:20:25,0:21:16,,,,Germany,country,journey 4
+95,2,94,0:21:16,0:23:26,,,,Canada,country,journey 4
+96,2,95,0:23:26,0:23:31,1:38:43,1:38:48,Canada,Canada; Germany,country,
+97,,,,,1:38:43,1:38:48,Germany,,country,
+98,2,96,0:23:31,0:26:52,1:38:48,1:42:09,"Trudeau airport, Montreal, Canada; Trois-Rivières, Canada; Ste-Anne-de-la-Pérade, Canada","Trudeau airport, Montreal, Qc; Trois-Rivières, Qc; Ste-Anne-de-la-Pérade, Qc",very local; city / area; local,Journey 5 
+99,2,97,0:26:52,0:26:56,1:42:09,1:42:13,Canada,Canada,country,
+100,2,98,0:26:56,0:28:15,1:42:13,1:43:32,Canada,Canada,country,
+101,2,99,0:28:15,0:28:23,1:43:32,1:43:40,Germany,Germany,country,
+102,2,100,0:28:23,0:29:58,1:43:40,1:45:15,Germany,Germany,country,
+103,2,101,0:29:58,0:30:05,1:45:15,1:45:22,"Montreal, Canada","Montreal, Qc",city / area,
+104,2,102,0:30:05,0:31:04,1:45:22,1:46:21,"Montreal, Canada","Montreal, Qc",city / area,
+105,2,103,0:31:04,0:32:25,1:46:21,1:47:42,"Outremont, Montreal, Canada","Outremont, Montreal, Canada",local,
+106,2,104,0:32:25,0:33:50,1:47:42,1:49:07,"Montreal, Canada","Montreal, Qc",city / area,
+107,2,105,0:33:50,0:34:41,1:49:07,1:49:58,"CECI, Montreal, Canada","CECI, Montreal, Qc",very local ,
+108,2,106,0:34:41,0:34:55,1:49:58,1:50:12,"Montreal, Canada","Montreal, Qc",city / area,
+109,2,107,0:34:55,0:35:28,1:50:12,1:50:45,"Montreal, Canada","Montreal, Qc",city / area,
+110,2,108,0:35:28,0:35:32,1:50:45,1:50:49,"Montreal, Canada","Montreal, Qc",city / area,
+111,2,109,0:35:32,0:36:26,1:50:49,1:51:43,"Montreal, Canada","Montreal, Qc",city / area,
+112,2,110,0:36:26,0:37:00,1:51:43,1:52:17,"Montreal, Canada","Montreal, Qc; Rwanda",city / area,
+113,,,,,1:51:43,1:52:17,Rwanda,,country,
+114,2,111,0:37:00,0:37:22,1:52:17,1:52:39,"Montreal, Canada","Montreal, Qc; Rwanda",city / area,
+115,,,,,1:52:17,1:52:39,Rwanda,,country,
+116,2,112,0:37:22,0:37:36,1:52:39,1:52:53,Rwanda,Rwanda,country,
+117,2,113,0:37:36,0:37:59,1:52:53,1:53:16,Rwanda,Rwanda,country,
+118,2,114,0:37:59,0:38:01,1:53:16,1:53:18,Rwanda,Rwanda,country,
+119,2,115,0:38:01,0:38:23,1:53:18,1:53:40,Rwanda,Rwanda,country,
+120,2,116,0:38:23,0:39:59,1:53:40,1:55:16,Rwanda,Rwanda,country,
+121,2,117,0:39:59,0:40:04,1:55:16,1:55:21,Rwanda,Rwanda,country,
+122,2,118,0:40:04,0:41:53,1:55:21,1:57:10,Rwanda,Rwanda,country,
+123,2,119,0:41:53,0:41:56,1:57:10,1:57:13,Rwanda,Rwanda,country,
+124,2,120,0:41:56,0:44:57,1:57:13,2:00:14,Rwanda,Rwanda,country,
+125,2,121,0:44:57,0:45:34,2:00:14,2:00:51,"Montreal, Canada","Montreal, Qc",city / area,
+126,2,122,0:45:34,0:47:28,2:00:51,2:02:45,"Montreal, Canada","Montreal, Qc",city / area,
+127,2,123,0:47:28,0:49:55,2:02:45,2:05:12,Africa,Africa,continent,
+128,2,124,0:49:55,0:50:16,2:05:12,2:05:33,"Montreal, Canada","Montreal, Qc",city / area,
+129,2,125,0:50:16,0:50:29,2:05:33,2:05:46,Africa,Africa,continent,
+130,2,126,0:50:29,0:51:06,2:05:46,2:06:23,Canada,Canada,country,
+131,2,127,0:51:06,0:52:02,2:06:23,2:07:19,_end,none,,
+132,2,128,0:52:02,0:52:05,2:07:19,2:07:22,_end,none,,
+133,2,129,0:52:05,0:52:14,2:07:22,2:07:31,_end,none,,
+134,2,130,0:52:14,0:52:17,2:07:31,2:07:34,_end,none,,
+135,2,131,0:52:17,0:52:30,2:07:34,2:07:47,_end,none,,
+136,2,132,0:52:30,0:52:37,2:07:47,2:07:54,_end,none,,
+137,2,133,0:52:37,0:53:29,2:07:54,2:08:46,_end,none,,
+138,2,134,0:53:29,0:54:06,2:08:46,2:09:23,Rwanda,Rwanda,country,
+139,2,135,0:54:06,0:54:25,2:09:23,2:09:42,Rwanda,Rwanda,country,
+140,2,136,0:54:25,0:54:45,2:09:42,2:10:02,Rwanda,Rwanda,country,
+141,2,137,0:54:45,0:55:06,2:10:02,2:10:23,Canada,Canada,country,
+142,2,138,0:55:06,0:55:10,2:10:23,2:10:27,Rwanda,Rwanda,country,
+143,2,139,0:55:10,0:55:42,2:10:27,2:10:59,Rwanda,Rwanda,country,
+144,2,140,0:55:42,0:56:21,2:10:59,2:11:38,_end,none,,
+145,2,141,0:56:21,0:59:00,2:11:38,2:14:17,_end,none,,
+146,2,142,0:59:00,1:00:00,2:14:17,2:15:17,Rwanda,"Rwanda; Montreal, Qc",country,
+147,,,,,2:14:17,2:15:17,"Montreal, Canada",,city / area,
+148,2,143,1:00:00,1:00:32,2:15:17,2:15:49,Rwanda,"Rwanda; Montreal, Qc",country,
+149,,,,,2:15:17,2:15:49,"Montreal, Canada",,city / area,
+150,2,144,1:00:32,1:00:58,2:15:49,2:16:15,Rwanda,"Rwanda; Montreal, Qc",country,
+151,,,,,2:15:49,2:16:15,"Montreal, Canada",,city / area,
+152,2,145,1:00:58,1:01:10,2:16:15,2:16:27,Rwanda,"Rwanda; Montreal, Qc",country,
+153,,,,,2:16:15,2:16:27,"Montreal, Canada",,city / area,
+154,2,146,1:01:10,1:01:35,2:16:27,2:16:52,Rwanda,Rwanda,country,
+155,2,147,1:01:35,1:03:52,2:16:52,2:19:09,Rwanda,Rwanda,country,
+156,2,148,1:03:52,1:04:20,2:19:09,2:19:37,Rwanda,Rwanda,country,
+157,2,149,1:04:20,1:04:42,2:19:37,2:19:59,Rwanda,Rwanda,country,
+158,2,150,1:04:42,1:04:49,2:19:59,2:20:06,_end,none,,
+159,2,151,1:04:49,1:05:10,2:20:06,2:20:27,_end,none,,
+160,2,152,1:05:10,1:05:17,2:20:27,2:20:34,_end,none,,
+161,2,153,1:05:17,1:05:43,2:20:34,2:21:00,_end,none,,
+162,2,154,1:05:43,1:06:06,2:21:00,2:21:23,_end,none,,
+163,2,155,1:06:06,1:07:06,2:21:23,2:22:23,"Montreal, Canada","Montreal, Qc",city / area,
+164,2,156,1:07:06,1:07:12,2:22:23,2:22:29,_end,none,,
+165,2,157,1:07:12,1:07:19,2:22:29,2:22:36,_end,none,,
+166,2,158,1:07:19,1:07:27,2:22:36,2:22:44,_end,none,,
+167,2,159,1:07:27,1:07:57,2:22:44,2:23:14,_end,none,,
+168,2,160,1:07:57,1:08:19,2:23:14,2:23:36,Rwanda,Rwanda,country,
+169,2,161,1:08:19,1:09:18,2:23:36,2:24:35,Rwanda,Rwanda,country,
+170,2,162,1:09:18,1:10:14,2:24:35,2:25:31,_end,none,,
+171,2,163,1:10:14,1:11:33,2:25:31,2:26:50,_end,none,,
+172,2,164,1:11:33,1:12:01,2:26:50,2:27:18,_end,none,,
+173,2,165,1:12:01,1:12:59,2:27:18,2:28:16,_end,none,,
+174,2,166,1:12:59,1:13:05,2:28:16,2:28:22,_end,none,,
+175,2,167,1:13:05,1:13:30,2:28:22,2:28:47,_end,none,,
+176,2,168,1:13:30,1:13:53,2:28:47,2:29:10,_end,none,,

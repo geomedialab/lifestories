@@ -1,279 +1,279 @@
-session_num,time_clip,Time mentioned (h:mm:ss),Location,Scale,Characters,By Interviewer,Year,Analyst comments
-0,0,0:08:25,"Bujumbura, Burundi",city / area,"Emmanuelle, family, uncle",,1990 - 1994,
-,,0:12:53,Rwanda,country,none,,,general reference to rwandan politics.
-,,0:13:42,"Nyanza, Rwanda",local,"Emanuelle, family",,,
-,,0:13:49,"Nyanza, Rwanda",local,"Emanuelle, family",,,
-,,0:16:36,"Kaduha, Rwanda",local,"Emanuelle, family",,,
-,,0:16:40,"Nyanza, Rwanda",local,"Emanuelle, family",,,
-,,0:18:04,Rwanda,country,,,,general reference.
-,,0:20:47,"Kigali, Rwanda",city / area,Emmanuelle,,,I believe at 12 years old onward - just after she had to double 6th grade.
-,,0:21:18,"Nyamata, Rwanda",local,parents,,,
-,,0:21:54,Rwanda,country,Emmanuelle,,1973,
-,,0:22:42,"Kigali, Rwanda",city / area,Emmanuelle,,1973,
-,,0:23:11,"Goma, Democratic Republic of Congo",city / area,Emmanuelle,,1973,
-,,0:23:16,"Goma, Democratic Republic of Congo",city / area,Emmanuelle,,1973,
-,,0:23:25,"Bujumbura, Burundi",city / area,"Emmanuelle, tutsis youth",,1973,
-,,0:23:38,"Butare, Rwanda",city / area,"Emmanuelle, tutsis youth",,1973,
-,,0:23:42,Burundi,country,"Emmanuelle, tutsis youth",,1973,
-,,0:23:50,"Butare, Rwanda",city / area,"Emmanuelle, tutsis youth",,1973,
-,,0:23:52,"Kigali, Rwanda",city / area,"Emmanuelle, tutsis youth",,1973,
-,,0:24:11,"Gitarama, Rwanda",local,"Emmanuelle, tutsis youth",,1973,
-,,0:24:12,"Gitarama, Rwanda",local,"Emmanuelle, tutsis youth",,1973,
-,,0:24:13,"Kibuye, Rwanda",local,"Emmanuelle, tutsis youth",,1973,
-,,0:24:14,"Kibuye, Rwanda",local,"Emmanuelle, tutsis youth",,1973,
-,,0:24:15,"Gisenyi, Rwanda",city / area,"Emmanuelle, tutsis youth",,1973,
-,,0:24:20,"Gisenyi, Rwanda",city / area,"Emmanuelle, tutsis youth",,1973,
-,,0:24:23,"Goma, Democratic Republic of Congo",city / area,"Emmanuelle, tutsis youth",,1973,
-,,0:24:25,"Goma, Democratic Republic of Congo",city / area,"Emmanuelle, tutsis youth",,1973,
-,,0:24:36,"Goma, Democratic Republic of Congo",city / area,"Emmanuelle, tutsis youth",,1973,
-,,0:24:39,Rwanda,country,"Emmanuelle, tutsis youth",,1973,
-,,0:24:44,Rwanda,country,"Emmanuelle, parents",,1973,
-,,0:24:52,Burundi,country,"Emmanuelle, tutsis youth",,1973,
-,,0:25:07,Burundi,country,"Emmanuelle, tutsis youth",,1973,
-,,0:25:19,"Goma, Democratic Republic of Congo",city / area,tutsis youth,,1973,
-,,0:25:36,"Bujumbura, Burundi",city / area,"Emmanuelle, uncle",,1973,
-,,0:27:02,"Bujumbura, Burundi",city / area,"Emmanuelle, extended family",,,
-,,0:27:49,Burundi,country,,,,general reference.
-,,0:29:00,"Metalusa, Bujumbura, Burundi",very local,Emmanuelle,,,
-,,0:29:09,Burundi,country,Emmanuelle,,,
-,,0:30:14,Burundi,country,Emmanuelle,,,
-,,0:31:03,Burundi,country,Emmanuelle,,,
-,,0:31:10,Burundi,country,refugees,,,
-,,0:31:11,Rwanda,country,,,,general reference.
-,,0:31:25,"Bukavu, Democratic Republic of Congo",city / area, cousin,,,
-,,0:31:27,"Bujumbura, Burundi",city / area,"Emmanuelle, cousin",,,
-,,0:31:34,Democratic Republic of Congo,country,cousin,,,"mentions ""congo"", but for geocoding this could be mixed up with republic of congo. This is the case for most other mentions."
-,,0:31:45,Democratic Republic of Congo,country,,,,
-,,0:32:03,"Bukavu, Democratic Republic of Congo",city / area,Emmanuelle,,1995,
-,,0:32:05,Burundi,country,Emmanuelle,yes,,
-,,0:32:30,Democratic Republic of Congo,country,,,,
-,,0:32:31,"Bukavu, Democratic Republic of Congo",city / area,,,,
-,,0:33:08,"Cyangugu, Rwanda",local,,,,
-,,0:33:12,"Goma, Democratic Republic of Congo",city / area,Emmanuelle,,,
-,,0:33:21,"Gisenyi, Rwanda",city / area,Emmanuelle,,,
-,,0:33:22,"Kigali, Rwanda",city / area,Emmanuelle,,,
-,,0:33:23,"Kigali, Rwanda",city / area,Emmanuelle,,,
-,,0:33:25,"Nyamata, Rwanda",local,Emmanuelle,,,
-,,0:33:49,"Nyamata, Rwanda",local,rwandans,,,
-,,0:33:59,"Nyamata, Rwanda",local,,,,
-,,0:34:04,Rwanda,country,tutsis,,,
-,,0:34:17,Burundi,country,tutsis refugees,,,
-,,0:34:56,Burundi,country,Emmanuelle,,,
-,,0:34:57,Democratic Republic of Congo,country,Emmanuelle,yes,,
-,,0:34:58,Democratic Republic of Congo,country,Emmanuelle,,,
-,,0:36:51,Burundi,country,Emmanuelle,,,
-,,0:37:00,Democratic Republic of Congo,country,,,,general reference. Mentions Zaire right after but not listing because historical name.
-,,0:41:25,Democratic Republic of Congo,country,"Emmanuelle, son",yes,,
-,,0:41:26,Democratic Republic of Congo,country,"Emmanuelle, son",yes,,
-,,0:41:27,"Bukavu, Democratic Republic of Congo",city / area,,,,
-,,0:45:49,"Bukavu, Democratic Republic of Congo",city / area,Emmanuelle,yes,,
-,,0:45:58,"Bukavu, Democratic Republic of Congo",city / area,Emmanuelle,,,
-,,0:46:19,Democratic Republic of Congo,country,,,1990,general reference
-,,0:47:42,Rwanda,country,,,1990,general reference
-,,0:47:50,Democratic Republic of Congo,country,,,1990,National Conference of Congo
-,,0:47:58,African Great Lakes,region,,,,general reference
-,,0:48:09,"Bukavu, Democratic Republic of Congo",city / area,,,,
-,,0:48:30,Burundi,country,"Emmanuelle, family",,1990,
-,,0:48:34,"Bujumbura, Burundi",city / area,"Emmanuelle, family",,1990,
-,,0:48:44,"Bujumbura, Burundi",city / area,family,yes,,
-,,0:49:35,"Bukavu, Democratic Republic of Congo",city / area,,,,
-,,0:50:01,"Bukavu, Democratic Republic of Congo",city / area,"Emmanuelle, family",,,
-,,0:50:05,"Bukavu, Democratic Republic of Congo",city / area,husband,,,
-,,0:50:09,"Bujumbura, Burundi",city / area,children,,,"Says ""buja"" - I assume because she says it a few times in the interview that this is short for Bujumbura."
-,,0:50:14,Rwanda,country,,,,
-,,0:50:16,"Bugarama, Rwanda",local,"Emmanuelle, family",,,
-,,0:50:42,Rwanda,country,"Emmanuelle, family",,,
-,,0:50:54,"Bujumbura, Burundi",city / area,"Emmanuelle, family",yes,1990 - 1994,
-,,0:51:13,Rwanda,country,,,1992,general reference
-,,0:51:16,"Nyamata, Rwanda",local,,,1992,general reference
-,,0:51:31,"Bugesera, Rwanda",local,,,1992,general reference
-,,0:51:39,"Bujumbura, Burundi",city / area,"Emmanuelle, husband, children, mother",,,"Says ""buja"" - I assume because she says it a few times in the interview that this is short for Bujumbura."
-,,0:51:54,"Bukavu, Democratic Republic of Congo",city / area,"Emanuelle, mother",,,
-,,0:51:57,"Nyamata, Rwanda",local,"Emanuelle, mother",,,
-,,0:52:29,Uganda,country,tutsis refugees,,,
-,,0:52:39,Burundi,country,tutsis refugees,,,
-,,0:52:44,Uganda,country,tutsis refugees,,,
-,,0:53:09,"Cyangugu, Rwanda",local,"king, father, rwandan youth",,1930,
-,,0:53:21,Rwanda,country,"father, rwandan youth",,1930,
-,,0:54:16,Rwanda,country,parents,,,
-,,0:55:15,Democratic Republic of Congo,country,mother,,,
-,,0:55:20,Burundi,country,,,,
-,,0:56:42,"Bujumbura, Burundi",city / area,"Emmanuelle, mother",yes,,
-,,0:58:30,"Bujumbura, Burundi",city / area,,,,general reference
-,,0:59:41,Democratic Republic of Congo,country,,,,general reference
-,,0:59:58,Democratic Republic of Congo,country,,,,general reference
-,,1:00:00,"Uvira, Democratic Republic of Congo",local,,,,historical reference
-,,1:00:02,Democratic Republic of Congo,country,,,,historical reference
-,,1:00:06,Democratic Republic of Congo,country,,,,historical reference
-,,1:00:52,"Bukavu, Democratic Republic of Congo",city / area,husband,,,
-,,1:00:57,Burundi,country,Emmanuelle,,,
-,,1:01:18,"Bukavu, Democratic Republic of Congo",city / area,Emmanuelle,,,
-,,1:01:42,Rwanda,country,,,,general reference.
-,,1:02:10,France,country,,,,
-,,1:03:20,Rwanda,country,FPR millitants,,,
-,,1:04:34,"Bukavu, Democratic Republic of Congo",city / area,,,,
-,,1:04:40,"Cyangugu, Rwanda",local,,,,
-,,1:04:46,"Bukavu, Democratic Republic of Congo",city / area,,,,
-,,1:04:48,"Cyangugu, Rwanda",local,,,,
-,,1:04:59,Democratic Republic of Congo,country,,,,
-,,1:05:08,"Bukavu, Democratic Republic of Congo",city / area,,,,
-,,1:05:45,"Cyangugu, Rwanda",local,,,,
-,,1:06:31,"Bukavu, Democratic Republic of Congo",city / area,"Emmanuelle, family",,,
-,,1:06:34,"Bujumbura, Burundi",city / area,"Emmanuelle, family",,,
-,,1:06:38,Rwanda,country,Emmanuelle ,,1973,when she left
-,,1:06:45,Rwanda,country,Emmanuelle,,,
-,,1:06:52,Rwanda,country,"Emmanuelle, family",,,
-,,1:07:18,"Bukavu, Democratic Republic of Congo",city / area,"Emmanuelle, family",,1994,Chronology when she left because she is explaining why she couldn't live there.
-,,1:07:22,"Bujumbura, Burundi",city / area,"Emmanuelle, family",,1994,Chronology when she left because she is explaining why she couldn't live there.
-,,1:07:30,"Bujumbura, Burundi",city / area,"Emmanuelle, family",,1994,Chronology when she left because she is explaining why she couldn't live there.
-,,1:07:33,Rwanda,country,"Emmanuelle, family",,1994,Chronology when she left because she is explaining why she couldn't live there.
-,,1:07:57,United States,country,"Emmanuelle, family",,1994,Chronology when she was considering living there.
-,,1:07:59,Canada,country,"Emmanuelle, family",,1994,Chronology when she was considering living there.
-,,1:08:28,Europe,continent,"Emmanuelle, family",,,Chronology when she left because she is explaining why she couldn't live there.
-,,1:08:39,Europe,continent,husband,,,
-,,1:08:40,France,country,husband,,,
-,,1:08:50,Quebec,region,husband,,,
-,,1:09:18,Canada,country,Emmanuelle,yes,1994,
-,,1:09:22,United States,country,Emmanuelle,,1994,hypothetical
-,,1:09:23,Canada,country,Emmanuelle,,1994,hypothetical
-,,1:09:35,"Bujumbura, Burundi",city / area,Emmanuelle,yes,1994,
-,,1:09:50,Rwanda,country,"Emmanuelle, expatriot friends",,1994,
-,,1:10:00,"Bujumbura, Burundi",city / area,,,,
-,,1:11:44,"Bukavu, Democratic Republic of Congo",city / area,husband,,1994,
-,,1:11:47,"Bujumbura, Burundi",city / area,husband,,1994,"Says ""Buja"" - assuming based on previous reasonings that this is short for Bujumbura."
-,,1:11:50,"Bukavu, Democratic Republic of Congo",city / area,"Emmanuelle, family",,1994,
-,,1:12:00,Rwanda,country,"Emmanuelle, family",,1994,
-,,1:12:06,"Bugarama, Rwanda",local,"Emmanuelle, family",,1994,
-,,1:12:27,"Bukavu, Democratic Republic of Congo",city / area,"Emmanuelle, family",,1994,
-,,1:12:48,"Bugarama, Rwanda",local,"Emmanuelle, family",,1994,
-,,1:12:53,"Bukavu, Democratic Republic of Congo",city / area,"Emmanuelle, mother",,,
-,,1:14:11,"Bukavu, Democratic Republic of Congo",city / area,"Emmanuelle, family",,4/6/1994,
-,,1:14:28,"Bujumbura, Burundi",city / area,Emmanuelle,,4/7/1994,
-,,1:15:09,Yugoslavia,country,,,,"Mentions Yugoslavia, which historical country - using Sarajevo as a centroid simulation, chosen visually as an approximation since Yugoslavia's borders are so shifty throughout history. Keeping scale of country."
-,,1:15:32,Burundi,country,president,,,
-,,1:15:48,"Bukavu, Democratic Republic of Congo",city / area,"Emmanuelle, family",,,
-,,1:16:00,Rwanda,country,,,,
-,,1:16:25,"Bukavu, Democratic Republic of Congo",city / area,Emmanuelle,,,
-,,1:17:03,Burundi,country,,,,
-,,1:17:46,"Bujumbura, Burundi",city / area,Emmanuelle,,1994,
-,,1:17:47,Burundi,country,president,,1994,
-,,1:18:31,Rwanda,country,Emmanuelle,,,
-,,1:18:57,Rwanda,country,friends,,,
-,,1:19:13,"Cyangugu, Rwanda",local,,,,
-,,1:20:39,"Bujumbura, Burundi",city / area,refugees,,,
-,,1:21:16,Europe,continent,friends,,,
-,,1:21:30,"Bujumbura, Burundi",city / area,"Emmanuelle, family, friends",,1994,"Says ""Buja"""
-,,1:21:53,"Bujumbura, Burundi",city / area,"Emmanuelle, family ",,1994,"Says ""Buja"" "
-,,1:22:09,Rwanda,country,refugees,,,
-,,1:23:32,"Nyamata, Rwanda",local,,,,
-,,1:23:35,"Kigali, Rwanda",city / area,,,,
-,,1:24:31,Switzerland,country,missionary,,,
-,,1:25:22,"Bujumbura, Burundi",city / area,"Emmanuelle, family ",,1994,"Says ""Buja"" "
-,,1:25:24,United States,country,,,,
-,,1:25:45,"San Francisco, US",city / area,husband's colleague,,,
-,,1:26:01,"Minnesota, US",city / area,family,,,
-,,1:26:09,"Bujumbura, Burundi",city / area,"Emmanuelle, family ",,1994,"Says ""Buja"" "
-,,1:26:09,Europe,continent,"Emmanuelle, family ",,1994,
-,,1:26:11,Europe,continent,"Emmanuelle, family ",,1994,
-,,1:26:13,United States,country,"Emmanuelle, family ",,1994,
-,,1:26:20,"Michigan, US",city / area,family friend,,1994,
-,,1:26:30,Quebec,region,,,,
-,,1:26:35,"Ontario, Canada",region,,,1994,
-,,1:27:47,Rwanda,country,,,Jul-94,
-,,1:28:42,"Bukavu, Democratic Republic of Congo",city / area,husband,,Jul-94,
-,,1:28:45,"Bukavu, Democratic Republic of Congo",city / area,friend,,Jul-94,
-,,1:29:07,"Nyamata, Rwanda",local,Emmanuelle,,Jul-94,
-,,1:29:12,"Nyamata, Rwanda",local,Emmanuelle,,Jul-94,
-,,1:31:46,"Bugesera, Rwanda",local,Emmanuelle,,Jul-94,
-,,1:31:48,"Sake, Rwanda",local,Emmanuelle,,Jul-94,
-,,1:31:51,Burundi,country,,,Jul-94,
-,,1:31:53,Rwanda,country,,,Jul-94,
-,,1:32:08,"Sake, Rwanda",local,Emmanuelle,,,
-,,1:32:18,"Bugesera, Rwanda",local,Emmanuelle,,Jul-94,
-,,1:34:28,"Nyamata, Rwanda",local,"Emmanuelle, friends",,Jul-94,"says ""l'église de Nyamata"" but I cannot locate this church, at least with this name. Mentions the church several times after this."
-,,1:40:04,"Kigali, Rwanda",city / area,,,Jul-94,
-,,1:40:07,"Kabuga, Rwanda",local,genocide survivors,,Jul-94,
-,,1:40:12,"Kabuga, Rwanda",local,"Emmanuelle, friends",,Jul-94,
-,,1:40:49,Uganda,country,sister's husband,,Jul-94,
-,,1:40:56,Uganda,country,sister's husband,,Jul-94,
-,,1:42:08,"Nyamata, Rwanda",local,"Emmanuelle, sister ",,Jul-94,
-,,1:47:18,"Bujumbura, Burundi",city / area,Emmanuelle,,,
-,,1:48:39,"Nyamirambo, Rwanda",local,,,Jul-94,
-,,1:48:41,"Kabuga, Rwanda",local,,,Jul-94,
-,,1:50:13,"Bujumbura, Burundi",city / area,Emmanuelle,,Jul-94,"Says ""Buja"" "
-,,1:52:12,"Concordia University, Montreal, Canada",very local,Emmanuelle,,,
-,,1:56:08,"Bukavu, Democratic Republic of Congo",city / area,Emmanuelle,,2001,
-,,1:59:11,"Nyamata, Rwanda",local,mother,,,
-,,1:59:14,"Kigali, Rwanda",city / area,sister,,,
-,,1:59:33,Rwanda,country,Emmanuelle,,,
-,,1:59:35,"Kigali, Rwanda",city / area,Emmanuelle,,,
-,,1:59:41,"Kigali International Airport, Rwanda",very local,,,,
-,,1:59:49,"Kigali, Rwanda",city / area,Emmanuelle,,,
-,,2:02:59,"Nyamata, Rwanda",local,father,,,
-,,2:03:00,"Kigali, Rwanda",city / area,father,,,
-,,2:05:31,"Kaduha, Rwanda",local,"Emmanuelle, family",,,
-,,2:05:34,"Nyanza, Rwanda",local,"Emmanuelle, family",,,
-,,2:10:03,"Kigali, Rwanda",city / area,Emmanuelle,,,
-,,2:10:54,Rwanda,country,family,yes,,
-,,2:12:14,"Bukavu, Democratic Republic of Congo",city / area,"Emmanuelle, cousin",,,
-,,2:12:33,"Montreal, Canada",city / area,"Emmanuelle, Pauline",,,
-,,2:12:37,"Bujumbura, Burundi",city / area,"Emmanuelle, Pauline",,,"Says ""Buja"" "
-,,2:12:38,"Bujumbura, Burundi",city / area,Pauline,,,"Says ""Buja"" "
-,,2:12:50,"Montreal, Canada",city / area,Emmanuelle,,,
-,,2:13:06,"Montreal, Canada",city / area,"Emmanuelle, Pauline",,,
-,,2:13:57,Canada,country,Emmanuelle,yes,,
-,,2:15:28,Rwanda,country,Emmanuelle,,,
-,,2:16:15,Africa ,continent,,,,
-,,2:16:30,Canada,country,Emmanuelle,,,
-,,2:18:35,Africa ,continent,son,,,
-,,2:18:38,Canada,country,son,,,
-,,2:19:25,United States,country,Emmanuelle,yes,1994,
-,,2:19:32,"Montreal, Canada",city / area,"Emmanuelle, friends",yes,1994,
-,,2:19:34,Quebec,region,Emmanuelle,,1994,
-,,2:19:35,Quebec,region,Emmanuelle,yes,1994,
-,,2:19:36,"Quebec City, Canada",city / area,Emmanuelle,,1994,
-,,2:19:38,"Quebec City, Canada",city / area,Emmanuelle,,1994,
-,,2:19:42,"Quebec City, Canada",city / area,Emmanuelle,,1994,
-,,2:19:43,"Montreal, Canada",city / area,Emmanuelle,,1994,
-,,2:19:47,"Montreal, Canada",city / area,"Emmanuelle, friends",,1994,
-,,2:20:06,"Montreal, Canada",city / area,Emmanuelle,,1994,
-,,2:20:13,Rwanda,country,exiled Rwandans,,,
-,,2:20:15,"Montreal, Canada",city / area,exiled Rwandans,,,
-,,2:20:16,"Quebec City, Canada",city / area,exiled Rwandans,,,
-,,2:20:54,"Montreal, Canada",city / area,Emmanuelle,,,
-,,2:21:31,Canada,country,"Emmanuelle, family",yes,,
-,,2:22:17,Africa,continent,Emmanuelle,,,
-,,2:22:31,"Bujumbura, Burundi",city / area,Emmanuelle,,1990 - 1994,
-,,2:25:38,"Henri-Bourasa, Montreal, Canada",local,Emmanuelle,,,I am pretty sure she means the street.
-,,2:28:56,"Université de Montréal, Montreal, Canada",very local,Emmanuelle,,,
-,,2:29:57,"Centre de documentation sur l'éducation des adultes et la condition féminine, Montreal, Qc",very local,Emmanuelle,,,"Says Fédération des Femmes du Quebec, but based on the address of the site (http://www.ffq.qc.ca/contact/) this place codes as Centre de documentation sur l'éducation des adultes et la condition féminine"
-,,2:30:40,"Montreal, Canada",city / area,Emmanuelle,yes,,
-,,2:31:08,Canada,country,,,,general reference
-,,2:31:11,Quebec,region,,,,general reference
-,,2:31:44,Quebec,region,Emmanuelle,,,
-,,2:32:54,Canada,country,Emmanuelle,,,
-,,2:32:56,Quebec,region,Emmanuelle,,,
-,,2:33:06,Rwanda,country,Emmanuelle,yes,,
-,,2:33:44,Rwanda,country,,,,general reference
-,,2:35:03,Quebec,region,Emmanuelle,,,
-,,2:35:04,Rwanda,country,Emmanuelle,,,
-,,2:35:18,Rwanda,country,Emmanuelle,,,
-,,2:35:24,Rwanda,country,Emmanuelle,,,
-,,2:35:53,Rwanda,country,Emmanuelle,,,
-,,2:36:01,Rwanda,country,Emmanuelle,,,
-,,2:36:48,Canada,country,Emmanuelle,,,
-,,2:36:51,Canada,country,Emmanuelle,,,
-,,2:37:11,Rwanda,country,Emmanuelle,yes,,
-,,2:37:37,"Bukavu, Democratic Republic of Congo",city / area,Emmanuelle,,,
-,,2:37:48,"Bukavu, Democratic Republic of Congo",city / area,Emmanuelle,,,
-,,2:40:40,Rwanda,country,Emmanuelle,,,
-,,2:42:20,"Montreal, Canada",city / area,Emmanuelle,yes,,
-,,2:42:52,"Montreal, Canada",city / area,,yes,,
-,,2:42:58,Rwanda,country,,,,
-,,2:44:11,Rwanda,country,Rwandan refugee,,,
-,,2:45:36,"Bukavu, Democratic Republic of Congo",city / area,Emmanuelle,,1990,
-,,2:46:04,"Bukavu, Democratic Republic of Congo",city / area,Emmanuelle,,,
-,,2:46:05,"Bujumbura, Burundi",city / area,Emmanuelle,,,
-,,2:46:07,Rwanda,country,Emmanuelle,,,
-,,2:46:44,Rwanda,country,,,,
-,,2:47:48,Rwanda,country,,,,From the movie title Hotel Rwanda
+id,session_num,time_clip,Time mentioned (h:mm:ss),Atlascine-location,Location,Scale
+1,0,0,0:08:25,"Bujumbura, Burundi","Bujumbura, Burundi",city / area
+2,,,0:12:53,Rwanda,Rwanda,country
+3,,,0:13:42,"Nyanza, Rwanda","Nyanza, Rwanda",local
+4,,,0:13:49,"Nyanza, Rwanda","Nyanza, Rwanda",local
+5,,,0:16:36,"Kaduha, Rwanda","Kaduha, Rwanda",local
+6,,,0:16:40,"Nyanza, Rwanda","Nyanza, Rwanda",local
+7,,,0:18:04,Rwanda,Rwanda,country
+8,,,0:20:47,"Kigali, Rwanda","Kigali, Rwanda",city / area
+9,,,0:21:18,"Nyamata, Rwanda","Nyamata, Rwanda",local
+10,,,0:21:54,Rwanda,Rwanda,country
+11,,,0:22:42,"Kigali, Rwanda","Kigali, Rwanda",city / area
+12,,,0:23:11,"Goma, Democratic Republic of Congo","Goma, Democratic Republic of Congo",city / area
+13,,,0:23:16,"Goma, Democratic Republic of Congo","Goma, Democratic Republic of Congo",city / area
+14,,,0:23:25,"Bujumbura, Burundi","Bujumbura, Burundi",city / area
+15,,,0:23:38,"Butare, Rwanda","Butare, Rwanda",city / area
+16,,,0:23:42,Burundi,Burundi,country
+17,,,0:23:50,"Butare, Rwanda","Butare, Rwanda",city / area
+18,,,0:23:52,"Kigali, Rwanda","Kigali, Rwanda",city / area
+19,,,0:24:11,"Gitarama, Rwanda","Gitarama, Rwanda",local
+20,,,0:24:12,"Gitarama, Rwanda","Gitarama, Rwanda",local
+21,,,0:24:13,"Kibuye, Rwanda","Kibuye, Rwanda",local
+22,,,0:24:14,"Kibuye, Rwanda","Kibuye, Rwanda",local
+23,,,0:24:15,"Gisenyi, Rwanda","Gisenyi, Rwanda",city / area
+24,,,0:24:20,"Gisenyi, Rwanda","Gisenyi, Rwanda",city / area
+25,,,0:24:23,"Goma, Democratic Republic of Congo","Goma, Democratic Republic of Congo",city / area
+26,,,0:24:25,"Goma, Democratic Republic of Congo","Goma, Democratic Republic of Congo",city / area
+27,,,0:24:36,"Goma, Democratic Republic of Congo","Goma, Democratic Republic of Congo",city / area
+28,,,0:24:39,Rwanda,Rwanda,country
+29,,,0:24:44,Rwanda,Rwanda,country
+30,,,0:24:52,Burundi,Burundi,country
+31,,,0:25:07,Burundi,Burundi,country
+32,,,0:25:19,"Goma, Democratic Republic of Congo","Goma, Democratic Republic of Congo",city / area
+33,,,0:25:36,"Bujumbura, Burundi","Bujumbura, Burundi",city / area
+34,,,0:27:02,"Bujumbura, Burundi","Bujumbura, Burundi",city / area
+35,,,0:27:49,Burundi,Burundi,country
+36,,,0:29:00,"Metalusa, Bujumbura, Burundi","Metalusa, Bujumbura, Burundi",very local
+37,,,0:29:09,Burundi,Burundi,country
+38,,,0:30:14,Burundi,Burundi,country
+39,,,0:31:03,Burundi,Burundi,country
+40,,,0:31:10,Burundi,Burundi,country
+41,,,0:31:11,Rwanda,Rwanda,country
+42,,,0:31:25,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area
+43,,,0:31:27,"Bujumbura, Burundi","Bujumbura, Burundi",city / area
+44,,,0:31:34,Democratic Republic of Congo,Democratic Republic of Congo,country
+45,,,0:31:45,Democratic Republic of Congo,Democratic Republic of Congo,country
+46,,,0:32:03,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area
+47,,,0:32:05,Burundi,Burundi,country
+48,,,0:32:30,Democratic Republic of Congo,Democratic Republic of Congo,country
+49,,,0:32:31,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area
+50,,,0:33:08,"Cyangugu, Rwanda","Cyangugu, Rwanda",local
+51,,,0:33:12,"Goma, Democratic Republic of Congo","Goma, Democratic Republic of Congo",city / area
+52,,,0:33:21,"Gisenyi, Rwanda","Gisenyi, Rwanda",city / area
+53,,,0:33:22,"Kigali, Rwanda","Kigali, Rwanda",city / area
+54,,,0:33:23,"Kigali, Rwanda","Kigali, Rwanda",city / area
+55,,,0:33:25,"Nyamata, Rwanda","Nyamata, Rwanda",local
+56,,,0:33:49,"Nyamata, Rwanda","Nyamata, Rwanda",local
+57,,,0:33:59,"Nyamata, Rwanda","Nyamata, Rwanda",local
+58,,,0:34:04,Rwanda,Rwanda,country
+59,,,0:34:17,Burundi,Burundi,country
+60,,,0:34:56,Burundi,Burundi,country
+61,,,0:34:57,Democratic Republic of Congo,Democratic Republic of Congo,country
+62,,,0:34:58,Democratic Republic of Congo,Democratic Republic of Congo,country
+63,,,0:36:51,Burundi,Burundi,country
+64,,,0:37:00,Democratic Republic of Congo,Democratic Republic of Congo,country
+65,,,0:41:25,Democratic Republic of Congo,Democratic Republic of Congo,country
+66,,,0:41:26,Democratic Republic of Congo,Democratic Republic of Congo,country
+67,,,0:41:27,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area
+68,,,0:45:49,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area
+69,,,0:45:58,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area
+70,,,0:46:19,Democratic Republic of Congo,Democratic Republic of Congo,country
+71,,,0:47:42,Rwanda,Rwanda,country
+72,,,0:47:50,Democratic Republic of Congo,Democratic Republic of Congo,country
+73,,,0:47:58,African Great Lakes,African Great Lakes,region
+74,,,0:48:09,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area
+75,,,0:48:30,Burundi,Burundi,country
+76,,,0:48:34,"Bujumbura, Burundi","Bujumbura, Burundi",city / area
+77,,,0:48:44,"Bujumbura, Burundi","Bujumbura, Burundi",city / area
+78,,,0:49:35,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area
+79,,,0:50:01,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area
+80,,,0:50:05,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area
+81,,,0:50:09,"Bujumbura, Burundi","Bujumbura, Burundi",city / area
+82,,,0:50:14,Rwanda,Rwanda,country
+83,,,0:50:16,"Bugarama, Rwanda","Bugarama, Rwanda",local
+84,,,0:50:42,Rwanda,Rwanda,country
+85,,,0:50:54,"Bujumbura, Burundi","Bujumbura, Burundi",city / area
+86,,,0:51:13,Rwanda,Rwanda,country
+87,,,0:51:16,"Nyamata, Rwanda","Nyamata, Rwanda",local
+88,,,0:51:31,"Bugesera, Rwanda","Bugesera, Rwanda",local
+89,,,0:51:39,"Bujumbura, Burundi","Bujumbura, Burundi",city / area
+90,,,0:51:54,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area
+91,,,0:51:57,"Nyamata, Rwanda","Nyamata, Rwanda",local
+92,,,0:52:29,Uganda,Uganda,country
+93,,,0:52:39,Burundi,Burundi,country
+94,,,0:52:44,Uganda,Uganda,country
+95,,,0:53:09,"Cyangugu, Rwanda","Cyangugu, Rwanda",local
+96,,,0:53:21,Rwanda,Rwanda,country
+97,,,0:54:16,Rwanda,Rwanda,country
+98,,,0:55:15,Democratic Republic of Congo,Democratic Republic of Congo,country
+99,,,0:55:20,Burundi,Burundi,country
+100,,,0:56:42,"Bujumbura, Burundi","Bujumbura, Burundi",city / area
+101,,,0:58:30,"Bujumbura, Burundi","Bujumbura, Burundi",city / area
+102,,,0:59:41,Democratic Republic of Congo,Democratic Republic of Congo,country
+103,,,0:59:58,Democratic Republic of Congo,Democratic Republic of Congo,country
+104,,,1:00:00,"Uvira, Democratic Republic of Congo","Uvira, Democratic Republic of Congo",local
+105,,,1:00:02,Democratic Republic of Congo,Democratic Republic of Congo,country
+106,,,1:00:06,Democratic Republic of Congo,Democratic Republic of Congo,country
+107,,,1:00:52,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area
+108,,,1:00:57,Burundi,Burundi,country
+109,,,1:01:18,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area
+110,,,1:01:42,Rwanda,Rwanda,country
+111,,,1:02:10,France,France,country
+112,,,1:03:20,Rwanda,Rwanda,country
+113,,,1:04:34,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area
+114,,,1:04:40,"Cyangugu, Rwanda","Cyangugu, Rwanda",local
+115,,,1:04:46,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area
+116,,,1:04:48,"Cyangugu, Rwanda","Cyangugu, Rwanda",local
+117,,,1:04:59,Democratic Republic of Congo,Democratic Republic of Congo,country
+118,,,1:05:08,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area
+119,,,1:05:45,"Cyangugu, Rwanda","Cyangugu, Rwanda",local
+120,,,1:06:31,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area
+121,,,1:06:34,"Bujumbura, Burundi","Bujumbura, Burundi",city / area
+122,,,1:06:38,Rwanda,Rwanda,country
+123,,,1:06:45,Rwanda,Rwanda,country
+124,,,1:06:52,Rwanda,Rwanda,country
+125,,,1:07:18,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area
+126,,,1:07:22,"Bujumbura, Burundi","Bujumbura, Burundi",city / area
+127,,,1:07:30,"Bujumbura, Burundi","Bujumbura, Burundi",city / area
+128,,,1:07:33,Rwanda,Rwanda,country
+129,,,1:07:57,USA,United States,country
+130,,,1:07:59,Canada,Canada,country
+131,,,1:08:28,Europe,Europe,continent
+132,,,1:08:39,Europe,Europe,continent
+133,,,1:08:40,France,France,country
+134,,,1:08:50,"Quebec, Canada",Quebec,region
+135,,,1:09:18,Canada,Canada,country
+136,,,1:09:22,USA,United States,country
+137,,,1:09:23,Canada,Canada,country
+138,,,1:09:35,"Bujumbura, Burundi","Bujumbura, Burundi",city / area
+139,,,1:09:50,Rwanda,Rwanda,country
+140,,,1:10:00,"Bujumbura, Burundi","Bujumbura, Burundi",city / area
+141,,,1:11:44,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area
+142,,,1:11:47,"Bujumbura, Burundi","Bujumbura, Burundi",city / area
+143,,,1:11:50,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area
+144,,,1:12:00,Rwanda,Rwanda,country
+145,,,1:12:06,"Bugarama, Rwanda","Bugarama, Rwanda",local
+146,,,1:12:27,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area
+147,,,1:12:48,"Bugarama, Rwanda","Bugarama, Rwanda",local
+148,,,1:12:53,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area
+149,,,1:14:11,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area
+150,,,1:14:28,"Bujumbura, Burundi","Bujumbura, Burundi",city / area
+151,,,1:15:09,Yugoslavia,Yugoslavia,country
+152,,,1:15:32,Burundi,Burundi,country
+153,,,1:15:48,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area
+154,,,1:16:00,Rwanda,Rwanda,country
+155,,,1:16:25,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area
+156,,,1:17:03,Burundi,Burundi,country
+157,,,1:17:46,"Bujumbura, Burundi","Bujumbura, Burundi",city / area
+158,,,1:17:47,Burundi,Burundi,country
+159,,,1:18:31,Rwanda,Rwanda,country
+160,,,1:18:57,Rwanda,Rwanda,country
+161,,,1:19:13,"Cyangugu, Rwanda","Cyangugu, Rwanda",local
+162,,,1:20:39,"Bujumbura, Burundi","Bujumbura, Burundi",city / area
+163,,,1:21:16,Europe,Europe,continent
+164,,,1:21:30,"Bujumbura, Burundi","Bujumbura, Burundi",city / area
+165,,,1:21:53,"Bujumbura, Burundi","Bujumbura, Burundi",city / area
+166,,,1:22:09,Rwanda,Rwanda,country
+167,,,1:23:32,"Nyamata, Rwanda","Nyamata, Rwanda",local
+168,,,1:23:35,"Kigali, Rwanda","Kigali, Rwanda",city / area
+169,,,1:24:31,Switzerland,Switzerland,country
+170,,,1:25:22,"Bujumbura, Burundi","Bujumbura, Burundi",city / area
+171,,,1:25:24,USA,United States,country
+172,,,1:25:45,"San Francisco, USA","San Francisco, US",city / area
+173,,,1:26:01,"Minnesota, USA","Minnesota, US",city / area
+174,,,1:26:09,"Bujumbura, Burundi","Bujumbura, Burundi",city / area
+175,,,1:26:09,Europe,Europe,continent
+176,,,1:26:11,Europe,Europe,continent
+177,,,1:26:13,USA,United States,country
+178,,,1:26:20,"Michigan, USA","Michigan, US",city / area
+179,,,1:26:30,"Quebec, Canada",Quebec,region
+180,,,1:26:35,"Ontario, Canada","Ontario, Canada",region
+181,,,1:27:47,Rwanda,Rwanda,country
+182,,,1:28:42,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area
+183,,,1:28:45,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area
+184,,,1:29:07,"Nyamata, Rwanda","Nyamata, Rwanda",local
+185,,,1:29:12,"Nyamata, Rwanda","Nyamata, Rwanda",local
+186,,,1:31:46,"Bugesera, Rwanda","Bugesera, Rwanda",local
+187,,,1:31:48,"Sake, Rwanda","Sake, Rwanda",local
+188,,,1:31:51,Burundi,Burundi,country
+189,,,1:31:53,Rwanda,Rwanda,country
+190,,,1:32:08,"Sake, Rwanda","Sake, Rwanda",local
+191,,,1:32:18,"Bugesera, Rwanda","Bugesera, Rwanda",local
+192,,,1:34:28,"Nyamata, Rwanda","Nyamata, Rwanda",local
+193,,,1:40:04,"Kigali, Rwanda","Kigali, Rwanda",city / area
+194,,,1:40:07,"Kabuga, Rwanda","Kabuga, Rwanda",local
+195,,,1:40:12,"Kabuga, Rwanda","Kabuga, Rwanda",local
+196,,,1:40:49,Uganda,Uganda,country
+197,,,1:40:56,Uganda,Uganda,country
+198,,,1:42:08,"Nyamata, Rwanda","Nyamata, Rwanda",local
+199,,,1:47:18,"Bujumbura, Burundi","Bujumbura, Burundi",city / area
+200,,,1:48:39,"Nyamirambo, Rwanda","Nyamirambo, Rwanda",local
+201,,,1:48:41,"Kabuga, Rwanda","Kabuga, Rwanda",local
+202,,,1:50:13,"Bujumbura, Burundi","Bujumbura, Burundi",city / area
+203,,,1:52:12,"Concordia University, Montreal, Canada","Concordia University, Montreal, Canada",very local
+204,,,1:56:08,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area
+205,,,1:59:11,"Nyamata, Rwanda","Nyamata, Rwanda",local
+206,,,1:59:14,"Kigali, Rwanda","Kigali, Rwanda",city / area
+207,,,1:59:33,Rwanda,Rwanda,country
+208,,,1:59:35,"Kigali, Rwanda","Kigali, Rwanda",city / area
+209,,,1:59:41,"Kigali International Airport, Rwanda","Kigali International Airport, Rwanda",very local
+210,,,1:59:49,"Kigali, Rwanda","Kigali, Rwanda",city / area
+211,,,2:02:59,"Nyamata, Rwanda","Nyamata, Rwanda",local
+212,,,2:03:00,"Kigali, Rwanda","Kigali, Rwanda",city / area
+213,,,2:05:31,"Kaduha, Rwanda","Kaduha, Rwanda",local
+214,,,2:05:34,"Nyanza, Rwanda","Nyanza, Rwanda",local
+215,,,2:10:03,"Kigali, Rwanda","Kigali, Rwanda",city / area
+216,,,2:10:54,Rwanda,Rwanda,country
+217,,,2:12:14,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area
+218,,,2:12:33,"Montreal, Canada","Montreal, Canada",city / area
+219,,,2:12:37,"Bujumbura, Burundi","Bujumbura, Burundi",city / area
+220,,,2:12:38,"Bujumbura, Burundi","Bujumbura, Burundi",city / area
+221,,,2:12:50,"Montreal, Canada","Montreal, Canada",city / area
+222,,,2:13:06,"Montreal, Canada","Montreal, Canada",city / area
+223,,,2:13:57,Canada,Canada,country
+224,,,2:15:28,Rwanda,Rwanda,country
+225,,,2:16:15,Africa ,Africa ,continent
+226,,,2:16:30,Canada,Canada,country
+227,,,2:18:35,Africa,Africa ,continent
+228,,,2:18:38,Canada,Canada,country
+229,,,2:19:25,USA,United States,country
+230,,,2:19:32,"Montreal, Canada","Montreal, Canada",city / area
+231,,,2:19:34,"Quebec, Canada",Quebec,region
+232,,,2:19:35,"Quebec, Canada",Quebec,region
+233,,,2:19:36,"Quebec City, Canada","Quebec City, Canada",city / area
+234,,,2:19:38,"Quebec City, Canada","Quebec City, Canada",city / area
+235,,,2:19:42,"Quebec City, Canada","Quebec City, Canada",city / area
+236,,,2:19:43,"Montreal, Canada","Montreal, Canada",city / area
+237,,,2:19:47,"Montreal, Canada","Montreal, Canada",city / area
+238,,,2:20:06,"Montreal, Canada","Montreal, Canada",city / area
+239,,,2:20:13,Rwanda,Rwanda,country
+240,,,2:20:15,"Montreal, Canada","Montreal, Canada",city / area
+241,,,2:20:16,"Quebec City, Canada","Quebec City, Canada",city / area
+242,,,2:20:54,"Montreal, Canada","Montreal, Canada",city / area
+243,,,2:21:31,Canada,Canada,country
+244,,,2:22:17,Africa,Africa,continent
+245,,,2:22:31,"Bujumbura, Burundi","Bujumbura, Burundi",city / area
+246,,,2:25:38,"Henri-Bourassa, Montreal, Canada","Henri-Bourasa, Montreal, Canada",local
+247,,,2:28:56,"Université de Montréal, Montreal, Canada","Université de Montréal, Montreal, Canada",very local
+248,,,2:29:57,"Centre de documentation sur l'éducation des adultes et la condition féminine, Montreal, Qc","Centre de documentation sur l'éducation des adultes et la condition féminine, Montreal, Qc",very local
+249,,,2:30:40,"Montreal, Canada","Montreal, Canada",city / area
+250,,,2:31:08,Canada,Canada,country
+251,,,2:31:11,"Quebec, Canada",Quebec,region
+252,,,2:31:44,"Quebec, Canada",Quebec,region
+253,,,2:32:54,Canada,Canada,country
+254,,,2:32:56,"Quebec, Canada",Quebec,region
+255,,,2:33:06,Rwanda,Rwanda,country
+256,,,2:33:44,Rwanda,Rwanda,country
+257,,,2:35:03,"Quebec, Canada",Quebec,region
+258,,,2:35:04,Rwanda,Rwanda,country
+259,,,2:35:18,Rwanda,Rwanda,country
+260,,,2:35:24,Rwanda,Rwanda,country
+261,,,2:35:53,Rwanda,Rwanda,country
+262,,,2:36:01,Rwanda,Rwanda,country
+263,,,2:36:48,Canada,Canada,country
+264,,,2:36:51,Canada,Canada,country
+265,,,2:37:11,Rwanda,Rwanda,country
+266,,,2:37:37,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area
+267,,,2:37:48,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area
+268,,,2:40:40,Rwanda,Rwanda,country
+269,,,2:42:20,"Montreal, Canada","Montreal, Canada",city / area
+270,,,2:42:52,"Montreal, Canada","Montreal, Canada",city / area
+271,,,2:42:58,Rwanda,Rwanda,country
+272,,,2:44:11,Rwanda,Rwanda,country
+273,,,2:45:36,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area
+274,,,2:46:04,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area
+275,,,2:46:05,"Bujumbura, Burundi","Bujumbura, Burundi",city / area
+276,,,2:46:07,Rwanda,Rwanda,country
+277,,,2:46:44,Rwanda,Rwanda,country
+278,,,2:47:48,Rwanda,Rwanda,country

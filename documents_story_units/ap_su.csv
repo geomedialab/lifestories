@@ -78,7 +78,7 @@ id,Session #,Story unit #,Clip Time start (h:mm:ss),Clip Time end (h:mm:ss),Cumu
 77,1,76,1:08:42,1:08:58,1:08:42,1:08:58,Haiti,Haiti,country,
 78,1,77,1:08:58,1:09:25,1:08:58,1:09:25,Haiti,Haiti; USA,country,
 79,,,,,1:08:58,1:09:25,USA,,country,
-80,1,78,1:09:25,1:09:48,1:09:25,1:09:48,"Bronx, NYC, USA",Bronx; NYC; USA,local,
+80,1,78,1:09:25,1:09:48,1:09:25,1:09:48,"Bronx, NYC, USA",Bronx; NYC; USA,city / area,
 81,1,79,1:09:48,1:11:50,1:09:48,1:11:50,"New Hampshire, USA",New Hampshire; USA ,region,
 82,1,80,1:11:50,1:13:00,1:11:50,1:13:00,"New Hampshire, USA",New Hampshire; USA; Bronx; NYC; USA,region,
 83,,,,,1:11:50,1:13:00,"Bronx, NYC, USA",,city / area,

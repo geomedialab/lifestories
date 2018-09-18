@@ -84,15 +84,15 @@ id,Session #,Clip Time mentioned (h:mm:ss),Cumulative Time mentioned (h:mm:ss),A
 83,1,1:09:10,1:09:10,Haiti,Haiti,country
 84,1,1:09:16,1:09:16,Haiti,Haiti,country
 85,1,1:09:29,1:09:29,USA,USA,country
-86,1,1:09:43,1:09:43,"Bronx, NYC, USA",Bronx; NYC; USA,local
+86,1,1:09:43,1:09:43,"Bronx, NYC, USA",Bronx; NYC; USA,city / area
 87,1,1:10:57,1:10:57,"New Hampshire, USA",New Hampshire; USA,region
 88,1,1:11:08,1:11:08,"NYC, USA",NYC; USA,city / area
 89,1,1:11:10,1:11:10,Dominican Republic,Dominican Republic,country
-90,1,1:11:18,1:11:18,"Bronx, NYC, USA",Bronx; NYC; USA,local
+90,1,1:11:18,1:11:18,"Bronx, NYC, USA",Bronx; NYC; USA,city / area
 91,1,1:11:34,1:11:34,Haiti,Haiti,country
 92,1,1:12:20,1:12:20,Dominican Republic,Dominican Republic,country
-93,1,1:12:34,1:12:34,"Bronx, NYC, USA",Bronx; NY; USA,local
-94,1,1:12:51,1:12:51,"Bronx, NYC, USA",Bronx; NY; USA,local
+93,1,1:12:34,1:12:34,"Bronx, NYC, USA",Bronx; NY; USA,city / area
+94,1,1:12:51,1:12:51,"Bronx, NYC, USA",Bronx; NY; USA,city / area
 95,1,1:13:09,1:13:09,"NYC, USA",New York; NY,city / area
 96,1,1:13:16,1:13:16,"Catskill Mountains, USA",The Catskills; USA,region
 97,1,1:13:55,1:13:55,Haiti,Haiti,country

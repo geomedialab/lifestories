@@ -1,0 +1,398 @@
+,id,session_num,time_clip,time,place,place_raw,scale,scale_order
+0,1,1,0:00:16,1900-01-01 00:00:16,"Marchand Dessalines, Haiti",Marchand Dessalines; Haiti,city / area,4
+1,2,1,0:00:30,1900-01-01 00:00:30,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+2,3,1,0:00:41,1900-01-01 00:00:41,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+3,4,1,0:00:57,1900-01-01 00:00:57,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+4,5,1,0:01:12,1900-01-01 00:01:12,Haiti,Haiti,country,6
+5,6,1,0:02:14,1900-01-01 00:02:14,Haiti,Haiti,country,6
+6,7,1,0:03:00,1900-01-01 00:03:00,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+7,8,1,0:03:26,1900-01-01 00:03:26,Haiti,Haiti,country,6
+8,9,1,0:03:33,1900-01-01 00:03:33,USA,USA,country,6
+9,10,1,0:03:38,1900-01-01 00:03:38,France,France,country,6
+10,11,1,0:03:41,1900-01-01 00:03:41,Haiti,Haiti,country,6
+11,12,1,0:03:58,1900-01-01 00:03:58,Haiti,Haiti,country,6
+12,13,1,0:04:33,1900-01-01 00:04:43,"Artibonite, Haiti",Artibonite; Haiti,region,5
+13,14,1,0:04:48,1900-01-01 00:04:48,"Artibonite, Haiti",Artibonite; Haiti,region,5
+14,15,1,0:06:08,1900-01-01 00:06:08,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+15,16,1,0:06:09,1900-01-01 00:06:09,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,4
+16,17,1,0:06:11,1900-01-01 00:06:11,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+17,18,1,0:06:13,1900-01-01 00:06:13,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+18,19,1,0:06:20,1900-01-01 00:06:20,Haiti,Haiti,country,6
+19,20,1,0:06:32,1900-01-01 00:06:32,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,4
+20,21,1,0:06:45,1900-01-01 00:06:45,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,4
+21,22,1,0:07:44,1900-01-01 00:07:44,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+22,23,1,0:08:35,1900-01-01 00:08:35,"Bassin, Artibonite, Haiti",Bassin; Artibonite; Haiti,local,3
+23,24,1,0:08:44,1900-01-01 00:08:44,"Artibonite, Haiti",Artibonite; Haiti,region,5
+24,25,1,0:08:48,1900-01-01 00:08:48,"Artibonite, Haiti",Artibonite; Haiti,region,5
+25,26,1,0:08:52,1900-01-01 00:08:52,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,4
+26,27,1,0:09:00,1900-01-01 00:09:00,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,4
+27,28,1,0:09:42,1900-01-01 00:09:42,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,4
+28,29,1,0:09:43,1900-01-01 00:09:43,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,4
+29,30,1,0:11:04,1900-01-01 00:11:04,"Pénitentier National, Port-au-Prince, Haiti",Pénitentier National; Port-au-Prince; Haiti,very local,2
+30,31,1,0:11:05,1900-01-01 00:11:05,"Fort-Dimanche, Haiti",Fort-Dimanche; Haiti,very local,2
+31,32,1,0:11:07,1900-01-01 00:11:07,"National Palace, Port-au-Prince, Haiti",National Palace; Port-au-Prince; Haiti,very local,2
+32,33,1,0:11:08,1900-01-01 00:11:08,"Casernes Dessalines, Port-au-Prince, Haiti",Casernes Dessalines; Port-au-Prince; Haiti,very local,2
+33,34,1,0:11:09,1900-01-01 00:11:09,"Casernes Dessalines, Port-au-Prince, Haiti",Casernes Dessalines; Port-au-Prince; Haiti,very local,2
+34,35,1,0:11:38,1900-01-01 00:11:38,"Le Maquis, Haiti",Le Maquis; Haiti,city / area,4
+35,36,1,0:11:51,1900-01-01 00:11:51,"Le Maquis, Haiti",Le Maquis; Haiti,city / area,4
+36,37,1,0:12:05,1900-01-01 00:12:05,"Le Maquis, Haiti",Le Maquis; Haiti,city / area,4
+37,38,1,0:12:13,1900-01-01 00:12:13,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+38,39,1,0:12:17,1900-01-01 00:12:17,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+39,40,1,0:12:22,1900-01-01 00:12:22,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+40,41,1,0:12:58,1900-01-01 00:12:58,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+41,42,1,0:13:02,1900-01-01 00:13:02,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+42,43,1,0:14:08,1900-01-01 00:14:08,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+43,44,1,0:14:12,1900-01-01 00:14:12,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+44,45,1,0:14:18,1900-01-01 00:14:18,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+45,46,1,0:14:39,1900-01-01 00:14:39,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,4
+46,47,1,0:15:25,1900-01-01 00:15:25,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+47,48,1,0:16:08,1900-01-01 00:16:08,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+48,49,1,0:16:09,1900-01-01 00:16:09,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+49,50,1,0:16:18,1900-01-01 00:16:18,"Saint-Marc, Haiti",Saint-Marc; Haiti,city / area,4
+50,51,1,0:16:24,1900-01-01 00:16:24,"Saint-Marc, Haiti",Saint-Marc; Haiti,city / area,4
+51,52,1,0:16:25,1900-01-01 00:16:25,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+52,53,1,0:17:01,1900-01-01 00:17:01,"Saint-Marc, Haiti",Saint-Marc; Haiti,city / area,4
+53,54,1,0:17:39,1900-01-01 00:17:39,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+54,55,1,0:18:59,1900-01-01 00:18:59,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+55,56,1,0:19:03,1900-01-01 00:19:03,"Gonaives Prison, Gonaives, Haiti",Gonaives Prison; Gonaives; Haiti,city / area,4
+56,57,1,0:19:07,1900-01-01 00:19:07,"Gonaives Prison, Gonaives, Haiti",Gonaives Prison; Gonaives; Haiti,city / area,4
+57,58,1,0:19:12,1900-01-01 00:19:12,"Saint-Marc, Haiti",Saint-Marc; Haiti,city / area,4
+58,59,1,0:19:15,1900-01-01 00:19:15,"Saint-Marc, Haiti",Saint-Marc; Haiti,city / area,4
+59,60,1,0:19:29,1900-01-01 00:19:29,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+60,61,1,0:19:41,1900-01-01 00:19:41,"Saint-Marc, Haiti",Saint-Marc; Haiti,city / area,4
+61,62,1,0:19:44,1900-01-01 00:19:44,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+62,63,1,0:19:46,1900-01-01 00:19:46,"Cap-Haitien, Haiti",Cap-Haitien; Haiti,city / area,4
+63,64,1,0:19:48,1900-01-01 00:19:48,"Petite Rivière de l'Artibonite, Haiti",Petite Rivière de l'Artibonite; Haiti,city / area,4
+64,65,1,0:19:52,1900-01-01 00:19:52,"Verrettes, Haiti",Verrettes; Haiti,city / area,4
+65,66,1,0:19:53,1900-01-01 00:19:53,"Verrettes, Haiti",Verrettes; Haiti,city / area,4
+66,67,1,0:19:54,1900-01-01 00:19:54,"Desarmes, Haiti",Desarmes; Haiti,city / area,4
+67,68,1,0:19:55,1900-01-01 00:19:55,"La Chapelle, Haiti",La Chapelle; Haiti,city / area,4
+68,69,1,0:20:02,1900-01-01 00:20:02,"Saint-Marc, Haiti",Saint-Marc; Haiti,city / area,4
+69,70,1,0:20:45,1900-01-01 00:20:45,"Artibonite, Haiti",Artibonite; Haiti,region,5
+70,71,1,0:20:49,1900-01-01 00:20:49,"Saint-Marc, Haiti",Saint-Marc; Haiti,city / area,4
+71,72,1,0:21:11,1900-01-01 00:21:11,"Montreal, Canada",Montreal; Canada,city / area,4
+72,73,1,0:21:13,1900-01-01 00:21:13,"Montreal, Canada",Montreal; Canada,city / area,4
+73,74,1,0:21:16,1900-01-01 00:21:16,"Université de Montréal, Montreal, Canada",Université de Montréal; Montreal; Canada,very local,2
+74,75,1,0:22:03,1900-01-01 00:22:03,"Montreal, Canada",Montreal; Canada,city / area,4
+75,76,1,0:22:07,1900-01-01 00:22:07,Haiti,Haiti,country,6
+76,77,1,0:22:23,1900-01-01 00:22:23,Canada,Canada,country,6
+77,78,1,0:22:31,1900-01-01 00:22:31,"Université de Montréal, Montreal, Canada",Université de Montréal; Montreal; Canada,very local,2
+78,79,1,0:23:50,1900-01-01 00:23:50,"Université de Montréal, Montreal, Canada",Université de Montréal; Montreal; Canada,very local,2
+79,80,1,0:24:09,1900-01-01 00:24:09,"Montreal, Canada",Montreal; Canada,city / area,4
+80,81,1,0:24:11,1900-01-01 00:24:11,"Montreal, Canada",Montreal; Canada,city / area,4
+81,82,1,0:27:12,1900-01-01 00:27:12,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+82,83,1,0:27:46,1900-01-01 00:27:46,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+83,84,1,0:28:03,1900-01-01 00:28:03,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+84,85,1,0:28:19,1900-01-01 00:28:19,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+85,86,1,0:28:43,1900-01-01 00:28:43,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+86,87,1,0:30:28,1900-01-01 00:30:28,"Middle School Jean Jacques Dessalines, Gonaives, Haiti",Middle School Jean Jacques Dessalines; Gonaives; Haiti,very local,2
+87,88,1,0:30:30,1900-01-01 00:30:30,"Middle School Jean Jacques Dessalines, Gonaives, Haiti",Middle School Jean Jacques Dessalines; Gonaives; Haiti,very local,2
+88,89,1,0:30:54,1900-01-01 00:30:54,Haiti,Haiti,country,6
+89,90,1,0:31:25,1900-01-01 00:31:25,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,4
+90,91,1,0:31:26,1900-01-01 00:31:26,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,4
+91,92,1,0:31:27,1900-01-01 00:31:27,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,4
+92,93,1,0:31:59,1900-01-01 00:31:59,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,4
+93,94,1,0:32:11,1900-01-01 00:32:11,"National Palace, Port-au-Prince, Haiti",National Palace; Port-au-Prince; Haiti,very local,2
+94,95,1,0:32:14,1900-01-01 00:32:14,Haiti,Haiti,country,6
+95,96,1,0:32:23,1900-01-01 00:32:23,"National Palace, Port-au-Prince, Haiti",National Palace; Port-au-Prince; Haiti,very local,2
+96,97,1,0:32:26,1900-01-01 00:32:26,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+97,98,1,0:32:34,1900-01-01 00:32:34,"National Palace, Port-au-Prince, Haiti",National Palace; Port-au-Prince; Haiti,very local,2
+98,99,1,0:32:40,1900-01-01 00:32:40,"National Palace, Port-au-Prince, Haiti",National Palace; Port-au-Prince; Haiti,very local,2
+99,100,1,0:32:48,1900-01-01 00:32:48,"Artibonite, Haiti",Artibonite; Haiti,region,5
+100,101,1,0:33:06,1900-01-01 00:33:06,"Artibonite, Haiti",Artibonite; Haiti,region,5
+101,102,1,0:33:10,1900-01-01 00:33:10,"Artibonite, Haiti",Artibonite; Haiti,region,5
+102,103,1,0:33:25,1900-01-01 00:33:25,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+103,104,1,0:34:17,1900-01-01 00:34:17,"Plaine de Gonaive, Haiti",Plaine de Gonaive; Haiti,city / area,4
+104,105,1,0:35:01,1900-01-01 00:35:01,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+105,106,1,0:35:18,1900-01-01 00:35:18,"Casernes Dessalines, Port-au-Prince, Haiti",Casernes Dessalines; Port-au-Prince; Haiti,very local,2
+106,107,1,0:36:30,1900-01-01 00:36:30,"Ecole Normale Superieure, Port-au-Prince, Haiti",Ecole Normale Superieure; Port-au-Prince; Haiti,very local,2
+107,108,1,0:38:36,1900-01-01 00:38:36,"Saint-Marc, Haiti",Saint-Marc; Haiti,city / area,4
+108,109,1,0:38:40,1900-01-01 00:38:40,"Saint-Marc, Haiti",Saint-Marc; Haiti,city / area,4
+109,110,1,0:38:45,1900-01-01 00:38:45,"Saint-Marc, Haiti",Saint-Marc; Haiti,city / area,4
+110,111,1,0:38:54,1900-01-01 00:38:54,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+111,112,1,0:38:56,1900-01-01 00:38:56,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+112,113,1,0:39:38,1900-01-01 00:39:38,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+113,114,1,0:39:39,1900-01-01 00:39:39,"Saint-Marc, Haiti",Saint-Marc; Haiti,city / area,4
+114,115,1,0:41:13,1900-01-01 00:41:13,"Cap-Haitien, Haiti",Cap-Haitien; Haiti,city / area,4
+115,116,1,0:41:17,1900-01-01 00:41:17,"Cap-Haitien, Haiti",Cap-Haitien; Haiti,city / area,4
+116,117,1,0:41:23,1900-01-01 00:41:23,"Petite Rivière de l'Artibonite, Haiti",Petite Rivière de l'Artibonite; Haiti,city / area,4
+117,118,1,0:41:29,1900-01-01 00:41:29,"La Chapelle, Haiti",La Chapelle; Haiti,city / area,4
+118,119,1,0:41:37,1900-01-01 00:41:37,"Verrettes, Haiti",Verrettes; Haiti,city / area,4
+119,120,1,0:42:52,1900-01-01 00:42:52,"Saint-Marc, Haiti",Saint-Marc; Haiti,city / area,4
+120,121,1,0:43:30,1900-01-01 00:43:30,"Cap-Haitien, Haiti",Cap-Haitien; Haiti,city / area,4
+121,122,1,0:43:50,1900-01-01 00:43:50,"Saint-Marc, Haiti",Saint-Marc; Haiti,city / area,4
+122,123,1,0:44:07,1900-01-01 00:44:07,"Prison, Saint-Marc, Artibonite, Haiti",Prison; Saint-Marc; Artibonite; Haiti,very local,2
+123,124,1,0:44:18,1900-01-01 00:44:18,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+124,125,1,0:44:51,1900-01-01 00:44:51,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+125,126,1,0:44:52,1900-01-01 00:44:52,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+126,127,1,0:45:19,1900-01-01 00:45:19,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+127,128,1,0:47:45,1900-01-01 00:47:45,"Artibonite, Haiti",Artibonite; Haiti,region,5
+128,129,1,0:47:47,1900-01-01 00:47:47,"Prison, Saint-Marc, Artibonite, Haiti",Prison; Saint-Marc; Artibonite; Haiti,very local,2
+129,130,1,0:50:30,1900-01-01 00:50:30,"Saint-Marc, Haiti",Saint-Marc; Haiti,city / area,4
+130,131,1,0:50:34,1900-01-01 00:50:34,"Saint-Marc, Haiti",Saint-Marc; Haiti,city / area,4
+131,132,1,0:50:48,1900-01-01 00:50:48,"Carrefour Feuilles, Port-au-Prince, Haiti",Carrefour Feuilles; Port-au-Prince; Haiti,local,3
+132,133,1,0:50:51,1900-01-01 00:50:51,"Martissant, Port-au-Prince, Haiti",Martissant; Port-au-Prince; Haiti,local,3
+133,134,1,0:50:52,1900-01-01 00:50:52,"Fontamara, Port-au-Prince, Haiti",Fontamara; Port-au-Prince; Haiti,local,3
+134,135,1,0:50:52,1900-01-01 00:50:52,"Martissant, Port-au-Prince, Haiti",Martissant; Port-au-Prince; Haiti,local,3
+135,136,1,0:51:31,1900-01-01 00:51:31,"Morne Canot, Haiti",Morne Canot; Haiti,city / area,4
+136,137,1,0:51:32,1900-01-01 00:51:32,"Morne Canot, Haiti",Morne Canot; Haiti,city / area,4
+137,138,1,0:53:00,1900-01-01 00:53:00,"Petite Rivière de l'Artibonite, Haiti",Petite Rivière de l'Artibonite; Haiti,city / area,4
+138,139,1,0:53:03,1900-01-01 00:53:03,"Petite Rivière de l'Artibonite, Haiti",Petite Rivière de l'Artibonite; Haiti,city / area,4
+139,140,1,0:53:06,1900-01-01 00:53:06,"Morne Canot, Haiti",Morne Canot; Haiti,city / area,4
+140,141,1,0:53:10,1900-01-01 00:53:10,"Saint-Marc, Haiti",Saint-Marc; Haiti,city / area,4
+141,142,1,0:54:42,1900-01-01 00:54:42,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,4
+142,143,1,0:54:47,1900-01-01 00:54:47,"Saint-Marc, Haiti",Saint-Marc; Haiti,city / area,4
+143,144,1,0:55:16,1900-01-01 00:55:16,Cuba,Cuba,country,6
+144,145,1,0:57:24,1900-01-01 00:57:24,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+145,146,1,0:58:16,1900-01-01 00:58:16,"La Chapelle, Haiti",La Chapelle; Haiti,city / area,4
+146,147,1,0:59:14,1900-01-01 00:59:14,"Saint-Marc, Haiti",Saint-Marc; Haiti,city / area,4
+147,148,1,0:58:58,1900-01-01 00:58:58,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,4
+148,149,1,0:59:22,1900-01-01 00:59:22,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,4
+149,150,1,0:59:23,1900-01-01 00:59:23,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,4
+150,151,1,0:59:26,1900-01-01 00:59:26,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,4
+151,152,1,1:00:10,1900-01-01 01:00:10,"Artibonite, Haiti",Artibonite; Haiti,region,5
+152,153,1,1:00:39,1900-01-01 01:00:39,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+153,154,1,1:00:58,1900-01-01 01:00:58,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+154,155,1,1:01:05,1900-01-01 01:01:05,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+155,156,1,1:01:09,1900-01-01 01:01:09,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,4
+156,157,1,1:01:51,1900-01-01 01:01:51,Canada,Canada,country,6
+157,158,1,1:04:31,1900-01-01 01:04:31,"Saint Paul Street, Montreal, Canada",Saint Paul Street; Montreal; Canada,local,3
+158,159,1,1:04:35,1900-01-01 01:04:35,"William Street, Montreal, Canada",William Street; Montreal; Canada,local,3
+159,160,1,1:04:42,1900-01-01 01:04:42,"William Street, Montreal, Canada",William Street; Montreal; Canada,local,3
+160,161,1,1:04:46,1900-01-01 01:04:46,"Victoria Square Station, Montreal, Canada",Victoria Square Station; Montreal; Canada,very local,2
+161,162,1,1:04:59,1900-01-01 01:04:59,"BCHM, Montreal, Canada",BCHM; Montreal; Canada,very local,2
+162,163,1,1:05:03,1900-01-01 01:05:03,"Maison d'Haiti, Montreal, Canada",Maison d'Haiti; Montreal; Canada,very local,2
+163,164,1,1:05:05,1900-01-01 01:05:05,"Maison d'Haiti, Montreal, Canada",Maison d'Haiti; Montreal; Canada,very local,2
+164,165,1,1:05:17,1900-01-01 01:05:17,"Maison d'Haiti, Montreal, Canada",Maison d'Haiti; Montreal; Canada,very local,2
+165,166,1,1:05:23,1900-01-01 01:05:23,"Maison d'Haiti, Montreal, Canada",Maison d'Haiti; Montreal; Canada,very local,2
+166,167,1,1:05:27,1900-01-01 01:05:27,"BCHM, Montreal, Canada",BCHM; Montreal; Canada,very local,2
+167,168,1,1:05:34,1900-01-01 01:05:34,"Maison d'Haiti, Montreal, Canada",Maison d'Haiti; Montreal; Canada,very local,2
+168,169,1,1:05:39,1900-01-01 01:05:39,"Maison d'Haiti, Montreal, Canada",Maison d'Haiti; Montreal; Canada,very local,2
+169,170,1,1:05:42,1900-01-01 01:05:42,"BCHM, Montreal, Canada",BCHM; Montreal; Canada,very local,2
+170,171,1,1:06:42,1900-01-01 01:06:42,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+171,172,1,1:06:50,1900-01-01 01:06:50,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+172,173,1,1:06:55,1900-01-01 01:06:55,"Montreal, Canada",Montreal; Canada,city / area,4
+173,174,1,1:06:58,1900-01-01 01:06:58,"Longueuil, Canada",Longueuil; Canada,city / area,4
+174,175,1,1:07:01,1900-01-01 01:07:01,"Longueuil, Canada",Longueuil; Canada,city / area,4
+175,176,1,1:07:10,1900-01-01 01:07:10,"Villeray, Montreal, Canada",Villeray; Montreal; Canada,local,3
+176,177,1,1:07:14,1900-01-01 01:07:14,"Outremont, Montreal, Canada",Outremont; Montreal; Canada,local,3
+177,178,1,1:07:17,1900-01-01 01:07:17,"Outremont, Montreal, Canada",Outremont; Montreal; Canada,local,3
+178,179,1,1:07:29,1900-01-01 01:07:29,"Rosemont, Montreal, Canada",Rosemont; Montreal; Canada,local,3
+179,180,1,1:07:41,1900-01-01 01:07:41,"Longueuil, Canada",Longueuil; Canada,city / area,4
+180,181,1,1:08:05,1900-01-01 01:08:05,"Montreal, Canada",Montreal; Canada,city / area,4
+181,182,1,1:08:28,1900-01-01 01:08:28,"Montreal, Canada",Montreal; Canada,city / area,4
+182,183,1,1:09:31,1900-01-01 01:09:31,"Pierre Elliott Trudeau International Airport, Montreal, Canada",Pierre Elliott Trudeau International Airport; Montreal; Canada,very local,2
+183,184,1,1:09:32,1900-01-01 01:09:32,"Dorval, Montreal, Canada",Dorval; Montreal; Canada,local,3
+184,185,1,1:09:43,1900-01-01 01:09:43,"Montreal, Canada",Montreal; Canada,city / area,4
+185,186,1,1:10:10,1900-01-01 01:10:10,Haiti,Haiti,country,6
+186,187,1,1:10:35,1900-01-01 01:10:35,Haiti,Haiti,country,6
+187,188,1,1:11:48,1900-01-01 01:11:48,Haiti,Haiti,country,6
+188,189,1,1:12:12,1900-01-01 01:12:12,Haiti,Haiti,country,6
+189,190,1,1:12:20,1900-01-01 01:12:20,Haiti,Haiti,country,6
+190,191,1,1:13:27,1900-01-01 01:13:27,Haiti,Haiti,country,6
+191,192,1,1:13:42,1900-01-01 01:13:42,Haiti,Haiti,country,6
+192,193,1,1:14:54,1900-01-01 01:14:54,"Quebec, Canada",Quebec; Canada,region,5
+193,194,1,1:15:34,1900-01-01 01:15:34,"Montreal, Canada",Montreal; Canada,city / area,4
+194,195,1,1:16:05,1900-01-01 01:16:05,"Festival International de Jazz de Montréal, Montreal, Canada",Festival International de Jazz de Montréal; Montreal; Canada,very local,2
+195,196,1,1:18:01,1900-01-01 01:18:01,"Maison d'Haiti, Montreal, Canada",Maison d'Haiti; Montreal; Canada,very local,2
+196,197,1,1:18:36,1900-01-01 01:18:36,"Maison d'Haiti, Montreal, Canada",Maison d'Haiti; Montreal; Canada,very local,2
+197,198,1,1:20:22,1900-01-01 01:20:22,"Fort-Dimanche, Haiti",Fort-Dimanche; Haiti,very local,2
+198,199,1,1:20:23,1900-01-01 01:20:23,"Fort-Dimanche, Haiti",Fort-Dimanche; Haiti,very local,2
+199,200,1,1:21:00,1900-01-01 01:21:00,"180 Cuvillier, Longueuil, Canada",180 Cuvillier; Longueuil; Canada,very local,2
+200,201,1,1:21:14,1900-01-01 01:21:14,"Longueuil, Canada",Longueuil; Canada,city / area,4
+201,202,1,1:21:15,1900-01-01 01:21:15,"Longueuil, Canada",Longueuil; Canada,city / area,4
+202,203,2,0:01:42,1900-01-01 01:23:46,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+203,204,2,0:05:42,1900-01-01 01:27:46,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+204,205,2,0:06:00,1900-01-01 01:28:04,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,4
+205,206,2,0:13:57,1900-01-01 01:36:01,Haiti,Haiti,country,6
+206,207,2,0:14:16,1900-01-01 01:36:20,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+207,208,2,0:14:24,1900-01-01 01:36:28,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+208,209,2,0:14:37,1900-01-01 01:36:41,"Place d'Armes de la Ville des Gonaives, Gonaives, Haiti",Place d'Armes de la Ville des Gonaives; Gonaives; Haiti,very local,2
+209,210,2,0:14:44,1900-01-01 01:36:48,"Rue Saint Charles, Gonaives, Haiti",Rue Saint Charles; Gonaives; Haiti,local,3
+210,211,2,0:17:14,1900-01-01 01:39:18,"Le Maquis, Haiti",Le Maquis; Haiti,city / area,4
+211,212,2,0:22:21,1900-01-01 01:44:25,"Le Maquis, Haiti",Le Maquis; Haiti,city / area,4
+212,213,2,0:23:10,1900-01-01 01:45:14,"Le Maquis, Haiti",Le Maquis; Haiti,city / area,4
+213,214,2,0:28:28,1900-01-01 01:50:32,Haiti,Haiti,country,6
+214,215,2,0:28:30,1900-01-01 01:50:34,Haiti,Haiti,country,6
+215,216,2,0:28:43,1900-01-01 01:50:47,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,4
+216,217,2,0:29:19,1900-01-01 01:51:23,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+217,218,2,0:29:24,1900-01-01 01:51:28,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+218,219,2,0:29:26,1900-01-01 01:51:30,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,4
+219,220,2,0:29:30,1900-01-01 01:51:34,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,4
+220,221,2,0:29:42,1900-01-01 01:51:46,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+221,222,2,0:30:21,1900-01-01 01:52:25,"Petite Rivière de l'Artibonite, Haiti",Petite Rivière de l'Artibonite; Haiti,city / area,4
+222,223,2,0:30:23,1900-01-01 01:52:27,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+223,224,2,0:30:26,1900-01-01 01:52:30,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+224,225,2,0:31:50,1900-01-01 01:53:54,Haiti,Haiti,country,6
+225,226,2,0:32:36,1900-01-01 01:54:40,Haiti,Haiti,country,6
+226,227,2,0:34:58,1900-01-01 01:57:02,"Cap-Haitien, Haiti",Cap-Haitien; Haiti,city / area,4
+227,228,2,0:35:08,1900-01-01 01:57:12,"Saint-Marc, Haiti",Saint-Marc; Haiti,city / area,4
+228,229,2,0:35:10,1900-01-01 01:57:14,"Saint-Marc, Haiti",Saint-Marc; Haiti,city / area,4
+229,230,2,0:35:18,1900-01-01 01:57:22,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+230,231,2,0:35:22,1900-01-01 01:57:26,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+231,232,2,0:36:00,1900-01-01 01:58:04,"Saint-Marc, Haiti",Saint-Marc; Haiti,city / area,4
+232,233,2,0:40:09,1900-01-01 02:02:13,Caribbean,The Caribbean,continent,7
+233,234,2,0:40:16,1900-01-01 02:02:20,Caribbean,The Caribbean,continent,7
+234,235,2,0:41:21,1900-01-01 02:03:25,"Université de Montréal, Montreal, Canada",Université de Montréal; Montreal; Canada,very local,2
+235,236,2,0:41:57,1900-01-01 02:04:01,"Montreal, Canada",Montreal; Canada,city / area,4
+236,237,2,0:42:03,1900-01-01 02:04:07,"Université de Montréal, Montreal, Canada",Université de Montréal; Montreal; Canada,very local,2
+237,238,2,0:43:17,1900-01-01 02:05:21,"Montreal, Canada",Montreal; Canada,city / area,4
+238,239,2,0:44:44,1900-01-01 02:06:48,Haiti,Haiti,country,6
+239,240,2,0:44:46,1900-01-01 02:06:50,Haiti,Haiti,country,6
+240,241,2,0:46:15,1900-01-01 02:08:19,"Artibonite, Haiti",Artibonite; Haiti,region,5
+241,242,2,0:46:25,1900-01-01 02:08:29,"Artibonite, Haiti",Artibonite; Haiti,region,5
+242,243,2,0:46:29,1900-01-01 02:08:33,"National Palace, Port-au-Prince, Haiti",National Palace; Port-au-Prince; Haiti,very local,2
+243,244,2,0:46:38,1900-01-01 02:08:42,"Artibonite, Haiti",Artibonite; Haiti,region,5
+244,245,2,0:46:42,1900-01-01 02:08:46,"Artibonite, Haiti",Artibonite; Haiti,region,5
+245,246,2,0:47:15,1900-01-01 02:09:19,"National Palace, Port-au-Prince, Haiti",National Palace; Port-au-Prince; Haiti,very local,2
+246,247,2,0:47:34,1900-01-01 02:09:38,"National Palace, Port-au-Prince, Haiti",National Palace; Port-au-Prince; Haiti,very local,2
+247,248,2,0:56:29,1900-01-01 02:18:33,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+248,249,2,0:56:32,1900-01-01 02:18:36,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+249,250,2,0:56:45,1900-01-01 02:18:49,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+250,251,2,0:57:08,1900-01-01 02:19:12,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+251,252,2,0:57:20,1900-01-01 02:19:24,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+252,253,2,0:57:28,1900-01-01 02:19:32,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,4
+253,254,2,0:57:30,1900-01-01 02:19:34,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,4
+254,255,2,0:57:33,1900-01-01 02:19:37,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,4
+255,256,2,0:57:36,1900-01-01 02:19:40,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,4
+256,257,2,0:57:49,1900-01-01 02:19:53,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,4
+257,258,2,0:57:52,1900-01-01 02:19:56,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,4
+258,259,2,0:57:53,1900-01-01 02:19:57,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+259,260,2,0:57:55,1900-01-01 02:19:59,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+260,261,2,0:57:55,1900-01-01 02:19:59,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,4
+261,262,2,0:57:57,1900-01-01 02:20:01,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,4
+262,263,2,0:57:57,1900-01-01 02:20:01,"Port-au-Prince, Haiti",Gonaives; Haiti,city / area,4
+263,264,2,0:57:59,1900-01-01 02:20:03,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,4
+264,265,2,1:01:34,1900-01-01 02:23:38,Haiti,Haiti,country,6
+265,266,2,1:02:43,1900-01-01 02:24:47,Haiti,Haiti,country,6
+266,267,2,1:04:16,1900-01-01 02:26:20,Haiti,Haiti,country,6
+267,268,2,1:04:24,1900-01-01 02:26:28,Haiti,Haiti,country,6
+268,269,2,1:04:28,1900-01-01 02:26:32,Haiti,Haiti,country,6
+269,270,2,1:06:01,1900-01-01 02:28:05,USA,USA,country,6
+270,271,2,1:06:03,1900-01-01 02:28:07,Canada,Canada,country,6
+271,272,2,1:06:04,1900-01-01 02:28:08,USA,USA,country,6
+272,273,2,1:06:04,1900-01-01 02:28:08,USA,Canada,country,6
+273,274,2,1:06:07,1900-01-01 02:28:11,Canada,Canada,country,6
+274,275,2,1:06:19,1900-01-01 02:28:23,USA,USA,country,6
+275,276,2,1:06:41,1900-01-01 02:28:45,USA,USA,country,6
+276,277,2,1:06:54,1900-01-01 02:28:58,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+277,278,2,1:06:56,1900-01-01 02:29:00,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+278,279,2,1:06:57,1900-01-01 02:29:01,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,4
+279,280,2,1:07:03,1900-01-01 02:29:07,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+280,281,2,1:07:15,1900-01-01 02:29:19,Africa,Africa,continent,7
+281,282,2,1:07:15,1900-01-01 02:29:19,Africa,Africa,continent,7
+282,283,2,1:07:21,1900-01-01 02:29:25,USA,USA,country,6
+283,284,2,1:07:31,1900-01-01 02:29:35,Haiti,Haiti,country,6
+284,285,2,1:08:27,1900-01-01 02:30:31,USA,USA,country,6
+285,286,2,1:08:32,1900-01-01 02:30:36,USA,USA,country,6
+286,287,2,1:08:36,1900-01-01 02:30:40,Canada,Canada,country,6
+287,288,2,1:08:42,1900-01-01 02:30:46,Canada,Canada,country,6
+288,289,2,1:09:08,1900-01-01 02:31:12,Haiti,Haiti,country,6
+289,290,2,1:09:23,1900-01-01 02:31:27,Canada,Canada,country,6
+290,291,2,1:09:52,1900-01-01 02:31:56,Haiti,Haiti,country,6
+291,292,2,1:10:32,1900-01-01 02:32:36,Haiti,Haiti,country,6
+292,293,2,1:10:53,1900-01-01 02:32:57,"Montreal, Canada",Montreal; Canada,city / area,4
+293,294,2,1:10:56,1900-01-01 02:33:00,Haiti,Haiti,country,6
+294,295,2,1:11:05,1900-01-01 02:33:09,"Miami, USA",Miami; USA,city / area,4
+295,296,2,1:11:10,1900-01-01 02:33:14,"Montreal, Canada",Montreal; Canada,city / area,4
+296,297,2,1:11:14,1900-01-01 02:33:18,"Montreal, Canada",Montreal; Canada,city / area,4
+297,298,2,1:11:17,1900-01-01 02:33:21,"Montreal, Canada",Montreal; Canada,city / area,4
+298,299,2,1:11:20,1900-01-01 02:33:24,"Miami, USA",Miami; USA,city / area,4
+299,300,2,1:11:23,1900-01-01 02:33:27,"Montreal, Canada",Montreal; Canada,city / area,4
+300,301,2,1:12:18,1900-01-01 02:34:22,Haiti,Haiti,country,6
+301,302,2,1:14:41,1900-01-01 02:36:45,"Saint Christophe Street, Montreal, Canada",Saint Christophe Street; Montreal; Canada,local,3
+302,303,2,1:14:41,1900-01-01 02:36:45,"Berri-UQAM Station, Montreal, Canada",Berri-UQAM Station; Montreal; Canada,very local,2
+303,304,2,1:14:48,1900-01-01 02:36:52,"Outremont, Montreal, Canada",Outremont; Montreal; Canada,local,3
+304,305,2,1:15:16,1900-01-01 02:37:20,"Villeray, Montreal, Canada",Villeray; Montreal; Canada,local,3
+305,306,2,1:15:35,1900-01-01 02:37:39,"CIDIHCA, Montreal, Canada",CIDIHCA; Montreal; Canada,very local,2
+306,307,2,1:15:36,1900-01-01 02:37:40,"Saint Paul Street, Montreal, Canada",Saint Paul Street; Montreal; Canada,local,3
+307,308,2,1:15:37,1900-01-01 02:37:41,"William Street, Montreal, Canada",William Street; Montreal; Canada,local,3
+308,309,2,1:16:35,1900-01-01 02:38:39,"Longueuil, Canada",Longueuil; Canada,city / area,4
+309,310,2,1:16:37,1900-01-01 02:38:41,"Centre de formation professionnelle Pierre-Dupuy, Longueuil, Canada",Centre de formation professionnelle Pierre-Dupuy; Longueuil; Canada,very local,2
+310,311,2,1:16:39,1900-01-01 02:38:43,"Longueuil, Canada",Longueuil; Canada,city / area,4
+311,312,2,1:16:40,1900-01-01 02:38:44,"Centre de formation professionnelle Pierre-Dupuy, Longueuil, Canada",Centre de formation professionnelle Pierre-Dupuy; Longueuil; Canada,very local,2
+312,313,2,1:16:41,1900-01-01 02:38:45,"Centre de formation professionnelle Pierre-Dupuy, Longueuil, Canada",Centre de formation professionnelle Pierre-Dupuy; Longueuil; Canada,very local,2
+313,314,2,1:17:27,1900-01-01 02:39:31,"Longueuil, Canada",Longueuil; Canada,city / area,4
+314,315,2,1:17:29,1900-01-01 02:39:33,"Montreal, Canada",Montreal; Canada,city / area,4
+315,316,2,1:17:30,1900-01-01 02:39:34,"Saint-Michel, Montreal, Canada",Saint Michel; Montreal; Canada,local,3
+316,317,2,1:17:34,1900-01-01 02:39:38,"Longueuil, Canada",Longueuil; Canada,city / area,4
+317,318,2,1:17:48,1900-01-01 02:39:52,"Outremont, Montreal, Canada",Outremont; Montreal; Canada,local,3
+318,319,2,1:17:56,1900-01-01 02:40:00,"Outremont, Montreal, Canada",Outremont; Montreal; Canada,local,3
+319,320,2,1:17:57,1900-01-01 02:40:01,"Villeray, Montreal, Canada",Villeray; Montreal; Canada,local,3
+320,321,2,1:18:02,1900-01-01 02:40:06,"Villeray, Montreal, Canada",Villeray; Montreal; Canada,local,3
+321,322,2,1:18:08,1900-01-01 02:40:12,"Beaubien Street, Montreal, Canada",Beaubien Street; Montreal; Canada,local,3
+322,323,2,1:18:11,1900-01-01 02:40:15,"Beaubien Street, Montreal, Canada",Beaubien Street; Montreal; Canada,local,3
+323,324,2,1:18:18,1900-01-01 02:40:22,"Outremont, Montreal, Canada",Outremont; Montreal; Canada,local,3
+324,325,2,1:18:22,1900-01-01 02:40:26,"Outremont, Montreal, Canada",Outremont; Montreal; Canada,local,3
+325,326,2,1:18:26,1900-01-01 02:40:30,"Outremont, Montreal, Canada",Outremont; Montreal; Canada,local,3
+326,327,2,1:18:35,1900-01-01 02:40:39,"Outremont, Montreal, Canada",Outremont; Montreal; Canada,local,3
+327,328,2,1:18:36,1900-01-01 02:40:40,"Outremont, Montreal, Canada",Outremont; Montreal; Canada,local,3
+328,329,2,1:18:42,1900-01-01 02:40:46,"Côte-Sainte-Catherine, Montreal, Canada",Côte-Sainte-Catherine; Montreal; Canada,local,3
+329,330,2,1:18:46,1900-01-01 02:40:50,"Côte-Sainte-Catherine, Montreal, Canada",Côte-Sainte-Catherine; Montreal; Canada,local,3
+330,331,2,1:18:47,1900-01-01 02:40:51,"Bernard Street, Montreal, Canada",Bernard Street; Montreal; Canada,local,3
+331,332,2,1:18:52,1900-01-01 02:40:56,"Bernard Street, Montreal, Canada",Bernard Street; Montreal; Canada,local,3
+332,333,2,1:18:54,1900-01-01 02:40:58,"Bernard Street, Montreal, Canada",Bernard Street; Montreal; Canada,local,3
+333,334,2,1:19:20,1900-01-01 02:41:24,"Outremont, Montreal, Canada",Outremont; Montreal; Canada,local,3
+334,335,2,1:19:23,1900-01-01 02:41:27,"Outremont, Montreal, Canada",Outremont; Montreal; Canada,local,3
+335,336,2,1:19:33,1900-01-01 02:41:37,Haiti,Haiti,country,6
+336,337,2,1:21:50,1900-01-01 02:43:54,"Montreal, Canada",Montreal; Canada,city / area,4
+337,338,2,1:22:57,1900-01-01 02:45:01,Haiti,Haiti,country,6
+338,339,2,1:23:09,1900-01-01 02:45:13,"Montreal, Canada",Montreal; Canada,city / area,4
+339,340,2,1:23:14,1900-01-01 02:45:18,"Laval, Canada",Laval; Canada,city / area,4
+340,341,2,1:23:17,1900-01-01 02:45:21,"Montreal, Canada",Montreal; Canada,city / area,4
+341,342,2,1:23:22,1900-01-01 02:45:26,"Montreal, Canada",Montreal; Canada,city / area,4
+342,343,2,1:23:23,1900-01-01 02:45:27,Haiti,Haiti,country,6
+343,344,2,1:23:28,1900-01-01 02:45:32,Haiti,Haiti,country,6
+344,345,2,1:23:43,1900-01-01 02:45:47,Haiti,Haiti,country,6
+345,346,2,1:25:31,1900-01-01 02:47:35,"Montreal, Canada",Montreal; Canada,city / area,4
+346,347,2,1:25:32,1900-01-01 02:47:36,"Montreal, Canada",Montreal; Canada,city / area,4
+347,348,2,1:26:01,1900-01-01 02:48:05,"Montreal, Canada",Montreal; Canada,city / area,4
+348,349,2,1:26:13,1900-01-01 02:48:17,"Montreal, Canada",Montreal; Canada,city / area,4
+349,350,2,1:30:17,1900-01-01 02:52:21,Haiti,Haiti,country,6
+350,351,2,1:32:36,1900-01-01 02:54:40,"Longueuil, Canada",Longueuil; Canada,city / area,4
+351,352,2,1:32:42,1900-01-01 02:54:46,"Rosemont, Montreal, Canada",Rosemont; Montreal; Canada,local,3
+352,353,2,1:32:49,1900-01-01 02:54:53,"Longueuil, Canada",Longueuil; Canada,city / area,4
+353,354,2,1:32:52,1900-01-01 02:54:56,"Longueuil, Canada",Longueuil; Canada,city / area,4
+354,355,2,1:33:11,1900-01-01 02:55:15,"Montreal, Canada",Montreal; Canada,city / area,4
+355,356,2,1:33:34,1900-01-01 02:55:38,"Montreal, Canada",Montreal; Canada,city / area,4
+356,357,2,1:33:41,1900-01-01 02:55:45,"Longueuil, Canada",Longueuil; Canada,city / area,4
+357,358,2,1:33:42,1900-01-01 02:55:46,"Saint-Hubert, Canada",Saint-Hubert; Canada,city / area,4
+358,359,2,1:33:48,1900-01-01 02:55:52,"Montreal, Canada",Montreal; Canada,city / area,4
+359,360,2,1:38:37,1900-01-01 03:00:41,"CIDIHCA, Montreal, Canada",CIDIHCA; Montreal; Canada,very local,2
+360,361,2,1:39:50,1900-01-01 03:01:54,"Outremont, Montreal, Canada",Outremont; Montreal; Canada,local,3
+361,362,2,1:40:00,1900-01-01 03:02:04,"Outremont, Montreal, Canada",Outremont; Montreal; Canada,local,3
+362,363,2,1:40:00,1900-01-01 03:02:04,"Outremont, Montreal, Canada",Villeray; Montreal; Canada,local,3
+363,364,2,1:40:00,1900-01-01 03:02:04,"Outremont, Montreal, Canada",Outremont; Montreal; Canada,local,3
+364,365,2,1:40:17,1900-01-01 03:02:21,"Rosemont, Montreal, Canada",Rosemont; Montreal; Canada,local,3
+365,366,2,1:40:19,1900-01-01 03:02:23,"Rosemont, Montreal, Canada",Rosemont; Montreal; Canada,local,3
+366,367,2,1:41:00,1900-01-01 03:03:04,Haiti,Haiti,country,6
+367,368,2,1:41:01,1900-01-01 03:03:05,"Montreal, Canada",Montreal; Canada,city / area,4
+368,369,2,1:41:02,1900-01-01 03:03:06,"Quebec, Canada",Quebec; Canada,region,5
+369,370,2,1:41:12,1900-01-01 03:03:16,Haiti,Haiti,country,6
+370,371,2,1:41:14,1900-01-01 03:03:18,"Quebec, Canada",Quebec; Canada,region,5
+371,372,2,1:41:24,1900-01-01 03:03:28,Haiti,Haiti,country,6
+372,373,2,1:41:27,1900-01-01 03:03:31,Haiti,Haiti,country,6
+373,374,2,1:41:32,1900-01-01 03:03:36,"Quebec, Canada",Quebec; Canada,region,5
+374,375,2,1:42:07,1900-01-01 03:04:11,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,4
+375,376,2,1:42:12,1900-01-01 03:04:16,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+376,377,2,1:42:14,1900-01-01 03:04:18,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+377,378,2,1:42:35,1900-01-01 03:04:39,"Gonaives, Haiti",Gonaives; Haiti,city / area,4
+378,379,2,1:43:03,1900-01-01 03:05:07,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,4
+379,380,2,1:43:05,1900-01-01 03:05:09,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,4
+380,381,2,1:43:40,1900-01-01 03:05:44,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,4
+381,382,2,1:45:20,1900-01-01 03:07:24,Haiti,Haiti,country,6
+382,383,2,1:45:42,1900-01-01 03:07:46,Haiti,Haiti,country,6
+383,384,2,1:46:20,1900-01-01 03:08:24,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,4
+384,385,2,1:46:23,1900-01-01 03:08:27,"Jacmel, Haiti",Jacmel; Haiti,city / area,4
+385,386,2,1:46:33,1900-01-01 03:08:37,"Cap-Haitien, Haiti",Cap-Haitien; Haiti,city / area,4
+386,387,2,1:47:05,1900-01-01 03:09:09,Haiti,Haiti,country,6
+387,388,2,1:47:13,1900-01-01 03:09:17,Haiti,Haiti,country,6
+388,389,2,1:50:21,1900-01-01 03:12:25,Haiti,Haiti,country,6
+389,390,2,1:52:21,1900-01-01 03:14:25,Afgahnistan,Afgahnistan,country,6
+390,391,2,1:54:18,1900-01-01 03:16:22,Haiti,Haiti,country,6
+391,392,2,1:55:01,1900-01-01 03:17:05,France,France,country,6
+392,393,2,1:56:17,1900-01-01 03:18:21,France,France,country,6
+393,394,2,1:56:24,1900-01-01 03:18:28,Haiti,Haiti,country,6
+394,395,2,1:56:32,1900-01-01 03:18:36,France,France,country,6
+395,396,2,1:57:20,1900-01-01 03:19:24,Haiti,Haiti,country,6
+396,397,2,1:57:30,1900-01-01 03:19:34,Haiti,Haiti,country,6

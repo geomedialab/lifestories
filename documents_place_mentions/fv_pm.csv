@@ -23,7 +23,7 @@ id,Session #,Clip Time mentioned (h:mm:ss),Cumulative Time Mentioned (h:mm:ss),A
 22,1,0:02:51,0:02:51,Mexico,Mexico,country
 23,1,0:02:52,0:02:52,Haiti,Haiti,country
 24,1,0:03:00,0:03:00,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area
-25,1,0:03:01,0:03:01,"Petit-Goâve, Haiti",Petit-Goâve; Haiti,city / area
+25,1,0:03:01,0:03:01,"Petit-Goâve, Haiti",Petit-Goâve; Haiti,local
 26,1,0:03:09,0:03:09,Haiti,Haiti,country
 27,1,0:03:16,0:03:16,Canada,Canada,country
 28,1,0:03:20,0:03:20,"Montreal, Canada",Montreal; Canada,city / area
@@ -202,7 +202,7 @@ id,Session #,Clip Time mentioned (h:mm:ss),Cumulative Time Mentioned (h:mm:ss),A
 201,2,0:09:26,1:01:51,"New York City, USA",New York City; USA,city / area
 202,2,0:09:28,1:01:53,"Miami, USA",Miami; USA,city / area
 203,2,0:09:33,1:01:58,Haiti,Haiti,country
-204,2,0:10:15,1:02:40,"Petit-Goâve, Haiti",Petit-Goâve; Haiti,country
+204,2,0:10:15,1:02:40,"Petit-Goâve, Haiti",Petit-Goâve; Haiti,local
 205,2,0:12:20,1:04:45,"Quebec, Canada",Quebec; Canada,region
 206,2,0:12:28,1:04:53,Canada,Canada,country
 207,2,0:13:36,1:06:01,"Pénitentier National, Port-au-Prince, Haiti",Pénitentier National; Port-au-Prince; Haiti,very local
@@ -273,11 +273,11 @@ id,Session #,Clip Time mentioned (h:mm:ss),Cumulative Time Mentioned (h:mm:ss),A
 272,3,0:05:02,1:35:19,Europe,Europe,continent
 273,3,0:05:28,1:35:45,The Vatican,The Vatican,country
 274,3,0:06:42,1:36:59,"Province, Haiti",Province; Haiti,city / area
-275,3,0:06:45,1:37:02,"Aquin, Haiti",Aquin; Haiti,city / area
+275,3,0:06:45,1:37:02,"Aquin, Haiti",Aquin; Haiti,local
 276,3,0:07:08,1:37:25,"Province, Haiti",Province; Haiti,city / area
 277,3,0:07:33,1:37:50,Guadeloupe,Guadeloupe,country
 278,3,0:07:33,1:37:50,Guadeloupe,Martinique,country
-279,3,0:08:31,1:38:48,"Aquin, Haiti",Aquin; Haiti,city / area
+279,3,0:08:31,1:38:48,"Aquin, Haiti",Aquin; Haiti,local
 280,3,0:08:40,1:38:57,"Province, Haiti",Province; Haiti,city / area
 281,3,0:09:43,1:40:00,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area
 282,3,0:09:45,1:40:02,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area

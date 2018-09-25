@@ -1,0 +1,191 @@
+,id,session_num,time_clip,time,place,place_raw,scale,scale_order
+0,1,1,0:00:33,1900-01-01 00:00:33,Rwanda,Rwanda,country,6
+1,2,1,0:03:12,1900-01-01 00:03:12,Rwanda,Rwanda,country,6
+2,3,1,0:03:17,1900-01-01 00:03:17,"Gitarama, Rwanda",Gitarama; Rwanda,city / area,4
+3,4,1,0:04:18,1900-01-01 00:04:18,"Nyanza, Rwanda",Nyanza; Rwanda,local,3
+4,5,1,0:04:22,1900-01-01 00:04:22,"Nyanza, Rwanda",Nyanza; Rwanda,local,3
+5,6,1,0:04:38,1900-01-01 00:04:38,"Gikongoro, Rwanda",Gikongoro; Rwanda,city / area,4
+6,7,1,0:05:30,1900-01-01 00:05:30,"Nyanza, Rwanda",Nyanza; Rwanda,local,3
+7,8,1,0:05:44,1900-01-01 00:05:44,"Gitarama, Rwanda",Gitarama; Rwanda,city / area,4
+8,9,1,0:06:32,1900-01-01 00:06:32,Rwanda,Rwanda,country,6
+9,10,1,0:06:42,1900-01-01 00:06:42,Democratic Republic of Congo,Democratic Republic of Congo,country,6
+10,11,1,0:06:48,1900-01-01 00:06:48,Democratic Republic of Congo,Democratic Republic of Congo,country,6
+11,12,1,0:06:49,1900-01-01 00:06:49,Democratic Republic of Congo,Democratic Republic of Congo,country,6
+12,13,1,0:08:51,1900-01-01 00:08:51,"Butare, Rwanda",Butare; Rwanda,city / area,4
+13,14,1,0:08:55,1900-01-01 00:08:55,"Butare, Rwanda",Butare; Rwanda,city / area,4
+14,15,1,0:08:56,1900-01-01 00:08:56,"Butare, Rwanda",Butare; Rwanda,city / area,4
+15,16,1,0:13:27,1900-01-01 00:13:27,Rwanda,Rwanda,country,6
+16,17,1,0:13:50,1900-01-01 00:13:50,"Nyagatare, Rwanda",Nyagatare; Rwanda,local,3
+17,18,1,0:14:01,1900-01-01 00:14:01,Rwanda,Rwanda,country,6
+18,19,1,0:14:10,1900-01-01 00:14:10,Rwanda,Rwanda,country,6
+19,20,1,0:14:52,1900-01-01 00:14:52,Uganda,Uganda,country,6
+20,21,1,0:14:58,1900-01-01 00:14:58,Rwanda,Rwanda,country,6
+21,22,1,0:15:07,1900-01-01 00:15:07,"Tumba, Rwanda",Tumba; Rwanda,local,3
+22,23,1,0:15:25,1900-01-01 00:15:25,"Tumba, Rwanda",Tumba; Rwanda,local,3
+23,24,1,0:17:26,1900-01-01 00:17:26,"Byumba, Rwanda",Byumba; Rwanda,city / area,4
+24,25,1,0:19:24,1900-01-01 00:19:24,"Byumba, Rwanda",Byumba; Rwanda,city / area,4
+25,26,1,0:19:26,1900-01-01 00:19:26,"Nyanza, Rwanda",Nyanza; Rwanda,local,3
+26,27,1,0:23:20,1900-01-01 00:23:20,"Butare, Rwanda",Butare; Rwanda,city / area,4
+27,28,1,0:28:03,1900-01-01 00:28:03,Rwanda,Rwanda,country,6
+28,29,1,0:28:08,1900-01-01 00:28:08,Rwanda,Rwanda,country,6
+29,30,1,0:30:48,1900-01-01 00:30:48,Rwanda,Rwanda,country,6
+30,31,1,0:30:49,1900-01-01 00:30:49,Burundi,Burundi,country,6
+31,32,1,0:30:51,1900-01-01 00:30:51,Rwanda,Rwanda,country,6
+32,33,1,0:30:52,1900-01-01 00:30:52,Burundi,Burundi,country,6
+33,34,1,0:34:25,1900-01-01 00:34:25,Rwanda,Rwanda,country,6
+34,35,1,0:34:35,1900-01-01 00:34:35,Burundi,Burundi,country,6
+35,36,1,0:35:52,1900-01-01 00:35:52,Rwanda,Rwanda,country,6
+36,37,1,0:36:21,1900-01-01 00:36:21,"Nyanza, Rwanda",Nyanza; Rwanda,local,3
+37,38,1,0:36:43,1900-01-01 00:36:43,"Nyanza, Rwanda",Nyanza; Rwanda,local,3
+38,39,1,0:36:53,1900-01-01 00:36:53,"Nyanza, Rwanda",Nyanza; Rwanda,local,3
+39,40,1,0:36:57,1900-01-01 00:36:57,"Nyanza, Rwanda",Nyanza; Rwanda,local,3
+40,41,1,0:37:16,1900-01-01 00:37:16,"Nyanza, Rwanda",Nyanza; Rwanda,local,3
+41,42,1,0:39:15,1900-01-01 00:39:15,Burundi,Burundi,country,6
+42,43,1,0:55:40,1900-01-01 00:55:40,Burundi,Burundi,country,6
+43,44,1,0:56:23,1900-01-01 00:56:23,Democratic Republic of Congo,Democratic Republic of Congo,country,6
+44,45,1,0:56:57,1900-01-01 00:56:57,Democratic Republic of Congo,Democratic Republic of Congo,country,6
+45,46,1,0:56:59,1900-01-01 00:56:59,Democratic Republic of Congo,Democratic Republic of Congo,country,6
+46,47,1,0:57:21,1900-01-01 00:57:21,Democratic Republic of Congo,Democratic Republic of Congo,country,6
+47,48,1,0:57:30,1900-01-01 00:57:30,Germany,Germany,country,6
+48,49,1,0:57:34,1900-01-01 00:57:34,Belgium,Belgium,country,6
+49,50,1,0:59:53,1900-01-01 00:59:53,Burundi,Burundi,country,6
+50,51,1,1:00:27,1900-01-01 01:00:27,Russia,Russia,country,6
+51,52,1,1:00:30,1900-01-01 01:00:30,Burundi,Burundi,country,6
+52,53,1,1:00:58,1900-01-01 01:00:58,"Kigali, Rwanda",Kigali; Rwanda,city / area,4
+53,54,1,1:02:42,1900-01-01 01:02:42,Russia,Russia,country,6
+54,55,1,1:09:14,1900-01-01 01:09:14,"Kigali, Rwanda",Kigali; Rwanda,city / area,4
+55,56,1,1:09:15,1900-01-01 01:09:15,"Butare, Rwanda",Butare; Rwanda,city / area,4
+56,57,1,1:09:23,1900-01-01 01:09:23,"Kigali, Rwanda",Kigali; Rwanda,city / area,4
+57,58,1,1:09:24,1900-01-01 01:09:24,"Butare, Rwanda",Butare; Rwanda,city / area,4
+58,59,1,1:14:14,1900-01-01 01:14:14,Germany,Germany,country,6
+59,60,1,1:14:17,1900-01-01 01:14:17,Germany,Germany,country,6
+60,61,1,1:14:20,1900-01-01 01:14:20,Democratic Republic of Congo,Democratic Republic of Congo,country,6
+61,62,1,1:14:22,1900-01-01 01:14:22,Burundi,Burundi,country,6
+62,63,1,1:14:36,1900-01-01 01:14:36,Germany,Germany,country,6
+63,64,2,0:00:13,1900-01-01 01:15:30,"Montreal, Canada",Montreal; Qc,city / area,4
+64,65,2,0:00:21,1900-01-01 01:15:38,Rwanda,Rwanda,country,6
+65,66,2,0:00:35,1900-01-01 01:15:52,Rwanda,Rwanda,country,6
+66,67,2,0:01:58,1900-01-01 01:17:15,Rwanda,Rwanda,country,6
+67,68,2,0:02:01,1900-01-01 01:17:18,"Gisenyi, Rwanda",Gisenyi; Rwanda,city / area,4
+68,69,2,0:02:03,1900-01-01 01:17:20,"Bralirwa, Gisenyi, Rwanda",Bralirwa; Gisenyi; Rwanda,very local,2
+69,70,2,0:02:20,1900-01-01 01:17:37,"Gisenyi, Rwanda",Gisenyi; Rwanda,city / area,4
+70,71,2,0:02:24,1900-01-01 01:17:41,"Kigali, Rwanda",Kigali; Rwanda,city / area,4
+71,72,2,0:02:48,1900-01-01 01:18:05,"Gisenyi, Rwanda",Gisenyi; Rwanda,city / area,4
+72,73,2,0:03:11,1900-01-01 01:18:28,"Gisenyi, Rwanda",Gisenyi; Rwanda,city / area,4
+73,74,2,0:03:15,1900-01-01 01:18:32,"Gisenyi, Rwanda",Gisenyi; Rwanda,city / area,4
+74,75,2,0:03:27,1900-01-01 01:18:44,Democratic Republic of Congo,Democratic Republic of Congo,country,6
+75,76,2,0:04:07,1900-01-01 01:19:24,Rwanda,Rwanda,country,6
+76,77,2,0:04:14,1900-01-01 01:19:31,Rwanda,Rwanda,country,6
+77,78,2,0:04:36,1900-01-01 01:19:53,"Goma, Democratic Republic of Congo",Goma; Democratic Republic of Congo,city / area,4
+78,79,2,0:04:39,1900-01-01 01:19:56,"Goma, Democratic Republic of Congo",Goma; Democratic Republic of Congo,city / area,4
+79,80,2,0:05:55,1900-01-01 01:21:12,Rwanda,Rwanda,country,6
+80,81,2,0:06:19,1900-01-01 01:21:36,"Goma, Democratic Republic of Congo",Goma; Democratic Republic of Congo,city / area,4
+81,82,2,0:06:30,1900-01-01 01:21:47,Democratic Republic of Congo,Democratic Republic of Congo,country,6
+82,83,2,0:06:36,1900-01-01 01:21:53,"Bujumbura, Burundi",Bujumbura; Burundi,city / area,4
+83,84,2,0:06:39,1900-01-01 01:21:56,Burundi,Burundi,country,6
+84,85,2,0:06:52,1900-01-01 01:22:09,"Bukavu, Democratic Republic of Congo",Bukavu; Democratic Republic of Congo,city / area,4
+85,86,2,0:06:59,1900-01-01 01:22:16,"Bujumbura, Burundi",Bujumbura; Burundi,city / area,4
+86,87,2,0:07:15,1900-01-01 01:22:32,"Goma, Democratic Republic of Congo",Goma; Democratic Republic of Congo,city / area,4
+87,88,2,0:07:17,1900-01-01 01:22:34,"Bukavu, Democratic Republic of Congo",Bukavu; Democratic Republic of Congo,city / area,4
+88,89,2,0:07:28,1900-01-01 01:22:45,"Bujumbura, Burundi",Bujumbura; Burundi,city / area,4
+89,90,2,0:07:37,1900-01-01 01:22:54,Burundi,Burundi,country,6
+90,91,2,0:08:33,1900-01-01 01:23:50,Germany,Germany,country,6
+91,92,2,0:08:47,1900-01-01 01:24:04,Burundi,Burundi,country,6
+92,93,2,0:08:53,1900-01-01 01:24:10,Germany,Germany,country,6
+93,94,2,0:08:55,1900-01-01 01:24:12,Burundi,Burundi,country,6
+94,95,2,0:09:03,1900-01-01 01:24:20,Burundi,Burundi,country,6
+95,96,2,0:09:29,1900-01-01 01:24:46,"Bujumbura, Burundi",Bujumbura; Burundi,city / area,4
+96,97,2,0:09:31,1900-01-01 01:24:48,"Brussels, Belgium",Brussels; Belgium,city / area,4
+97,98,2,0:09:32,1900-01-01 01:24:49,"Brussels, Belgium",Brussels; Belgium,city / area,4
+98,99,2,0:09:33,1900-01-01 01:24:50,"Cologne, Germany",Cologne; Germany,city / area,4
+99,100,2,0:09:49,1900-01-01 01:25:06,Germany,Germany,country,6
+100,101,2,0:10:38,1900-01-01 01:25:55,Germany,Germany,country,6
+101,102,2,0:11:51,1900-01-01 01:27:08,"Nuremberg, Germany",Nuremberg; Germany,city / area,4
+102,103,2,0:12:14,1900-01-01 01:27:31,Rwanda,Rwanda,country,6
+103,104,2,0:12:15,1900-01-01 01:27:32,Germany,Germany,country,6
+104,105,2,0:12:21,1900-01-01 01:27:38,Rwanda,Rwanda,country,6
+105,106,2,0:12:24,1900-01-01 01:27:41,Germany,Germany,country,6
+106,107,2,0:13:41,1900-01-01 01:28:58,Germany,Germany,country,6
+107,108,2,0:14:09,1900-01-01 01:29:26,Germany,Germany,country,6
+108,109,2,0:14:50,1900-01-01 01:30:07,Burundi,Burundi,country,6
+109,110,2,0:18:23,1900-01-01 01:33:40,Rwanda,Rwanda,country,6
+110,111,2,0:18:41,1900-01-01 01:33:58,Germany,Germany,country,6
+111,112,2,0:18:48,1900-01-01 01:34:05,Belgium,Belgium,country,6
+112,113,2,0:18:51,1900-01-01 01:34:08,Canada,Canada,country,6
+113,114,2,0:18:53,1900-01-01 01:34:10,Germany,Germany,country,6
+114,115,2,0:19:27,1900-01-01 01:34:44,Rwanda,Rwanda,country,6
+115,116,2,0:19:38,1900-01-01 01:34:55,Rwanda,Rwanda,country,6
+116,117,2,0:20:08,1900-01-01 01:35:25,Canada,Canada,country,6
+117,118,2,0:20:12,1900-01-01 01:35:29,Rwanda,Rwanda,country,6
+118,119,2,0:20:18,1900-01-01 01:35:35,Democratic Republic of Congo,Democratic Republic of Congo,country,6
+119,120,2,0:20:27,1900-01-01 01:35:44,Germany,Germany,country,6
+120,121,2,0:21:19,1900-01-01 01:36:36,Canada,Canada,country,6
+121,122,2,0:21:24,1900-01-01 01:36:41,Canada,Canada,country,6
+122,123,2,0:22:27,1900-01-01 01:37:44,Canada,Canada,country,6
+123,124,2,0:23:29,1900-01-01 01:38:46,Canada,Canada,country,6
+124,125,2,0:23:31,1900-01-01 01:38:48,Germany,Germany,country,6
+125,126,2,0:23:32,1900-01-01 01:38:49,Canada,Canada,country,6
+126,127,2,0:23:49,1900-01-01 01:39:06,"Dorval, Montreal, Canada",Dorval; Montreal; Qc,local,3
+127,128,2,0:23:57,1900-01-01 01:39:14,"New York, USA", New York; USA,city / area,4
+128,129,2,0:23:58,1900-01-01 01:39:15,"Dorval, Montreal, Canada",Dorval; Montreal; Qc,local,3
+129,130,2,0:24:06,1900-01-01 01:39:23,"Ste-Anne-de-la-Pérade, Canada",Ste-Anne-de-la-Pérade; Quebec,local,3
+130,131,2,0:24:08,1900-01-01 01:39:25,"Ste-Anne-de-la-Pérade, Canada",Ste-Anne-de-la-Pérade; Quebec,local,3
+131,132,2,0:24:11,1900-01-01 01:39:28,"Trois-Rivières, Canada",Trois-Rivières; Quebec,city / area,4
+132,133,2,0:24:54,1900-01-01 01:40:11,"Mirabel, Canada",Mirabel; Quebec,city / area,4
+133,134,2,0:24:55,1900-01-01 01:40:12,"Mirabel, Canada",Mirabel; Quebec,city / area,4
+134,135,2,0:24:58,1900-01-01 01:40:15,"Mirabel, Canada",Mirabel; Quebec,city / area,4
+135,136,2,0:25:01,1900-01-01 01:40:18,"Mirabel, Canada",Mirabel; Quebec,city / area,4
+136,137,2,0:25:04,1900-01-01 01:40:21,"Mirabel, Canada",Mirabel; Quebec,city / area,4
+137,138,2,0:25:06,1900-01-01 01:40:23,"Mirabel, Canada",Mirabel; Quebec,city / area,4
+138,139,2,0:25:25,1900-01-01 01:40:42,"Florida, USA",Florida; US,region,5
+139,140,2,0:25:31,1900-01-01 01:40:48,"Ste-Anne-de-la-Pérade, Canada",Ste-Anne-de-la-Pérade; Quebec,local,3
+140,141,2,0:25:40,1900-01-01 01:40:57,"Trois-Rivières, Canada",Trois-Rivières; Quebec,city / area,4
+141,142,2,0:25:48,1900-01-01 01:41:05,"Trois-Rivières, Canada",Trois-Rivières; Quebec,city / area,4
+142,143,2,0:25:50,1900-01-01 01:41:07,"Trois-Rivières, Canada",Trois-Rivières; Quebec,city / area,4
+143,144,2,0:25:52,1900-01-01 01:41:09,"Ste-Anne-de-la-Pérade, Canada",Ste-Anne-de-la-Pérade; Quebec,local,3
+144,145,2,0:25:59,1900-01-01 01:41:16,"Michaël Rossy Ltée, Trois-Rivières, Canada",Michaël Rossy Ltée; Trois-Rivières; Quebec,very local,2
+145,146,2,0:26:01,1900-01-01 01:41:18,"Michaël Rossy Ltée, Trois-Rivières, Canada",Michaël Rossy Ltée; Trois-Rivières; Quebec,very local,2
+146,147,2,0:26:02,1900-01-01 01:41:19,"Michaël Rossy Ltée, Trois-Rivières, Canada",Michaël Rossy Ltée; Trois-Rivières; Quebec,very local,2
+147,148,2,0:28:17,1900-01-01 01:43:34,Canada,Canada,country,6
+148,149,2,0:28:59,1900-01-01 01:44:16,Germany,Germany,country,6
+149,150,2,0:29:03,1900-01-01 01:44:20,Germany,Germany,country,6
+150,151,2,0:30:03,1900-01-01 01:45:20,"Montreal, Canada",Montreal; Qc,city / area,4
+151,152,2,0:30:05,1900-01-01 01:45:22,"Montreal, Canada",Montreal; Qc,city / area,4
+152,153,2,0:31:34,1900-01-01 01:46:51,"Outremont, Montreal, Canada",Outremont; Montreal; Qc,local,3
+153,154,2,0:33:04,1900-01-01 01:48:21,Germany,Germany,country,6
+154,155,2,0:34:00,1900-01-01 01:49:17,Africa,Africa,continent,7
+155,156,2,0:34:05,1900-01-01 01:49:22,"CECI, Montreal, Canada",CECI; Montreal; Qc,very local,2
+156,157,2,0:34:11,1900-01-01 01:49:28,Africa,Africa,continent,7
+157,158,2,0:35:55,1900-01-01 01:51:12,Rwanda,Rwanda,country,6
+158,159,2,0:36:11,1900-01-01 01:51:28,Rwanda,Rwanda,country,6
+159,160,2,0:36:18,1900-01-01 01:51:35,"Quebec, Canada",Quebec; Canada,region,5
+160,161,2,0:36:59,1900-01-01 01:52:16,Rwanda,Rwanda,country,6
+161,162,2,0:37:04,1900-01-01 01:52:21,Rwanda,Rwanda,country,6
+162,163,2,0:37:13,1900-01-01 01:52:30,Rwanda,Rwanda,country,6
+163,164,2,0:37:27,1900-01-01 01:52:44,Rwanda,Rwanda,country,6
+164,165,2,0:37:43,1900-01-01 01:53:00,Rwanda,Rwanda,country,6
+165,166,2,0:41:48,1900-01-01 01:57:05,Rwanda,Rwanda,country,6
+166,167,2,0:43:08,1900-01-01 01:58:25,Rwanda,Rwanda,country,6
+167,168,2,0:45:20,1900-01-01 02:00:37,Rwanda,Rwanda,country,6
+168,169,2,0:45:22,1900-01-01 02:00:39,Germany,Germany,country,6
+169,170,2,0:46:18,1900-01-01 02:01:35,"Montreal, Canada",Montreal; Qc,city / area,4
+170,171,2,0:47:00,1900-01-01 02:02:17,France,France,country,6
+171,172,2,0:47:21,1900-01-01 02:02:38,"Montreal, Canada",Montreal; Qc,city / area,4
+172,173,2,0:47:42,1900-01-01 02:02:59,Africa,Africa,continent,7
+173,174,2,0:48:04,1900-01-01 02:03:21,Africa,Africa,continent,7
+174,175,2,0:50:00,1900-01-01 02:05:17,"Montreal, Canada",Montreal; Qc,city / area,4
+175,176,2,0:50:17,1900-01-01 02:05:34,Africa,Africa,continent,7
+176,177,2,0:50:21,1900-01-01 02:05:38,Africa,Africa,continent,7
+177,178,2,0:50:30,1900-01-01 02:05:47,Canada,Canada,country,6
+178,179,2,0:50:37,1900-01-01 02:05:54,Canada,Canada,country,6
+179,180,2,0:53:18,1900-01-01 02:08:35,Egypt,Egypte,country,6
+180,181,2,0:53:22,1900-01-01 02:08:39,Rwanda,Rwanda,country,6
+181,182,2,0:53:37,1900-01-01 02:08:54,Rwanda,Rwanda,country,6
+182,183,2,0:53:38,1900-01-01 02:08:55,Rwanda,Rwanda,country,6
+183,184,2,0:53:41,1900-01-01 02:08:58,Rwanda,Rwanda,country,6
+184,185,2,0:59:52,1900-01-01 02:15:09,"Montreal, Canada",Montreal; Qc,city / area,4
+185,186,2,1:02:04,1900-01-01 02:17:21,Rwanda,Rwanda,country,6
+186,187,2,1:05:54,1900-01-01 02:21:11,Rwanda,Rwanda,country,6
+187,188,2,1:08:08,1900-01-01 02:23:25,Rwanda,Rwanda,country,6
+188,189,2,1:11:11,1900-01-01 02:26:28,Rwanda,Rwanda,country,6
+189,190,2,1:12:43,1900-01-01 02:28:00,Rwanda,Rwanda,country,6

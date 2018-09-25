@@ -1,0 +1,279 @@
+,id,session_num,time_clip,time,place,place_raw,scale,scale_order
+0,1,0.0,0.0,1900-01-01 00:08:25,"Bujumbura, Burundi","Bujumbura, Burundi",city / area,4
+1,2,null,null,1900-01-01 00:12:53,Rwanda,Rwanda,country,6
+2,3,null,null,1900-01-01 00:13:42,"Nyanza, Rwanda","Nyanza, Rwanda",local,3
+3,4,null,null,1900-01-01 00:13:49,"Nyanza, Rwanda","Nyanza, Rwanda",local,3
+4,5,null,null,1900-01-01 00:16:36,"Kaduha, Rwanda","Kaduha, Rwanda",local,3
+5,6,null,null,1900-01-01 00:16:40,"Nyanza, Rwanda","Nyanza, Rwanda",local,3
+6,7,null,null,1900-01-01 00:18:04,Rwanda,Rwanda,country,6
+7,8,null,null,1900-01-01 00:20:47,"Kigali, Rwanda","Kigali, Rwanda",city / area,4
+8,9,null,null,1900-01-01 00:21:18,"Nyamata, Rwanda","Nyamata, Rwanda",local,3
+9,10,null,null,1900-01-01 00:21:54,Rwanda,Rwanda,country,6
+10,11,null,null,1900-01-01 00:22:42,"Kigali, Rwanda","Kigali, Rwanda",city / area,4
+11,12,null,null,1900-01-01 00:23:11,"Goma, Democratic Republic of Congo","Goma, Democratic Republic of Congo",city / area,4
+12,13,null,null,1900-01-01 00:23:16,"Goma, Democratic Republic of Congo","Goma, Democratic Republic of Congo",city / area,4
+13,14,null,null,1900-01-01 00:23:25,"Bujumbura, Burundi","Bujumbura, Burundi",city / area,4
+14,15,null,null,1900-01-01 00:23:38,"Butare, Rwanda","Butare, Rwanda",city / area,4
+15,16,null,null,1900-01-01 00:23:42,Burundi,Burundi,country,6
+16,17,null,null,1900-01-01 00:23:50,"Butare, Rwanda","Butare, Rwanda",city / area,4
+17,18,null,null,1900-01-01 00:23:52,"Kigali, Rwanda","Kigali, Rwanda",city / area,4
+18,19,null,null,1900-01-01 00:24:11,"Gitarama, Rwanda","Gitarama, Rwanda",local,3
+19,20,null,null,1900-01-01 00:24:12,"Gitarama, Rwanda","Gitarama, Rwanda",local,3
+20,21,null,null,1900-01-01 00:24:13,"Kibuye, Rwanda","Kibuye, Rwanda",local,3
+21,22,null,null,1900-01-01 00:24:14,"Kibuye, Rwanda","Kibuye, Rwanda",local,3
+22,23,null,null,1900-01-01 00:24:15,"Gisenyi, Rwanda","Gisenyi, Rwanda",city / area,4
+23,24,null,null,1900-01-01 00:24:20,"Gisenyi, Rwanda","Gisenyi, Rwanda",city / area,4
+24,25,null,null,1900-01-01 00:24:23,"Goma, Democratic Republic of Congo","Goma, Democratic Republic of Congo",city / area,4
+25,26,null,null,1900-01-01 00:24:25,"Goma, Democratic Republic of Congo","Goma, Democratic Republic of Congo",city / area,4
+26,27,null,null,1900-01-01 00:24:36,"Goma, Democratic Republic of Congo","Goma, Democratic Republic of Congo",city / area,4
+27,28,null,null,1900-01-01 00:24:39,Rwanda,Rwanda,country,6
+28,29,null,null,1900-01-01 00:24:44,Rwanda,Rwanda,country,6
+29,30,null,null,1900-01-01 00:24:52,Burundi,Burundi,country,6
+30,31,null,null,1900-01-01 00:25:07,Burundi,Burundi,country,6
+31,32,null,null,1900-01-01 00:25:19,"Goma, Democratic Republic of Congo","Goma, Democratic Republic of Congo",city / area,4
+32,33,null,null,1900-01-01 00:25:36,"Bujumbura, Burundi","Bujumbura, Burundi",city / area,4
+33,34,null,null,1900-01-01 00:27:02,"Bujumbura, Burundi","Bujumbura, Burundi",city / area,4
+34,35,null,null,1900-01-01 00:27:49,Burundi,Burundi,country,6
+35,36,null,null,1900-01-01 00:29:00,"Metalusa, Bujumbura, Burundi","Metalusa, Bujumbura, Burundi",very local,2
+36,37,null,null,1900-01-01 00:29:09,Burundi,Burundi,country,6
+37,38,null,null,1900-01-01 00:30:14,Burundi,Burundi,country,6
+38,39,null,null,1900-01-01 00:31:03,Burundi,Burundi,country,6
+39,40,null,null,1900-01-01 00:31:10,Burundi,Burundi,country,6
+40,41,null,null,1900-01-01 00:31:11,Rwanda,Rwanda,country,6
+41,42,null,null,1900-01-01 00:31:25,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area,4
+42,43,null,null,1900-01-01 00:31:27,"Bujumbura, Burundi","Bujumbura, Burundi",city / area,4
+43,44,null,null,1900-01-01 00:31:34,Democratic Republic of Congo,Democratic Republic of Congo,country,6
+44,45,null,null,1900-01-01 00:31:45,Democratic Republic of Congo,Democratic Republic of Congo,country,6
+45,46,null,null,1900-01-01 00:32:03,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area,4
+46,47,null,null,1900-01-01 00:32:05,Burundi,Burundi,country,6
+47,48,null,null,1900-01-01 00:32:30,Democratic Republic of Congo,Democratic Republic of Congo,country,6
+48,49,null,null,1900-01-01 00:32:31,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area,4
+49,50,null,null,1900-01-01 00:33:08,"Cyangugu, Rwanda","Cyangugu, Rwanda",local,3
+50,51,null,null,1900-01-01 00:33:12,"Goma, Democratic Republic of Congo","Goma, Democratic Republic of Congo",city / area,4
+51,52,null,null,1900-01-01 00:33:21,"Gisenyi, Rwanda","Gisenyi, Rwanda",city / area,4
+52,53,null,null,1900-01-01 00:33:22,"Kigali, Rwanda","Kigali, Rwanda",city / area,4
+53,54,null,null,1900-01-01 00:33:23,"Kigali, Rwanda","Kigali, Rwanda",city / area,4
+54,55,null,null,1900-01-01 00:33:25,"Nyamata, Rwanda","Nyamata, Rwanda",local,3
+55,56,null,null,1900-01-01 00:33:49,"Nyamata, Rwanda","Nyamata, Rwanda",local,3
+56,57,null,null,1900-01-01 00:33:59,"Nyamata, Rwanda","Nyamata, Rwanda",local,3
+57,58,null,null,1900-01-01 00:34:04,Rwanda,Rwanda,country,6
+58,59,null,null,1900-01-01 00:34:17,Burundi,Burundi,country,6
+59,60,null,null,1900-01-01 00:34:56,Burundi,Burundi,country,6
+60,61,null,null,1900-01-01 00:34:57,Democratic Republic of Congo,Democratic Republic of Congo,country,6
+61,62,null,null,1900-01-01 00:34:58,Democratic Republic of Congo,Democratic Republic of Congo,country,6
+62,63,null,null,1900-01-01 00:36:51,Burundi,Burundi,country,6
+63,64,null,null,1900-01-01 00:37:00,Democratic Republic of Congo,Democratic Republic of Congo,country,6
+64,65,null,null,1900-01-01 00:41:25,Democratic Republic of Congo,Democratic Republic of Congo,country,6
+65,66,null,null,1900-01-01 00:41:26,Democratic Republic of Congo,Democratic Republic of Congo,country,6
+66,67,null,null,1900-01-01 00:41:27,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area,4
+67,68,null,null,1900-01-01 00:45:49,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area,4
+68,69,null,null,1900-01-01 00:45:58,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area,4
+69,70,null,null,1900-01-01 00:46:19,Democratic Republic of Congo,Democratic Republic of Congo,country,6
+70,71,null,null,1900-01-01 00:47:42,Rwanda,Rwanda,country,6
+71,72,null,null,1900-01-01 00:47:50,Democratic Republic of Congo,Democratic Republic of Congo,country,6
+72,73,null,null,1900-01-01 00:47:58,African Great Lakes,African Great Lakes,region,5
+73,74,null,null,1900-01-01 00:48:09,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area,4
+74,75,null,null,1900-01-01 00:48:30,Burundi,Burundi,country,6
+75,76,null,null,1900-01-01 00:48:34,"Bujumbura, Burundi","Bujumbura, Burundi",city / area,4
+76,77,null,null,1900-01-01 00:48:44,"Bujumbura, Burundi","Bujumbura, Burundi",city / area,4
+77,78,null,null,1900-01-01 00:49:35,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area,4
+78,79,null,null,1900-01-01 00:50:01,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area,4
+79,80,null,null,1900-01-01 00:50:05,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area,4
+80,81,null,null,1900-01-01 00:50:09,"Bujumbura, Burundi","Bujumbura, Burundi",city / area,4
+81,82,null,null,1900-01-01 00:50:14,Rwanda,Rwanda,country,6
+82,83,null,null,1900-01-01 00:50:16,"Bugarama, Rwanda","Bugarama, Rwanda",local,3
+83,84,null,null,1900-01-01 00:50:42,Rwanda,Rwanda,country,6
+84,85,null,null,1900-01-01 00:50:54,"Bujumbura, Burundi","Bujumbura, Burundi",city / area,4
+85,86,null,null,1900-01-01 00:51:13,Rwanda,Rwanda,country,6
+86,87,null,null,1900-01-01 00:51:16,"Nyamata, Rwanda","Nyamata, Rwanda",local,3
+87,88,null,null,1900-01-01 00:51:31,"Bugesera, Rwanda","Bugesera, Rwanda",local,3
+88,89,null,null,1900-01-01 00:51:39,"Bujumbura, Burundi","Bujumbura, Burundi",city / area,4
+89,90,null,null,1900-01-01 00:51:54,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area,4
+90,91,null,null,1900-01-01 00:51:57,"Nyamata, Rwanda","Nyamata, Rwanda",local,3
+91,92,null,null,1900-01-01 00:52:29,Uganda,Uganda,country,6
+92,93,null,null,1900-01-01 00:52:39,Burundi,Burundi,country,6
+93,94,null,null,1900-01-01 00:52:44,Uganda,Uganda,country,6
+94,95,null,null,1900-01-01 00:53:09,"Cyangugu, Rwanda","Cyangugu, Rwanda",local,3
+95,96,null,null,1900-01-01 00:53:21,Rwanda,Rwanda,country,6
+96,97,null,null,1900-01-01 00:54:16,Rwanda,Rwanda,country,6
+97,98,null,null,1900-01-01 00:55:15,Democratic Republic of Congo,Democratic Republic of Congo,country,6
+98,99,null,null,1900-01-01 00:55:20,Burundi,Burundi,country,6
+99,100,null,null,1900-01-01 00:56:42,"Bujumbura, Burundi","Bujumbura, Burundi",city / area,4
+100,101,null,null,1900-01-01 00:58:30,"Bujumbura, Burundi","Bujumbura, Burundi",city / area,4
+101,102,null,null,1900-01-01 00:59:41,Democratic Republic of Congo,Democratic Republic of Congo,country,6
+102,103,null,null,1900-01-01 00:59:58,Democratic Republic of Congo,Democratic Republic of Congo,country,6
+103,104,null,null,1900-01-01 01:00:00,"Uvira, Democratic Republic of Congo","Uvira, Democratic Republic of Congo",local,3
+104,105,null,null,1900-01-01 01:00:02,Democratic Republic of Congo,Democratic Republic of Congo,country,6
+105,106,null,null,1900-01-01 01:00:06,Democratic Republic of Congo,Democratic Republic of Congo,country,6
+106,107,null,null,1900-01-01 01:00:52,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area,4
+107,108,null,null,1900-01-01 01:00:57,Burundi,Burundi,country,6
+108,109,null,null,1900-01-01 01:01:18,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area,4
+109,110,null,null,1900-01-01 01:01:42,Rwanda,Rwanda,country,6
+110,111,null,null,1900-01-01 01:02:10,France,France,country,6
+111,112,null,null,1900-01-01 01:03:20,Rwanda,Rwanda,country,6
+112,113,null,null,1900-01-01 01:04:34,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area,4
+113,114,null,null,1900-01-01 01:04:40,"Cyangugu, Rwanda","Cyangugu, Rwanda",local,3
+114,115,null,null,1900-01-01 01:04:46,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area,4
+115,116,null,null,1900-01-01 01:04:48,"Cyangugu, Rwanda","Cyangugu, Rwanda",local,3
+116,117,null,null,1900-01-01 01:04:59,Democratic Republic of Congo,Democratic Republic of Congo,country,6
+117,118,null,null,1900-01-01 01:05:08,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area,4
+118,119,null,null,1900-01-01 01:05:45,"Cyangugu, Rwanda","Cyangugu, Rwanda",local,3
+119,120,null,null,1900-01-01 01:06:31,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area,4
+120,121,null,null,1900-01-01 01:06:34,"Bujumbura, Burundi","Bujumbura, Burundi",city / area,4
+121,122,null,null,1900-01-01 01:06:38,Rwanda,Rwanda,country,6
+122,123,null,null,1900-01-01 01:06:45,Rwanda,Rwanda,country,6
+123,124,null,null,1900-01-01 01:06:52,Rwanda,Rwanda,country,6
+124,125,null,null,1900-01-01 01:07:18,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area,4
+125,126,null,null,1900-01-01 01:07:22,"Bujumbura, Burundi","Bujumbura, Burundi",city / area,4
+126,127,null,null,1900-01-01 01:07:30,"Bujumbura, Burundi","Bujumbura, Burundi",city / area,4
+127,128,null,null,1900-01-01 01:07:33,Rwanda,Rwanda,country,6
+128,129,null,null,1900-01-01 01:07:57,USA,United States,country,6
+129,130,null,null,1900-01-01 01:07:59,Canada,Canada,country,6
+130,131,null,null,1900-01-01 01:08:28,Europe,Europe,continent,7
+131,132,null,null,1900-01-01 01:08:39,Europe,Europe,continent,7
+132,133,null,null,1900-01-01 01:08:40,France,France,country,6
+133,134,null,null,1900-01-01 01:08:50,"Quebec, Canada",Quebec,region,5
+134,135,null,null,1900-01-01 01:09:18,Canada,Canada,country,6
+135,136,null,null,1900-01-01 01:09:22,USA,United States,country,6
+136,137,null,null,1900-01-01 01:09:23,Canada,Canada,country,6
+137,138,null,null,1900-01-01 01:09:35,"Bujumbura, Burundi","Bujumbura, Burundi",city / area,4
+138,139,null,null,1900-01-01 01:09:50,Rwanda,Rwanda,country,6
+139,140,null,null,1900-01-01 01:10:00,"Bujumbura, Burundi","Bujumbura, Burundi",city / area,4
+140,141,null,null,1900-01-01 01:11:44,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area,4
+141,142,null,null,1900-01-01 01:11:47,"Bujumbura, Burundi","Bujumbura, Burundi",city / area,4
+142,143,null,null,1900-01-01 01:11:50,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area,4
+143,144,null,null,1900-01-01 01:12:00,Rwanda,Rwanda,country,6
+144,145,null,null,1900-01-01 01:12:06,"Bugarama, Rwanda","Bugarama, Rwanda",local,3
+145,146,null,null,1900-01-01 01:12:27,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area,4
+146,147,null,null,1900-01-01 01:12:48,"Bugarama, Rwanda","Bugarama, Rwanda",local,3
+147,148,null,null,1900-01-01 01:12:53,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area,4
+148,149,null,null,1900-01-01 01:14:11,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area,4
+149,150,null,null,1900-01-01 01:14:28,"Bujumbura, Burundi","Bujumbura, Burundi",city / area,4
+150,151,null,null,1900-01-01 01:15:09,Yugoslavia,Yugoslavia,country,6
+151,152,null,null,1900-01-01 01:15:32,Burundi,Burundi,country,6
+152,153,null,null,1900-01-01 01:15:48,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area,4
+153,154,null,null,1900-01-01 01:16:00,Rwanda,Rwanda,country,6
+154,155,null,null,1900-01-01 01:16:25,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area,4
+155,156,null,null,1900-01-01 01:17:03,Burundi,Burundi,country,6
+156,157,null,null,1900-01-01 01:17:46,"Bujumbura, Burundi","Bujumbura, Burundi",city / area,4
+157,158,null,null,1900-01-01 01:17:47,Burundi,Burundi,country,6
+158,159,null,null,1900-01-01 01:18:31,Rwanda,Rwanda,country,6
+159,160,null,null,1900-01-01 01:18:57,Rwanda,Rwanda,country,6
+160,161,null,null,1900-01-01 01:19:13,"Cyangugu, Rwanda","Cyangugu, Rwanda",local,3
+161,162,null,null,1900-01-01 01:20:39,"Bujumbura, Burundi","Bujumbura, Burundi",city / area,4
+162,163,null,null,1900-01-01 01:21:16,Europe,Europe,continent,7
+163,164,null,null,1900-01-01 01:21:30,"Bujumbura, Burundi","Bujumbura, Burundi",city / area,4
+164,165,null,null,1900-01-01 01:21:53,"Bujumbura, Burundi","Bujumbura, Burundi",city / area,4
+165,166,null,null,1900-01-01 01:22:09,Rwanda,Rwanda,country,6
+166,167,null,null,1900-01-01 01:23:32,"Nyamata, Rwanda","Nyamata, Rwanda",local,3
+167,168,null,null,1900-01-01 01:23:35,"Kigali, Rwanda","Kigali, Rwanda",city / area,4
+168,169,null,null,1900-01-01 01:24:31,Switzerland,Switzerland,country,6
+169,170,null,null,1900-01-01 01:25:22,"Bujumbura, Burundi","Bujumbura, Burundi",city / area,4
+170,171,null,null,1900-01-01 01:25:24,USA,United States,country,6
+171,172,null,null,1900-01-01 01:25:45,"San Francisco, USA","San Francisco, US",city / area,4
+172,173,null,null,1900-01-01 01:26:01,"Minnesota, USA","Minnesota, US",city / area,4
+173,174,null,null,1900-01-01 01:26:09,"Bujumbura, Burundi","Bujumbura, Burundi",city / area,4
+174,175,null,null,1900-01-01 01:26:09,Europe,Europe,continent,7
+175,176,null,null,1900-01-01 01:26:11,Europe,Europe,continent,7
+176,177,null,null,1900-01-01 01:26:13,USA,United States,country,6
+177,178,null,null,1900-01-01 01:26:20,"Michigan, USA","Michigan, US",city / area,4
+178,179,null,null,1900-01-01 01:26:30,"Quebec, Canada",Quebec,region,5
+179,180,null,null,1900-01-01 01:26:35,"Ontario, Canada","Ontario, Canada",region,5
+180,181,null,null,1900-01-01 01:27:47,Rwanda,Rwanda,country,6
+181,182,null,null,1900-01-01 01:28:42,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area,4
+182,183,null,null,1900-01-01 01:28:45,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area,4
+183,184,null,null,1900-01-01 01:29:07,"Nyamata, Rwanda","Nyamata, Rwanda",local,3
+184,185,null,null,1900-01-01 01:29:12,"Nyamata, Rwanda","Nyamata, Rwanda",local,3
+185,186,null,null,1900-01-01 01:31:46,"Bugesera, Rwanda","Bugesera, Rwanda",local,3
+186,187,null,null,1900-01-01 01:31:48,"Sake, Rwanda","Sake, Rwanda",local,3
+187,188,null,null,1900-01-01 01:31:51,Burundi,Burundi,country,6
+188,189,null,null,1900-01-01 01:31:53,Rwanda,Rwanda,country,6
+189,190,null,null,1900-01-01 01:32:08,"Sake, Rwanda","Sake, Rwanda",local,3
+190,191,null,null,1900-01-01 01:32:18,"Bugesera, Rwanda","Bugesera, Rwanda",local,3
+191,192,null,null,1900-01-01 01:34:28,"Nyamata, Rwanda","Nyamata, Rwanda",local,3
+192,193,null,null,1900-01-01 01:40:04,"Kigali, Rwanda","Kigali, Rwanda",city / area,4
+193,194,null,null,1900-01-01 01:40:07,"Kabuga, Rwanda","Kabuga, Rwanda",local,3
+194,195,null,null,1900-01-01 01:40:12,"Kabuga, Rwanda","Kabuga, Rwanda",local,3
+195,196,null,null,1900-01-01 01:40:49,Uganda,Uganda,country,6
+196,197,null,null,1900-01-01 01:40:56,Uganda,Uganda,country,6
+197,198,null,null,1900-01-01 01:42:08,"Nyamata, Rwanda","Nyamata, Rwanda",local,3
+198,199,null,null,1900-01-01 01:47:18,"Bujumbura, Burundi","Bujumbura, Burundi",city / area,4
+199,200,null,null,1900-01-01 01:48:39,"Nyamirambo, Rwanda","Nyamirambo, Rwanda",local,3
+200,201,null,null,1900-01-01 01:48:41,"Kabuga, Rwanda","Kabuga, Rwanda",local,3
+201,202,null,null,1900-01-01 01:50:13,"Bujumbura, Burundi","Bujumbura, Burundi",city / area,4
+202,203,null,null,1900-01-01 01:52:12,"Concordia University, Montreal, Canada","Concordia University, Montreal, Canada",very local,2
+203,204,null,null,1900-01-01 01:56:08,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area,4
+204,205,null,null,1900-01-01 01:59:11,"Nyamata, Rwanda","Nyamata, Rwanda",local,3
+205,206,null,null,1900-01-01 01:59:14,"Kigali, Rwanda","Kigali, Rwanda",city / area,4
+206,207,null,null,1900-01-01 01:59:33,Rwanda,Rwanda,country,6
+207,208,null,null,1900-01-01 01:59:35,"Kigali, Rwanda","Kigali, Rwanda",city / area,4
+208,209,null,null,1900-01-01 01:59:41,"Kigali International Airport, Rwanda","Kigali International Airport, Rwanda",very local,2
+209,210,null,null,1900-01-01 01:59:49,"Kigali, Rwanda","Kigali, Rwanda",city / area,4
+210,211,null,null,1900-01-01 02:02:59,"Nyamata, Rwanda","Nyamata, Rwanda",local,3
+211,212,null,null,1900-01-01 02:03:00,"Kigali, Rwanda","Kigali, Rwanda",city / area,4
+212,213,null,null,1900-01-01 02:05:31,"Kaduha, Rwanda","Kaduha, Rwanda",local,3
+213,214,null,null,1900-01-01 02:05:34,"Nyanza, Rwanda","Nyanza, Rwanda",local,3
+214,215,null,null,1900-01-01 02:10:03,"Kigali, Rwanda","Kigali, Rwanda",city / area,4
+215,216,null,null,1900-01-01 02:10:54,Rwanda,Rwanda,country,6
+216,217,null,null,1900-01-01 02:12:14,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area,4
+217,218,null,null,1900-01-01 02:12:33,"Montreal, Canada","Montreal, Canada",city / area,4
+218,219,null,null,1900-01-01 02:12:37,"Bujumbura, Burundi","Bujumbura, Burundi",city / area,4
+219,220,null,null,1900-01-01 02:12:38,"Bujumbura, Burundi","Bujumbura, Burundi",city / area,4
+220,221,null,null,1900-01-01 02:12:50,"Montreal, Canada","Montreal, Canada",city / area,4
+221,222,null,null,1900-01-01 02:13:06,"Montreal, Canada","Montreal, Canada",city / area,4
+222,223,null,null,1900-01-01 02:13:57,Canada,Canada,country,6
+223,224,null,null,1900-01-01 02:15:28,Rwanda,Rwanda,country,6
+224,225,null,null,1900-01-01 02:16:15,Africa ,Africa ,continent,7
+225,226,null,null,1900-01-01 02:16:30,Canada,Canada,country,6
+226,227,null,null,1900-01-01 02:18:35,Africa,Africa ,continent,7
+227,228,null,null,1900-01-01 02:18:38,Canada,Canada,country,6
+228,229,null,null,1900-01-01 02:19:25,USA,United States,country,6
+229,230,null,null,1900-01-01 02:19:32,"Montreal, Canada","Montreal, Canada",city / area,4
+230,231,null,null,1900-01-01 02:19:34,"Quebec, Canada",Quebec,region,5
+231,232,null,null,1900-01-01 02:19:35,"Quebec, Canada",Quebec,region,5
+232,233,null,null,1900-01-01 02:19:36,"Quebec City, Canada","Quebec City, Canada",city / area,4
+233,234,null,null,1900-01-01 02:19:38,"Quebec City, Canada","Quebec City, Canada",city / area,4
+234,235,null,null,1900-01-01 02:19:42,"Quebec City, Canada","Quebec City, Canada",city / area,4
+235,236,null,null,1900-01-01 02:19:43,"Montreal, Canada","Montreal, Canada",city / area,4
+236,237,null,null,1900-01-01 02:19:47,"Montreal, Canada","Montreal, Canada",city / area,4
+237,238,null,null,1900-01-01 02:20:06,"Montreal, Canada","Montreal, Canada",city / area,4
+238,239,null,null,1900-01-01 02:20:13,Rwanda,Rwanda,country,6
+239,240,null,null,1900-01-01 02:20:15,"Montreal, Canada","Montreal, Canada",city / area,4
+240,241,null,null,1900-01-01 02:20:16,"Quebec City, Canada","Quebec City, Canada",city / area,4
+241,242,null,null,1900-01-01 02:20:54,"Montreal, Canada","Montreal, Canada",city / area,4
+242,243,null,null,1900-01-01 02:21:31,Canada,Canada,country,6
+243,244,null,null,1900-01-01 02:22:17,Africa,Africa,continent,7
+244,245,null,null,1900-01-01 02:22:31,"Bujumbura, Burundi","Bujumbura, Burundi",city / area,4
+245,246,null,null,1900-01-01 02:25:38,"Henri-Bourassa, Montreal, Canada","Henri-Bourasa, Montreal, Canada",local,3
+246,247,null,null,1900-01-01 02:28:56,"Université de Montréal, Montreal, Canada","Université de Montréal, Montreal, Canada",very local,2
+247,248,null,null,1900-01-01 02:29:57,"Centre de documentation sur l'éducation des adultes et la condition féminine, Montreal, Qc","Centre de documentation sur l'éducation des adultes et la condition féminine, Montreal, Qc",very local,2
+248,249,null,null,1900-01-01 02:30:40,"Montreal, Canada","Montreal, Canada",city / area,4
+249,250,null,null,1900-01-01 02:31:08,Canada,Canada,country,6
+250,251,null,null,1900-01-01 02:31:11,"Quebec, Canada",Quebec,region,5
+251,252,null,null,1900-01-01 02:31:44,"Quebec, Canada",Quebec,region,5
+252,253,null,null,1900-01-01 02:32:54,Canada,Canada,country,6
+253,254,null,null,1900-01-01 02:32:56,"Quebec, Canada",Quebec,region,5
+254,255,null,null,1900-01-01 02:33:06,Rwanda,Rwanda,country,6
+255,256,null,null,1900-01-01 02:33:44,Rwanda,Rwanda,country,6
+256,257,null,null,1900-01-01 02:35:03,"Quebec, Canada",Quebec,region,5
+257,258,null,null,1900-01-01 02:35:04,Rwanda,Rwanda,country,6
+258,259,null,null,1900-01-01 02:35:18,Rwanda,Rwanda,country,6
+259,260,null,null,1900-01-01 02:35:24,Rwanda,Rwanda,country,6
+260,261,null,null,1900-01-01 02:35:53,Rwanda,Rwanda,country,6
+261,262,null,null,1900-01-01 02:36:01,Rwanda,Rwanda,country,6
+262,263,null,null,1900-01-01 02:36:48,Canada,Canada,country,6
+263,264,null,null,1900-01-01 02:36:51,Canada,Canada,country,6
+264,265,null,null,1900-01-01 02:37:11,Rwanda,Rwanda,country,6
+265,266,null,null,1900-01-01 02:37:37,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area,4
+266,267,null,null,1900-01-01 02:37:48,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area,4
+267,268,null,null,1900-01-01 02:40:40,Rwanda,Rwanda,country,6
+268,269,null,null,1900-01-01 02:42:20,"Montreal, Canada","Montreal, Canada",city / area,4
+269,270,null,null,1900-01-01 02:42:52,"Montreal, Canada","Montreal, Canada",city / area,4
+270,271,null,null,1900-01-01 02:42:58,Rwanda,Rwanda,country,6
+271,272,null,null,1900-01-01 02:44:11,Rwanda,Rwanda,country,6
+272,273,null,null,1900-01-01 02:45:36,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area,4
+273,274,null,null,1900-01-01 02:46:04,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area,4
+274,275,null,null,1900-01-01 02:46:05,"Bujumbura, Burundi","Bujumbura, Burundi",city / area,4
+275,276,null,null,1900-01-01 02:46:07,Rwanda,Rwanda,country,6
+276,277,null,null,1900-01-01 02:46:44,Rwanda,Rwanda,country,6
+277,278,null,null,1900-01-01 02:47:48,Rwanda,Rwanda,country,6

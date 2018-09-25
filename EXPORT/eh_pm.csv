@@ -1,0 +1,216 @@
+,id,session_num,time_clip,time,place,place_raw,scale,scale_order
+0,1,1,0.0,1900-01-01 00:00:30,"Trois-Rivières, Canada",Trois-Rivières; Quebec,city / area,4
+1,2,1,null,1900-01-01 00:00:30,"Trois-Rivières, Canada",Université du Quebec à Trois-Rivières; Canada,very local,2
+2,3,1,null,1900-01-01 00:00:30,"Trois-Rivières, Canada",Québec City; Quebec; Canada,city / area,4
+3,4,1,null,1900-01-01 00:00:50,Rwanda,Rwanda,country,6
+4,5,1,null,1900-01-01 00:01:00,Belgium,Belgium,country,6
+5,6,1,null,1900-01-01 00:01:10,Rwanda,Rwanda,country,6
+6,7,1,null,1900-01-01 00:01:30,Rwanda,Rwanda,country,6
+7,8,1,null,1900-01-01 00:01:40,Rwanda,Rwanda,country,6
+8,9,1,null,1900-01-01 00:02:10,Rwanda,Rwanda,country,6
+9,10,1,null,1900-01-01 00:05:15,Rwanda,Rwanda,country,6
+10,11,1,null,1900-01-01 00:05:25,"Gikongoro, Rwanda",Gikongoro; Rwanda,region,5
+11,12,1,null,1900-01-01 00:05:28,"Karama, Rwanda",Karama; Rwanda,local,3
+12,13,1,null,1900-01-01 00:05:40,"Rukondo, Rwanda",Rukondo; Rwanda,local,3
+13,14,1,null,1900-01-01 00:16:00,"Groupe scholaire de Butare, Rwanda",Groupe scholaire de Butare; Rwanda,very local,2
+14,15,1,null,1900-01-01 00:19:00,"Louvain, Belgium",Louvain; Belgium,city / area,4
+15,16,1,null,1900-01-01 00:19:10,"l'université Nationale du Rwanda, Butare, Rwanda",l'université Nationale du Rwanda; Butare; Rwanda,very local,2
+16,17,1,null,1900-01-01 00:20:20,"Louvain, Belgium",Louvain; Belgium,city / area,4
+17,18,1,null,1900-01-01 00:20:00,"Louvain, Belgium",Louvain; Belgium,city / area,4
+18,19,1,null,1900-01-01 00:21:50,Belgium,Belgium,country,6
+19,20,1,null,1900-01-01 00:22:10,"Gitarama, Rwanda",Gitarama; Rwanda,region,5
+20,21,1,null,1900-01-01 00:22:30,"Gikongoro, Rwanda",Gikongoro; Rwanda,region,5
+21,22,1,null,1900-01-01 00:22:31,Belgium,Belgium,country,6
+22,23,1,null,1900-01-01 00:24:10,Uganda,Ouganda,country,6
+23,24,1,null,1900-01-01 00:25:10,Uganda,Ouganda,country,6
+24,25,1,null,1900-01-01 00:25:20,West Africa,West Africa,continent,7
+25,26,1,null,1900-01-01 00:25:30,"Zanzibar, Tanzania",Zanzibar; Tanzanie,region,5
+26,27,1,null,1900-01-01 00:29:50,Uganda,Ouganda,country,6
+27,28,1,null,1900-01-01 00:30:00,Uganda,Ouganda,country,6
+28,29,1,null,1900-01-01 00:32:00,Belgium,Belgium,country,6
+29,30,1,null,1900-01-01 00:32:50,Burundi,Burundi,country,6
+30,31,1,null,1900-01-01 00:33:10,Belgium,Belgium,country,6
+31,32,1,null,1900-01-01 00:33:12,Democratic Republic of Congo,Democratic Republic of Congo,country,6
+32,33,1,null,1900-01-01 00:33:33,"Groupe scholaire de Butare, Rwanda",Groupe scholaire de Butare; Rwanda,very local,2
+33,34,1,null,1900-01-01 00:33:40,"Gikongoro, Rwanda",Gikongoro; Rwanda,region,5
+34,35,1,null,1900-01-01 00:33:41,"Gikongoro, Rwanda",Gikongoro; Rwanda,region,5
+35,36,1,null,1900-01-01 00:33:42,"Gikongoro, Rwanda",Gikongoro; Rwanda,region,5
+36,37,1,null,1900-01-01 00:33:45,"Paroisse de Cyanika, Rwanda",Paroisse de Cyanika; Rwanda,local,3
+37,38,1,null,1900-01-01 00:34:00,"Gikongoro, Rwanda",Gikongoro; Rwanda,region,5
+38,39,1,null,1900-01-01 00:36:00,"Gikongoro, Rwanda",Gikongoro; Rwanda,region,5
+39,40,1,null,1900-01-01 00:37:00,"Gikongoro, Rwanda",Gikongoro; Rwanda,region,5
+40,41,1,null,1900-01-01 00:37:50,"Gikongoro, Rwanda",Gikongoro; Rwanda,region,5
+41,42,1,null,1900-01-01 00:38:00,Belgium,Belgium,country,6
+42,43,1,null,1900-01-01 00:38:10,Belgium,Belgium,country,6
+43,44,1,null,1900-01-01 00:38:10,Belgium,Belgium,country,6
+44,45,1,null,1900-01-01 00:38:00,Belgium,Belgium,country,6
+45,46,1,null,1900-01-01 00:39:00,Belgium,Belgium,country,6
+46,47,1,null,1900-01-01 00:40:10,Rwanda,Rwanda,country,6
+47,48,1,null,1900-01-01 00:40:10,Belgium,Belgium,country,6
+48,49,1,null,1900-01-01 00:40:40,Belgium,Belgium,country,6
+49,50,1,null,1900-01-01 00:40:50,Belgium,Belgium,country,6
+50,51,1,null,1900-01-01 00:42:00,Belgium,Belgium,country,6
+51,52,1,null,1900-01-01 00:44:00,Rwanda,Rwanda,country,6
+52,53,1,null,1900-01-01 00:47:15,Belgium,Belgium,country,6
+53,54,1,null,1900-01-01 00:47:20,Rwanda,Rwanda,country,6
+54,55,1,null,1900-01-01 00:47:50,Rwanda,Rwanda,country,6
+55,56,1,null,1900-01-01 00:51:00,Rwanda,Rwanda,country,6
+56,57,1,null,1900-01-01 00:51:20,Belgium,Belgium,country,6
+57,58,1,null,1900-01-01 00:51:25,Belgium,Belgium,country,6
+58,59,1,null,1900-01-01 00:51:30,Rwanda,Rwanda,country,6
+59,60,1,null,1900-01-01 00:51:45,"l'université Nationale du Rwanda, Butare, Rwanda",l'université Nationale du Rwanda; Butare; Rwanda,very local,2
+60,61,1,null,1900-01-01 00:52:05,Canada,Canada,country,6
+61,62,1,null,1900-01-01 00:53:20,Rwanda,Rwanda,country,6
+62,63,1,null,1900-01-01 00:53:21,Canada,Canada,country,6
+63,64,1,null,1900-01-01 00:53:25,Canada,Canada,country,6
+64,65,1,null,1900-01-01 00:53:30,Canada,Canada,country,6
+65,66,1,null,1900-01-01 00:53:35,Canada,Canada,country,6
+66,67,1,null,1900-01-01 00:56:00,Africa,Afrique,continent,7
+67,68,1,null,1900-01-01 00:57:20,"l'université Nationale du Rwanda, Butare, Rwanda",l'université Nationale du Rwanda; Butare; Rwanda,very local,2
+68,69,1,null,1900-01-01 00:58:30,Belgium,Belgium,country,6
+69,70,1,null,1900-01-01 01:00:00,Canada,Canada,country,6
+70,71,1,null,1900-01-01 01:00:45,"l'hotel ibis, Butare, Rwanda",l'hotel ibis; Butare; Rwanda,very local,2
+71,72,1,null,1900-01-01 01:00:46,"l'hotel faucon, Butare, Rwanda",l'hotel faucon; Butare; Rwanda,very local,2
+72,73,1,null,1900-01-01 01:02:00,"Kinshasa, Democratic Republic of Congo",Kinshasa; Democratic Republic of Congo,city / area,4
+73,74,1,null,1900-01-01 01:02:05,Canada,Canada,country,6
+74,75,1,null,1900-01-01 01:03:00,Canada,Canada,country,6
+75,76,1,null,1900-01-01 01:03:02,"Kinshasa, Democratic Republic of Congo",Kinshasa; Democratic Republic of Congo,city / area,4
+76,77,1,null,1900-01-01 01:03:20,"l'ambassade du Canada, Kinshasa, Democratic Republic of Congo",l'ambassade du Canada; Kinshasa; Democratic Republic of Congo,very local,2
+77,78,1,null,1900-01-01 01:04:00,"Bureau de l'immigration, Kigali, Rwanda",Bureau de l'immigration; Kigali; Rwanda,very local,2
+78,79,1,null,1900-01-01 01:04:50,"Kinshasa, Democratic Republic of Congo",Kinshasa; Democratic Republic of Congo,city / area,4
+79,80,1,null,1900-01-01 01:06:10,"Kinshasa, Democratic Republic of Congo",Kinshasa; Democratic Republic of Congo,city / area,4
+80,81,1,null,1900-01-01 01:06:30,Canada,Canada,country,6
+81,82,1,null,1900-01-01 01:06:40,Belgium,Belgium,country,6
+82,83,1,null,1900-01-01 01:07:00,"UQAM, Montréal, Canada",UQAM; Montréal; Quebec,very local,2
+83,84,1,null,1900-01-01 01:07:00,"UQAM, Montréal, Canada",UQAM; Montréal; Quebec,very local,2
+84,85,1,null,1900-01-01 01:08:20,Belgium,Belgium,country,6
+85,86,1,null,1900-01-01 01:08:00,Rwanda,Rwanda,country,6
+86,87,1,null,1900-01-01 01:09:00,"Université de Montréal, Montréal, Canada",Université de Montréal; Montréal; Quebec,very local,2
+87,88,1,null,1900-01-01 01:10:00,"Université de Montréal, Montréal, Canada",Université de Montréal; Montréal; Quebec,very local,2
+88,89,1,null,1900-01-01 01:10:10,"l'ACDI, Ottawa, Canada",l'ACDI; Ottawa; Canada,very local,2
+89,90,1,null,1900-01-01 01:10:30,Africa,Afrique,continent,7
+90,91,1,null,1900-01-01 01:10:35,Rwanda,Rwanda,country,6
+91,92,1,null,1900-01-01 01:10:40,Rwanda,Rwanda,country,6
+92,93,1,null,1900-01-01 01:10:45,"l'ACDI, Ottawa, Canada",l'ACDI; Ottawa; Canada,very local,2
+93,94,1,null,1900-01-01 01:11:00,"l'ACDI, Ottawa, Canada",l'ACDI; Ottawa; Canada,very local,2
+94,95,1,null,1900-01-01 01:11:40,"l'ACDI, Ottawa, Canada",l'ACDI; Ottawa; Canada,very local,2
+95,96,1,null,1900-01-01 01:12:05,"l'ACDI, Ottawa, Canada",l'ACDI; Ottawa; Canada,very local,2
+96,97,1,null,1900-01-01 01:12:55,"Ottawa, Canada",Ottawa; Canada,city / area,4
+97,98,1,null,1900-01-01 01:13:05,"Ottawa, Canada",Ottawa; Canada,city / area,4
+98,99,1,null,1900-01-01 01:13:25,Rwanda,Rwanda,country,6
+99,100,1,null,1900-01-01 01:18:00,"l'université de Montréal, Montréal, Canada",l'université de Montréal; Montréal; Quebec,very local,2
+100,101,1,null,1900-01-01 01:18:01,"UQAM, Montréal, Canada",l'université du Québec à Montréal; Montréal; Quebec,very local,2
+101,102,1,null,1900-01-01 01:19:25,Rwanda,Rwanda,country,6
+102,103,1,null,1900-01-01 01:19:40,Canada,Canada,country,6
+103,104,1,null,1900-01-01 01:20:05,"l'ACDI, Ottawa, Canada",l'ACDI; Ottawa; Canada,very local,2
+104,105,1,null,1900-01-01 01:20:35,Canada,Canada,country,6
+105,106,1,null,1900-01-01 01:20:36,"NYC, USA",New York; NY; US,city / area,4
+106,107,1,null,1900-01-01 01:20:40,"Montréal, Canada",Montréal; Quebec,city / area,4
+107,108,1,null,1900-01-01 01:20:42,"Montréal, Canada",Montréal; Quebec,city / area,4
+108,109,1,null,1900-01-01 01:21:05,"l'université Nationale du Rwanda, Butare, Rwanda",l'université national du Rwanda; Butare; Rwanda,very local,2
+109,110,1,null,1900-01-01 01:21:20,"Citizenship and Immigration Canada, Montreal, Canada",Citizenship and Immigration Canada; Montreal; Canada,very local,2
+110,111,1,null,1900-01-01 01:21:30,"Consulat général du Canada à New York, NYC, USA",Consulat général du Canada à New York; NY; US,very local,2
+111,112,1,null,1900-01-01 01:22:00,"NYC, USA",New York; NY; US,city / area,4
+112,113,1,null,1900-01-01 01:22:30,"l'ACDI, Ottawa, Canada",l'ACDI; Ottawa; Canada,very local,2
+113,114,1,null,1900-01-01 01:23:30,"l'université du Québec à Trois-Rivières, Trois-Rivières, Canada",l'université du Québec à Trois-Rivières; Quebec,very local,2
+114,115,1,null,1900-01-01 01:23:45,"Trois-Rivières, Canada",Trois-Rivières; Quebec,city / area,4
+115,116,1,null,1900-01-01 01:24:10,"Trois-Rivières, Canada",Trois-Rivières; Quebec,city / area,4
+116,117,1,null,1900-01-01 01:24:15,"Trois-Rivières, Canada",Trois-Rivières; Quebec,city / area,4
+117,118,1,null,1900-01-01 01:24:35,"l'ACDI, Ottawa, Canada",l'ACDI; Ottawa; Canada,very local,2
+118,119,1,null,1900-01-01 01:25:30,"Trois-Rivières, Canada",Trois-Rivières; Quebec,city / area,4
+119,120,1,null,1900-01-01 01:28:25,Middle East,Middle East,continent,7
+120,121,1,null,1900-01-01 01:29:30,"Quebec, Canada",Québec,region,5
+121,122,1,null,1900-01-01 01:29:45,"Quebec, Canada",Québec,region,5
+122,123,1,null,1900-01-01 01:30:00,Rwanda,Rwanda,country,6
+123,124,1,null,1900-01-01 01:31:50,Rwanda,Rwanda,country,6
+124,125,1,null,1900-01-01 01:32:25,"Trois-Rivières, Canada",Trois-Rivières; Quebec,city / area,4
+125,126,1,null,1900-01-01 01:33:00,"Montréal, Canada",Montréal; Quebec,city / area,4
+126,127,1,null,1900-01-01 01:33:25,USA,États-Unis,country,6
+127,128,1,null,1900-01-01 01:33:30,"NYC, USA",New York; NY; US,city / area,4
+128,129,1,null,1900-01-01 01:33:45,Rwanda,Rwanda,country,6
+129,130,1,null,1900-01-01 01:35:25,Rwanda,Rwanda,country,6
+130,131,1,null,1900-01-01 01:36:30,"Kigali, Rwanda",Kigali; Rwanda,city / area,4
+131,132,1,null,1900-01-01 01:36:32,"Butare, Rwanda",Butare; Rwanda,city / area,4
+132,133,1,null,1900-01-01 01:36:45,"Butare, Rwanda",Butare; Rwanda,city / area,4
+133,134,1,null,1900-01-01 01:37:00,"Karama, Rwanda",Karama; Rwanda,local,3
+134,135,1,null,1900-01-01 01:40:05,"La Rivière Rukarara, Rwanda",La Rivière Rukarara; Rwanda,very local,2
+135,136,1,null,1900-01-01 01:42:00,"Cyanika, Rwanda",Cyanika; Rwanda,local,3
+136,137,1,null,1900-01-01 01:42:45,"Cyanika, Rwanda",Cyanika; Rwanda,local,3
+137,138,1,null,1900-01-01 01:43:00,"Groupe scholaire de Butare, Rwanda",Groupe scholaire de Butare; Rwanda,very local,2
+138,139,1,null,1900-01-01 01:49:00,Rwanda,Rwanda,country,6
+139,140,1,null,1900-01-01 01:51:00,Rwanda,Rwanda,country,6
+140,141,1,null,1900-01-01 01:51:10,"Luanda, Angola",Luanda; Angola,city / area,4
+141,142,1,null,1900-01-01 01:51:20,Rwanda,Rwanda,country,6
+142,143,1,null,1900-01-01 01:51:50,Belgium,Belgium,country,6
+143,144,1,null,1900-01-01 01:52:20,Belgium,Belgium,country,6
+144,145,1,null,1900-01-01 01:52:25,Angola,Angola,country,6
+145,146,1,null,1900-01-01 01:52:30,Senegal,Sénégal,country,6
+146,147,1,null,1900-01-01 01:54:45,"Trois-Rivières, Canada",Trois-Rivières; Quebec,city / area,4
+147,148,1,null,1900-01-01 01:55:00,"Montréal, Canada",Montréal; Quebec,city / area,4
+148,149,1,null,1900-01-01 01:55:10,"Montréal, Canada",Montréal; Quebec,city / area,4
+149,150,1,null,1900-01-01 01:58:00,"Montréal, Canada",Montréal; Quebec,city / area,4
+150,151,1,null,1900-01-01 02:04:40,Rwanda,Rwanda,country,6
+151,152,1,null,1900-01-01 02:04:50,Rwanda,Rwanda,country,6
+152,153,1,null,1900-01-01 02:04:52,Rwanda,Rwanda,country,6
+153,154,1,null,1900-01-01 02:05:10,Rwanda,Rwanda,country,6
+154,155,1,null,1900-01-01 02:05:25,Rwanda,Rwanda,country,6
+155,156,1,null,1900-01-01 02:05:30,Rwanda,Rwanda,country,6
+156,157,1,null,1900-01-01 02:05:50,Rwanda,Rwanda,country,6
+157,158,1,null,1900-01-01 02:05:55,Rwanda,Rwanda,country,6
+158,159,1,null,1900-01-01 02:06:05,"Butare, Rwanda",Butare; Rwanda,city / area,4
+159,160,1,null,1900-01-01 02:06:15,"Kigali Memorial, Rwanda",Le mémorial de Kigali; Rwanda,very local,2
+160,161,1,null,1900-01-01 02:06:19,Rwanda,Rwanda,country,6
+161,162,1,null,1900-01-01 02:07:00,"Gikongoro, Rwanda",Gikongoro; Rwanda,region,5
+162,163,1,null,1900-01-01 02:07:10,"Gikongoro, Rwanda",Gikongoro; Rwanda,region,5
+163,164,1,null,1900-01-01 02:07:15,Rwanda,Rwanda,country,6
+164,165,1,null,1900-01-01 02:07:10,"Gikongoro, Rwanda",Gikongoro; Rwanda,region,5
+165,166,1,null,1900-01-01 02:07:20,"Murambi Genocide Memorial Centre, Rwanda",Murambi; Rwanda,very local,2
+166,167,1,null,1900-01-01 02:07:30,"Murambi Genocide Memorial Centre, Rwanda",Murambi Genocide Memorial Centre; Rwanda,very local,2
+167,168,1,null,1900-01-01 02:07:40,"Gikongoro, Rwanda",Gikongoro; Rwanda,region,5
+168,169,1,null,1900-01-01 02:07:55,"Gikongoro, Rwanda",Gikongoro; Rwanda,region,5
+169,170,1,null,1900-01-01 02:08:25,"Kibeho, Rwanda",Kibeho; Rwanda,city / area,4
+170,171,1,null,1900-01-01 02:08:50,"Kibeho, Rwanda",Kibeho; Rwanda,city / area,4
+171,172,1,null,1900-01-01 02:10:30,Belgium,Belgium,country,6
+172,173,1,null,1900-01-01 02:10:40,Rwanda,Rwanda,country,6
+173,174,1,null,1900-01-01 02:10:50,"Butare, Rwanda",Butare; Rwanda,city / area,4
+174,175,1,null,1900-01-01 02:19:00,Rwanda,Rwanda,country,6
+175,176,1,null,1900-01-01 02:20:10,Democratic Republic of Congo,Democratic Republic of Congo,country,6
+176,177,1,null,1900-01-01 02:20:30,"Gikongoro, Rwanda",Gikongoro; Rwanda,region,5
+177,178,1,null,1900-01-01 02:20:35,"Nyanza, Rwanda",Nyanza; Rwanda,city / area,4
+178,179,1,null,1900-01-01 02:21:05,Democratic Republic of Congo,Democratic Republic of Congo,country,6
+179,180,1,null,1900-01-01 02:22:25,Rwanda,Rwanda,country,6
+180,181,1,null,1900-01-01 02:22:45,Rwanda,Rwanda,country,6
+181,182,1,null,1900-01-01 02:23:05,South Africa,Afrique du Sud,country,6
+182,183,1,null,1900-01-01 02:23:10,Senegal,Sénégal,country,6
+183,184,1,null,1900-01-01 02:23:12,Mali,Mali,country,6
+184,185,1,null,1900-01-01 02:23:20,Burkina Faso,Burkina Faso,country,6
+185,186,1,null,1900-01-01 02:23:25,Rwanda,Rwanda,country,6
+186,187,1,null,1900-01-01 02:23:45,Rwanda,Rwanda,country,6
+187,188,1,null,1900-01-01 02:24:05,Rwanda,Rwanda,country,6
+188,189,1,null,1900-01-01 02:24:25,"Kigali, Rwanda",Kigali; Rwanda,city / area,4
+189,190,1,null,1900-01-01 02:24:35,"Kigali, Rwanda",Kigali; Rwanda,city / area,4
+190,191,1,null,1900-01-01 02:24:40,"Butare, Rwanda",Butare; Rwanda,city / area,4
+191,192,1,null,1900-01-01 02:24:50,"Kigali, Rwanda",Kigali; Rwanda,city / area,4
+192,193,1,null,1900-01-01 02:24:52,"Butare, Rwanda",Butare; Rwanda,city / area,4
+193,194,1,null,1900-01-01 02:24:55,"Butare, Rwanda",Butare; Rwanda,city / area,4
+194,195,1,null,1900-01-01 02:25:00,"Butare, Rwanda",Butare; Rwanda,city / area,4
+195,196,1,null,1900-01-01 02:25:20,"l'université Nationale du Rwanda, Butare, Rwanda",l'université national du Rwanda; Butare; Rwanda,very local,2
+196,197,1,null,1900-01-01 02:25:50,Rwanda,Rwanda,country,6
+197,198,1,null,1900-01-01 02:26:00,Africa,Afrique,continent,7
+198,199,1,null,1900-01-01 02:25:55,Rwanda,Rwanda,country,6
+199,200,1,null,1900-01-01 02:27:00,Rwanda,Rwanda,country,6
+200,201,1,null,1900-01-01 02:29:00,Rwanda,Rwanda,country,6
+201,202,1,null,1900-01-01 02:29:20,"Kigali, Rwanda",Kigali; Rwanda,city / area,4
+202,203,1,null,1900-01-01 02:29:30,"Kigali, Rwanda",Kigali; Rwanda,city / area,4
+203,204,1,null,1900-01-01 02:30:30,"Montréal, Canada",Montréal; Quebec,city / area,4
+204,205,1,null,1900-01-01 02:35:50,Rwanda,Rwanda,country,6
+205,206,1,null,1900-01-01 02:36:30,Rwanda,Rwanda,country,6
+206,207,1,null,1900-01-01 02:36:45,Rwanda,Rwanda,country,6
+207,208,1,null,1900-01-01 02:39:45,Rwanda,Rwanda,country,6
+208,209,1,null,1900-01-01 02:43:00,Rwanda,Rwanda,country,6
+209,210,1,null,1900-01-01 02:43:40,Rwanda,Rwanda,country,6
+210,211,1,null,1900-01-01 02:44:55,Rwanda,Rwanda,country,6
+211,212,1,null,1900-01-01 02:45:25,Rwanda,Rwanda,country,6
+212,213,1,null,1900-01-01 02:47:30,Rwanda,Rwanda,country,6
+213,214,1,null,1900-01-01 02:49:10,"Montréal, Canada",Montréal; Quebec,city / area,4
+214,215,1,null,1900-01-01 02:49:20,"Montréal, Canada",Montréal; Quebec,city / area,4

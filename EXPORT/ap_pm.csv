@@ -1,0 +1,333 @@
+,id,session_num,time_clip,time,place,place_raw,scale,scale_order
+0,1,1.0,0:01:25,1900-01-01 00:01:25,Haiti,Haiti,country,6
+1,2,1.0,0:02:50,1900-01-01 00:02:50,Haiti,Haiti,country,6
+2,3,1.0,0:02:57,1900-01-01 00:02:57,France,France,country,6
+3,4,1.0,0:03:30,1900-01-01 00:03:30,Haiti,Haiti,country,6
+4,5,1.0,0:04:25,1900-01-01 00:04:25,Haiti,Haiti,country,6
+5,6,1.0,0:04:31,1900-01-01 00:04:31,Haiti,Haiti,country,6
+6,7,1.0,0:04:35,1900-01-01 00:04:35,Haiti,Haiti,country,6
+7,8,1.0,0:04:57,1900-01-01 00:04:57,France,France,country,6
+8,9,1.0,0:04:58,1900-01-01 00:04:58,France,France,country,6
+9,10,1.0,0:05:25,1900-01-01 00:05:25,Latin America,Latin America,continent,7
+10,11,1.0,0:05:29,1900-01-01 00:05:29,Venezuela,Venezuela,country,6
+11,12,1.0,0:05:33,1900-01-01 00:05:33,Haiti,Haiti,country,6
+12,13,1.0,0:05:37,1900-01-01 00:05:37,Venezuela,Venezuela,country,6
+13,14,1.0,0:05:45,1900-01-01 00:05:45,Latin America,Latin America,continent,7
+14,15,1.0,0:05:48,1900-01-01 00:05:48,Haiti,Haiti,country,6
+15,16,1.0,0:06:03,1900-01-01 00:06:03,Haiti,Haiti,country,6
+16,17,1.0,0:06:25,1900-01-01 00:06:25,Haiti,Haiti,country,6
+17,18,1.0,0:06:37,1900-01-01 00:06:37,Haiti,Haiti,country,6
+18,19,1.0,0:06:57,1900-01-01 00:06:57,Haiti,Haiti,country,6
+19,20,1.0,0:07:46,1900-01-01 00:07:46,Haiti,Haiti,country,6
+20,21,1.0,0:07:51,1900-01-01 00:07:51,USA,USA,country,6
+21,22,1.0,0:08:55,1900-01-01 00:08:55,Haiti,Haiti,country,6
+22,23,1.0,0:09:20,1900-01-01 00:09:20,Haiti,Haiti,country,6
+23,24,1.0,0:09:21,1900-01-01 00:09:21,Haiti,Haiti,country,6
+24,25,1.0,0:14:16,1900-01-01 00:14:16,"Jérémie, Haiti",Jérémie; Haiti,city / area,4
+25,26,1.0,0:14:35,1900-01-01 00:14:35,Haiti,Haiti,country,6
+26,27,1.0,0:15:03,1900-01-01 00:15:03,Haiti,Haiti,country,6
+27,28,1.0,0:17:15,1900-01-01 00:17:15,"Port-au-Prince, Haiti","Port-au-Prince, Haiti",city / area,4
+28,29,1.0,0:17:41,1900-01-01 00:17:41,Haiti,Haiti,country,6
+29,30,1.0,0:18:03,1900-01-01 00:18:03,Haiti,Haiti,country,6
+30,31,1.0,0:18:23,1900-01-01 00:18:23,Haiti,Haiti,country,6
+31,32,1.0,0:19:12,1900-01-01 00:19:12,Haiti,Haiti,country,6
+32,33,1.0,0:20:57,1900-01-01 00:20:57,Haiti,Haiti,country,6
+33,34,1.0,0:21:40,1900-01-01 00:21:40,"Jérémie, Haiti",Jérémie; Haiti,city / area,4
+34,35,1.0,0:21:43,1900-01-01 00:21:43,France,France,country,6
+35,36,1.0,0:21:55,1900-01-01 00:21:55,England,England,country,6
+36,37,1.0,0:22:01,1900-01-01 00:22:01,"Couvent des oiseaux, Paris, France",Couvent des oiseaux; Paris; France,very local,2
+37,38,1.0,0:22:02,1900-01-01 00:22:02,France,France,country,6
+38,39,1.0,0:32:40,1900-01-01 00:32:40,USA,USA,country,6
+39,40,1.0,0:38:18,1900-01-01 00:38:18,Haiti,Haiti,country,6
+40,41,1.0,0:38:19,1900-01-01 00:38:19,Haiti,Haiti,country,6
+41,42,1.0,0:38:25,1900-01-01 00:38:25,Haiti,Haiti,country,6
+42,43,1.0,0:39:14,1900-01-01 00:39:14,Haiti,Haiti,country,6
+43,44,1.0,0:39:20,1900-01-01 00:39:20,Haiti,Haiti,country,6
+44,45,1.0,0:39:24,1900-01-01 00:39:24,Haiti,Haiti,country,6
+45,46,1.0,0:39:25,1900-01-01 00:39:25,Haiti,Haiti,country,6
+46,47,1.0,0:41:40,1900-01-01 00:41:40,Europe,Europe,continent,7
+47,48,1.0,0:41:45,1900-01-01 00:41:45,Europe,Europe,continent,7
+48,49,1.0,0:42:24,1900-01-01 00:42:24,Haiti,Haiti,country,6
+49,50,1.0,0:42:24,1900-01-01 00:42:24,Haiti,Latin America,country,6
+50,51,1.0,0:42:27,1900-01-01 00:42:27,Cuba,Cuba,country,6
+51,52,1.0,0:42:29,1900-01-01 00:42:29,Haiti,Haiti,country,6
+52,53,1.0,0:42:37,1900-01-01 00:42:37,Haiti,Haiti,country,6
+53,54,1.0,0:44:00,1900-01-01 00:44:00,Haiti,Haiti,country,6
+54,55,1.0,0:45:10,1900-01-01 00:45:10,Cuba,Cuba,country,6
+55,56,1.0,0:45:11,1900-01-01 00:45:11,Cuba,Cuba,country,6
+56,57,1.0,0:45:16,1900-01-01 00:45:16,Cuba,Cuba,country,6
+57,58,1.0,0:45:31,1900-01-01 00:45:31,Cuba,Cuba,country,6
+58,59,1.0,0:47:09,1900-01-01 00:47:09,Haiti,Haiti,country,6
+59,60,1.0,0:47:57,1900-01-01 00:47:57,Haiti,Haiti,country,6
+60,61,1.0,0:48:32,1900-01-01 00:48:32,Haiti,Haiti,country,6
+61,62,1.0,0:49:01,1900-01-01 00:49:01,Haiti,Haiti,country,6
+62,63,1.0,0:49:03,1900-01-01 00:49:03,Haiti,Haiti,country,6
+63,64,1.0,0:50:10,1900-01-01 00:50:10,Haiti,Haiti,country,6
+64,65,1.0,0:50:56,1900-01-01 00:50:56,"Quebec, Canada",Quebec,region,5
+65,66,1.0,0:50:57,1900-01-01 00:50:57,Canada,Canada,country,6
+66,67,1.0,0:51:22,1900-01-01 00:51:22,Haiti,Haiti,country,6
+67,68,1.0,0:51:24,1900-01-01 00:51:24,Haiti,Haiti,country,6
+68,69,1.0,0:51:28,1900-01-01 00:51:28,Canada,Canada,country,6
+69,70,1.0,0:51:35,1900-01-01 00:51:35,Canada,Canada,country,6
+70,71,1.0,0:51:42,1900-01-01 00:51:42,Canada,Canada,country,6
+71,72,1.0,0:51:46,1900-01-01 00:51:46,Haiti,Haiti,country,6
+72,73,1.0,0:53:12,1900-01-01 00:53:12,"Quebec, Canada",Quebec,region,5
+73,74,1.0,0:56:17,1900-01-01 00:56:17,Haiti,Haiti,country,6
+74,75,1.0,0:56:38,1900-01-01 00:56:38,Haiti,Haiti,country,6
+75,76,1.0,0:56:47,1900-01-01 00:56:47,Haiti,Haiti,country,6
+76,77,1.0,0:57:04,1900-01-01 00:57:04,Haiti,Haiti,country,6
+77,78,1.0,0:57:05,1900-01-01 00:57:05,Haiti,Haiti,country,6
+78,79,1.0,0:57:35,1900-01-01 00:57:35,USA,USA,country,6
+79,80,1.0,0:57:37,1900-01-01 00:57:37,USA,USA,country,6
+80,81,1.0,0:57:57,1900-01-01 00:57:57,Haiti,Haiti,country,6
+81,82,1.0,0:59:46,1900-01-01 00:59:46,Haiti,Haiti,country,6
+82,83,1.0,1:09:10,1900-01-01 01:09:10,Haiti,Haiti,country,6
+83,84,1.0,1:09:16,1900-01-01 01:09:16,Haiti,Haiti,country,6
+84,85,1.0,1:09:29,1900-01-01 01:09:29,USA,USA,country,6
+85,86,1.0,1:09:43,1900-01-01 01:09:43,"Bronx, NYC, USA",Bronx; NYC; USA,city / area,4
+86,87,1.0,1:10:57,1900-01-01 01:10:57,"New Hampshire, USA",New Hampshire; USA,region,5
+87,88,1.0,1:11:08,1900-01-01 01:11:08,"NYC, USA",NYC; USA,city / area,4
+88,89,1.0,1:11:10,1900-01-01 01:11:10,Dominican Republic,Dominican Republic,country,6
+89,90,1.0,1:11:18,1900-01-01 01:11:18,"Bronx, NYC, USA",Bronx; NYC; USA,city / area,4
+90,91,1.0,1:11:34,1900-01-01 01:11:34,Haiti,Haiti,country,6
+91,92,1.0,1:12:20,1900-01-01 01:12:20,Dominican Republic,Dominican Republic,country,6
+92,93,1.0,1:12:34,1900-01-01 01:12:34,"Bronx, NYC, USA",Bronx; NY; USA,city / area,4
+93,94,1.0,1:12:51,1900-01-01 01:12:51,"Bronx, NYC, USA",Bronx; NY; USA,city / area,4
+94,95,1.0,1:13:09,1900-01-01 01:13:09,"NYC, USA",New York; NY,city / area,4
+95,96,1.0,1:13:16,1900-01-01 01:13:16,"Catskill Mountains, USA",The Catskills; USA,region,5
+96,97,1.0,1:13:55,1900-01-01 01:13:55,Haiti,Haiti,country,6
+97,98,1.0,1:13:58,1900-01-01 01:13:58,Haiti,Haiti,country,6
+98,99,1.0,1:14:17,1900-01-01 01:14:17,Haiti,Haiti,country,6
+99,100,1.0,1:14:58,1900-01-01 01:14:58,Haiti,Haiti,country,6
+100,101,1.0,1:15:44,1900-01-01 01:15:44,"School of Pedagogy of the State University of Haiti, Port-au-Prince, Haiti ",School of Pedagogy of the State University of Haiti; Port-au-Prince; Haiti ,very local,2
+101,102,1.0,1:15:48,1900-01-01 01:15:48,Haiti,Haiti,country,6
+102,103,1.0,1:16:17,1900-01-01 01:16:17,Haiti,Haiti,country,6
+103,104,1.0,1:16:23,1900-01-01 01:16:23,Haiti,Haiti,country,6
+104,105,1.0,1:16:35,1900-01-01 01:16:35,Haiti,Haiti,country,6
+105,106,1.0,1:16:46,1900-01-01 01:16:46,"NYC, USA",New York; NY,city / area,4
+106,107,1.0,1:17:47,1900-01-01 01:17:47,USA,USA,country,6
+107,108,1.0,1:18:06,1900-01-01 01:18:06,"Little Rock, Arkansas, USA",Little Rock; Arkansas,city / area,4
+108,109,1.0,1:18:29,1900-01-01 01:18:29,USA,USA,country,6
+109,110,1.0,1:18:40,1900-01-01 01:18:40,Haiti,Haiti,country,6
+110,111,1.0,1:18:46,1900-01-01 01:18:46,Haiti,Haiti,country,6
+111,112,1.0,1:18:59,1900-01-01 01:18:59,Haiti,Haiti,country,6
+112,113,1.0,1:19:11,1900-01-01 01:19:11,USA,USA,country,6
+113,114,1.0,1:19:30,1900-01-01 01:19:30,Haiti,Haiti,country,6
+114,115,1.0,1:19:34,1900-01-01 01:19:34,USA,USA,country,6
+115,116,1.0,1:19:48,1900-01-01 01:19:48,South Africa,South Africa,continent,7
+116,117,1.0,1:20:27,1900-01-01 01:20:27,New England,New England,region,5
+117,118,1.0,1:20:31,1900-01-01 01:20:31,"NYC, USA",New York; NY,city / area,4
+118,119,1.0,1:20:33,1900-01-01 01:20:33,"NYC, USA",New York; NY,city / area,4
+119,120,1.0,1:20:35,1900-01-01 01:20:35,"NYC, USA",New York; NY,city / area,4
+120,121,1.0,1:20:43,1900-01-01 01:20:43,USA,USA,country,6
+121,122,1.0,1:21:05,1900-01-01 01:21:05,Haiti,Haiti,country,6
+122,123,1.0,1:21:15,1900-01-01 01:21:15,Haiti,Haiti,country,6
+123,124,1.0,1:21:33,1900-01-01 01:21:33,USA,USA,country,6
+124,125,1.0,1:22:01,1900-01-01 01:22:01,USA,USA,country,6
+125,126,1.0,1:22:18,1900-01-01 01:22:18,Algeria,Algeria,country,6
+126,127,1.0,1:22:23,1900-01-01 01:22:23,Algeria,Algeria,country,6
+127,128,1.0,1:22:28,1900-01-01 01:22:28,Latin America,Latin America,continent,7
+128,129,1.0,1:22:31,1900-01-01 01:22:31,Algeria,Algeria,country,6
+129,130,1.0,1:23:34,1900-01-01 01:23:34,"NYC, USA",New York; NY,city / area,4
+130,131,1.0,1:23:35,1900-01-01 01:23:35,Mexico,Mexico,country,6
+131,132,1.0,1:26:26,1900-01-01 01:26:26,Haiti,Haiti,country,6
+132,133,1.0,1:27:28,1900-01-01 01:27:28,Mexico,Mexico,country,6
+133,134,1.0,1:27:50,1900-01-01 01:27:50,USA,USA,country,6
+134,135,1.0,1:28:59,1900-01-01 01:28:59,Haiti,Haiti,country,6
+135,136,1.0,1:29:00,1900-01-01 01:29:00,Haiti,Haiti,country,6
+136,137,1.0,1:29:07,1900-01-01 01:29:07,Haiti,Haiti,country,6
+137,138,1.0,1:30:14,1900-01-01 01:30:14,Haiti,Haiti ,country,6
+138,139,1.0,1:30:43,1900-01-01 01:30:43,Latin America,Latin America,continent,7
+139,140,1.0,1:30:49,1900-01-01 01:30:49,USA,USA,country,6
+140,141,1.0,1:30:58,1900-01-01 01:30:58,USA,USA,country,6
+141,142,1.0,1:31:05,1900-01-01 01:31:05,Canada,Canada,country,6
+142,143,1.0,1:31:08,1900-01-01 01:31:08,Canada,Canada,country,6
+143,144,1.0,1:31:15,1900-01-01 01:31:15,"Quebec, Canada",Quebec; Canada,region,5
+144,145,1.0,1:31:20,1900-01-01 01:31:20,"Montreal, Canada",Montreal; Qc,city / area,4
+145,146,1.0,1:31:24,1900-01-01 01:31:24,USA,USA,country,6
+146,147,1.0,1:31:32,1900-01-01 01:31:32,Haiti,Haiti,country,6
+147,148,1.0,1:31:50,1900-01-01 01:31:50,USA,USA,country,6
+148,149,1.0,1:32:17,1900-01-01 01:32:17,USA,USA,country,6
+149,150,1.0,1:33:02,1900-01-01 01:33:02,USA,USA,country,6
+150,151,1.0,1:33:23,1900-01-01 01:33:23,Haiti,Haiti,country,6
+151,152,1.0,1:33:26,1900-01-01 01:33:26,Haiti,Haiti,country,6
+152,153,1.0,1:33:29,1900-01-01 01:33:29,France,France,country,6
+153,154,1.0,1:33:30,1900-01-01 01:33:30,Germany,Germany,country,6
+154,155,1.0,1:33:40,1900-01-01 01:33:40,Germany,Germany,country,6
+155,156,1.0,1:33:44,1900-01-01 01:33:44,France,France,country,6
+156,157,1.0,1:35:13,1900-01-01 01:35:13,France,France,country,6
+157,158,1.0,1:36:33,1900-01-01 01:36:33,"Ottawa, Canada",Ottawa; Canada,city / area,4
+158,159,1.0,1:37:25,1900-01-01 01:37:25,Haiti,Haiti,country,6
+159,160,1.0,1:38:06,1900-01-01 01:38:06,USA,USA,country,6
+160,161,1.0,1:39:21,1900-01-01 01:39:21,Haiti,Haiti,country,6
+161,162,1.0,1:39:37,1900-01-01 01:39:37,Haiti,Haiti,country,6
+162,163,1.0,1:39:38,1900-01-01 01:39:38,Haiti,Haiti,country,6
+163,164,1.0,1:39:40,1900-01-01 01:39:40,Haiti,Haiti,country,6
+164,165,1.0,1:40:00,1900-01-01 01:40:00,"NYC, USA",New York; NY,city / area,4
+165,166,1.0,1:40:47,1900-01-01 01:40:47,Haiti,Haiti,country,6
+166,167,1.0,1:40:54,1900-01-01 03:35:09,"Jérémie, Haiti",Jérémie; Haiti,city / area,4
+167,168,1.0,1:50:00,1900-01-01 03:44:15,Haiti,Haiti,country,6
+168,169,1.0,1:51:00,1900-01-01 03:45:15,Haiti,Haiti,country,6
+169,170,1.0,1:51:04,1900-01-01 03:45:19,USA,USA,country,6
+170,171,1.0,1:52:26,1900-01-01 03:46:41,Algeria,Algeria,country,6
+171,172,null,0:00:10,1900-01-01 01:54:25,USA,USA,country,6
+172,173,2.0,0:04:57,1900-01-01 01:59:12,Haiti,Haiti,country,6
+173,174,2.0,0:05:01,1900-01-01 01:59:16,USA,USA,country,6
+174,175,2.0,0:05:04,1900-01-01 01:59:19,Haiti,Haiti,country,6
+175,176,2.0,0:05:22,1900-01-01 01:59:37,USA,USA,country,6
+176,177,2.0,0:05:24,1900-01-01 01:59:39,Haiti,Haiti,country,6
+177,178,2.0,0:09:00,1900-01-01 02:03:15,"Greenwich Village, NYC, USA",Greenwich Village; NY; NY,local,3
+178,179,2.0,0:09:20,1900-01-01 02:03:35,"NYC, USA",New York; NY,city / area,4
+179,180,2.0,0:09:25,1900-01-01 02:03:40,"YWCA, NYC, USA",YWCA; New York; NY,very local,2
+180,181,2.0,0:11:35,1900-01-01 02:05:50,"Lycée Français de New York, NYC, USA",Lycée Français de New York; NYC; USA,very local,2
+181,182,2.0,0:11:36,1900-01-01 02:05:51,"Lycée Français de New York, NYC, USA",Lycée Français de New York; NYC; USA,very local,2
+182,183,2.0,0:11:54,1900-01-01 02:06:09,"NYC, USA",New York; NY,city / area,4
+183,184,2.0,0:11:55,1900-01-01 02:06:10,"NYC, USA",New York; NY,city / area,4
+184,185,2.0,0:12:01,1900-01-01 02:06:16,"Montreal, Canada",Montreal; Qc,city / area,4
+185,186,2.0,0:12:05,1900-01-01 02:06:20,"Montreal, Canada",Montreal; Qc,city / area,4
+186,187,2.0,0:14:18,1900-01-01 02:08:33,"Concordia University, Montreal, Canada",Concordia University; Montreal; Qc,very local,2
+187,188,2.0,0:14:22,1900-01-01 02:08:37,"Concordia University, Montreal, Canada",Concordia University; Montreal; Qc,very local,2
+188,189,2.0,0:16:48,1900-01-01 02:11:03,Europe,Europe,continent,7
+189,190,2.0,0:21:28,1900-01-01 02:15:43,"NYC, USA",NYC; USA,city / area,4
+190,191,2.0,0:21:29,1900-01-01 02:15:44,"NYC, USA",NYC; USA,city / area,4
+191,192,2.0,0:21:31,1900-01-01 02:15:46,"New Hampshire, USA",New Hampshire; USA,region,5
+192,193,2.0,0:21:37,1900-01-01 02:15:52,"New Hampshire, USA",New Hampshire; USA,region,5
+193,194,2.0,0:23:05,1900-01-01 02:17:20,Haiti,Haiti,country,6
+194,195,2.0,0:24:57,1900-01-01 02:19:12,"Concordia University, Montreal, Canada",Concordia University; Montreal; Qc,very local,2
+195,196,2.0,0:26:53,1900-01-01 02:21:08,France,France,country,6
+196,197,2.0,0:27:03,1900-01-01 02:21:18,"Montreal, Canada",Montreal; Qc,city / area,4
+197,198,2.0,0:27:25,1900-01-01 02:21:40,France,France,country,6
+198,199,2.0,0:27:37,1900-01-01 02:21:52,"Paris, France",Paris; France,city / area,4
+199,200,2.0,0:27:39,1900-01-01 02:21:54,"l'université Paris-Sorbonne, Paris, France",l'université Paris-Sorbonne; Paris; France,very local,2
+200,201,2.0,0:28:17,1900-01-01 02:22:32,"Montreal, Canada",Montreal; Qc,city / area,4
+201,202,2.0,0:28:46,1900-01-01 02:23:01,France,France,country,6
+202,203,2.0,0:28:47,1900-01-01 02:23:02,France,France,country,6
+203,204,2.0,0:28:49,1900-01-01 02:23:04,France,France,country,6
+204,205,2.0,0:28:52,1900-01-01 02:23:07,France,France,country,6
+205,206,2.0,0:28:54,1900-01-01 02:23:09,Germany,Germany,country,6
+206,207,2.0,0:28:56,1900-01-01 02:23:11,Germany,Germany,country,6
+207,208,2.0,0:28:58,1900-01-01 02:23:13,France,France,country,6
+208,209,2.0,0:28:59,1900-01-01 02:23:14,Italy,Italy,country,6
+209,210,2.0,0:29:02,1900-01-01 02:23:17,Lichtenstein,Lichtenstein; Germany,country,6
+210,211,2.0,0:29:05,1900-01-01 02:23:20,Germany,Germany,country,6
+211,212,2.0,0:29:09,1900-01-01 02:23:24,France,France,country,6
+212,213,2.0,0:29:13,1900-01-01 02:23:28,France,France,country,6
+213,214,2.0,0:29:16,1900-01-01 02:23:31,France,France,country,6
+214,215,2.0,0:29:33,1900-01-01 02:23:48,France,France,country,6
+215,216,2.0,0:29:40,1900-01-01 02:23:55,"Concordia University, Montreal, Canada",Concordia University; Montreal; Qc,very local,2
+216,217,2.0,0:30:50,1900-01-01 02:25:05,Haiti,Haiti,country,6
+217,218,2.0,0:32:19,1900-01-01 02:26:34,France,France,country,6
+218,219,2.0,0:32:29,1900-01-01 02:26:44,France,France,country,6
+219,220,2.0,0:32:38,1900-01-01 02:26:53,France,France,country,6
+220,221,2.0,0:32:42,1900-01-01 02:26:57,France,France,country,6
+221,222,2.0,0:32:47,1900-01-01 02:27:02,France,France,country,6
+222,223,2.0,0:33:08,1900-01-01 02:27:23,France,France,country,6
+223,224,2.0,0:33:21,1900-01-01 02:27:36,Germany,Germany,country,6
+224,225,2.0,0:33:25,1900-01-01 02:27:40,"Heidelberg, Germany",Heidelberg; Germany,city / area,4
+225,226,2.0,0:33:42,1900-01-01 02:27:57,"Heidelberg, Germany",Heidelberg; Germany,city / area,4
+226,227,2.0,0:34:30,1900-01-01 02:28:45,Italy,Italy,country,6
+227,228,2.0,0:34:48,1900-01-01 02:29:03,Brazil,Brazil,country,6
+228,229,2.0,0:35:14,1900-01-01 02:29:29,Europe,Europe,continent,7
+229,230,2.0,0:35:17,1900-01-01 02:29:32,"American consulate, Montreal, Canada",American consulate; Montreal; Qc,very local,2
+230,231,2.0,0:35:21,1900-01-01 02:29:36,Europe,Europe,continent,7
+231,232,2.0,0:32:50,1900-01-01 02:27:05,USA,USA,country,6
+232,233,2.0,0:36:52,1900-01-01 02:31:07,USA,USA,country,6
+233,234,2.0,0:38:54,1900-01-01 02:33:09,Russia,Russia,country,6
+234,235,2.0,0:39:01,1900-01-01 02:33:16,Cuba,Cuba,country,6
+235,236,2.0,0:39:58,1900-01-01 02:34:13,USA,USA,country,6
+236,237,2.0,0:40:19,1900-01-01 02:34:34,USA,USA,country,6
+237,238,2.0,0:42:22,1900-01-01 02:36:37,Vietnam,Vietnam,country,6
+238,239,2.0,0:42:38,1900-01-01 02:36:53,Vietnam,Vietnam,country,6
+239,240,2.0,0:45:08,1900-01-01 02:39:23,Haiti,Haiti,country,6
+240,241,2.0,0:45:21,1900-01-01 02:39:36,Chile,Chile,country,6
+241,242,2.0,0:45:52,1900-01-01 02:40:07,"Quebec, Canada",Quebec,region,5
+242,243,2.0,0:46:43,1900-01-01 02:40:58,"Quebec City, Canada",Quebec City; Qc,city / area,4
+243,244,2.0,0:47:12,1900-01-01 02:41:27,"Outremont, Montreal, Canada",Outremont; Montreal; Qc,local,3
+244,245,2.0,0:47:17,1900-01-01 02:41:32,"Outremont, Montreal, Canada",Outremont; Montreal; Qc,local,3
+245,246,2.0,0:51:14,1900-01-01 02:45:29,"Quebec City, Canada",Quebec City; Qc,city / area,4
+246,247,2.0,0:51:30,1900-01-01 02:45:45,"Quebec City, Canada",Quebec City; Qc,city / area,4
+247,248,2.0,0:52:24,1900-01-01 02:46:39,"UQAM, Montreal, Canada",UQAM; Montreal; Qc,very local,2
+248,249,2.0,0:52:50,1900-01-01 02:47:05,"Quebec, Canada",Quebec,region,5
+249,250,2.0,0:53:06,1900-01-01 02:47:21,"Quebec City, Canada",Quebec City; Qc,city / area,4
+250,251,2.0,0:54:10,1900-01-01 02:48:25,"McGill, Montreal, Canada",McGill; Montreal; Qc,very local,2
+251,252,2.0,0:54:40,1900-01-01 02:48:55,Haiti,Haiti,country,6
+252,253,2.0,0:54:45,1900-01-01 02:49:00,Canada,Canada,country,6
+253,254,2.0,0:57:04,1900-01-01 02:51:19,Canada,Canada,country,6
+254,255,2.0,0:57:07,1900-01-01 02:51:22,Canada,Canada,country,6
+255,256,2.0,0:57:46,1900-01-01 02:52:01,"Quebec City, Canada",Quebec City; Qc,city / area,4
+256,257,2.0,0:58:40,1900-01-01 02:52:55,Haiti,Haiti,country,6
+257,258,2.0,0:59:18,1900-01-01 02:53:33,Haiti,Haiti,country,6
+258,259,2.0,0:59:20,1900-01-01 02:53:35,Haiti,Haiti,country,6
+259,260,2.0,0:59:28,1900-01-01 02:53:43,Haiti,Haiti,country,6
+260,261,2.0,0:59:47,1900-01-01 02:54:02,"Quebec City, Canada",Quebec City; Qc,city / area,4
+261,262,2.0,0:59:55,1900-01-01 02:54:10,"Laval University, Quebec City, Canada",Laval University; Quebec City; Qc,very local,2
+262,263,2.0,1:01:00,1900-01-01 02:55:15,"City Hall, 2 Des Jardins Quebec City, Canada",City Hall; 2 Des Jardins Quebec City; Qc,very local,2
+263,264,2.0,1:01:01,1900-01-01 02:55:16,"Quebec City, Canada",Quebec City; Qc,city / area,4
+264,265,2.0,1:02:06,1900-01-01 02:56:21,"City Hall, 2 Des Jardins Quebec City, Canada",City Hall; 2 Des Jardins Quebec City; Qc,very local,2
+265,266,2.0,1:02:58,1900-01-01 02:57:13,"Montreal, Canada",Montreal; Qc,city / area,4
+266,267,2.0,1:05:24,1900-01-01 02:59:39,"Laval University, Quebec City, Canada",Laval University; Quebec City; Qc,very local,2
+267,268,2.0,1:05:34,1900-01-01 02:59:49,"Laval University, Quebec City, Canada",Laval University; Quebec City; Qc,very local,2
+268,269,2.0,1:06:07,1900-01-01 03:00:22,"Quebec, Canada",Quebec,region,5
+269,270,2.0,1:06:11,1900-01-01 03:00:26,"Quebec City, Canada",Quebec City; Qc,city / area,4
+270,271,2.0,1:07:48,1900-01-01 03:02:03,"Laval University, Quebec City, Canada",Laval University; Quebec City; Qc,very local,2
+271,272,2.0,1:07:53,1900-01-01 03:02:08,"Laval University, Quebec City, Canada",Laval University; Quebec City; Qc,very local,2
+272,273,2.0,1:09:13,1900-01-01 03:03:28,"Laval University, Quebec City, Canada",Laval University; Quebec City; Qc,very local,2
+273,274,3.0,0:00:12,1900-01-01 03:05:14,"Quebec City, Canada",Quebec City; Qc,city / area,4
+274,275,3.0,0:00:17,1900-01-01 03:05:19,"Laval University, Quebec City, Canada",Laval University; Quebec City; Qc,very local,2
+275,276,3.0,0:00:24,1900-01-01 03:05:26,"Quebec City, Canada",Quebec City; Qc,city / area,4
+276,277,3.0,0:00:27,1900-01-01 03:05:29,"Quebec City, Canada",Quebec City; Qc,city / area,4
+277,278,3.0,0:00:41,1900-01-01 03:05:43,"NYC, USA",New York; NY,city / area,4
+278,279,3.0,0:00:43,1900-01-01 03:05:45,"Montreal, Canada",Montreal; Qc,city / area,4
+279,280,3.0,0:00:46,1900-01-01 03:05:48,"Montreal, Canada",Montreal; Qc,city / area,4
+280,281,3.0,0:00:51,1900-01-01 03:05:53,"Quebec City, Canada",Quebec City; Qc,city / area,4
+281,282,3.0,0:01:04,1900-01-01 03:06:06,"Montreal, Canada",Montreal; Qc,city / area,4
+282,283,3.0,0:01:14,1900-01-01 03:06:16,"Quebec City, Canada",Quebec City; Qc,city / area,4
+283,284,3.0,0:01:25,1900-01-01 03:06:27,"NYC, USA",New York; NY,city / area,4
+284,285,3.0,0:01:26,1900-01-01 03:06:28,"Montreal, Canada",Montreal; Qc,city / area,4
+285,286,3.0,0:01:30,1900-01-01 03:06:32,"Montreal, Canada",Montreal; Qc,city / area,4
+286,287,3.0,0:01:44,1900-01-01 03:06:46,"Quebec City, Canada",Quebec City; Qc,city / area,4
+287,288,3.0,0:03:50,1900-01-01 03:08:52,"Laval University, Quebec City, Canada",Laval University; Quebec City; Qc,very local,2
+288,289,3.0,0:04:47,1900-01-01 03:09:49,Canada,Canada,country,6
+289,290,3.0,0:13:14,1900-01-01 03:18:16,Haiti,Haiti,country,6
+290,291,3.0,0:18:07,1900-01-01 03:23:09,Jamaica,Jamaica,country,6
+291,292,3.0,0:20:35,1900-01-01 03:25:37,Haiti,Haiti,country,6
+292,293,3.0,0:21:46,1900-01-01 03:26:48,"Quebec, Canada",Quebec,region,5
+293,294,3.0,0:21:48,1900-01-01 03:26:50,"Quebec, Canada",Quebec,region,5
+294,295,3.0,0:24:26,1900-01-01 03:29:28,"Quebec, Canada",Quebec,region,5
+295,296,3.0,0:24:38,1900-01-01 03:29:40,"Montreal, Canada",Montreal; Qc,city / area,4
+296,297,3.0,0:26:56,1900-01-01 03:31:58,"Quebec, Canada",Quebec,region,5
+297,298,3.0,0:27:49,1900-01-01 03:32:51,USA,USA,country,6
+298,299,3.0,0:27:54,1900-01-01 03:32:56,"Quebec, Canada",Quebec,region,5
+299,300,3.0,0:27:55,1900-01-01 03:32:57,USA,USA,country,6
+300,301,3.0,0:28:02,1900-01-01 03:33:04,USA,USA,country,6
+301,302,3.0,0:28:20,1900-01-01 03:33:22,"Montreal, Canada",Montreal; Qc,city / area,4
+302,303,3.0,0:28:26,1900-01-01 03:33:28,USA,USA,country,6
+303,304,3.0,0:31:48,1900-01-01 03:36:50,Haiti,Haiti,country,6
+304,305,3.0,0:32:22,1900-01-01 03:37:24,Haiti,Haiti,country,6
+305,306,3.0,0:32:27,1900-01-01 03:37:29,Haiti,Haiti,country,6
+306,307,3.0,0:33:10,1900-01-01 03:38:12,Haiti,Haiti,country,6
+307,308,3.0,0:34:35,1900-01-01 03:39:37,USA,USA,country,6
+308,309,3.0,0:37:56,1900-01-01 03:42:58,Haiti,Haiti,country,6
+309,310,3.0,0:40:01,1900-01-01 03:45:03,Haiti,Haiti,country,6
+310,311,3.0,0:40:12,1900-01-01 03:45:14,Haiti,Haiti,country,6
+311,312,3.0,0:40:29,1900-01-01 03:45:31,Haiti,Haiti,country,6
+312,313,3.0,0:40:35,1900-01-01 03:45:37,Haiti,Haiti,country,6
+313,314,3.0,0:40:36,1900-01-01 03:45:38,Haiti,Haiti,country,6
+314,315,3.0,0:40:40,1900-01-01 03:45:42,Haiti,Haiti,country,6
+315,316,3.0,0:41:58,1900-01-01 03:47:00,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,4
+316,317,3.0,0:42:22,1900-01-01 03:47:24,Haiti,Haiti,country,6
+317,318,3.0,0:44:12,1900-01-01 03:49:14,Haiti,Haiti,country,6
+318,319,3.0,0:45:11,1900-01-01 03:50:13,Haiti,Haiti,country,6
+319,320,3.0,0:46:36,1900-01-01 03:51:38,Haiti,Haiti,country,6
+320,321,3.0,0:46:42,1900-01-01 03:51:44,Haiti,Haiti,country,6
+321,322,3.0,0:47:07,1900-01-01 03:52:09,France,France,country,6
+322,323,3.0,0:47:21,1900-01-01 03:52:23,Haiti,Haiti,country,6
+323,324,3.0,0:47:41,1900-01-01 03:52:43,USA,USA,country,6
+324,325,3.0,0:47:44,1900-01-01 03:52:46,"Quebec, Canada",Quebec,region,5
+325,326,3.0,0:48:00,1900-01-01 03:53:02,"Quebec, Canada",Quebec,region,5
+326,327,3.0,0:48:03,1900-01-01 03:53:05,USA,USA,country,6
+327,328,3.0,0:48:04,1900-01-01 03:53:06,France,France,country,6
+328,329,3.0,0:48:06,1900-01-01 03:53:08,Switzerland,Switzerland,country,6
+329,330,3.0,0:48:39,1900-01-01 03:53:41,Haiti,Haiti,country,6
+330,331,3.0,0:48:53,1900-01-01 03:53:55,Haiti,Haiti,country,6
+331,332,3.0,0:49:01,1900-01-01 03:54:03,Haiti,Haiti,country,6

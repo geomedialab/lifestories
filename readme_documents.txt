@@ -1,1 +1,0 @@
-story unit sheets have QUOTES columns removed. To consult these, refer to original spreadsheets on dropbox

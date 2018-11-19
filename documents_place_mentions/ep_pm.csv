@@ -101,8 +101,8 @@ id,Session #,Clip Time mentioned (h:mm:ss),Cumulative Time Mentioned (h:mm:ss),A
 100,1,1:09:20,1:09:20,"Quebec, Canada",Quebec; Canada,region
 101,1,1:10:12,1:10:12,Cuba,Cuba,country
 102,1,1:11:25,1:11:25,Haiti,Haiti,country
-103,1,1:11:49,1:11:49,"Maison D'Haïti, Montreal, Canada",Maison D'Haïti; Montreal; Canada,very local
-104,1,1:12:06,1:12:06,"Maison D'Haïti, Montreal, Canada",Maison D'Haïti; Montreal; Canada,very local
+103,1,1:11:49,1:11:49,"Maison D'Haiti, Montreal, Canada",Maison D'Haïti; Montreal; Canada,very local
+104,1,1:12:06,1:12:06,"Maison D'Haiti, Montreal, Canada",Maison D'Haïti; Montreal; Canada,very local
 105,1,1:12:36,1:12:36,Cuba,Cuba,country
 106,1,1:12:42,1:12:42,Cuba,Cuba,country
 107,1,1:15:38,1:15:38,Haiti,Haiti,country
@@ -152,16 +152,16 @@ id,Session #,Clip Time mentioned (h:mm:ss),Cumulative Time Mentioned (h:mm:ss),A
 151,2,0:14:37,1:37:39,Canada,Canada,country
 152,2,0:18:59,1:42:01,Cuba,Cuba,country
 153,2,0:19:09,1:42:11,Canada,Canada,country
-154,2,0:23:10,1:46:12,"Maison D'Haïti, Montreal, Canada",Maison D'Haïti; Montreal; Canada,very local
-155,2,0:23:24,1:46:26,"Maison D'Haïti, Montreal, Canada",Maison D'Haïti; Montreal; Canada,very local
+154,2,0:23:10,1:46:12,"Maison D'Haiti, Montreal, Canada",Maison D'Haïti; Montreal; Canada,very local
+155,2,0:23:24,1:46:26,"Maison D'Haiti, Montreal, Canada",Maison D'Haïti; Montreal; Canada,very local
 156,2,0:23:28,1:46:30,"Association Latino-Americaine des Droits Humains: 5690 Rue Gatineau, Montreal, Canada",Association Latino-Americaine des Droits Humains: 5690 Rue Gatineau; Montreal; Canada,very local
 157,2,0:23:41,1:46:43,"Commission des droits de la personne et des droits de la jeunesse, Montreal, Canada",Commission des droits de la personne et des droits de la jeunesse; Montreal; Canada,very local
-158,2,0:24:48,1:47:50,"Maison D'Haïti, Montreal, Canada",Maison D'Haïti; Montreal; Canada,very local
+158,2,0:24:48,1:47:50,"Maison D'Haiti, Montreal, Canada",Maison D'Haïti; Montreal; Canada,very local
 159,2,0:25:05,1:48:07,"Association Latino-Americaine des Droits Humains: 5690 Rue Gatineau, Montreal, Canada",Association Latino-Americaine des Droits Humains: 5690 Rue Gatineau; Montreal; Canada,very local
 160,2,0:25:23,1:48:25,"Commission des droits de la personne et des droits de la jeunesse, Montreal, Canada",Commission des droits de la personne et des droits de la jeunesse; Montreal; Canada,very local
 161,2,0:25:48,1:48:50,"Quebec, Canada",Quebec; Canada,country
 162,2,0:26:46,1:49:48,"Les Laurentides, Quebec, Canada",Les Laurentides; Quebec; Canada,city / area
-163,2,0:31:41,1:54:43,"Maison D'Haïti, Montreal, Canada",Maison D'Haïti; Montreal; Canada,very local
+163,2,0:31:41,1:54:43,"Maison D'Haiti, Montreal, Canada",Maison D'Haïti; Montreal; Canada,very local
 164,2,0:31:43,1:54:45,"Association Latino-Americaine des Droits Humains: 5690 Rue Gatineau, Montreal, Canada",Association Latino-Americaine des Droits Humains: 5690 Rue Gatineau; Montreal; Canada,very local
 165,2,0:36:13,1:59:15,Canada,Canada,country
 166,2,0:37:57,2:00:59,Haiti,Haiti,country
@@ -204,7 +204,7 @@ id,Session #,Clip Time mentioned (h:mm:ss),Cumulative Time Mentioned (h:mm:ss),A
 203,2,0:56:10,2:19:12,Haiti,Haiti,country
 204,2,0:57:26,2:20:28,Haiti,Haiti,country
 205,2,0:57:10,2:20:12,Africa,Africa,continent
-206,2,0:57:26,2:20:28,Haiti,Senegal,country
+206,2,0:57:26,2:20:28,Senegal,Senegal,country
 207,2,0:58:29,2:21:31,Haiti,Haiti,country
 208,2,0:58:38,2:21:40,Haiti,Haiti,country
 209,2,0:58:42,2:21:44,Haiti,Haiti,country
@@ -359,8 +359,8 @@ id,Session #,Clip Time mentioned (h:mm:ss),Cumulative Time Mentioned (h:mm:ss),A
 358,2,2:15:04,3:38:06,Cuba,Cuba,country
 359,2,2:15:16,3:38:18,Haiti,Haiti,country
 360,2,2:16:06,3:39:08,"Montreal, Canada",Montreal; Canada,city / area
-361,2,2:16:34,3:39:36,"Maison D'Haïti, Montreal, Canada",Maison D'Haïti; Montreal; Canada,very local
-362,2,2:16:35,3:39:37,"Maison D'Haïti, Montreal, Canada",Maison D'Haïti; Montreal; Canada,very local
+361,2,2:16:34,3:39:36,"Maison D'Haiti, Montreal, Canada",Maison D'Haïti; Montreal; Canada,very local
+362,2,2:16:35,3:39:37,"Maison D'Haiti, Montreal, Canada",Maison D'Haïti; Montreal; Canada,very local
 363,2,2:17:10,3:40:12,Haiti,Haiti,country
 364,2,2:17:11,3:40:13,Cuba,Cuba,country
 365,2,2:17:12,3:40:14,"Montreal, Canada",Montreal; Canada,city / area

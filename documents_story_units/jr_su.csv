@@ -11,7 +11,7 @@ id,Session #,Story Unit,Clip Time start (h:mm:ss),Clip Time end (h:mm:ss),Cumula
 10,1,10,0:04:46,0:04:55,0:04:46,0:04:55,_end,none,,
 11,1,11,0:04:55,0:05:37,0:04:55,0:05:37,Burundi,Burundi,country,
 12,1,12,0:05:37,0:08:47,0:05:37,0:08:47,"Ruhengeri, Rwanda","Ruhengeri, Rwanda; Bugesera, Rwanda; Burundi",country,
-13,,,,,0:05:37,0:08:47,"Bugesera, Rwanda",,region,
+13,,,,,0:05:37,0:08:47,"Bugesera, Rwanda",,city / area,
 14,,,,,0:05:37,0:08:47,Burundi,,country,
 15,1,13,0:08:47,0:09:30,0:08:47,0:09:30,Burundi,Burundi,country,
 16,1,14,0:09:30,0:11:00,0:09:30,0:11:00,Burundi,Burundi,country,

@@ -1,175 +1,175 @@
-id,session_num,su_num,time_clip_start,time_clip_end,time_start,time_end,place,place_raw,scale,journey,scale_order,mention_freq,mention_index,mention_places,mention_match_freq,mention_match_index,mention_match_places,mention_coarser_match_freq,mention_coarser_match_index,mention_coarser_match_places,mention_finer_match_freq,mention_finer_match_index,mention_finer_match_places
-1,1.0,1.0,0:00:00,0:00:30,1900-01-01 00:00:00,1900-01-01 00:00:30,_end,none,null,null,8,0,,,0,,,0,,,0,,
-2,1.0,2.0,0:00:30,0:01:54,1900-01-01 00:00:30,1900-01-01 00:01:54,_end,none,null,null,8,1,;1,;Rwanda,0,,,0,,,0,,
-3,1.0,3.0,0:01:54,0:02:07,1900-01-01 00:01:54,1900-01-01 00:02:07,_end,none,null,null,8,0,,,0,,,0,,,0,,
-4,1.0,4.0,0:02:07,0:03:47,1900-01-01 00:02:07,1900-01-01 00:03:47,Rwanda,Rwanda,country,null,6,2,;2;3,";Rwanda;Gitarama, Rwanda",1,;2,;Rwanda,1,;3,";Gitarama, Rwanda",0,,
-5,1.0,5.0,0:03:47,0:04:00,1900-01-01 00:03:47,1900-01-01 00:04:00,Rwanda,Rwanda,country,null,6,0,,,0,,,0,,,0,,
-6,1.0,6.0,0:04:00,0:04:04,1900-01-01 00:04:00,1900-01-01 00:04:04,Rwanda,Rwanda,country,null,6,0,,,0,,,0,,,0,,
-7,1.0,7.0,0:04:04,0:05:20,1900-01-01 00:04:04,1900-01-01 00:05:20,"Nyanza, Rwanda","Nyanza, Rwanda",local,null,3,3,;4;5;6,";Nyanza, Rwanda;Nyanza, Rwanda;Gikongoro, Rwanda",2,;4;5,";Nyanza, Rwanda;Nyanza, Rwanda",0,,,0,,
-8,1.0,8.0,0:05:20,0:05:25,1900-01-01 00:05:20,1900-01-01 00:05:25,"Nyanza, Rwanda","Nyanza, Rwanda",local,null,3,0,,,0,,,0,,,0,,
-9,1.0,9.0,0:05:25,0:08:13,1900-01-01 00:05:25,1900-01-01 00:08:13,"Nyanza, Rwanda","Nyanza, Rwanda",local,null,3,6,;7;8;9;10;11;12,";Nyanza, Rwanda;Gitarama, Rwanda;Rwanda;Democratic Republic of Congo;Democratic Republic of Congo;Democratic Republic of Congo",1,;7,";Nyanza, Rwanda",0,,,1,;9,;Rwanda
-10,1.0,10.0,0:08:13,0:08:20,1900-01-01 00:08:13,1900-01-01 00:08:20,_end,none,null,null,8,0,,,0,,,0,,,0,,
-11,1.0,11.0,0:08:20,0:09:25,1900-01-01 00:08:20,1900-01-01 00:09:25,"Butare, Rwanda","Butare, Rwanda",city / area,null,4,3,;13;14;15,";Butare, Rwanda;Butare, Rwanda;Butare, Rwanda",3,;13;14;15,";Butare, Rwanda;Butare, Rwanda;Butare, Rwanda",0,,,0,,
-12,1.0,12.0,0:09:25,0:10:37,1900-01-01 00:09:25,1900-01-01 00:10:37,_end,none,null,null,8,0,,,0,,,0,,,0,,
-13,1.0,13.0,0:10:37,0:11:05,1900-01-01 00:10:37,1900-01-01 00:11:05,_end,none,null,null,8,0,,,0,,,0,,,0,,
-14,1.0,14.0,0:11:05,0:11:54,1900-01-01 00:11:05,1900-01-01 00:11:54,Rwanda,Rwanda,country,null,6,0,,,0,,,0,,,0,,
-15,1.0,15.0,0:11:54,0:12:10,1900-01-01 00:11:54,1900-01-01 00:12:10,_end,none,null,null,8,0,,,0,,,0,,,0,,
-16,1.0,16.0,0:12:10,0:12:30,1900-01-01 00:12:10,1900-01-01 00:12:30,Rwanda,Rwanda,country,null,6,0,,,0,,,0,,,0,,
-17,1.0,17.0,0:12:30,0:17:40,1900-01-01 00:12:30,1900-01-01 00:17:40,Rwanda,Rwanda,country,null,6,9,;16;17;18;19;20;21;22;23;24,";Rwanda;Nyagatare, Rwanda;Rwanda;Rwanda;Uganda;Rwanda;Tumba, Rwanda;Tumba, Rwanda;Byumba, Rwanda",4,;16;18;19;21,;Rwanda;Rwanda;Rwanda;Rwanda,4,;17;22;23;24,";Nyagatare, Rwanda;Tumba, Rwanda;Tumba, Rwanda;Byumba, Rwanda",0,,
-18,1.0,18.0,0:17:40,0:18:55,1900-01-01 00:17:40,1900-01-01 00:18:55,"Butare, Rwanda","Butare, Rwanda",city / area,null,4,0,,,0,,,0,,,0,,
-19,1.0,19.0,0:18:55,0:20:08,1900-01-01 00:18:55,1900-01-01 00:20:08,"Nyanza, Rwanda","Nyanza, Rwanda",local,null,3,2,;25;26,";Byumba, Rwanda;Nyanza, Rwanda",1,;26,";Nyanza, Rwanda",0,,,0,,
-20,1.0,20.0,0:20:08,0:20:13,1900-01-01 00:20:08,1900-01-01 00:20:13,_end,none,null,null,8,0,,,0,,,0,,,0,,
-21,1.0,21.0,0:20:13,0:20:47,1900-01-01 00:20:13,1900-01-01 00:20:47,"Nyanza, Rwanda","Nyanza, Rwanda",local,null,3,0,,,0,,,0,,,0,,
-22,1.0,22.0,0:20:47,0:20:55,1900-01-01 00:20:47,1900-01-01 00:20:55,"Nyanza, Rwanda","Nyanza, Rwanda",local,null,3,0,,,0,,,0,,,0,,
-23,1.0,23.0,0:20:55,0:21:40,1900-01-01 00:20:55,1900-01-01 00:21:40,"Nyanza, Rwanda","Nyanza, Rwanda",local,null,3,0,,,0,,,0,,,0,,
-24,1.0,24.0,0:21:40,0:21:48,1900-01-01 00:21:40,1900-01-01 00:21:48,_end,none,null,null,8,0,,,0,,,0,,,0,,
-25,1.0,25.0,0:21:48,0:23:05,1900-01-01 00:21:48,1900-01-01 00:23:05,_end,none,null,null,8,0,,,0,,,0,,,0,,
-26,1.0,26.0,0:23:05,0:26:42,1900-01-01 00:23:05,1900-01-01 00:26:42,"Butare, Rwanda","Butare, Rwanda",city / area,null,4,1,;27,";Butare, Rwanda",1,;27,";Butare, Rwanda",0,,,0,,
-27,1.0,27.0,0:26:42,0:27:08,1900-01-01 00:26:42,1900-01-01 00:27:08,_end,none,null,null,8,0,,,0,,,0,,,0,,
-28,1.0,28.0,0:27:08,0:30:00,1900-01-01 00:27:08,1900-01-01 00:30:00,_end,none,null,null,8,2,;28;29,;Rwanda;Rwanda,0,,,0,,,0,,
-29,1.0,29.0,0:30:00,0:30:15,1900-01-01 00:30:00,1900-01-01 00:30:15,"Butare, Rwanda","Butare, Rwanda",city / area,null,4,0,,,0,,,0,,,0,,
-30,1.0,30.0,0:30:15,0:31:12,1900-01-01 00:30:15,1900-01-01 00:31:12,"Butare, Rwanda","Butare, Rwanda",city / area,null,4,4,;30;31;32;33,;Rwanda;Burundi;Rwanda;Burundi,0,,,0,,,2,;30;32,;Rwanda;Rwanda
-31,1.0,31.0,0:31:12,0:31:23,1900-01-01 00:31:12,1900-01-01 00:31:23,Rwanda,Rwanda,country,null,6,0,,,0,,,0,,,0,,
-32,1.0,32.0,0:31:23,0:32:19,1900-01-01 00:31:23,1900-01-01 00:32:19,"Butare, Rwanda","Butare, Rwanda",city / area,null,4,0,,,0,,,0,,,0,,
-33,1.0,33.0,0:32:19,0:32:25,1900-01-01 00:32:19,1900-01-01 00:32:25,Rwanda,Rwanda,country,null,6,0,,,0,,,0,,,0,,
-34,1.0,34.0,0:32:25,0:33:04,1900-01-01 00:32:25,1900-01-01 00:33:04,"Butare, Rwanda","Butare, Rwanda",city / area,null,4,0,,,0,,,0,,,0,,
-35,1.0,35.0,0:33:04,0:33:17,1900-01-01 00:33:04,1900-01-01 00:33:17,"Butare, Rwanda","Butare, Rwanda",city / area,null,4,0,,,0,,,0,,,0,,
-36,1.0,36.0,0:33:17,0:35:00,1900-01-01 00:33:17,1900-01-01 00:35:00,"Butare, Rwanda","Butare, Rwanda",city / area,null,4,2,;34;35,;Rwanda;Burundi,0,,,0,,,1,;34,;Rwanda
-37,1.0,37.0,0:35:00,0:35:11,1900-01-01 00:35:00,1900-01-01 00:35:11,"Nyanza, Rwanda","Nyanza, Rwanda",local,null,3,0,,,0,,,0,,,0,,
-38,1.0,38.0,0:35:11,0:37:26,1900-01-01 00:35:11,1900-01-01 00:37:26,"Nyanza, Rwanda","Nyanza, Rwanda",local,null,3,6,;36;37;38;39;40;41,";Rwanda;Nyanza, Rwanda;Nyanza, Rwanda;Nyanza, Rwanda;Nyanza, Rwanda;Nyanza, Rwanda",5,;37;38;39;40;41,";Nyanza, Rwanda;Nyanza, Rwanda;Nyanza, Rwanda;Nyanza, Rwanda;Nyanza, Rwanda",0,,,1,;36,;Rwanda
-39,1.0,39.0,0:37:26,0:37:58,1900-01-01 00:37:26,1900-01-01 00:37:58,"Nyanza, Rwanda","Nyanza, Rwanda",local,null,3,0,,,0,,,0,,,0,,
-40,1.0,40.0,0:37:58,0:40:18,1900-01-01 00:37:58,1900-01-01 00:40:18,"Butare, Rwanda","Butare, Rwanda",city / area,null,4,1,;42,;Burundi,0,,,0,,,0,,
-41,1.0,41.0,0:40:18,0:40:55,1900-01-01 00:40:18,1900-01-01 00:40:55,Rwanda,Rwanda,country,null,6,0,,,0,,,0,,,0,,
-42,1.0,42.0,0:40:55,0:43:41,1900-01-01 00:40:55,1900-01-01 00:43:41,Rwanda,Rwanda,country,null,6,0,,,0,,,0,,,0,,
-43,1.0,43.0,0:43:41,0:43:48,1900-01-01 00:43:41,1900-01-01 00:43:48,Rwanda,Rwanda,country,null,6,0,,,0,,,0,,,0,,
-44,1.0,44.0,0:43:48,0:44:10,1900-01-01 00:43:48,1900-01-01 00:44:10,Rwanda,Rwanda,country,null,6,0,,,0,,,0,,,0,,
-45,1.0,45.0,0:44:10,0:45:13,1900-01-01 00:44:10,1900-01-01 00:45:13,Rwanda,Rwanda,country,null,6,0,,,0,,,0,,,0,,
-46,1.0,46.0,0:45:13,0:45:16,1900-01-01 00:45:13,1900-01-01 00:45:16,Rwanda,Rwanda,country,null,6,0,,,0,,,0,,,0,,
-47,1.0,47.0,0:45:16,0:46:38,1900-01-01 00:45:16,1900-01-01 00:46:38,Rwanda,Rwanda,country,null,6,0,,,0,,,0,,,0,,
-48,1.0,48.0,0:46:38,0:46:42,1900-01-01 00:46:38,1900-01-01 00:46:42,Rwanda,Rwanda,country,null,6,0,,,0,,,0,,,0,,
-49,1.0,49.0,0:46:42,0:48:45,1900-01-01 00:46:42,1900-01-01 00:48:45,Rwanda,Rwanda,country,null,6,0,,,0,,,0,,,0,,
-50,1.0,50.0,0:48:45,0:48:55,1900-01-01 00:48:45,1900-01-01 00:48:55,Rwanda,Rwanda,country,null,6,0,,,0,,,0,,,0,,
-51,1.0,51.0,0:48:55, 0:49:52,1900-01-01 00:48:55,1900-01-01 00:49:52,Rwanda,Rwanda,country,null,6,0,,,0,,,0,,,0,,
-52,1.0,52.0, 0:49:52,0:49:57,1900-01-01 00:49:52,1900-01-01 00:49:57,Rwanda,Rwanda,country,null,6,0,,,0,,,0,,,0,,
-53,1.0,53.0,0:49:57,0:52:20,1900-01-01 00:49:57,1900-01-01 00:52:20,"Kigali, Rwanda","Kigali, Rwanda",city / area,null,4,0,,,0,,,0,,,0,,
-54,1.0,54.0,0:52:20,0:55:05,1900-01-01 00:52:20,1900-01-01 00:55:05,"Kigali, Rwanda","Kigali, Rwanda",city / area,null,4,0,,,0,,,0,,,0,,
-55,null,55.0,0:55:05,0:55:47,1900-01-01 00:55:05,1900-01-01 00:55:47,Rwanda,Rwanda,country,null,6,1,;43,;Burundi,0,,,0,,,0,,
-56,1.0,56.0,0:55:47,0:57:15,1900-01-01 00:55:47,1900-01-01 00:57:15,Rwanda,Rwanda,country,null,6,3,;44;45;46,;Democratic Republic of Congo;Democratic Republic of Congo;Democratic Republic of Congo,0,,,0,,,0,,
-57,1.0,57.0,0:57:15,0:57:23,1900-01-01 00:57:15,1900-01-01 00:57:23,Rwanda ,Rwanda; Democratic Republic of Congo,country,null,6,1,;47,;Democratic Republic of Congo,0,,,0,,,0,,
-58,null,null,null,null,1900-01-01 00:57:15,1900-01-01 00:57:23,Democratic Republic of Congo,null,country,null,6,1,;47,;Democratic Republic of Congo,1,;47,;Democratic Republic of Congo,0,,,0,,
-59,1.0,58.0,0:57:23,0:57:55,1900-01-01 00:57:23,1900-01-01 00:57:55,Rwanda,Rwanda,country,null,6,2,;48;49,;Germany;Belgium,0,,,0,,,0,,
-60,1.0,59.0,0:57:55,0:57:57,1900-01-01 00:57:55,1900-01-01 00:57:57,"Kigali, Rwanda","Kigali, Rwanda",city / area,null,4,0,,,0,,,0,,,0,,
-61,1.0,60.0,0:57:57,0:59:30,1900-01-01 00:57:57,1900-01-01 00:59:30,"Kigali, Rwanda","Kigali, Rwanda",city / area,null,4,0,,,0,,,0,,,0,,
-62,1.0,61.0,0:59:30,1:05:42,1900-01-01 00:59:30,1900-01-01 01:05:42,"Kigali, Rwanda","Kigali, Rwanda",city / area,null,4,5,;50;51;52;53;54,";Burundi;Russia;Burundi;Kigali, Rwanda;Russia",1,;53,";Kigali, Rwanda",0,,,0,,
-63,1.0,62.0,1:05:42,1:06:00,1900-01-01 01:05:42,1900-01-01 01:06:00,"Kigali, Rwanda","Kigali, Rwanda",city / area,null,4,0,,,0,,,0,,,0,,
-64,1.0,63.0,1:06:00,1:08:45,1900-01-01 01:06:00,1900-01-01 01:08:45,"Kigali, Rwanda","Kigali, Rwanda",city / area,null,4,0,,,0,,,0,,,0,,
-65,1.0,64.0,1:08:45,1:10:00,1900-01-01 01:08:45,1900-01-01 01:10:00,Rwanda,Rwanda,country,null,6,4,;55;56;57;58,";Kigali, Rwanda;Butare, Rwanda;Kigali, Rwanda;Butare, Rwanda",0,,,4,;55;56;57;58,";Kigali, Rwanda;Butare, Rwanda;Kigali, Rwanda;Butare, Rwanda",0,,
-66,1.0,65.0,1:10:00,1:10:24,1900-01-01 01:10:00,1900-01-01 01:10:24,Rwanda,Rwanda,country,null,6,0,,,0,,,0,,,0,,
-67,1.0,66.0,1:10:24,1:10:30,1900-01-01 01:10:24,1900-01-01 01:10:30,Rwanda,Rwanda,country,null,6,0,,,0,,,0,,,0,,
-68,1.0,67.0,1:10:30,1:11:45,1900-01-01 01:10:30,1900-01-01 01:11:45,Rwanda,Rwanda,country,null,6,0,,,0,,,0,,,0,,
-69,1.0,68.0,1:11:45,1:12:07,1900-01-01 01:11:45,1900-01-01 01:12:07,Rwanda,Rwanda,country,null,6,0,,,0,,,0,,,0,,
-70,1.0,69.0,1:12:07,1:12:53,1900-01-01 01:12:07,1900-01-01 01:12:53,Rwanda,Rwanda,country,null,6,0,,,0,,,0,,,0,,
-71,1.0,70.0,1:12:53,1:13:07,1900-01-01 01:12:53,1900-01-01 01:13:07,Rwanda,Rwanda,country,null,6,0,,,0,,,0,,,0,,
-72,1.0,71.0,1:13:07,1:13:48,1900-01-01 01:13:07,1900-01-01 01:13:48,Rwanda,Rwanda,country,null,6,0,,,0,,,0,,,0,,
-73,1.0,72.0,1:13:48,1:13:56,1900-01-01 01:13:48,1900-01-01 01:13:56,"Kigali, Rwanda","Kigali, Rwanda",city / area,null,4,0,,,0,,,0,,,0,,
-74,1.0,73.0,1:13:56,1:14:07,1900-01-01 01:13:56,1900-01-01 01:14:07,"Kigali, Rwanda","Kigali, Rwanda",city / area,null,4,0,,,0,,,0,,,0,,
-75,1.0,74.0,1:14:07,1:14:12,1900-01-01 01:14:07,1900-01-01 01:14:12,_end,unknown,null,null,8,0,,,0,,,0,,,0,,
-76,1.0,75.0,1:14:12,1:15:17,1900-01-01 01:14:12,1900-01-01 01:15:17,Germany,Germany,country,null,6,5,;59;60;61;62;63,;Germany;Germany;Democratic Republic of Congo;Burundi;Germany,3,;59;60;63,;Germany;Germany;Germany,0,,,0,,
-77,2.0,76.0,0:00:00,0:00:27,1900-01-01 01:15:17,1900-01-01 01:15:44,_end,unknown,null,null,8,2,;64;65,";Montreal, Canada;Rwanda",0,,,0,,,0,,
-78,2.0,77.0,0:00:27,0:05:20,1900-01-01 01:15:44,1900-01-01 01:20:37,"Kigali, Rwanda; Gisenyi, Rwanda; Goma, Democratic Republic of Congo","Kigali, Rwanda; Gisenyi, Rwanda; Goma, Democratic Republic of Congo",journey,journey 1,1,14,;66;67;68;69;70;71;72;73;74;75;76;77;78;79,";Rwanda;Rwanda;Gisenyi, Rwanda;Bralirwa, Gisenyi, Rwanda;Gisenyi, Rwanda;Kigali, Rwanda;Gisenyi, Rwanda;Gisenyi, Rwanda;Gisenyi, Rwanda;Democratic Republic of Congo;Rwanda;Rwanda;Goma, Democratic Republic of Congo;Goma, Democratic Republic of Congo",0,,,0,,,13,;66;67;68;70;71;72;73;74;75;76;77;78;79,";Rwanda;Rwanda;Gisenyi, Rwanda;Gisenyi, Rwanda;Kigali, Rwanda;Gisenyi, Rwanda;Gisenyi, Rwanda;Gisenyi, Rwanda;Democratic Republic of Congo;Rwanda;Rwanda;Goma, Democratic Republic of Congo;Goma, Democratic Republic of Congo"
-79,2.0,78.0,0:05:20,0:05:55,1900-01-01 01:20:37,1900-01-01 01:21:12,"Goma, Democratic Republic of Congo","Goma, Democratic Republic of Congo",city / area,null,4,0,,,0,,,0,,,0,,
-80,2.0,79.0,0:05:55,0:06:10,1900-01-01 01:21:12,1900-01-01 01:21:27,"Kigali, Rwanda","Kigali, Rwanda",city / area,null,4,1,;80,;Rwanda,0,,,0,,,1,;80,;Rwanda
-81,2.0,80.0,0:06:10,0:07:34,1900-01-01 01:21:27,1900-01-01 01:22:51,"Goma, Democratic Republic of Congo; Bukavu, Democratic Republic of Congo; Bujumbura, Burundi","Goma, Democratic Republic of Congo; Bukavu, Democratic Republic of Congo; Bujumbura, Burundi",journey,journey 2,1,9,;81;82;83;84;85;86;87;88;89,";Goma, Democratic Republic of Congo;Democratic Republic of Congo;Bujumbura, Burundi;Burundi;Bukavu, Democratic Republic of Congo;Bujumbura, Burundi;Goma, Democratic Republic of Congo;Bukavu, Democratic Republic of Congo;Bujumbura, Burundi",0,,,0,,,9,;81;82;83;84;85;86;87;88;89,";Goma, Democratic Republic of Congo;Democratic Republic of Congo;Bujumbura, Burundi;Burundi;Bukavu, Democratic Republic of Congo;Bujumbura, Burundi;Goma, Democratic Republic of Congo;Bukavu, Democratic Republic of Congo;Bujumbura, Burundi"
-82,2.0,81.0,0:07:34,0:09:15,1900-01-01 01:22:51,1900-01-01 01:24:32,Burundi,Burundi,country,null,6,6,;90;91;92;93;94;95,;Burundi;Germany;Burundi;Germany;Burundi;Burundi,4,;90;92;94;95,;Burundi;Burundi;Burundi;Burundi,0,,,0,,
-83,2.0,82.0,0:09:15,0:09:45,1900-01-01 01:24:32,1900-01-01 01:25:02,"Bujumbura, Burundi; Brussels, Belgium; Cologne, Germany","Bujumbura, Burundi; Brussels, Belgium; Cologne, Germany",journey,Journey 3,1,4,;96;97;98;99,";Bujumbura, Burundi;Brussels, Belgium;Brussels, Belgium;Cologne, Germany",0,,,0,,,4,;96;97;98;99,";Bujumbura, Burundi;Brussels, Belgium;Brussels, Belgium;Cologne, Germany"
-84,2.0,83.0,0:09:45,0:09:47,1900-01-01 01:25:02,1900-01-01 01:25:04,Germany,Germany,country,null,6,0,,,0,,,0,,,0,,
-85,2.0,84.0,0:09:47,0:12:01,1900-01-01 01:25:04,1900-01-01 01:27:18,Germany,Germany,country,null,6,3,;100;101;102,";Germany;Germany;Nuremberg, Germany",2,;100;101,;Germany;Germany,1,;102,";Nuremberg, Germany",0,,
-86,2.0,85.0,0:12:01,0:14:37,1900-01-01 01:27:18,1900-01-01 01:29:54,Germany,Germany,country,null,6,6,;103;104;105;106;107;108,;Rwanda;Germany;Rwanda;Germany;Germany;Germany,4,;104;106;107;108,;Germany;Germany;Germany;Germany,0,,,0,,
-87,2.0,86.0,0:14:37,0:14:42,1900-01-01 01:29:54,1900-01-01 01:29:59,Germany,Germany,country,null,6,0,,,0,,,0,,,0,,
-88,2.0,87.0,0:14:42,0:15:10,1900-01-01 01:29:59,1900-01-01 01:30:27,Germany,Germany,country,null,6,1,;109,;Burundi,0,,,0,,,0,,
-89,2.0,88.0,0:15:10,0:15:33,1900-01-01 01:30:27,1900-01-01 01:30:50,Germany,Germany,country,null,6,0,,,0,,,0,,,0,,
-90,2.0,89.0,0:15:33,0:17:38,1900-01-01 01:30:50,1900-01-01 01:32:55,Germany,Germany,country,null,6,0,,,0,,,0,,,0,,
-91,2.0,90.0,0:17:38,0:18:19,1900-01-01 01:32:55,1900-01-01 01:33:36,Germany,Germany,country,null,6,0,,,0,,,0,,,0,,
-92,2.0,91.0,0:18:19,0:19:18,1900-01-01 01:33:36,1900-01-01 01:34:35,Rwanda,Rwanda,country,null,6,5,;110;111;112;113;114,;Rwanda;Germany;Belgium;Canada;Germany,1,;110,;Rwanda,0,,,0,,
-93,2.0,92.0,0:19:18,0:20:25,1900-01-01 01:34:35,1900-01-01 01:38:43,Rwanda; Germany; Canada,Rwanda,journey,journey 4,1,9,;115;116;117;118;119;120;121;122;123,;Rwanda;Rwanda;Canada;Rwanda;Democratic Republic of Congo;Germany;Canada;Canada;Canada,0,,,0,,,8,;115;116;117;118;120;121;122;123,;Rwanda;Rwanda;Canada;Rwanda;Germany;Canada;Canada;Canada
-96,2.0,95.0,0:23:26,0:23:31,1900-01-01 01:38:43,1900-01-01 01:38:48,Canada,Canada; Germany,country,null,6,1,;124,;Canada,1,;124,;Canada,0,,,0,,
-97,null,null,null,null,1900-01-01 01:38:43,1900-01-01 01:38:48,Germany,null,country,null,6,1,;124,;Canada,0,,,0,,,0,,
-98,2.0,96.0,0:23:31,0:26:52,1900-01-01 01:38:48,1900-01-01 01:42:09,"Trudeau airport, Montreal, Canada; Trois-Rivières, Canada; Ste-Anne-de-la-Pérade, Canada","Trudeau airport, Montreal, Qc; Trois-Rivières, Qc; Ste-Anne-de-la-Pérade, Qc",journey,Journey 5 ,1,23,;125;126;127;128;129;130;131;132;133;134;135;136;137;138;139;140;141;142;143;144;145;146;147,";Germany;Canada;Dorval, Montreal, Canada;New York, USA;Dorval, Montreal, Canada;Ste-Anne-de-la-Pérade, Canada;Ste-Anne-de-la-Pérade, Canada;Trois-Rivières, Canada;Mirabel, Canada;Mirabel, Canada;Mirabel, Canada;Mirabel, Canada;Mirabel, Canada;Mirabel, Canada;Florida, USA;Ste-Anne-de-la-Pérade, Canada;Trois-Rivières, Canada;Trois-Rivières, Canada;Trois-Rivières, Canada;Ste-Anne-de-la-Pérade, Canada;Michaël Rossy Ltée, Trois-Rivières, Canada;Michaël Rossy Ltée, Trois-Rivières, Canada;Michaël Rossy Ltée, Trois-Rivières, Canada",0,,,0,,,9,;126;130;131;132;140;141;142;143;144,";Canada;Ste-Anne-de-la-Pérade, Canada;Ste-Anne-de-la-Pérade, Canada;Trois-Rivières, Canada;Ste-Anne-de-la-Pérade, Canada;Trois-Rivières, Canada;Trois-Rivières, Canada;Trois-Rivières, Canada;Ste-Anne-de-la-Pérade, Canada"
-99,2.0,97.0,0:26:52,0:26:56,1900-01-01 01:42:09,1900-01-01 01:42:13,Canada,Canada,country,null,6,0,,,0,,,0,,,0,,
-100,2.0,98.0,0:26:56,0:28:15,1900-01-01 01:42:13,1900-01-01 01:43:32,Canada,Canada,country,null,6,0,,,0,,,0,,,0,,
-101,2.0,99.0,0:28:15,0:28:23,1900-01-01 01:43:32,1900-01-01 01:43:40,Germany,Germany,country,null,6,1,;148,;Canada,0,,,0,,,0,,
-102,2.0,100.0,0:28:23,0:29:58,1900-01-01 01:43:40,1900-01-01 01:45:15,Germany,Germany,country,null,6,2,;149;150,;Germany;Germany,2,;149;150,;Germany;Germany,0,,,0,,
-103,2.0,101.0,0:29:58,0:30:05,1900-01-01 01:45:15,1900-01-01 01:45:22,"Montreal, Canada","Montreal, Qc",city / area,null,4,1,;151,";Montreal, Canada",1,;151,";Montreal, Canada",0,,,0,,
-104,2.0,102.0,0:30:05,0:31:04,1900-01-01 01:45:22,1900-01-01 01:46:21,"Montreal, Canada","Montreal, Qc",city / area,null,4,1,;152,";Montreal, Canada",1,;152,";Montreal, Canada",0,,,0,,
-105,2.0,103.0,0:31:04,0:32:25,1900-01-01 01:46:21,1900-01-01 01:47:42,"Outremont, Montreal, Canada","Outremont, Montreal, Canada",local,null,3,1,;153,";Outremont, Montreal, Canada",1,;153,";Outremont, Montreal, Canada",0,,,0,,
-106,2.0,104.0,0:32:25,0:33:50,1900-01-01 01:47:42,1900-01-01 01:49:07,"Montreal, Canada","Montreal, Qc",city / area,null,4,1,;154,;Germany,0,,,0,,,0,,
-107,2.0,105.0,0:33:50,0:34:41,1900-01-01 01:49:07,1900-01-01 01:49:58,"CECI, Montreal, Canada","CECI, Montreal, Qc",very local ,null,2,3,;155;156;157,";Africa;CECI, Montreal, Canada;Africa",1,;156,";CECI, Montreal, Canada",0,,,0,,
-108,2.0,106.0,0:34:41,0:34:55,1900-01-01 01:49:58,1900-01-01 01:50:12,"Montreal, Canada","Montreal, Qc",city / area,null,4,0,,,0,,,0,,,0,,
-109,2.0,107.0,0:34:55,0:35:28,1900-01-01 01:50:12,1900-01-01 01:50:45,"Montreal, Canada","Montreal, Qc",city / area,null,4,0,,,0,,,0,,,0,,
-110,2.0,108.0,0:35:28,0:35:32,1900-01-01 01:50:45,1900-01-01 01:50:49,"Montreal, Canada","Montreal, Qc",city / area,null,4,0,,,0,,,0,,,0,,
-111,2.0,109.0,0:35:32,0:36:26,1900-01-01 01:50:49,1900-01-01 01:51:43,"Montreal, Canada","Montreal, Qc",city / area,null,4,3,;158;159;160,";Rwanda;Rwanda;Quebec, Canada",0,,,0,,,0,,
-112,2.0,110.0,0:36:26,0:37:00,1900-01-01 01:51:43,1900-01-01 01:52:17,"Montreal, Canada","Montreal, Qc; Rwanda",city / area,null,4,1,;161,;Rwanda,0,,,0,,,0,,
-113,null,null,null,null,1900-01-01 01:51:43,1900-01-01 01:52:17,Rwanda,null,country,null,6,1,;161,;Rwanda,1,;161,;Rwanda,0,,,0,,
-114,2.0,111.0,0:37:00,0:37:22,1900-01-01 01:52:17,1900-01-01 01:52:39,"Montreal, Canada","Montreal, Qc; Rwanda",city / area,null,4,2,;162;163,;Rwanda;Rwanda,0,,,0,,,0,,
-115,null,null,null,null,1900-01-01 01:52:17,1900-01-01 01:52:39,Rwanda,null,country,null,6,2,;162;163,;Rwanda;Rwanda,2,;162;163,;Rwanda;Rwanda,0,,,0,,
-116,2.0,112.0,0:37:22,0:37:36,1900-01-01 01:52:39,1900-01-01 01:52:53,Rwanda,Rwanda,country,null,6,1,;164,;Rwanda,1,;164,;Rwanda,0,,,0,,
-117,2.0,113.0,0:37:36,0:37:59,1900-01-01 01:52:53,1900-01-01 01:53:16,Rwanda,Rwanda,country,null,6,1,;165,;Rwanda,1,;165,;Rwanda,0,,,0,,
-118,2.0,114.0,0:37:59,0:38:01,1900-01-01 01:53:16,1900-01-01 01:53:18,Rwanda,Rwanda,country,null,6,0,,,0,,,0,,,0,,
-119,2.0,115.0,0:38:01,0:38:23,1900-01-01 01:53:18,1900-01-01 01:53:40,Rwanda,Rwanda,country,null,6,0,,,0,,,0,,,0,,
-120,2.0,116.0,0:38:23,0:39:59,1900-01-01 01:53:40,1900-01-01 01:55:16,Rwanda,Rwanda,country,null,6,0,,,0,,,0,,,0,,
-121,2.0,117.0,0:39:59,0:40:04,1900-01-01 01:55:16,1900-01-01 01:55:21,Rwanda,Rwanda,country,null,6,0,,,0,,,0,,,0,,
-122,2.0,118.0,0:40:04,0:41:53,1900-01-01 01:55:21,1900-01-01 01:57:10,Rwanda,Rwanda,country,null,6,1,;166,;Rwanda,1,;166,;Rwanda,0,,,0,,
-123,2.0,119.0,0:41:53,0:41:56,1900-01-01 01:57:10,1900-01-01 01:57:13,Rwanda,Rwanda,country,null,6,0,,,0,,,0,,,0,,
-124,2.0,120.0,0:41:56,0:44:57,1900-01-01 01:57:13,1900-01-01 02:00:14,Rwanda,Rwanda,country,null,6,1,;167,;Rwanda,1,;167,;Rwanda,0,,,0,,
-125,2.0,121.0,0:44:57,0:45:34,1900-01-01 02:00:14,1900-01-01 02:00:51,"Montreal, Canada","Montreal, Qc",city / area,null,4,2,;168;169,;Rwanda;Germany,0,,,0,,,0,,
-126,2.0,122.0,0:45:34,0:47:28,1900-01-01 02:00:51,1900-01-01 02:02:45,"Montreal, Canada","Montreal, Qc",city / area,null,4,3,;170;171;172,";Montreal, Canada;France;Montreal, Canada",2,;170;172,";Montreal, Canada;Montreal, Canada",0,,,0,,
-127,2.0,123.0,0:47:28,0:49:55,1900-01-01 02:02:45,1900-01-01 02:05:12,Africa,Africa,continent,null,7,2,;173;174,;Africa;Africa,2,;173;174,;Africa;Africa,0,,,0,,
-128,2.0,124.0,0:49:55,0:50:16,1900-01-01 02:05:12,1900-01-01 02:05:33,"Montreal, Canada","Montreal, Qc",city / area,null,4,1,;175,";Montreal, Canada",1,;175,";Montreal, Canada",0,,,0,,
-129,2.0,125.0,0:50:16,0:50:29,1900-01-01 02:05:33,1900-01-01 02:05:46,Africa,Africa,continent,null,7,2,;176;177,;Africa;Africa,2,;176;177,;Africa;Africa,0,,,0,,
-130,2.0,126.0,0:50:29,0:51:06,1900-01-01 02:05:46,1900-01-01 02:06:23,Canada,Canada,country,null,6,2,;178;179,;Canada;Canada,2,;178;179,;Canada;Canada,0,,,0,,
-131,2.0,127.0,0:51:06,0:52:02,1900-01-01 02:06:23,1900-01-01 02:07:19,_end,none,null,null,8,0,,,0,,,0,,,0,,
-132,2.0,128.0,0:52:02,0:52:05,1900-01-01 02:07:19,1900-01-01 02:07:22,_end,none,null,null,8,0,,,0,,,0,,,0,,
-133,2.0,129.0,0:52:05,0:52:14,1900-01-01 02:07:22,1900-01-01 02:07:31,_end,none,null,null,8,0,,,0,,,0,,,0,,
-134,2.0,130.0,0:52:14,0:52:17,1900-01-01 02:07:31,1900-01-01 02:07:34,_end,none,null,null,8,0,,,0,,,0,,,0,,
-135,2.0,131.0,0:52:17,0:52:30,1900-01-01 02:07:34,1900-01-01 02:07:47,_end,none,null,null,8,0,,,0,,,0,,,0,,
-136,2.0,132.0,0:52:30,0:52:37,1900-01-01 02:07:47,1900-01-01 02:07:54,_end,none,null,null,8,0,,,0,,,0,,,0,,
-137,2.0,133.0,0:52:37,0:53:29,1900-01-01 02:07:54,1900-01-01 02:08:46,_end,none,null,null,8,2,;180;181,;Egypt;Rwanda,0,,,0,,,0,,
-138,2.0,134.0,0:53:29,0:54:06,1900-01-01 02:08:46,1900-01-01 02:09:23,Rwanda,Rwanda,country,null,6,3,;182;183;184,;Rwanda;Rwanda;Rwanda,3,;182;183;184,;Rwanda;Rwanda;Rwanda,0,,,0,,
-139,2.0,135.0,0:54:06,0:54:25,1900-01-01 02:09:23,1900-01-01 02:09:42,Rwanda,Rwanda,country,null,6,0,,,0,,,0,,,0,,
-140,2.0,136.0,0:54:25,0:54:45,1900-01-01 02:09:42,1900-01-01 02:10:02,Rwanda,Rwanda,country,null,6,0,,,0,,,0,,,0,,
-141,2.0,137.0,0:54:45,0:55:06,1900-01-01 02:10:02,1900-01-01 02:10:23,Canada,Canada,country,null,6,0,,,0,,,0,,,0,,
-142,2.0,138.0,0:55:06,0:55:10,1900-01-01 02:10:23,1900-01-01 02:10:27,Rwanda,Rwanda,country,null,6,0,,,0,,,0,,,0,,
-143,2.0,139.0,0:55:10,0:55:42,1900-01-01 02:10:27,1900-01-01 02:10:59,Rwanda,Rwanda,country,null,6,0,,,0,,,0,,,0,,
-144,2.0,140.0,0:55:42,0:56:21,1900-01-01 02:10:59,1900-01-01 02:11:38,_end,none,null,null,8,0,,,0,,,0,,,0,,
-145,2.0,141.0,0:56:21,0:59:00,1900-01-01 02:11:38,1900-01-01 02:14:17,_end,none,null,null,8,0,,,0,,,0,,,0,,
-146,2.0,142.0,0:59:00,1:00:00,1900-01-01 02:14:17,1900-01-01 02:15:17,Rwanda,"Rwanda; Montreal, Qc",country,null,6,1,;185,";Montreal, Canada",0,,,0,,,0,,
-147,null,null,null,null,1900-01-01 02:14:17,1900-01-01 02:15:17,"Montreal, Canada",null,city / area,null,4,1,;185,";Montreal, Canada",1,;185,";Montreal, Canada",0,,,0,,
-148,2.0,143.0,1:00:00,1:00:32,1900-01-01 02:15:17,1900-01-01 02:15:49,Rwanda,"Rwanda; Montreal, Qc",country,null,6,0,,,0,,,0,,,0,,
-149,null,null,null,null,1900-01-01 02:15:17,1900-01-01 02:15:49,"Montreal, Canada",null,city / area,null,4,0,,,0,,,0,,,0,,
-150,2.0,144.0,1:00:32,1:00:58,1900-01-01 02:15:49,1900-01-01 02:16:15,Rwanda,"Rwanda; Montreal, Qc",country,null,6,0,,,0,,,0,,,0,,
-151,null,null,null,null,1900-01-01 02:15:49,1900-01-01 02:16:15,"Montreal, Canada",null,city / area,null,4,0,,,0,,,0,,,0,,
-152,2.0,145.0,1:00:58,1:01:10,1900-01-01 02:16:15,1900-01-01 02:16:27,Rwanda,"Rwanda; Montreal, Qc",country,null,6,0,,,0,,,0,,,0,,
-153,null,null,null,null,1900-01-01 02:16:15,1900-01-01 02:16:27,"Montreal, Canada",null,city / area,null,4,0,,,0,,,0,,,0,,
-154,2.0,146.0,1:01:10,1:01:35,1900-01-01 02:16:27,1900-01-01 02:16:52,Rwanda,Rwanda,country,null,6,0,,,0,,,0,,,0,,
-155,2.0,147.0,1:01:35,1:03:52,1900-01-01 02:16:52,1900-01-01 02:19:09,Rwanda,Rwanda,country,null,6,1,;186,;Rwanda,1,;186,;Rwanda,0,,,0,,
-156,2.0,148.0,1:03:52,1:04:20,1900-01-01 02:19:09,1900-01-01 02:19:37,Rwanda,Rwanda,country,null,6,0,,,0,,,0,,,0,,
-157,2.0,149.0,1:04:20,1:04:42,1900-01-01 02:19:37,1900-01-01 02:19:59,Rwanda,Rwanda,country,null,6,0,,,0,,,0,,,0,,
-158,2.0,150.0,1:04:42,1:04:49,1900-01-01 02:19:59,1900-01-01 02:20:06,_end,none,null,null,8,0,,,0,,,0,,,0,,
-159,2.0,151.0,1:04:49,1:05:10,1900-01-01 02:20:06,1900-01-01 02:20:27,_end,none,null,null,8,0,,,0,,,0,,,0,,
-160,2.0,152.0,1:05:10,1:05:17,1900-01-01 02:20:27,1900-01-01 02:20:34,_end,none,null,null,8,0,,,0,,,0,,,0,,
-161,2.0,153.0,1:05:17,1:05:43,1900-01-01 02:20:34,1900-01-01 02:21:00,_end,none,null,null,8,0,,,0,,,0,,,0,,
-162,2.0,154.0,1:05:43,1:06:06,1900-01-01 02:21:00,1900-01-01 02:21:23,_end,none,null,null,8,1,;187,;Rwanda,0,,,0,,,0,,
-163,2.0,155.0,1:06:06,1:07:06,1900-01-01 02:21:23,1900-01-01 02:22:23,"Montreal, Canada","Montreal, Qc",city / area,null,4,0,,,0,,,0,,,0,,
-164,2.0,156.0,1:07:06,1:07:12,1900-01-01 02:22:23,1900-01-01 02:22:29,_end,none,null,null,8,0,,,0,,,0,,,0,,
-165,2.0,157.0,1:07:12,1:07:19,1900-01-01 02:22:29,1900-01-01 02:22:36,_end,none,null,null,8,0,,,0,,,0,,,0,,
-166,2.0,158.0,1:07:19,1:07:27,1900-01-01 02:22:36,1900-01-01 02:22:44,_end,none,null,null,8,0,,,0,,,0,,,0,,
-167,2.0,159.0,1:07:27,1:07:57,1900-01-01 02:22:44,1900-01-01 02:23:14,_end,none,null,null,8,0,,,0,,,0,,,0,,
-168,2.0,160.0,1:07:57,1:08:19,1900-01-01 02:23:14,1900-01-01 02:23:36,Rwanda,Rwanda,country,null,6,1,;188,;Rwanda,1,;188,;Rwanda,0,,,0,,
-169,2.0,161.0,1:08:19,1:09:18,1900-01-01 02:23:36,1900-01-01 02:24:35,Rwanda,Rwanda,country,null,6,0,,,0,,,0,,,0,,
-170,2.0,162.0,1:09:18,1:10:14,1900-01-01 02:24:35,1900-01-01 02:25:31,_end,none,null,null,8,0,,,0,,,0,,,0,,
-171,2.0,163.0,1:10:14,1:11:33,1900-01-01 02:25:31,1900-01-01 02:26:50,_end,none,null,null,8,1,;189,;Rwanda,0,,,0,,,0,,
-172,2.0,164.0,1:11:33,1:12:01,1900-01-01 02:26:50,1900-01-01 02:27:18,_end,none,null,null,8,0,,,0,,,0,,,0,,
-173,2.0,165.0,1:12:01,1:12:59,1900-01-01 02:27:18,1900-01-01 02:28:16,_end,none,null,null,8,1,;190,;Rwanda,0,,,0,,,0,,
-174,2.0,166.0,1:12:59,1:13:05,1900-01-01 02:28:16,1900-01-01 02:28:22,_end,none,null,null,8,0,,,0,,,0,,,0,,
-175,2.0,167.0,1:13:05,1:13:30,1900-01-01 02:28:22,1900-01-01 02:28:47,_end,none,null,null,8,0,,,0,,,0,,,0,,
-176,2.0,168.0,1:13:30,1:13:53,1900-01-01 02:28:47,1900-01-01 02:29:10,_end,none,null,null,8,0,,,0,,,0,,,0,,
+id,session_num,su_num,time_clip_start,time_clip_end,time_start,time_end,place,place_raw,scale,journey,scale_order
+1,1.0,1.0,0:00:00,0:00:30,1900-01-01 00:00:00,1900-01-01 00:00:30,_end,none,null,null,8
+2,1.0,2.0,0:00:30,0:01:54,1900-01-01 00:00:30,1900-01-01 00:01:54,_end,none,null,null,8
+3,1.0,3.0,0:01:54,0:02:07,1900-01-01 00:01:54,1900-01-01 00:02:07,_end,none,null,null,8
+4,1.0,4.0,0:02:07,0:03:47,1900-01-01 00:02:07,1900-01-01 00:03:47,Rwanda,Rwanda,country,null,6
+5,1.0,5.0,0:03:47,0:04:00,1900-01-01 00:03:47,1900-01-01 00:04:00,Rwanda,Rwanda,country,null,6
+6,1.0,6.0,0:04:00,0:04:04,1900-01-01 00:04:00,1900-01-01 00:04:04,Rwanda,Rwanda,country,null,6
+7,1.0,7.0,0:04:04,0:05:20,1900-01-01 00:04:04,1900-01-01 00:05:20,"Nyanza, Rwanda","Nyanza, Rwanda",local,null,3
+8,1.0,8.0,0:05:20,0:05:25,1900-01-01 00:05:20,1900-01-01 00:05:25,"Nyanza, Rwanda","Nyanza, Rwanda",local,null,3
+9,1.0,9.0,0:05:25,0:08:13,1900-01-01 00:05:25,1900-01-01 00:08:13,"Nyanza, Rwanda","Nyanza, Rwanda",local,null,3
+10,1.0,10.0,0:08:13,0:08:20,1900-01-01 00:08:13,1900-01-01 00:08:20,_end,none,null,null,8
+11,1.0,11.0,0:08:20,0:09:25,1900-01-01 00:08:20,1900-01-01 00:09:25,"Butare, Rwanda","Butare, Rwanda",city / area,null,4
+12,1.0,12.0,0:09:25,0:10:37,1900-01-01 00:09:25,1900-01-01 00:10:37,_end,none,null,null,8
+13,1.0,13.0,0:10:37,0:11:05,1900-01-01 00:10:37,1900-01-01 00:11:05,_end,none,null,null,8
+14,1.0,14.0,0:11:05,0:11:54,1900-01-01 00:11:05,1900-01-01 00:11:54,Rwanda,Rwanda,country,null,6
+15,1.0,15.0,0:11:54,0:12:10,1900-01-01 00:11:54,1900-01-01 00:12:10,_end,none,null,null,8
+16,1.0,16.0,0:12:10,0:12:30,1900-01-01 00:12:10,1900-01-01 00:12:30,Rwanda,Rwanda,country,null,6
+17,1.0,17.0,0:12:30,0:17:40,1900-01-01 00:12:30,1900-01-01 00:17:40,Rwanda,Rwanda,country,null,6
+18,1.0,18.0,0:17:40,0:18:55,1900-01-01 00:17:40,1900-01-01 00:18:55,"Butare, Rwanda","Butare, Rwanda",city / area,null,4
+19,1.0,19.0,0:18:55,0:20:08,1900-01-01 00:18:55,1900-01-01 00:20:08,"Nyanza, Rwanda","Nyanza, Rwanda",local,null,3
+20,1.0,20.0,0:20:08,0:20:13,1900-01-01 00:20:08,1900-01-01 00:20:13,_end,none,null,null,8
+21,1.0,21.0,0:20:13,0:20:47,1900-01-01 00:20:13,1900-01-01 00:20:47,"Nyanza, Rwanda","Nyanza, Rwanda",local,null,3
+22,1.0,22.0,0:20:47,0:20:55,1900-01-01 00:20:47,1900-01-01 00:20:55,"Nyanza, Rwanda","Nyanza, Rwanda",local,null,3
+23,1.0,23.0,0:20:55,0:21:40,1900-01-01 00:20:55,1900-01-01 00:21:40,"Nyanza, Rwanda","Nyanza, Rwanda",local,null,3
+24,1.0,24.0,0:21:40,0:21:48,1900-01-01 00:21:40,1900-01-01 00:21:48,_end,none,null,null,8
+25,1.0,25.0,0:21:48,0:23:05,1900-01-01 00:21:48,1900-01-01 00:23:05,_end,none,null,null,8
+26,1.0,26.0,0:23:05,0:26:42,1900-01-01 00:23:05,1900-01-01 00:26:42,"Butare, Rwanda","Butare, Rwanda",city / area,null,4
+27,1.0,27.0,0:26:42,0:27:08,1900-01-01 00:26:42,1900-01-01 00:27:08,_end,none,null,null,8
+28,1.0,28.0,0:27:08,0:30:00,1900-01-01 00:27:08,1900-01-01 00:30:00,_end,none,null,null,8
+29,1.0,29.0,0:30:00,0:30:15,1900-01-01 00:30:00,1900-01-01 00:30:15,"Butare, Rwanda","Butare, Rwanda",city / area,null,4
+30,1.0,30.0,0:30:15,0:31:12,1900-01-01 00:30:15,1900-01-01 00:31:12,"Butare, Rwanda","Butare, Rwanda",city / area,null,4
+31,1.0,31.0,0:31:12,0:31:23,1900-01-01 00:31:12,1900-01-01 00:31:23,Rwanda,Rwanda,country,null,6
+32,1.0,32.0,0:31:23,0:32:19,1900-01-01 00:31:23,1900-01-01 00:32:19,"Butare, Rwanda","Butare, Rwanda",city / area,null,4
+33,1.0,33.0,0:32:19,0:32:25,1900-01-01 00:32:19,1900-01-01 00:32:25,Rwanda,Rwanda,country,null,6
+34,1.0,34.0,0:32:25,0:33:04,1900-01-01 00:32:25,1900-01-01 00:33:04,"Butare, Rwanda","Butare, Rwanda",city / area,null,4
+35,1.0,35.0,0:33:04,0:33:17,1900-01-01 00:33:04,1900-01-01 00:33:17,"Butare, Rwanda","Butare, Rwanda",city / area,null,4
+36,1.0,36.0,0:33:17,0:35:00,1900-01-01 00:33:17,1900-01-01 00:35:00,"Butare, Rwanda","Butare, Rwanda",city / area,null,4
+37,1.0,37.0,0:35:00,0:35:11,1900-01-01 00:35:00,1900-01-01 00:35:11,"Nyanza, Rwanda","Nyanza, Rwanda",local,null,3
+38,1.0,38.0,0:35:11,0:37:26,1900-01-01 00:35:11,1900-01-01 00:37:26,"Nyanza, Rwanda","Nyanza, Rwanda",local,null,3
+39,1.0,39.0,0:37:26,0:37:58,1900-01-01 00:37:26,1900-01-01 00:37:58,"Nyanza, Rwanda","Nyanza, Rwanda",local,null,3
+40,1.0,40.0,0:37:58,0:40:18,1900-01-01 00:37:58,1900-01-01 00:40:18,"Butare, Rwanda","Butare, Rwanda",city / area,null,4
+41,1.0,41.0,0:40:18,0:40:55,1900-01-01 00:40:18,1900-01-01 00:40:55,Rwanda,Rwanda,country,null,6
+42,1.0,42.0,0:40:55,0:43:41,1900-01-01 00:40:55,1900-01-01 00:43:41,Rwanda,Rwanda,country,null,6
+43,1.0,43.0,0:43:41,0:43:48,1900-01-01 00:43:41,1900-01-01 00:43:48,Rwanda,Rwanda,country,null,6
+44,1.0,44.0,0:43:48,0:44:10,1900-01-01 00:43:48,1900-01-01 00:44:10,Rwanda,Rwanda,country,null,6
+45,1.0,45.0,0:44:10,0:45:13,1900-01-01 00:44:10,1900-01-01 00:45:13,Rwanda,Rwanda,country,null,6
+46,1.0,46.0,0:45:13,0:45:16,1900-01-01 00:45:13,1900-01-01 00:45:16,Rwanda,Rwanda,country,null,6
+47,1.0,47.0,0:45:16,0:46:38,1900-01-01 00:45:16,1900-01-01 00:46:38,Rwanda,Rwanda,country,null,6
+48,1.0,48.0,0:46:38,0:46:42,1900-01-01 00:46:38,1900-01-01 00:46:42,Rwanda,Rwanda,country,null,6
+49,1.0,49.0,0:46:42,0:48:45,1900-01-01 00:46:42,1900-01-01 00:48:45,Rwanda,Rwanda,country,null,6
+50,1.0,50.0,0:48:45,0:48:55,1900-01-01 00:48:45,1900-01-01 00:48:55,Rwanda,Rwanda,country,null,6
+51,1.0,51.0,0:48:55, 0:49:52,1900-01-01 00:48:55,1900-01-01 00:49:52,Rwanda,Rwanda,country,null,6
+52,1.0,52.0, 0:49:52,0:49:57,1900-01-01 00:49:52,1900-01-01 00:49:57,Rwanda,Rwanda,country,null,6
+53,1.0,53.0,0:49:57,0:52:20,1900-01-01 00:49:57,1900-01-01 00:52:20,"Kigali, Rwanda","Kigali, Rwanda",city / area,null,4
+54,1.0,54.0,0:52:20,0:55:05,1900-01-01 00:52:20,1900-01-01 00:55:05,"Kigali, Rwanda","Kigali, Rwanda",city / area,null,4
+55,null,55.0,0:55:05,0:55:47,1900-01-01 00:55:05,1900-01-01 00:55:47,Rwanda,Rwanda,country,null,6
+56,1.0,56.0,0:55:47,0:57:15,1900-01-01 00:55:47,1900-01-01 00:57:15,Rwanda,Rwanda,country,null,6
+57,1.0,57.0,0:57:15,0:57:23,1900-01-01 00:57:15,1900-01-01 00:57:23,Rwanda,Rwanda; Democratic Republic of Congo,country,null,6
+58,null,null,null,null,1900-01-01 00:57:15,1900-01-01 00:57:23,Democratic Republic of Congo,null,country,null,6
+59,1.0,58.0,0:57:23,0:57:55,1900-01-01 00:57:23,1900-01-01 00:57:55,Rwanda,Rwanda,country,null,6
+60,1.0,59.0,0:57:55,0:57:57,1900-01-01 00:57:55,1900-01-01 00:57:57,"Kigali, Rwanda","Kigali, Rwanda",city / area,null,4
+61,1.0,60.0,0:57:57,0:59:30,1900-01-01 00:57:57,1900-01-01 00:59:30,"Kigali, Rwanda","Kigali, Rwanda",city / area,null,4
+62,1.0,61.0,0:59:30,1:05:42,1900-01-01 00:59:30,1900-01-01 01:05:42,"Kigali, Rwanda","Kigali, Rwanda",city / area,null,4
+63,1.0,62.0,1:05:42,1:06:00,1900-01-01 01:05:42,1900-01-01 01:06:00,"Kigali, Rwanda","Kigali, Rwanda",city / area,null,4
+64,1.0,63.0,1:06:00,1:08:45,1900-01-01 01:06:00,1900-01-01 01:08:45,"Kigali, Rwanda","Kigali, Rwanda",city / area,null,4
+65,1.0,64.0,1:08:45,1:10:00,1900-01-01 01:08:45,1900-01-01 01:10:00,Rwanda,Rwanda,country,null,6
+66,1.0,65.0,1:10:00,1:10:24,1900-01-01 01:10:00,1900-01-01 01:10:24,Rwanda,Rwanda,country,null,6
+67,1.0,66.0,1:10:24,1:10:30,1900-01-01 01:10:24,1900-01-01 01:10:30,Rwanda,Rwanda,country,null,6
+68,1.0,67.0,1:10:30,1:11:45,1900-01-01 01:10:30,1900-01-01 01:11:45,Rwanda,Rwanda,country,null,6
+69,1.0,68.0,1:11:45,1:12:07,1900-01-01 01:11:45,1900-01-01 01:12:07,Rwanda,Rwanda,country,null,6
+70,1.0,69.0,1:12:07,1:12:53,1900-01-01 01:12:07,1900-01-01 01:12:53,Rwanda,Rwanda,country,null,6
+71,1.0,70.0,1:12:53,1:13:07,1900-01-01 01:12:53,1900-01-01 01:13:07,Rwanda,Rwanda,country,null,6
+72,1.0,71.0,1:13:07,1:13:48,1900-01-01 01:13:07,1900-01-01 01:13:48,Rwanda,Rwanda,country,null,6
+73,1.0,72.0,1:13:48,1:13:56,1900-01-01 01:13:48,1900-01-01 01:13:56,"Kigali, Rwanda","Kigali, Rwanda",city / area,null,4
+74,1.0,73.0,1:13:56,1:14:07,1900-01-01 01:13:56,1900-01-01 01:14:07,"Kigali, Rwanda","Kigali, Rwanda",city / area,null,4
+75,1.0,74.0,1:14:07,1:14:12,1900-01-01 01:14:07,1900-01-01 01:14:12,_end,unknown,null,null,8
+76,1.0,75.0,1:14:12,1:15:17,1900-01-01 01:14:12,1900-01-01 01:15:17,Germany,Germany,country,null,6
+77,2.0,76.0,0:00:00,0:00:27,1900-01-01 01:15:17,1900-01-01 01:15:44,_end,unknown,null,null,8
+78,2.0,77.0,0:00:27,0:05:20,1900-01-01 01:15:44,1900-01-01 01:20:37,"Kigali, Rwanda; Gisenyi, Rwanda; Goma, Democratic Republic of Congo","Kigali, Rwanda; Gisenyi, Rwanda; Goma, Democratic Republic of Congo",journey,journey 1,1
+79,2.0,78.0,0:05:20,0:05:55,1900-01-01 01:20:37,1900-01-01 01:21:12,"Goma, Democratic Republic of Congo","Goma, Democratic Republic of Congo",city / area,null,4
+80,2.0,79.0,0:05:55,0:06:10,1900-01-01 01:21:12,1900-01-01 01:21:27,"Kigali, Rwanda","Kigali, Rwanda",city / area,null,4
+81,2.0,80.0,0:06:10,0:07:34,1900-01-01 01:21:27,1900-01-01 01:22:51,"Goma, Democratic Republic of Congo; Bukavu, Democratic Republic of Congo; Bujumbura, Burundi","Goma, Democratic Republic of Congo; Bukavu, Democratic Republic of Congo; Bujumbura, Burundi",journey,journey 2,1
+82,2.0,81.0,0:07:34,0:09:15,1900-01-01 01:22:51,1900-01-01 01:24:32,Burundi,Burundi,country,null,6
+83,2.0,82.0,0:09:15,0:09:45,1900-01-01 01:24:32,1900-01-01 01:25:02,"Bujumbura, Burundi; Brussels, Belgium; Cologne, Germany","Bujumbura, Burundi; Brussels, Belgium; Cologne, Germany",journey,Journey 3,1
+84,2.0,83.0,0:09:45,0:09:47,1900-01-01 01:25:02,1900-01-01 01:25:04,Germany,Germany,country,null,6
+85,2.0,84.0,0:09:47,0:12:01,1900-01-01 01:25:04,1900-01-01 01:27:18,Germany,Germany,country,null,6
+86,2.0,85.0,0:12:01,0:14:37,1900-01-01 01:27:18,1900-01-01 01:29:54,Germany,Germany,country,null,6
+87,2.0,86.0,0:14:37,0:14:42,1900-01-01 01:29:54,1900-01-01 01:29:59,Germany,Germany,country,null,6
+88,2.0,87.0,0:14:42,0:15:10,1900-01-01 01:29:59,1900-01-01 01:30:27,Germany,Germany,country,null,6
+89,2.0,88.0,0:15:10,0:15:33,1900-01-01 01:30:27,1900-01-01 01:30:50,Germany,Germany,country,null,6
+90,2.0,89.0,0:15:33,0:17:38,1900-01-01 01:30:50,1900-01-01 01:32:55,Germany,Germany,country,null,6
+91,2.0,90.0,0:17:38,0:18:19,1900-01-01 01:32:55,1900-01-01 01:33:36,Germany,Germany,country,null,6
+92,2.0,91.0,0:18:19,0:19:18,1900-01-01 01:33:36,1900-01-01 01:34:35,Rwanda,Rwanda,country,null,6
+93,2.0,92.0,0:19:18,0:20:25,1900-01-01 01:34:35,1900-01-01 01:38:43,Rwanda; Germany; Canada,Rwanda,journey,journey 4,1
+96,2.0,95.0,0:23:26,0:23:31,1900-01-01 01:38:43,1900-01-01 01:38:48,Canada,Canada; Germany,country,null,6
+97,null,null,null,null,1900-01-01 01:38:43,1900-01-01 01:38:48,Germany,null,country,null,6
+98,2.0,96.0,0:23:31,0:26:52,1900-01-01 01:38:48,1900-01-01 01:42:09,"Pierre Elliott Trudeau International Airport, Montreal, Canada; Trois-Rivières, Canada; Ste-Anne-de-la-Pérade, Canada","Trudeau airport, Montreal, Qc; Trois-Rivières, Qc; Ste-Anne-de-la-Pérade, Qc",journey,Journey 5 ,1
+99,2.0,97.0,0:26:52,0:26:56,1900-01-01 01:42:09,1900-01-01 01:42:13,Canada,Canada,country,null,6
+100,2.0,98.0,0:26:56,0:28:15,1900-01-01 01:42:13,1900-01-01 01:43:32,Canada,Canada,country,null,6
+101,2.0,99.0,0:28:15,0:28:23,1900-01-01 01:43:32,1900-01-01 01:43:40,Germany,Germany,country,null,6
+102,2.0,100.0,0:28:23,0:29:58,1900-01-01 01:43:40,1900-01-01 01:45:15,Germany,Germany,country,null,6
+103,2.0,101.0,0:29:58,0:30:05,1900-01-01 01:45:15,1900-01-01 01:45:22,"Montreal, Canada","Montreal, Qc",city / area,null,4
+104,2.0,102.0,0:30:05,0:31:04,1900-01-01 01:45:22,1900-01-01 01:46:21,"Montreal, Canada","Montreal, Qc",city / area,null,4
+105,2.0,103.0,0:31:04,0:32:25,1900-01-01 01:46:21,1900-01-01 01:47:42,"Outremont, Montreal, Canada","Outremont, Montreal, Canada",local,null,3
+106,2.0,104.0,0:32:25,0:33:50,1900-01-01 01:47:42,1900-01-01 01:49:07,"Montreal, Canada","Montreal, Qc",city / area,null,4
+107,2.0,105.0,0:33:50,0:34:41,1900-01-01 01:49:07,1900-01-01 01:49:58,"CECI, Montreal, Canada","CECI, Montreal, Qc",very local ,null,2
+108,2.0,106.0,0:34:41,0:34:55,1900-01-01 01:49:58,1900-01-01 01:50:12,"Montreal, Canada","Montreal, Qc",city / area,null,4
+109,2.0,107.0,0:34:55,0:35:28,1900-01-01 01:50:12,1900-01-01 01:50:45,"Montreal, Canada","Montreal, Qc",city / area,null,4
+110,2.0,108.0,0:35:28,0:35:32,1900-01-01 01:50:45,1900-01-01 01:50:49,"Montreal, Canada","Montreal, Qc",city / area,null,4
+111,2.0,109.0,0:35:32,0:36:26,1900-01-01 01:50:49,1900-01-01 01:51:43,"Montreal, Canada","Montreal, Qc",city / area,null,4
+112,2.0,110.0,0:36:26,0:37:00,1900-01-01 01:51:43,1900-01-01 01:52:17,"Montreal, Canada","Montreal, Qc; Rwanda",city / area,null,4
+113,null,null,null,null,1900-01-01 01:51:43,1900-01-01 01:52:17,Rwanda,null,country,null,6
+114,2.0,111.0,0:37:00,0:37:22,1900-01-01 01:52:17,1900-01-01 01:52:39,"Montreal, Canada","Montreal, Qc; Rwanda",city / area,null,4
+115,null,null,null,null,1900-01-01 01:52:17,1900-01-01 01:52:39,Rwanda,null,country,null,6
+116,2.0,112.0,0:37:22,0:37:36,1900-01-01 01:52:39,1900-01-01 01:52:53,Rwanda,Rwanda,country,null,6
+117,2.0,113.0,0:37:36,0:37:59,1900-01-01 01:52:53,1900-01-01 01:53:16,Rwanda,Rwanda,country,null,6
+118,2.0,114.0,0:37:59,0:38:01,1900-01-01 01:53:16,1900-01-01 01:53:18,Rwanda,Rwanda,country,null,6
+119,2.0,115.0,0:38:01,0:38:23,1900-01-01 01:53:18,1900-01-01 01:53:40,Rwanda,Rwanda,country,null,6
+120,2.0,116.0,0:38:23,0:39:59,1900-01-01 01:53:40,1900-01-01 01:55:16,Rwanda,Rwanda,country,null,6
+121,2.0,117.0,0:39:59,0:40:04,1900-01-01 01:55:16,1900-01-01 01:55:21,Rwanda,Rwanda,country,null,6
+122,2.0,118.0,0:40:04,0:41:53,1900-01-01 01:55:21,1900-01-01 01:57:10,Rwanda,Rwanda,country,null,6
+123,2.0,119.0,0:41:53,0:41:56,1900-01-01 01:57:10,1900-01-01 01:57:13,Rwanda,Rwanda,country,null,6
+124,2.0,120.0,0:41:56,0:44:57,1900-01-01 01:57:13,1900-01-01 02:00:14,Rwanda,Rwanda,country,null,6
+125,2.0,121.0,0:44:57,0:45:34,1900-01-01 02:00:14,1900-01-01 02:00:51,"Montreal, Canada","Montreal, Qc",city / area,null,4
+126,2.0,122.0,0:45:34,0:47:28,1900-01-01 02:00:51,1900-01-01 02:02:45,"Montreal, Canada","Montreal, Qc",city / area,null,4
+127,2.0,123.0,0:47:28,0:49:55,1900-01-01 02:02:45,1900-01-01 02:05:12,Africa,Africa,continent,null,7
+128,2.0,124.0,0:49:55,0:50:16,1900-01-01 02:05:12,1900-01-01 02:05:33,"Montreal, Canada","Montreal, Qc",city / area,null,4
+129,2.0,125.0,0:50:16,0:50:29,1900-01-01 02:05:33,1900-01-01 02:05:46,Africa,Africa,continent,null,7
+130,2.0,126.0,0:50:29,0:51:06,1900-01-01 02:05:46,1900-01-01 02:06:23,Canada,Canada,country,null,6
+131,2.0,127.0,0:51:06,0:52:02,1900-01-01 02:06:23,1900-01-01 02:07:19,_end,none,null,null,8
+132,2.0,128.0,0:52:02,0:52:05,1900-01-01 02:07:19,1900-01-01 02:07:22,_end,none,null,null,8
+133,2.0,129.0,0:52:05,0:52:14,1900-01-01 02:07:22,1900-01-01 02:07:31,_end,none,null,null,8
+134,2.0,130.0,0:52:14,0:52:17,1900-01-01 02:07:31,1900-01-01 02:07:34,_end,none,null,null,8
+135,2.0,131.0,0:52:17,0:52:30,1900-01-01 02:07:34,1900-01-01 02:07:47,_end,none,null,null,8
+136,2.0,132.0,0:52:30,0:52:37,1900-01-01 02:07:47,1900-01-01 02:07:54,_end,none,null,null,8
+137,2.0,133.0,0:52:37,0:53:29,1900-01-01 02:07:54,1900-01-01 02:08:46,_end,none,null,null,8
+138,2.0,134.0,0:53:29,0:54:06,1900-01-01 02:08:46,1900-01-01 02:09:23,Rwanda,Rwanda,country,null,6
+139,2.0,135.0,0:54:06,0:54:25,1900-01-01 02:09:23,1900-01-01 02:09:42,Rwanda,Rwanda,country,null,6
+140,2.0,136.0,0:54:25,0:54:45,1900-01-01 02:09:42,1900-01-01 02:10:02,Rwanda,Rwanda,country,null,6
+141,2.0,137.0,0:54:45,0:55:06,1900-01-01 02:10:02,1900-01-01 02:10:23,Canada,Canada,country,null,6
+142,2.0,138.0,0:55:06,0:55:10,1900-01-01 02:10:23,1900-01-01 02:10:27,Rwanda,Rwanda,country,null,6
+143,2.0,139.0,0:55:10,0:55:42,1900-01-01 02:10:27,1900-01-01 02:10:59,Rwanda,Rwanda,country,null,6
+144,2.0,140.0,0:55:42,0:56:21,1900-01-01 02:10:59,1900-01-01 02:11:38,_end,none,null,null,8
+145,2.0,141.0,0:56:21,0:59:00,1900-01-01 02:11:38,1900-01-01 02:14:17,_end,none,null,null,8
+146,2.0,142.0,0:59:00,1:00:00,1900-01-01 02:14:17,1900-01-01 02:15:17,Rwanda,"Rwanda; Montreal, Qc",country,null,6
+147,null,null,null,null,1900-01-01 02:14:17,1900-01-01 02:15:17,"Montreal, Canada",null,city / area,null,4
+148,2.0,143.0,1:00:00,1:00:32,1900-01-01 02:15:17,1900-01-01 02:15:49,Rwanda,"Rwanda; Montreal, Qc",country,null,6
+149,null,null,null,null,1900-01-01 02:15:17,1900-01-01 02:15:49,"Montreal, Canada",null,city / area,null,4
+150,2.0,144.0,1:00:32,1:00:58,1900-01-01 02:15:49,1900-01-01 02:16:15,Rwanda,"Rwanda; Montreal, Qc",country,null,6
+151,null,null,null,null,1900-01-01 02:15:49,1900-01-01 02:16:15,"Montreal, Canada",null,city / area,null,4
+152,2.0,145.0,1:00:58,1:01:10,1900-01-01 02:16:15,1900-01-01 02:16:27,Rwanda,"Rwanda; Montreal, Qc",country,null,6
+153,null,null,null,null,1900-01-01 02:16:15,1900-01-01 02:16:27,"Montreal, Canada",null,city / area,null,4
+154,2.0,146.0,1:01:10,1:01:35,1900-01-01 02:16:27,1900-01-01 02:16:52,Rwanda,Rwanda,country,null,6
+155,2.0,147.0,1:01:35,1:03:52,1900-01-01 02:16:52,1900-01-01 02:19:09,Rwanda,Rwanda,country,null,6
+156,2.0,148.0,1:03:52,1:04:20,1900-01-01 02:19:09,1900-01-01 02:19:37,Rwanda,Rwanda,country,null,6
+157,2.0,149.0,1:04:20,1:04:42,1900-01-01 02:19:37,1900-01-01 02:19:59,Rwanda,Rwanda,country,null,6
+158,2.0,150.0,1:04:42,1:04:49,1900-01-01 02:19:59,1900-01-01 02:20:06,_end,none,null,null,8
+159,2.0,151.0,1:04:49,1:05:10,1900-01-01 02:20:06,1900-01-01 02:20:27,_end,none,null,null,8
+160,2.0,152.0,1:05:10,1:05:17,1900-01-01 02:20:27,1900-01-01 02:20:34,_end,none,null,null,8
+161,2.0,153.0,1:05:17,1:05:43,1900-01-01 02:20:34,1900-01-01 02:21:00,_end,none,null,null,8
+162,2.0,154.0,1:05:43,1:06:06,1900-01-01 02:21:00,1900-01-01 02:21:23,_end,none,null,null,8
+163,2.0,155.0,1:06:06,1:07:06,1900-01-01 02:21:23,1900-01-01 02:22:23,"Montreal, Canada","Montreal, Qc",city / area,null,4
+164,2.0,156.0,1:07:06,1:07:12,1900-01-01 02:22:23,1900-01-01 02:22:29,_end,none,null,null,8
+165,2.0,157.0,1:07:12,1:07:19,1900-01-01 02:22:29,1900-01-01 02:22:36,_end,none,null,null,8
+166,2.0,158.0,1:07:19,1:07:27,1900-01-01 02:22:36,1900-01-01 02:22:44,_end,none,null,null,8
+167,2.0,159.0,1:07:27,1:07:57,1900-01-01 02:22:44,1900-01-01 02:23:14,_end,none,null,null,8
+168,2.0,160.0,1:07:57,1:08:19,1900-01-01 02:23:14,1900-01-01 02:23:36,Rwanda,Rwanda,country,null,6
+169,2.0,161.0,1:08:19,1:09:18,1900-01-01 02:23:36,1900-01-01 02:24:35,Rwanda,Rwanda,country,null,6
+170,2.0,162.0,1:09:18,1:10:14,1900-01-01 02:24:35,1900-01-01 02:25:31,_end,none,null,null,8
+171,2.0,163.0,1:10:14,1:11:33,1900-01-01 02:25:31,1900-01-01 02:26:50,_end,none,null,null,8
+172,2.0,164.0,1:11:33,1:12:01,1900-01-01 02:26:50,1900-01-01 02:27:18,_end,none,null,null,8
+173,2.0,165.0,1:12:01,1:12:59,1900-01-01 02:27:18,1900-01-01 02:28:16,_end,none,null,null,8
+174,2.0,166.0,1:12:59,1:13:05,1900-01-01 02:28:16,1900-01-01 02:28:22,_end,none,null,null,8
+175,2.0,167.0,1:13:05,1:13:30,1900-01-01 02:28:22,1900-01-01 02:28:47,_end,none,null,null,8
+176,2.0,168.0,1:13:30,1:13:53,1900-01-01 02:28:47,1900-01-01 02:29:10,_end,none,null,null,8

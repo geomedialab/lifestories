@@ -133,11 +133,11 @@ id,Session #,Story #,Time start (h:mm:ss),Time end (h:mm:ss),Cumulative Time sta
 132,1,124,1:00:22,1:00:25,1:00:22,1:00:25,_end,none,,
 133,1,125,1:00:25,1:00:37,1:00:25,1:00:37,"Saint-Marc, Haiti",Saint-Marc; Haiti,city / area,
 134,1,126,1:00:37,1:00:39,1:00:37,1:00:39,"Gonaives, Haiti",Gonaives; Haiti,city / area,
-135,1,127,1:00:39,1:00:47,1:00:39,1:00:47,"Saint-Marc, Haiti",Saint-Marc; Haiti,city / area,journey 4
-136,1,128,1:00:47,1:00:58,1:00:47,1:00:58,"Marchand Dessalines, Haiti",Marchand Dessalines; Haiti,city / area,journey 4
+135,1,127,1:00:39,1:00:47,1:00:39,1:00:47,"Saint-Marc, Haiti",Saint-Marc; Haiti,city / area,
+136,1,128,1:00:47,1:00:58,1:00:47,1:00:58,"Marchand Dessalines, Haiti",Marchand Dessalines; Haiti,city / area,
 137,1,129,1:00:58,1:01:02,1:00:58,1:01:02,"Gonaives, Haiti",Gonaives; Haiti,city / area,
-138,1,130,1:01:02,1:01:10,1:01:02,1:01:10,"Gonaives, Haiti",Gonaives; Haiti,city / area,journey 4
-139,1,131,1:01:10,1:01:20,1:01:10,1:01:20,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,journey 4
+138,1,130,1:01:02,1:01:10,1:01:02,1:01:10,"Gonaives, Haiti",Gonaives; Haiti,city / area,
+139,1,131,1:01:10,1:01:20,1:01:10,1:01:20,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area,
 140,1,132,1:01:20,1:01:22,1:01:20,1:01:22,Haiti,Haiti,country,
 141,1,133,1:01:22,1:01:51,1:01:22,1:01:51,Haiti,Haiti,country,
 142,1,134,1:01:51,1:01:56,1:01:51,1:01:56,Canada,Canada,country,
@@ -243,12 +243,12 @@ id,Session #,Story #,Time start (h:mm:ss),Time end (h:mm:ss),Cumulative Time sta
 242,2,226,0:52:00,0:54:16,2:14:04,2:16:20,Cuba,Cuba; Haiti,country,
 243,,,,,2:14:04,2:16:20,Haiti,,country,
 244,2,227,0:54:16,0:54:25,2:16:20,2:16:29,Haiti,Haiti,country,
-245,2,228,0:54:25,0:54:45,2:16:29,2:16:49,"Saint-Marc, Haiti",Saint-Marc; Haiti,city / area,journey 6
-246,2,229,0:54:45,0:56:11,2:16:49,2:18:15,"Marchand Dessalines, Haiti",Marchand Dessalines; Haiti,local,journey 6
-247,2,230,0:56:11,0:56:13,2:18:15,2:18:17,"Marchand Dessalines, Haiti",Marchand Dessalines; Haiti,local,
-248,2,231,0:56:13,0:56:45,2:18:17,2:18:49,"Marchand Dessalines, Haiti",Marchand Dessalines; Haiti,city / area,journey 6
-249,2,232,0:56:45,0:57:27,2:18:49,2:19:31,"Gonaives, Haiti",Gonaives; Haiti,city / area,journey 6
-250,2,233,0:57:27,0:59:37,2:19:31,2:21:41,"Port-au-Prince, Haiti",Port-au-Prince; Haiti; Gonaives; Haiti,city / area,journey 6
+245,2,228,0:54:25,0:54:45,2:16:29,2:16:49,"Saint-Marc, Haiti",Saint-Marc; Haiti,city / area,
+246,2,229,0:54:45,0:56:11,2:16:49,2:18:15,"Marchand Dessalines, Haiti",Marchand Dessalines; Haiti,city / area,
+247,2,230,0:56:11,0:56:13,2:18:15,2:18:17,"Marchand Dessalines, Haiti",Marchand Dessalines; Haiti,city / area,
+248,2,231,0:56:13,0:56:45,2:18:17,2:18:49,"Marchand Dessalines, Haiti",Marchand Dessalines; Haiti,city / area,
+249,2,232,0:56:45,0:57:27,2:18:49,2:19:31,"Gonaives, Haiti",Gonaives; Haiti,city / area,
+250,2,233,0:57:27,0:59:37,2:19:31,2:21:41,"Port-au-Prince, Haiti",Port-au-Prince; Haiti; Gonaives; Haiti,city / area,
 251,,,,,2:19:31,2:21:41,"Gonaives, Haiti",,city / area,
 252,2,234,0:59:37,0:59:44,2:21:41,2:21:48,Haiti,Haiti,country,
 253,2,235,0:59:44,1:04:06,2:21:48,2:26:10,Haiti,Haiti,country,
@@ -266,9 +266,9 @@ id,Session #,Story #,Time start (h:mm:ss),Time end (h:mm:ss),Cumulative Time sta
 265,2,247,1:12:38,1:12:41,2:34:42,2:34:45,_end,none,,
 266,2,248,1:12:41,1:14:30,2:34:45,2:36:34,"Pierre Elliott Trudeau International Airport, Montreal, Canada",Pierre Elliott Trudeau International Airport; Montreal; Canada,very local,
 267,2,249,1:14:30,1:14:32,2:36:34,2:36:36,"Montreal, Canada",Montreal; Canada,city / area,
-268,2,250,1:14:32,1:17:39,2:36:36,2:39:43,"Saint Christophe Street, Montreal, Canada",Saint Christophe Street; Montreal; Canada; Outremont; Montreal; Canada; Villeray; Montreal; Canada,local,journey 8
-269,,,,,2:36:36,2:39:43,"Outremont, Montreal, Canada",,local,
-270,,,,,2:36:36,2:39:43,"Villeray, Montreal, Canada",,local,
+268,2,250,1:14:32,1:17:39,2:36:36,2:37:24,"Saint Christophe Street, Montreal, Canada",Saint Christophe Street; Montreal; Canada; Outremont; Montreal; Canada; Villeray; Montreal; Canada,local,
+269,,,,,2:36:36,2:37:24,"Outremont, Montreal, Canada",,local,
+270,,,,,2:36:36,2:37:24,"Villeray, Montreal, Canada",,local,
 271,2,251,1:15:20,1:15:22,2:37:24,2:37:26,"Montreal, Canada",Montreal; Qc,city / area,
 272,2,252,1:15:22,1:16:20,2:37:26,2:38:24,"William Street, Montreal, Canada",William St; Montreal; Qc,local,
 273,2,253,1:16:20,1:16:52,2:38:24,2:38:56,"Centre de formation professionnelle Pierre-Dupuy, Longueuil, Canada",Centre de formation professionnelle Pierre-Dupuy; Longueuil; Canada,very local,

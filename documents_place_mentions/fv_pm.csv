@@ -185,7 +185,7 @@ id,Session #,Clip Time mentioned (h:mm:ss),Cumulative Time Mentioned (h:mm:ss),A
 184,1,0:50:26,0:50:26,"Montreal, Canada",Montreal; Canada,city / area
 185,1,0:50:29,0:50:29,"Montreal, Canada",Montreal; Canada,city / area
 186,1,0:50:43,0:50:43,"Montreal, Canada",Montreal; Canada,city / area
-187,1,0:50:48,0:50:48,"New York City, USA",New York City; USA,city / area
+187,1,0:50:48,0:50:48,"NYC, USA",New York City; USA,city / area
 188,1,0:50:58,0:50:58,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area
 189,1,0:51:01,0:51:01,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area
 190,2,0:01:57,0:54:22,Chile,Chile,country
@@ -199,7 +199,7 @@ id,Session #,Clip Time mentioned (h:mm:ss),Cumulative Time Mentioned (h:mm:ss),A
 198,2,0:06:26,0:58:51,Haiti,Haiti,country
 199,2,0:07:52,1:00:17,Haiti,Haiti,country
 200,2,0:08:12,1:00:37,Haiti,Haiti,country
-201,2,0:09:26,1:01:51,"New York City, USA",New York City; USA,city / area
+201,2,0:09:26,1:01:51,"NYC, USA",New York City; USA,city / area
 202,2,0:09:28,1:01:53,"Miami, USA",Miami; USA,city / area
 203,2,0:09:33,1:01:58,Haiti,Haiti,country
 204,2,0:10:15,1:02:40,"Petit-Goâve, Haiti",Petit-Goâve; Haiti,local
@@ -246,14 +246,14 @@ id,Session #,Clip Time mentioned (h:mm:ss),Cumulative Time Mentioned (h:mm:ss),A
 245,2,0:32:34,1:24:59,"Montreal, Canada",Montreal; Canada,city / area
 246,2,0:32:39,1:25:04,France,France,country
 247,2,0:32:40,1:25:05,USA,USA,country
-248,2,0:32:41,1:25:06,"New York City, USA",New York City; USA,city / area
-249,2,0:32:44,1:25:09,"New York City, USA",New York City; USA,city / area
+248,2,0:32:41,1:25:06,"NYC, USA",New York City; USA,city / area
+249,2,0:32:44,1:25:09,"NYC, USA",New York City; USA,city / area
 250,2,0:32:53,1:25:18,"Montreal, Canada",Montreal; Canada,city / area
 251,2,0:33:06,1:25:31,"Montreal, Canada",Montreal; Canada,city / area
 252,2,0:33:09,1:25:34,North America,North America,continent
-253,2,0:33:29,1:25:54,"New York City, USA",New York City; USA,city / area
+253,2,0:33:29,1:25:54,"NYC, USA",New York City; USA,city / area
 254,2,0:33:31,1:25:56,"Montreal, Canada",Montreal; Canada,city / area
-255,2,0:33:31,1:25:56,"New York City, USA",New York City; USA,city / area
+255,2,0:33:31,1:25:56,"NYC, USA",New York City; USA,city / area
 256,2,0:34:07,1:26:32,"CIDIHCA, Montreal, Canada",Centre International De Documentation & D'Information Haitienne Caraïbéenne & Afrocanadienne; Montreal; Canada,very local
 257,2,0:35:46,1:28:11,Haiti,Haiti,country
 258,2,0:36:08,1:28:33,"CIDIHCA, Montreal, Canada",Centre International De Documentation & D'Information Haitienne Caraïbéenne & Afrocanadienne; Montreal; Canada,very local
@@ -430,9 +430,9 @@ id,Session #,Clip Time mentioned (h:mm:ss),Cumulative Time Mentioned (h:mm:ss),A
 429,3,0:56:22,2:26:39,"Bas-Saint-Laurent, Canada",Bas-Saint-Laurent; Canada,region
 430,3,0:56:24,2:26:41,"Saint-Mathieu-de-Rioux, Canada",Saint-Mathieu-de-Rioux; Canada,city / area
 431,3,0:56:25,2:26:42,"Rimouski, Canada",Rimouski; Canada,city / area
-432,3,0:56:48,2:27:05,"New York City, USA",New York City; USA,city / area
-433,3,0:56:49,2:27:06,"Baruch College, New York City, USA",Baruch college; 55 Lexington Ave; New York City; USA,very local
-434,3,0:56:51,2:27:08,"New York City, USA",New York City; USA,city / area
+432,3,0:56:48,2:27:05,"NYC, USA",New York City; USA,city / area
+433,3,0:56:49,2:27:06,"Baruch College, NYC, USA",Baruch college; 55 Lexington Ave; New York City; USA,very local
+434,3,0:56:51,2:27:08,"NYC, USA",New York City; USA,city / area
 435,3,0:56:54,2:27:11,USA,USA,country
 436,3,0:57:01,2:27:18,"Temple University, Philadelphia, USA",Temple University; Philadelphia; USA,very local
 437,3,0:57:02,2:27:19,"Philadelphia, USA",Philadelphia; USA,city / area
@@ -446,12 +446,12 @@ id,Session #,Clip Time mentioned (h:mm:ss),Cumulative Time Mentioned (h:mm:ss),A
 445,3,0:57:57,2:28:14,"Quebec, Canada",Quebec; Canada,region
 446,3,0:58:00,2:28:17,"Montreal, Canada",Montreal; Canada,city / area
 447,3,0:58:33,2:28:50,"Longueuil, Canada",Longueuil; Canada,city / area
-448,3,0:58:36,2:28:53,"New York City, USA",New York City; USA,city / area
+448,3,0:58:36,2:28:53,"NYC, USA",New York City; USA,city / area
 449,3,0:58:56,2:29:13,Haiti,Haiti,country
 450,3,0:59:28,2:29:45,"Montreal, Canada",Montreal; Canada,city / area
 451,3,0:59:38,2:29:55,"Port-au-Prince, Haiti",Port-au-Prince; Haiti,city / area
 452,3,1:00:00,2:30:17,"Rimouski, Canada",Rimouski; Canada,city / area
-453,3,1:00:04,2:30:21,"New York City, USA",New York City; USA,city / area
+453,3,1:00:04,2:30:21,"NYC, USA",New York City; USA,city / area
 454,3,1:00:08,2:30:25,"Montreal, Canada",Montreal; Canada,city / area
 455,3,1:00:12,2:30:29,"Montreal, Canada",Montreal; Canada,city / area
 456,3,1:00:14,2:30:31,Haiti,Haiti,country
@@ -469,8 +469,8 @@ id,Session #,Clip Time mentioned (h:mm:ss),Cumulative Time Mentioned (h:mm:ss),A
 468,3,1:03:50,2:34:07,"Laval, Canada",Laval; Canada,city / area
 469,3,1:04:11,2:34:28,"Longueuil, Canada",Longueuil; Canada,city / area
 470,3,1:04:12,2:34:29,"Laval, Canada",Laval; Canada,city / area
-471,3,1:04:26,2:34:43,"New York City, USA",New York City; USA,city / area
-472,3,1:04:27,2:34:44,"New York City, USA",New York City; USA,city / area
+471,3,1:04:26,2:34:43,"NYC, USA",New York City; USA,city / area
+472,3,1:04:27,2:34:44,"NYC, USA",New York City; USA,city / area
 473,3,1:04:36,2:34:53,"Champlain Bridge, Canada",Champlain Bridge; Canada,very local
 474,3,1:04:39,2:34:56,"Montreal, Canada",Montreal; Canada,city / area
 475,3,1:05:25,2:35:42,Haiti,Haiti,country

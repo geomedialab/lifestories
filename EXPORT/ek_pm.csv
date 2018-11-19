@@ -86,7 +86,7 @@ id,session_num,time_clip,time,place,place_raw,scale,scale_order
 85,null,null,1900-01-01 00:50:54,"Bujumbura, Burundi","Bujumbura, Burundi",city / area,4
 86,null,null,1900-01-01 00:51:13,Rwanda,Rwanda,country,6
 87,null,null,1900-01-01 00:51:16,"Nyamata, Rwanda","Nyamata, Rwanda",local,3
-88,null,null,1900-01-01 00:51:31,"Bugesera, Rwanda","Bugesera, Rwanda",local,3
+88,null,null,1900-01-01 00:51:31,"Bugesera, Rwanda","Bugesera, Rwanda",city / area,4
 89,null,null,1900-01-01 00:51:39,"Bujumbura, Burundi","Bujumbura, Burundi",city / area,4
 90,null,null,1900-01-01 00:51:54,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area,4
 91,null,null,1900-01-01 00:51:57,"Nyamata, Rwanda","Nyamata, Rwanda",local,3
@@ -184,12 +184,12 @@ id,session_num,time_clip,time,place,place_raw,scale,scale_order
 183,null,null,1900-01-01 01:28:45,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area,4
 184,null,null,1900-01-01 01:29:07,"Nyamata, Rwanda","Nyamata, Rwanda",local,3
 185,null,null,1900-01-01 01:29:12,"Nyamata, Rwanda","Nyamata, Rwanda",local,3
-186,null,null,1900-01-01 01:31:46,"Bugesera, Rwanda","Bugesera, Rwanda",local,3
+186,null,null,1900-01-01 01:31:46,"Bugesera, Rwanda","Bugesera, Rwanda",city / area,4
 187,null,null,1900-01-01 01:31:48,"Sake, Rwanda","Sake, Rwanda",local,3
 188,null,null,1900-01-01 01:31:51,Burundi,Burundi,country,6
 189,null,null,1900-01-01 01:31:53,Rwanda,Rwanda,country,6
 190,null,null,1900-01-01 01:32:08,"Sake, Rwanda","Sake, Rwanda",local,3
-191,null,null,1900-01-01 01:32:18,"Bugesera, Rwanda","Bugesera, Rwanda",local,3
+191,null,null,1900-01-01 01:32:18,"Bugesera, Rwanda","Bugesera, Rwanda",city / area,4
 192,null,null,1900-01-01 01:34:28,"Nyamata, Rwanda","Nyamata, Rwanda",local,3
 193,null,null,1900-01-01 01:40:04,"Kigali, Rwanda","Kigali, Rwanda",city / area,4
 194,null,null,1900-01-01 01:40:07,"Kabuga, Rwanda","Kabuga, Rwanda",local,3

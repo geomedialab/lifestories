@@ -127,7 +127,7 @@ id,Session #,Story #,clip_start_time,clip_end_time,Cumulative Time start (h:mm:s
 126,1,125,,,1:59:05,2:01:40,"Nyamata, Rwanda","Nyamata, Rwanda",local,
 127,1,126,,,2:01:40,2:01:50,_end,none,,
 128,1,127,,,2:01:50,2:05:29,Rwanda,Rwanda,country,
-129,1,128,,,2:05:29,2:07:40,"Southern Province, Rwanda","Southern Province, Rwanda",region,journey 11
+129,1,128,,,2:05:29,2:07:40,"Southern Province, Rwanda","Southern Province, Rwanda",region,
 130,1,129,,,2:07:40,2:07:48,_end,none,,
 131,1,130,,,2:07:48,2:10:49,"Southern Province, Rwanda","Southern Province, Rwanda",region,
 132,1,131,,,2:10:49,2:11:00,Rwanda,Rwanda,country,
@@ -146,7 +146,7 @@ id,Session #,Story #,clip_start_time,clip_end_time,Cumulative Time start (h:mm:s
 145,1,144,,,2:29:46,2:30:39,"Centre de documentation sur l'éducation des adultes et la condition féminine, Montreal, Qc","Centre de documentation sur l'éducation des adultes et la condition féminine, Montreal, Qc",very local,
 146,1,145,,,2:30:39,2:30:50,"Montreal, Canada","Montreal, Canada",city / area,
 147,1,146,,,2:30:50,2:33:00,"Montreal, Canada","Montreal, Canada",city / area,
-148,1,147,,,2:33:00,2:33:10,"Montreal, Canada","Montreal, Canada; Rwanda",country,
+148,1,147,,,2:33:00,2:33:10,"Montreal, Canada","Montreal, Canada; Rwanda",city / area,
 149,1,148,,,2:33:10,2:37:09,Rwanda,Rwanda; Canada,country,
 150,1,149,,,2:37:09,2:37:22,Rwanda,Rwanda,country,
 151,1,150,,,2:37:22,2:42:05,Rwanda,Rwanda,country,

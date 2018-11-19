@@ -101,8 +101,8 @@ id,session_num,time_clip,time,place,place_raw,scale,scale_order
 100,1,1:09:20,1900-01-01 01:09:20,"Quebec, Canada",Quebec; Canada,region,5
 101,1,1:10:12,1900-01-01 01:10:12,Cuba,Cuba,country,6
 102,1,1:11:25,1900-01-01 01:11:25,Haiti,Haiti,country,6
-103,1,1:11:49,1900-01-01 01:11:49,"Maison D'Haïti, Montreal, Canada",Maison D'Haïti; Montreal; Canada,very local,2
-104,1,1:12:06,1900-01-01 01:12:06,"Maison D'Haïti, Montreal, Canada",Maison D'Haïti; Montreal; Canada,very local,2
+103,1,1:11:49,1900-01-01 01:11:49,"Maison D'Haiti, Montreal, Canada",Maison D'Haïti; Montreal; Canada,very local,2
+104,1,1:12:06,1900-01-01 01:12:06,"Maison D'Haiti, Montreal, Canada",Maison D'Haïti; Montreal; Canada,very local,2
 105,1,1:12:36,1900-01-01 01:12:36,Cuba,Cuba,country,6
 106,1,1:12:42,1900-01-01 01:12:42,Cuba,Cuba,country,6
 107,1,1:15:38,1900-01-01 01:15:38,Haiti,Haiti,country,6
@@ -152,16 +152,16 @@ id,session_num,time_clip,time,place,place_raw,scale,scale_order
 151,2,0:14:37,1900-01-01 01:37:39,Canada,Canada,country,6
 152,2,0:18:59,1900-01-01 01:42:01,Cuba,Cuba,country,6
 153,2,0:19:09,1900-01-01 01:42:11,Canada,Canada,country,6
-154,2,0:23:10,1900-01-01 01:46:12,"Maison D'Haïti, Montreal, Canada",Maison D'Haïti; Montreal; Canada,very local,2
-155,2,0:23:24,1900-01-01 01:46:26,"Maison D'Haïti, Montreal, Canada",Maison D'Haïti; Montreal; Canada,very local,2
+154,2,0:23:10,1900-01-01 01:46:12,"Maison D'Haiti, Montreal, Canada",Maison D'Haïti; Montreal; Canada,very local,2
+155,2,0:23:24,1900-01-01 01:46:26,"Maison D'Haiti, Montreal, Canada",Maison D'Haïti; Montreal; Canada,very local,2
 156,2,0:23:28,1900-01-01 01:46:30,"Association Latino-Americaine des Droits Humains: 5690 Rue Gatineau, Montreal, Canada",Association Latino-Americaine des Droits Humains: 5690 Rue Gatineau; Montreal; Canada,very local,2
 157,2,0:23:41,1900-01-01 01:46:43,"Commission des droits de la personne et des droits de la jeunesse, Montreal, Canada",Commission des droits de la personne et des droits de la jeunesse; Montreal; Canada,very local,2
-158,2,0:24:48,1900-01-01 01:47:50,"Maison D'Haïti, Montreal, Canada",Maison D'Haïti; Montreal; Canada,very local,2
+158,2,0:24:48,1900-01-01 01:47:50,"Maison D'Haiti, Montreal, Canada",Maison D'Haïti; Montreal; Canada,very local,2
 159,2,0:25:05,1900-01-01 01:48:07,"Association Latino-Americaine des Droits Humains: 5690 Rue Gatineau, Montreal, Canada",Association Latino-Americaine des Droits Humains: 5690 Rue Gatineau; Montreal; Canada,very local,2
 160,2,0:25:23,1900-01-01 01:48:25,"Commission des droits de la personne et des droits de la jeunesse, Montreal, Canada",Commission des droits de la personne et des droits de la jeunesse; Montreal; Canada,very local,2
 161,2,0:25:48,1900-01-01 01:48:50,"Quebec, Canada",Quebec; Canada,country,6
 162,2,0:26:46,1900-01-01 01:49:48,"Les Laurentides, Quebec, Canada",Les Laurentides; Quebec; Canada,city / area,4
-163,2,0:31:41,1900-01-01 01:54:43,"Maison D'Haïti, Montreal, Canada",Maison D'Haïti; Montreal; Canada,very local,2
+163,2,0:31:41,1900-01-01 01:54:43,"Maison D'Haiti, Montreal, Canada",Maison D'Haïti; Montreal; Canada,very local,2
 164,2,0:31:43,1900-01-01 01:54:45,"Association Latino-Americaine des Droits Humains: 5690 Rue Gatineau, Montreal, Canada",Association Latino-Americaine des Droits Humains: 5690 Rue Gatineau; Montreal; Canada,very local,2
 165,2,0:36:13,1900-01-01 01:59:15,Canada,Canada,country,6
 166,2,0:37:57,1900-01-01 02:00:59,Haiti,Haiti,country,6
@@ -204,7 +204,7 @@ id,session_num,time_clip,time,place,place_raw,scale,scale_order
 203,2,0:56:10,1900-01-01 02:19:12,Haiti,Haiti,country,6
 204,2,0:57:26,1900-01-01 02:20:28,Haiti,Haiti,country,6
 205,2,0:57:10,1900-01-01 02:20:12,Africa,Africa,continent,7
-206,2,0:57:26,1900-01-01 02:20:28,Haiti,Senegal,country,6
+206,2,0:57:26,1900-01-01 02:20:28,Senegal,Senegal,country,6
 207,2,0:58:29,1900-01-01 02:21:31,Haiti,Haiti,country,6
 208,2,0:58:38,1900-01-01 02:21:40,Haiti,Haiti,country,6
 209,2,0:58:42,1900-01-01 02:21:44,Haiti,Haiti,country,6
@@ -359,8 +359,8 @@ id,session_num,time_clip,time,place,place_raw,scale,scale_order
 358,2,2:15:04,1900-01-01 03:38:06,Cuba,Cuba,country,6
 359,2,2:15:16,1900-01-01 03:38:18,Haiti,Haiti,country,6
 360,2,2:16:06,1900-01-01 03:39:08,"Montreal, Canada",Montreal; Canada,city / area,4
-361,2,2:16:34,1900-01-01 03:39:36,"Maison D'Haïti, Montreal, Canada",Maison D'Haïti; Montreal; Canada,very local,2
-362,2,2:16:35,1900-01-01 03:39:37,"Maison D'Haïti, Montreal, Canada",Maison D'Haïti; Montreal; Canada,very local,2
+361,2,2:16:34,1900-01-01 03:39:36,"Maison D'Haiti, Montreal, Canada",Maison D'Haïti; Montreal; Canada,very local,2
+362,2,2:16:35,1900-01-01 03:39:37,"Maison D'Haiti, Montreal, Canada",Maison D'Haïti; Montreal; Canada,very local,2
 363,2,2:17:10,1900-01-01 03:40:12,Haiti,Haiti,country,6
 364,2,2:17:11,1900-01-01 03:40:13,Cuba,Cuba,country,6
 365,2,2:17:12,1900-01-01 03:40:14,"Montreal, Canada",Montreal; Canada,city / area,4

@@ -86,7 +86,7 @@ id,session_num,time_clip,Time mentioned (h:mm:ss),Atlascine-location,Location,Sc
 85,,,0:50:54,"Bujumbura, Burundi","Bujumbura, Burundi",city / area
 86,,,0:51:13,Rwanda,Rwanda,country
 87,,,0:51:16,"Nyamata, Rwanda","Nyamata, Rwanda",local
-88,,,0:51:31,"Bugesera, Rwanda","Bugesera, Rwanda",local
+88,,,0:51:31,"Bugesera, Rwanda","Bugesera, Rwanda",city / area
 89,,,0:51:39,"Bujumbura, Burundi","Bujumbura, Burundi",city / area
 90,,,0:51:54,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area
 91,,,0:51:57,"Nyamata, Rwanda","Nyamata, Rwanda",local
@@ -184,12 +184,12 @@ id,session_num,time_clip,Time mentioned (h:mm:ss),Atlascine-location,Location,Sc
 183,,,1:28:45,"Bukavu, Democratic Republic of Congo","Bukavu, Democratic Republic of Congo",city / area
 184,,,1:29:07,"Nyamata, Rwanda","Nyamata, Rwanda",local
 185,,,1:29:12,"Nyamata, Rwanda","Nyamata, Rwanda",local
-186,,,1:31:46,"Bugesera, Rwanda","Bugesera, Rwanda",local
+186,,,1:31:46,"Bugesera, Rwanda","Bugesera, Rwanda",city / area
 187,,,1:31:48,"Sake, Rwanda","Sake, Rwanda",local
 188,,,1:31:51,Burundi,Burundi,country
 189,,,1:31:53,Rwanda,Rwanda,country
 190,,,1:32:08,"Sake, Rwanda","Sake, Rwanda",local
-191,,,1:32:18,"Bugesera, Rwanda","Bugesera, Rwanda",local
+191,,,1:32:18,"Bugesera, Rwanda","Bugesera, Rwanda",city / area
 192,,,1:34:28,"Nyamata, Rwanda","Nyamata, Rwanda",local
 193,,,1:40:04,"Kigali, Rwanda","Kigali, Rwanda",city / area
 194,,,1:40:07,"Kabuga, Rwanda","Kabuga, Rwanda",local

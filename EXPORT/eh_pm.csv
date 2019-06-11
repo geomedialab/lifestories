@@ -1,5 +1,5 @@
 id,session_num,time_clip,time,place,place_raw,scale,scale_order
-1,1,0.0,1900-01-01 00:00:30,"Trois-Rivières, Canada",Trois-Rivières; Quebec,city / area,4
+1,1,0,1900-01-01 00:00:30,"Trois-Rivières, Canada",Trois-Rivières; Quebec,city / area,4
 2,1,null,1900-01-01 00:00:30,"Trois-Rivières, Canada",Université du Quebec à Trois-Rivières; Canada,very local,2
 3,1,null,1900-01-01 00:00:30,"Trois-Rivières, Canada",Québec City; Quebec; Canada,city / area,4
 4,1,null,1900-01-01 00:00:50,Rwanda,Rwanda,country,6
@@ -105,8 +105,8 @@ id,session_num,time_clip,time,place,place_raw,scale,scale_order
 104,1,null,1900-01-01 01:20:05,"l'ACDI, Ottawa, Canada",l'ACDI; Ottawa; Canada,very local,2
 105,1,null,1900-01-01 01:20:35,Canada,Canada,country,6
 106,1,null,1900-01-01 01:20:36,"NYC, USA",New York; NY; US,city / area,4
-107,1,null,1900-01-01 01:20:40,"Montréal, Canada",Montréal; Quebec,city / area,4
-108,1,null,1900-01-01 01:20:42,"Montréal, Canada",Montréal; Quebec,city / area,4
+107,1,null,1900-01-01 01:20:40,"Montreal, Canada",Montréal; Quebec,city / area,4
+108,1,null,1900-01-01 01:20:42,"Montreal, Canada",Montréal; Quebec,city / area,4
 109,1,null,1900-01-01 01:21:05,"l'université Nationale du Rwanda, Butare, Rwanda",l'université national du Rwanda; Butare; Rwanda,very local,2
 110,1,null,1900-01-01 01:21:20,"Citizenship and Immigration Canada, Montreal, Canada",Citizenship and Immigration Canada; Montreal; Canada,very local,2
 111,1,null,1900-01-01 01:21:30,"Consulat général du Canada à New York, NYC, USA",Consulat général du Canada à New York; NY; US,very local,2
@@ -124,7 +124,7 @@ id,session_num,time_clip,time,place,place_raw,scale,scale_order
 123,1,null,1900-01-01 01:30:00,Rwanda,Rwanda,country,6
 124,1,null,1900-01-01 01:31:50,Rwanda,Rwanda,country,6
 125,1,null,1900-01-01 01:32:25,"Trois-Rivières, Canada",Trois-Rivières; Quebec,city / area,4
-126,1,null,1900-01-01 01:33:00,"Montréal, Canada",Montréal; Quebec,city / area,4
+126,1,null,1900-01-01 01:33:00,"Montreal, Canada",Montréal; Quebec,city / area,4
 127,1,null,1900-01-01 01:33:25,USA,États-Unis,country,6
 128,1,null,1900-01-01 01:33:30,"NYC, USA",New York; NY; US,city / area,4
 129,1,null,1900-01-01 01:33:45,Rwanda,Rwanda,country,6
@@ -146,9 +146,9 @@ id,session_num,time_clip,time,place,place_raw,scale,scale_order
 145,1,null,1900-01-01 01:52:25,Angola,Angola,country,6
 146,1,null,1900-01-01 01:52:30,Senegal,Sénégal,country,6
 147,1,null,1900-01-01 01:54:45,"Trois-Rivières, Canada",Trois-Rivières; Quebec,city / area,4
-148,1,null,1900-01-01 01:55:00,"Montréal, Canada",Montréal; Quebec,city / area,4
-149,1,null,1900-01-01 01:55:10,"Montréal, Canada",Montréal; Quebec,city / area,4
-150,1,null,1900-01-01 01:58:00,"Montréal, Canada",Montréal; Quebec,city / area,4
+148,1,null,1900-01-01 01:55:00,"Montreal, Canada",Montréal; Quebec,city / area,4
+149,1,null,1900-01-01 01:55:10,"Montreal, Canada",Montréal; Quebec,city / area,4
+150,1,null,1900-01-01 01:58:00,"Montreal, Canada",Montréal; Quebec,city / area,4
 151,1,null,1900-01-01 02:04:40,Rwanda,Rwanda,country,6
 152,1,null,1900-01-01 02:04:50,Rwanda,Rwanda,country,6
 153,1,null,1900-01-01 02:04:52,Rwanda,Rwanda,country,6
@@ -202,7 +202,7 @@ id,session_num,time_clip,time,place,place_raw,scale,scale_order
 201,1,null,1900-01-01 02:29:00,Rwanda,Rwanda,country,6
 202,1,null,1900-01-01 02:29:20,"Kigali, Rwanda",Kigali; Rwanda,city / area,4
 203,1,null,1900-01-01 02:29:30,"Kigali, Rwanda",Kigali; Rwanda,city / area,4
-204,1,null,1900-01-01 02:30:30,"Montréal, Canada",Montréal; Quebec,city / area,4
+204,1,null,1900-01-01 02:30:30,"Montreal, Canada",Montréal; Quebec,city / area,4
 205,1,null,1900-01-01 02:35:50,Rwanda,Rwanda,country,6
 206,1,null,1900-01-01 02:36:30,Rwanda,Rwanda,country,6
 207,1,null,1900-01-01 02:36:45,Rwanda,Rwanda,country,6
@@ -212,5 +212,5 @@ id,session_num,time_clip,time,place,place_raw,scale,scale_order
 211,1,null,1900-01-01 02:44:55,Rwanda,Rwanda,country,6
 212,1,null,1900-01-01 02:45:25,Rwanda,Rwanda,country,6
 213,1,null,1900-01-01 02:47:30,Rwanda,Rwanda,country,6
-214,1,null,1900-01-01 02:49:10,"Montréal, Canada",Montréal; Quebec,city / area,4
-215,1,null,1900-01-01 02:49:20,"Montréal, Canada",Montréal; Quebec,city / area,4
+214,1,null,1900-01-01 02:49:10,"Montreal, Canada",Montréal; Quebec,city / area,4
+215,1,null,1900-01-01 02:49:20,"Montreal, Canada",Montréal; Quebec,city / area,4

@@ -105,8 +105,8 @@ id,Session #,time_clip,Time mentioned (h:mm:ss),Atlascine-location,Location,Scal
 104,1,,1:20:05,"l'ACDI, Ottawa, Canada",l'ACDI; Ottawa; Canada,very local
 105,1,,1:20:35,Canada,Canada,country
 106,1,,1:20:36,"NYC, USA",New York; NY; US,city / area
-107,1,,1:20:40,"Montréal, Canada",Montréal; Quebec,city / area
-108,1,,1:20:42,"Montréal, Canada",Montréal; Quebec,city / area
+107,1,,1:20:40,"Montreal, Canada",Montréal; Quebec,city / area
+108,1,,1:20:42,"Montreal, Canada",Montréal; Quebec,city / area
 109,1,,1:21:05,"l'université Nationale du Rwanda, Butare, Rwanda",l'université national du Rwanda; Butare; Rwanda,very local
 110,1,,1:21:20,"Citizenship and Immigration Canada, Montreal, Canada",Citizenship and Immigration Canada; Montreal; Canada,very local
 111,1,,1:21:30,"Consulat général du Canada à New York, NYC, USA",Consulat général du Canada à New York; NY; US,very local
@@ -124,7 +124,7 @@ id,Session #,time_clip,Time mentioned (h:mm:ss),Atlascine-location,Location,Scal
 123,1,,1:30:00,Rwanda,Rwanda,country
 124,1,,1:31:50,Rwanda,Rwanda,country
 125,1,,1:32:25,"Trois-Rivières, Canada",Trois-Rivières; Quebec,city / area
-126,1,,1:33:00,"Montréal, Canada",Montréal; Quebec,city / area
+126,1,,1:33:00,"Montreal, Canada",Montréal; Quebec,city / area
 127,1,,1:33:25,USA,États-Unis,country
 128,1,,1:33:30,"NYC, USA",New York; NY; US,city / area
 129,1,,1:33:45,Rwanda,Rwanda,country
@@ -146,9 +146,9 @@ id,Session #,time_clip,Time mentioned (h:mm:ss),Atlascine-location,Location,Scal
 145,1,,1:52:25,Angola,Angola,country
 146,1,,1:52:30,Senegal,Sénégal,country
 147,1,,1:54:45,"Trois-Rivières, Canada",Trois-Rivières; Quebec,city / area
-148,1,,1:55:00,"Montréal, Canada",Montréal; Quebec,city / area
-149,1,,1:55:10,"Montréal, Canada",Montréal; Quebec,city / area
-150,1,,1:58:00,"Montréal, Canada",Montréal; Quebec,city / area
+148,1,,1:55:00,"Montreal, Canada",Montréal; Quebec,city / area
+149,1,,1:55:10,"Montreal, Canada",Montréal; Quebec,city / area
+150,1,,1:58:00,"Montreal, Canada",Montréal; Quebec,city / area
 151,1,,2:04:40,Rwanda,Rwanda,country
 152,1,,2:04:50,Rwanda,Rwanda,country
 153,1,,2:04:52,Rwanda,Rwanda,country
@@ -202,7 +202,7 @@ id,Session #,time_clip,Time mentioned (h:mm:ss),Atlascine-location,Location,Scal
 201,1,,2:29:00,Rwanda,Rwanda,country
 202,1,,2:29:20,"Kigali, Rwanda",Kigali; Rwanda,city / area
 203,1,,2:29:30,"Kigali, Rwanda",Kigali; Rwanda,city / area
-204,1,,2:30:30,"Montréal, Canada",Montréal; Quebec,city / area
+204,1,,2:30:30,"Montreal, Canada",Montréal; Quebec,city / area
 205,1,,2:35:50,Rwanda,Rwanda,country
 206,1,,2:36:30,Rwanda,Rwanda,country
 207,1,,2:36:45,Rwanda,Rwanda,country
@@ -212,5 +212,5 @@ id,Session #,time_clip,Time mentioned (h:mm:ss),Atlascine-location,Location,Scal
 211,1,,2:44:55,Rwanda,Rwanda,country
 212,1,,2:45:25,Rwanda,Rwanda,country
 213,1,,2:47:30,Rwanda,Rwanda,country
-214,1,,2:49:10,"Montréal, Canada",Montréal; Quebec,city / area
-215,1,,2:49:20,"Montréal, Canada",Montréal; Quebec,city / area
+214,1,,2:49:10,"Montreal, Canada",Montréal; Quebec,city / area
+215,1,,2:49:20,"Montreal, Canada",Montréal; Quebec,city / area

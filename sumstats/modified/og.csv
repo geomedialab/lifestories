@@ -1,0 +1,35 @@
+,value ,value ,value ,value ,value ,value ,notes
+0.0 storyteller,og,og,og,og,og,og,
+0.1 scale,all,2,3,4,5,6,
+1.1 NUMBER OF su,139,0,20,39,2,57,
+1.2 MEAN NUMBER OF MENTIONS within su,3.553956835,,2.35,5.179487179,5.5,3.210526316,
+1.3 MEAN LENGTH of su (minutes),2.236930456,,2.6275,2.521367521,4.25,2.311111111,
+2.1 NUMBER OF ssu,122,0,20,39,2,57,
+2.2 MEAN NUMBER OF MENTIONS within ssu,3.918032787,,2.35,5.179487179,5.5,3.210526316,
+2.3 MEAN LENGTH of ssu (minutes),2.454371585,,2.6275,2.521367521,4.25,2.311111111,
+3.1 NUMBER OF ssu WITHOUT ANY mentions,26,0,10,3,0,13,
+3.2 MEAN NUMBER OF MENTIONS within ssu WITHOUT ANY mentions,0,,0,0,,0,
+3.3 MEAN LENGTH of ssu WITHOUT ANY mentions (minutes),1.36025641,,1.806666667,1.666666667,,0.946153846,
+4.1 NUMBER OF ssu WITHOUT ANY SAME mentions,60,0,15,14,2,25,
+4.2 MEAN NUMBER OF MENTIONS within ssu WITHOUT ANY SAME mentions,2.566666667,,0.8,3.642857143,5.5,1.8,
+4.3 MEAN LENGTH of ssu WITHOUT ANY SAME mentions (minutes),2.030277778,,2.034444444,2.25,4.25,1.719333333,
+5.1 NUMBER OF ssu with ONLY SAME mentions,17,0,1,3,0,13,a far greater proportion of SSU's contain only the same mentions
+5.2 MEAN NUMBER OF mentions within ssu with ONLY SAME mentions,1.235294118,,1,1,,1.307692308,"For SSUs in which there were only mentions of the same place, there are more same mentions, on average, for SSU's in countries than at other scales"
+5.3 MEAN LENGTH of ssu with ONLY SAME mentions (minutes),2.114705882,,0.933333333,1.277777778,,2.398717949,the mean duration of SSUs  only containing same mentions is longer for those located at the country scale
+6.1 NUMBER OF ssu with AT LEAST 1 SAME mention and AT LEAST 1 other mention,45,0,4,22,0,19,"there is a greater otherness, for SSUs at city scale than at country scale"
+6.2.1 MEAN NUMBER OF SAME mentions within ssu with AT LEAST 1 SAME mention and AT LEAST 1 other mention,2.222222222,,1,2.272727273,,2.421052632,
+6.2.2 MEAN NUMBER OF OTHER mentions within ssu with AT LEAST 1 SAME mention and AT LEAST 1 other mention,4.511111111,,7.5,4.454545455,,3.947368421,
+6.3 MEAN LENGTH of ssu with AT LEAST 1 SAME mention and AT LEAST 1 other mention,3.148148148,,5.275,2.863636364,,3.029824561,
+7.1 NUMBER OF ssu with ONLY OTHER mentions,34,0,5,11,2,12,
+7.2 MEAN NUMBER OF mentions within ssu with ONLY OTHER mentions,4.529411765,,2.4,4.636363636,5.5,3.75,
+7.3 MEAN LENGTH of ssu with ONLY OTHER mentions (minutes),2.542647059,,2.49,2.409090909,4.25,2.556944444,
+,,,,,,,
+number of SSU with minimum 1 same mention,62,0,5,25,0,32,
+,0.508196721,#DIV/0!,0.25,0.641025641,0,0.561403509,
+,,,,,,,
+3.1 NUMBER OF ssu WITHOUT ANY mentions,21.31147541,#DIV/0!,50,7.692307692,0,22.80701754,
+7.1 NUMBER OF ssu with ONLY OTHER mentions,27.86885246,#DIV/0!,25,28.20512821,100,21.05263158,
+4.1 NUMBER OF ssu WITHOUT ANY SAME mentions,49.18032787,#DIV/0!,75,35.8974359,100,43.85964912,there are more country ssus that contain no same mentions than city ssus
+6.1 NUMBER OF ssu with AT LEAST 1 SAME mention and AT LEAST 1 other mention,36.8852459,#DIV/0!,20,56.41025641,0,33.33333333,
+5.1 NUMBER OF ssu with ONLY SAME mentions,13.93442623,#DIV/0!,5,7.692307692,0,22.80701754,
+,100,#DIV/0!,100,100,100,100,

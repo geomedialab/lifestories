@@ -1,0 +1,5 @@
+2=very local
+3=local
+4=city/area
+5=region
+6=country
